@@ -253,6 +253,105 @@ $$\mathbb{R}_c 	imes \prod_{p \in S} \mathbb{Q}_p^c$$
 
 
 
+
+### 2.6 The Compton/Zitterbewegung Ontology — Counts as Foundation
+
+If every physical quantity is fundamentally a ratio (§2.3), then relative to WHAT are these ratios taken? The Ratio Primacy Principle identifies the Planck-scale counterparts ($\ell_P$, $t_P$, $m_P$, $E_P$, $T_P$) as the denominators, but these denominators are themselves human-chosen reference scales. A deeper question remains: what is the FUNDAMENTAL quantity — the quantity that is not itself a ratio of anything more basic — upon which all other physical quantities can be constructed as ratios?
+
+The answer, established by the Mass-Frequency Identity v3.2.0 (DOI: 10.5281/zenodo.21360549) and explored in the Compton Frequency Cross-Ratios on Bruhat-Tits Trees paper (DOI: 10.5281/zenodo.21491767), is the **Compton frequency** — the intrinsic cycle count of a particle's Zitterbewegung oscillation:
+
+$$\tilde{\omega}_C = \tilde{m}$$
+
+In Planck units, particle mass IS Compton frequency — a pure COUNT of Zitterbewegung cycles per unit Planck time. This is not a unit convention; it is an ontological identification. Mass is not a separate physical quantity that happens to be interchangeable with frequency in certain unit systems — mass IS frequency, and frequency IS a count of cycles. The "mass" of the electron is the number of times its Zitterbewegung completes a full oscillation in a Planck-time interval.
+
+#### 2.6.1 Physical Quantities as Ratios of Compton Counts
+
+Given the Compton count $\tilde{\omega}_C$ as fundamental, all other physical quantities are ratios of these counts:
+
+| Quantity | Dimensions | Expression in Compton Counts | Is it Fundamental? |
+|:---------|:-----------|:----------------------------|:-------------------|
+| **Compton count** $\tilde{\omega}_C$ | $[\tilde{T}^{-1}]$ | $\tilde{m}$ itself | ✅ **YES** — the fundamental count |
+| Wavelength | $[\tilde{L}]$ | $\tilde{\lambda}_C = 2\pi / \tilde{\omega}_C$ | ❌ Derivative — inverse count |
+| Period | $[\tilde{T}]$ | $\tilde{\tau}_C = 2\pi / \tilde{\omega}_C$ | ❌ Derivative — inverse count |
+| Energy | $[\tilde{E}]$ | $\tilde{E} = \tilde{\omega}_C$ | ❌ Derivative — equals the count |
+| Mass | $[\tilde{M}]$ | $\tilde{m} = \tilde{\omega}_C$ | ❌ Derivative — IS the count |
+| Action | dimensionless | $1/\tilde{\omega}_C$ | ❌ Derivative — reciprocal count |
+| Distance (Bohr radius) | $[\tilde{L}]$ | $\tilde{a}_0 = 1/(\alpha \tilde{\omega}_C)$ | ❌ Derivative — count × coupling |
+
+The Compton count $\tilde{\omega}_C$ is the ONLY physical quantity that is not a ratio of anything more basic. Every other quantity in the ODR inventory — wavelength, period, energy, mass, action, distance — is a rational function of Compton counts and dimensionless coupling constants (like $\alpha$). This is the **Compton-counting ontology**: physics reduces to counting cycles.
+
+#### 2.6.2 Compton Counts Are Natural Numbers — Physics Is Rational
+
+A particle's Compton count $\tilde{\omega}_C = \tilde{m}$ is a NATURAL NUMBER (or more precisely, a rational number — the ratio of the particle's Compton frequency to the Planck frequency). The ratio of two Compton counts is therefore a rational number:
+
+$$\frac{\tilde{\omega}_{C1}}{\tilde{\omega}_{C2}} = \frac{\tilde{m}_1}{\tilde{m}_2} \in \mathbb{Q}$$
+
+This is a profound consequence: **all physical quantities, when expressed as ratios of Compton counts, are rational numbers.** The real numbers $\mathbb{R}$ enter physics only through two Archimedean completions:
+
+1. **The Planck-scale denominator:** $\tilde{\omega}_C = \omega_C / \omega_P$, where $\omega_P = E_P/\hbar$ is the human-chosen unit. The value $\tilde{\omega}_C$ is computable but its decimal expansion in $\mathbb{R}$ is an Archimedean artifact — it is NOT the ontological object. The ontological object is the RATIO $\omega_C/\omega_P$, which is a rational number (or at worst, a computable real with a rational definition).
+
+2. **Transcendental coupling constants:** $\alpha$, $\pi$, and similar numbers appear in physical formulas as limits of computable sequences, but the RATIOS they multiply (e.g., $\tilde{a}_0 / \tilde{\lambda}_C$) are rational functions of Compton counts. Per the v1.6 red-team finding (π ∉ ℚ₂), transcendental constants do not carry p-adic meaning — only the ratios they multiply, which are rational, do.
+
+The physical number system, at its most fundamental, is **the rational numbers ℚ extended by computable limits** — not the full Archimedean continuum $\mathbb{R}$. The Compton/Zitterbewegung ontology is thus identical to the completed ratio program: every physical quantity is a rational expression of Compton counts, and the real numbers are a convenient Archimedean projection, not the fundamental substrate.
+
+#### 2.6.3 Prime Factorization and the p-adic Structure of Masses
+
+Since Compton counts are rational numbers, they have prime factorizations. The 2-adic valuation $v_2(\tilde{\omega}_C)$ counts how many factors of 2 the Compton count contains — which corresponds to the depth of the particle's representation on the 2-adic Bruhat-Tits tree (§2.4, Bridge C₂). Similarly, $v_3(\tilde{\omega}_C)$ and $v_5(\tilde{\omega}_C)$ determine the 3-adic and 5-adic structure. The Compton-counting ontology thus UNIFIES the Ratio Primacy Principle (§2.3), the Completion Lattice (§2.4), and the Breadth Trap (§2.5.1) into a single framework:
+
+- **Ratio Primacy:** Compton counts are the fundamental numerators; Planck-scale counterparts are the denominators.
+- **Completion Lattice:** The prime factorization of each Compton count determines its representation on each p-adic Bruhat-Tits tree.
+- **Breadth Trap:** The real-number values of Compton counts are Archimedean projections; the ontological object is the rational count itself (or its computable approximation).
+
+`[speculative — the Compton-counting ontology is proposed here as a synthesis of prior QNFO work; future experiments discriminating Compton-count-based predictions from continuum-based ones would confirm or disconfirm]`
+
+
+
+### 2.7 Beyond Trigonometric Coordinates — Cross-Ratios and Bruhat-Tits Trees
+
+Every physics formula that involves trigonometric functions ($\sin$, $\cos$, $\tan$), angular coordinates ($\theta$, $\phi$), or Cartesian axes ($x$, $y$, $z$) makes an implicit assumption: that space is a flat Euclidean manifold described by Archimedean coordinates. In the p-adic completions of ℚ — where the metric is ultrametric ($|x - z|_p \leq \max(|x - y|_p, |y - z|_p)$) and the topology is totally disconnected — trigonometric functions are undefined. They are Archimedean-only constructions, just as base-10 decimals are.
+
+#### 2.7.1 Cross-Ratios Are the Place-Democratic Invariants
+
+The correct generalization is the **cross-ratio** — the projective invariant:
+
+$$\chi(z_1, z_2, z_3, z_4) = \frac{(z_1 - z_3)(z_2 - z_4)}{(z_1 - z_4)(z_2 - z_3)}$$
+
+Cross-ratios have three critical properties that trigonometric functions lack:
+
+1. **Dimensionless:** A cross-ratio is a ratio of ratios — inherently dimensionless, no coordinates needed.
+2. **Place-democratic:** $\chi$ is defined entirely in terms of the field operations (addition, subtraction, multiplication, division), which are well-defined at EVERY completion of ℚ. Unlike $\sin(\theta)$, which requires the Archimedean limit of a power series, $\chi$ is a rational function — defined at all places simultaneously.
+3. **Projectively invariant:** $\chi$ is invariant under Möbius transformations $z \mapsto (az + b)/(cz + d)$, making it independent of the choice of coordinate system. This is the mathematical formalization of "stripping out Anthropocentric measurement": the cross-ratio survives any change of coordinates.
+
+Every dimensionless quantity in the ODR inventory is, at its core, a cross-ratio. The fine-structure constant $\alpha = r_e / \bar{\lambda}_C$ is a cross-ratio of four classical points ($r_e$, $\bar{\lambda}_C$, $0$, $\infty$). The Bohr-Compton ratio $\tilde{a}_0/\tilde{\lambda}_C = 1/(2\pi\alpha)$ is a cross-ratio. The mass ratios $\tilde{m}_\mu / \tilde{m}_e$, $v_p(\tilde{m}_\mu / \tilde{m}_e)$ that define the p-adic structure of the Standard Model are cross-ratios evaluated at specific completions.
+
+#### 2.7.2 The Bruhat-Tits Tree as the Natural Coordinate System
+
+In the Archimedean completion, space is $\mathbb{R}^3$ — a three-dimensional continuum with Cartesian coordinates $(x, y, z)$. The natural coordinate system for non-Archimedean (p-adic) completions is the **Bruhat-Tits tree** — a regular $(p+1)$-valent tree whose vertices represent p-adic balls and whose edges represent containment relations.
+
+The Bruhat-Tits tree has properties that make it LEANER than Cartesian coordinates:
+
+1. **No axes:** The tree has no preferred directions — no $x$, $y$, $z$ axes to privilege any orientation. Vertices are labeled by their p-adic valuations (relative to a chosen origin), which are combinatorial, not geometric.
+
+2. **Ultrametric:** The tree distance is ultrametric: all triangles are isosceles with the two equal sides at least as long as the third. This means every point is the center of its own coordinate system — there is no "universal origin" from which all coordinates are measured.
+
+3. **Combinatorial, not continuous:** The tree has countably many vertices (one for each p-adic ball) and edges connecting them. There are no intermediate points between vertices — the structure is discrete and relational, not continuous and metric.
+
+4. **Cross-ratios on the tree:** The cross-ratio $\chi$ can be evaluated on any four vertices of the Bruhat-Tits tree, yielding a p-adic valuation. This is the natural "coordinate" for the tree — no need for Cartesian axes.
+
+The Bruhat-Tits tree is thus the **non-Anthropocentric coordinate system**: it does not assume a particular origin, orientation, or scale; it is purely relational (vertices connected by containments); and it works at EVERY completion of ℚ (with valence $p+1$ for ℚ_p, and the continuous tree for ℝ).
+
+#### 2.7.3 Trigonometric Functions as Archimedean Projections
+
+Trigonometric functions $\sin(\theta)$, $\cos(\theta)$, $\tan(\theta)$ are defined via the unit circle in a Euclidean plane — they assume (1) a flat Archimedean metric, (2) Cartesian coordinates, (3) an angular parameter $\theta$ that ranges continuously over $[0, 2\pi]$, and (4) the transcendental number $\pi$ as a geometric constant. None of these assumptions are place-democratic:
+
+- $\sin(\theta)$ is defined as the power series $\sum (-1)^n \theta^{2n+1}/(2n+1)!$ — this series converges in $\mathbb{R}$ (Archimedean) but its terms grow in p-adic norm, so convergence is p-adically meaningless.
+- The angle $\theta$ is a real-valued parameter — in the p-adic world, an "angle" between p-adic vectors is not a single number but a valuation.
+- $\pi = 3.14159...$ is a transcendental number — it has no p-adic counterpart (v1.6 red-team finding).
+
+The ODR program thus goes beyond replacing dimensional constants with dimensionless ratios — it replaces **trigonometric coordinates with cross-ratios** and **Cartesian axes with Bruhat-Tits trees**. This is the mathematical formalization of "stripping out all Anthropocentric measurement": the cross-ratio is a measurement of position — at ALL completions simultaneously — without any coordinate system at all.
+
+
+
 ## 3 Systematic Reformulation
 
 We present selected reformulations organized by discipline. The complete inventory of 53 formulas is available in the supplementary artifact `artifacts/formula-inventory.md`.
