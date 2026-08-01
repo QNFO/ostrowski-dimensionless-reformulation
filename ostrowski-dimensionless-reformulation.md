@@ -82,6 +82,65 @@ In contrast, a dimensionless equation containing only pure numbers can be evalua
 **Corollary:** No physical content is lost in the reformulation. The dimensional constants are carriers of unit-scale information, not of physical law. Their specific numerical values reflect the meter-kilogram-second-kelvin convention, not properties of nature.
 
 
+
+
+### 2.3 The Ratio Primacy Principle
+
+ALL physical quantities are fundamentally RATIOS, not real numbers. The real-number values assigned to physical constants -- ℏ ≈ 1.054571817 × 10⁻³⁴ J·s, c ≈ 2.998 × 10⁸ m/s, G ≈ 6.674 × 10⁻¹¹ m³/(kg·s²), k_B ≈ 1.381 × 10⁻²³ J/K -- are Archimedean projections of ratios that exist independently of any completion.
+
+#### 2.3.1 Physical Constants as Ratios
+
+| Quantity | "Constant" (ℝ-value) | Ratio (Invariant) | Ratio Definition |
+|:---------|:---------------------|:-------------------|:------------------|
+| ℏ | 1.054571817 × 10⁻³⁴ J·s | E/ω | Action per angular frequency |
+| c | 2.99792458 × 10⁸ m/s | Δx/Δt | Spacetime interval ratio |
+| G | 6.67430 × 10⁻¹¹ m³/(kg·s²) | ℓ_P²/(m_P t_P²) | Planck-area per Planck-inertia |
+| k_B | 1.380649 × 10⁻²³ J/K | S/ln Ω | Entropy per information-content |
+| π | 3.141592653589793... | C/d | Circumference-to-diameter |
+| α | (137.036)⁻¹ | r_e/λ̄_C | Classical-to-Compton radius |
+| m̃_e | 4.185 × 10⁻²³ (Planck units) | m_e/m_P | Electron-to-Planck mass |
+
+The "constant" column shows the Archimedean projection -- the specific real number assigned to each ratio by the meter-kilogram-second-kelvin convention. The "ratio" column shows the invariant that exists at EVERY place. Note that with the v1.7 correction (§2.5), the α entry must be read as the deep-IR projection α(Q̃→0) of the running ratio α(Q̃²) = r_e(Q̃)/λ̄_C(Q̃).
+
+#### 2.3.2 π as the Paradigmatic Ratio
+
+π = 3.14159... is the Archimedean limit of the ratio C/d -- the circumference divided by the diameter. The ratio C/d is invariant under similarity transformations in Euclidean geometry. The decimal expansion 3.14159... is the value of this ratio in the Archimedean completion ℝ. It is a BASE-10 quantity: per the red-team directive, a decimal representation is only one completion's projection, not the invariant itself.
+
+Per the Scaffolds and Invariants paper (DOI: 10.5281/zenodo.21255344, published 2026-07-08), π is fundamentally a geometric proportion -- the ratio of circumference to diameter -- not a numerical constant. The decimal expansion π_∞ = 3.141592653589793... is an Archimedean artifact; the ratio C/d is invariant under completions. The same applies to the p-adic situation: π ∉ ℚ_p (transcendental), so π_∞ is not the value of any p-adic π_p; the ratio C/d is what transfers, evaluated via local field geometry and Haar measure per the Non-Anthropocentric Natural Units precedent (DOI: 10.5281/zenodo.21480756).
+
+#### 2.3.3 α as the Cross-Ratio
+
+The Fine-Structure Constant as a Cross-Ratio paper (DOI: 10.5281/zenodo.20108536) interprets α as r_e/λ̄_C where r_e = e²/(4πε₀ m_e c²) is the classical electron radius and λ̄_C = ℏ/(m_e c) is the reduced Compton wavelength. This is a projective-geometric invariant:
+
+α = (r_e, ∞; λ̄_C, 0) = (r_e − λ̄_C)(∞ − 0) / (r_e − 0)(∞ − λ̄_C) = r_e / λ̄_C
+
+As a projective cross-ratio of four collinear points, α is invariant under GL(2, ℝ) transformations -- consistent with its status as a dimensionless constant. The same cross-ratio can be evaluated at any completion ℚ_p using the p-adic metric, making α a genuinely place-democratic constant. With the v1.7 running-coupling correction, the cross-ratio is a function of scale: α(Q̃²) = r_e(Q̃)/λ̄_C(Q̃), and the value 1/137.036 is its deep-IR projection.
+
+#### 2.3.4 ODR Reformulation as Ratio Extraction
+
+Every one of the 53 dimensionless reformulations in §3 expresses a physical quantity as a RATIO to its Planck-scale counterpart:
+- Lengths: ℓ̃ = ℓ / ℓ_P -- ratio of system size to Planck length
+- Times: t̃ = t / t_P -- ratio of evolution time to Planck time
+- Masses: m̃ = m / m_P -- ratio of system mass to Planck mass
+- Energies: Ẽ = E / E_P -- ratio of system energy to Planck energy
+- Temperatures: T̃ = T / T_P -- ratio of system temperature to Planck temperature
+
+The ODR is thus not a reformulation in the sense of "rewriting" physics -- it is a RATIO EXTRACTION: removing the Archimedean projections (ℏ, c, G, k_B) to expose the underlying pure-number ratios that are the actual physical invariants.
+
+#### 2.3.5 Cross-Ratios in p-adic Physics
+
+The Compton Frequency Cross-Ratios on Bruhat-Tits Trees paper (DOI: 10.5281/zenodo.21491767) applies projective cross-ratios to particle masses, evaluating them on the p-adic Bruhat-Tits tree. For a quadruple of Compton frequencies (ω̃_C1, ω̃_C2, ω̃_C3, ω̃_C4), the cross-ratio:
+
+χ(ω̃_C1, ω̃_C2, ω̃_C3, ω̃_C4) = (ω̃_C1 − ω̃_C3)(ω̃_C2 − ω̃_C4) / (ω̃_C1 − ω̃_C4)(ω̃_C2 − ω̃_C3)
+
+is invariant under Möbius transformations and well-defined at every place. The p-adic valuation v_p(χ) encodes the p-adic structure of the Standard Model mass spectrum. With the v1.6 red-team fix, these valuations are computed on RATIOS of rational quantities (e.g. mass ratios m̃_i/m̃_j ∈ ℚ), never on transcendental quantities like π.
+
+#### 2.3.6 Ratio Preservation Across Completions
+
+A key insight from the Non-Anthropocentric Natural Units paper (DOI: 10.5281/zenodo.21480756) is that when porting π to non-Archimedean completions, one must define it via the SAME RATIO (circumference/diameter) using local field geometry and boundary Haar measure -- not by analytically extending the real decimal expansion. The same principle applies to ALL physical constants: ℏ is E/ω, c is Δx/Δt, G is the coupling in the Newtonian force law, and k_B is S/ln Ω. These ratios are well-defined at every place. Their real-number values are Archimedean projections.
+
+
+
 ### 2.4 The Completion Lattice and Cross-Formula Bridges
 
 Ostrowski's theorem classifies EVERY completion of ℚ — the Archimedean (∞) and all p-adic (ℚ_p) — but the theorem says nothing about which completions are PHYSICALLY realized. The QNFO Adelic Physics Program hypothesizes that physics operates over ALL completions simultaneously, with the adele ring 𝔸_ℚ = ℝ × ∏'_p ℚ_p as the natural domain `[speculative — see Non-Anthropocentric Natural Units, DOI: 10.5281/zenodo.21480756]`. This section enumerates the completions, maps their physical correspondences, and constructs cross-formula bridges that demonstrate how dimensionless reformulations at one place reveal relationships invisible at another.
