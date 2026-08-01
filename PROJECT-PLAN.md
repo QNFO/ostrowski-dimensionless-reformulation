@@ -195,3 +195,31 @@ For each formula in the inventory:
 
 ### Overall Verdict
 **DEGRADED (1 HARD outstanding)** — Project is publication-ready at the content level (paper, PDF, inventory, rationales, due diligence, literature review all complete and verified). The single HARD issue (no GitHub remote) is a distribution blocker, not a content defect. Resolve by pushing to GitHub and running Phase 8 Core Distribution.
+
+---
+
+## §9 ODR v2.0 Major Refactor (2026-08-02)
+
+### Milestone: v2.0 Published
+- **Zenodo:** `10.5281/zenodo.21751722` (concept `10.5281/zenodo.21749884`, 5 versions: v1.0/v1.2/v1.5/v1.8/v2.0)
+- **GitHub:** 12 tags (`v0.1-phase0` → `v2.0-zenodo`), 20+ commits
+- **PDF:** 24 pages, 0 U+FFFD/FFFF rendering errors, mojibake PASS
+- **D1/KG/R2:** All live at v2.0
+
+### Refactor Achievements
+1. **Restored missing content:** §3.8 Systems of Dimensionless Equations (Quantum Triad, Mass-Frequency Web, Thermo-Gravity Bridge, Information-Entropy Web) + §3.9 Cross-Domain Bridges (B1–B8) were absent from the final file (v1.3 content never landed) — fully reconstructed with verified derivations.
+2. **Red-team catch:** London penetration depth formula in the v1.0 inventory was missing 4π — corrected to λ̃_L = √(m̃/(4παñ_s)) so λ̃_L·ω̃_p = 1 exactly (matches SI identity λ_L·ω_p = c).
+3. **LaTeX fixes:** `\tilde{\Box}` → `\square`; Unicode inside `\text{}` → `\mathrm{}` with LaTeX accents — resolved xdvipdfmx `map_char_to_glyph` fatal error.
+4. **6 Self-Checks compliance:** All formulas satisfy qnfo-core §0.7.1 mandate (dimensionless, rational-system-explicit, non-computable-free, ratio-traced, running-aware, completion-agnostic).
+
+### Final Paper State
+- **Size:** 65,682 chars
+- **Structure:** 8 top-level sections, 20 references, all 25 sub-sections present
+- **Key content:** Ratio Primacy (§2.3), Completion Lattice (§2.4), Running Couplings + Breadth Trap (§2.5), 53 formulas (§3.1–3.7), 4 systems (§3.8), 8 bridges (§3.9)
+
+### Red-Team Verdict (3-pass, 2026-08-02)
+- **Pass 1 — Math:** 12/12 reconstructed sections verified
+- **Pass 2 — Mojibake:** 43 files swept, 0 hits (ALL CLEAN — completes pending user request)
+- **Pass 3 — Distribution:** 12 tags, clean tree, 25/25 sections, B7 fix confirmed
+- **Overall: PASS — 0 HARD, 0 SOFT**
+
