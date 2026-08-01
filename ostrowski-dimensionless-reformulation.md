@@ -81,6 +81,72 @@ In contrast, a dimensionless equation containing only pure numbers can be evalua
 
 **Corollary:** No physical content is lost in the reformulation. The dimensional constants are carriers of unit-scale information, not of physical law. Their specific numerical values reflect the meter-kilogram-second-kelvin convention, not properties of nature.
 
+
+### 2.4 The Completion Lattice and Cross-Formula Bridges
+
+Ostrowski's theorem classifies EVERY completion of ℚ — the Archimedean (∞) and all p-adic (ℚ_p) — but the theorem says nothing about which completions are PHYSICALLY realized. The QNFO Adelic Physics Program hypothesizes that physics operates over ALL completions simultaneously, with the adele ring 𝔸_ℚ = ℝ × ∏'_p ℚ_p as the natural domain `[speculative — see Non-Anthropocentric Natural Units, DOI: 10.5281/zenodo.21480756]`. This section enumerates the completions, maps their physical correspondences, and constructs cross-formula bridges that demonstrate how dimensionless reformulations at one place reveal relationships invisible at another.
+
+#### 2.4.1 Ostrowski's Classification Enumerated
+
+Every completion of ℚ corresponds to a distinct physical regime:
+
+| Completion | Characteristic | Tree Valence | Physical Domain | ODR Abbreviation |
+|:-----------|:---------------|:-------------|:----------------|:-----------------|
+| ℝ (∞) | Archimedean | Continuous | Standard physics: differential equations, spacetime continuum | C_∞ |
+| ℚ_2 | p = 2 | 3-valent B-T tree | Quantum binary: spin-1/2, qubits, Majorana zero modes, Zitterbewegung | C_2 |
+| ℚ_3 | p = 3 | 4-valent B-T tree | Harmonic triads: Standard Model generations (3 families), RG harmonic isomorphism | C_3 |
+| ℚ_5 | p = 5 | 6-valent B-T tree | 5-smooth numbers: mass-ratio hierarchy, Pythagorean semigroup {2^a·3^b·5^c} | C_5 |
+| ℚ_p (all p) | p arbitrary | (p+1)-valent tree | Full adelic: simultaneous definition at all places | C_p |
+| 𝔸_ℚ (adele ring) | Product over all places | Restricted product | Place-democratic physics: ∏'_p ℚ_p × ℝ | C_𝔸 |
+
+The Bruhat-Tits tree for GL(2, ℚ_p) is a regular (p+1)-valent tree whose vertices represent ℤ_p-lattices up to scaling `[established — Serre, Trees, 1980]`. In the Adelic Cross-Domain Program (DOI: 10.5281/zenodo.21736300), particle masses correspond to specific vertices on these trees, with the p-adic valuation ord_p(m̃) determining the vertex depth. The Compton Frequency Cross-Ratios on Bruhat-Tits Trees paper (DOI: 10.5281/zenodo.21491767) pre-registered a systematic search for adelic structure in the Standard Model mass spectrum using the projective invariant χ(z_1, z_2, z_3, z_4) = (z_1 − z_3)(z_2 − z_4)/(z_1 − z_4)(z_2 − z_3) evaluated at each prime p.
+
+#### 2.4.2 Cross-Formula Bridges Across Completions
+
+**Bridge C_∞: The Archimedean Bridge.** All 53 ODR formulas evaluated as real-number ratios. This is the physics we know — Schrödinger's equation, Einstein's field equations, Planck's law — all defined on ℝ. The Archimedean bridge connects thermodynamics to gravity (T̃_H ↔ j̃*, §3.8), quantum to classical (λ̃ ↔ ã₀, §3.9), and information to entropy (I_max ↔ S̃_BH, §3.8). Within C_∞, the 8 cross-domain bridges of §3.9 operate.
+
+**Bridge C_2: The Binary-Quantum Bridge.** The 2-adic completion ℚ_2 maps quantum binary phenomena onto the 3-valent Bruhat-Tits tree. The p-adic valuation ord_2(m̃) determines the "quantum depth" of a particle: deeper in the tree = smaller mass = more quantum behavior. Key C_2 cross-formula connections:
+
+1. **Spin → B-T vertex:** The Zitterbewegung as a p-Adic Observable paper (DOI: 10.5281/zenodo.21736327) proposes that Majorana zero modes have ultrametric signatures readable at C_2 vertices. The dimensionless spin magnitude s̃ is a binary invariant: |s̃|_2 is well-defined at every tree depth.
+
+2. **Planck scale → Tree depth:** In ℚ_2, the Planck length ℓ_P = 1 sets the unit scale, and the tree extends from depth 0 (the "canopy" — macroscopic physics) downward through increasing depth (the "root system" — Planck-scale physics). A vertex at depth n encodes p-adic distances of order 2⁻ⁿ. The Compton wavelength λ̃_C = 2π/m̃ has 2-adic valuation v_2(λ̃_C) = v_2(2π) − v_2(m̃) ≈ 1 − v_2(m̃), positioning each particle at a specific tree depth.
+
+3. **Quantum error correction → Tree metric:** The ultrametric inequality |x − z|_2 ≤ max(|x − y|_2, |y − z|_2) — stronger than the triangle inequality — makes every vertex a natural cluster center. The Primitive Ultrametric Kernels paper (DOI: 10.5281/zenodo.21748009) classifies QEC constructions by their v_p^max codes, connecting the 2-adic tree structure to fault-tolerant quantum computation.
+
+**Bridge C_3: The Harmonic-Generation Bridge.** The 3-adic completion maps the three Standard Model generations onto the 4-valent B-T tree. The Harmonic Paradigm Under Ostrowski's Theorem (DOI: 10.5281/zenodo.21535017) re-evaluates the harmonic paradigm specifically through p-adic and adelic lenses. Cross-formula connections:
+
+1. **Lepton generations → C_3 automorphisms:** The three charged leptons (e, μ, τ) with Compton frequencies {ω̃_e, ω̃_μ, ω̃_τ} define a 3-adic spread. The cross-ratio χ(ω̃_e, ω̃_μ, ω̃_τ, ω̃_P) where ω̃_P = 1 (Planck frequency) is invariant under GL(2, ℚ_3) and is a dimensionless invariant characterizing the generation structure.
+
+2. **RG flow → Tree descent:** The RG-Harmonic Isomorphism (DOI: 10.5281/zenodo.21486206) connects renormalization group flow to harmonic quantum mechanics. In the 3-adic tree, RG flow toward the IR corresponds to ascending the tree (approaching the canopy), while flow toward the UV descends into the root system — providing a geometric interpretation of asymptotic freedom.
+
+**Bridge C_5: The Smooth-Number Bridge.** The 5-adic completion operationalizes the Pythagorean semigroup {2^a·3^b·5^c} of 5-smooth (Hamming) numbers `[established — standard number theory]`. The Statistical Audit of the 5-Smooth Semigroup Mass-Ratio Claim (DOI: 10.5281/zenodo.21748008) subjects mass-ratio approximations to statistical scrutiny. Cross-formula connections:
+
+1. **Mass ratios → 5-smooth approximations:** In C_5, the p-adic valuation v_5(m̃_a/m̃_b) quantifies how many factors of 5 the ratio contains. A mass ratio m̃_μ/m̃_e ≈ 207 approximates 2³·3²·5¹ = 360 (5-smooth) with a C_5 residual valuation — the residual being the 5-adic measure of how far the ratio is from a true 5-smooth number.
+
+2. **Bohr → Compton → 5-smooth:** ã₀/λ̃_C = 1/(2πα) ≈ 21.8. In the Pythagorean semigroup, the nearest 5-smooth number is 2²·5¹ = 20 or 2³·3¹ = 24. The residual from 21.8 → 20 is ~1.8 (or from 21.8 → 24 is ~2.2). The valuation structure of this residual at C_2, C_3, and C_5 encodes the approximation quality.
+
+**Bridge C_𝔸: The Adelic Formulation.** The full adele ring 𝔸_ℚ is the restricted product of all completions: an adele is a tuple (x_∞, x_2, x_3, x_5, ...) where each x_p ∈ ℚ_p and x_p ∈ ℤ_p for all but finitely many p. The ideles 𝔸_ℚ^× (invertible adeles) correspond to dimensionless physical quantities. Cross-formula bridge:
+
+1. **Adelic path integral → Product over places:** In conventional quantum field theory, the path integral ∫ 𝒟φ e^{iS[φ]} is an Archimedean (C_∞) construction. The adelic formulation replaces this with a product over all completions: Z_𝔸 = ∏'_v ∫_v 𝒟φ_v ∘ e^{iS_v[φ_v]} where ∘ denotes that the same dimensionless formula is evaluated at each valuation v using the local absolute value |·|_v. The overall physical amplitude is the product of amplitudes at all places `[speculative — see Non-Anthropocentric Natural Units, §3]`.
+
+2. **Universality of dimensionless formulas:** The key insight is that a dimensionless formula — being a relation of pure-number ratios — has the SAME algebraic form at EVERY completion. S̃_BH = A/4 is A/4 at C_∞ (real area), at C_2 (2-adic area), and at every C_p. The dimensionless reformulation thus achieves place-democracy: the formula is guaranteed to be well-defined at every place without modification.
+
+#### 2.4.3 The Adelic Extension of the Ostrowski-Tate Mandate
+
+The Ostrowski Dimensionless Mandate (qnfo-core §0.7) requires all physics formulas to use dimensionless Planck units. The TATE extension requires that these dimensionless formulas be simultaneously well-defined at EVERY completion of ℚ — both the Archimedean ℝ and all p-adic ℚ_p. `[speculative — proposed here]`
+
+**Definition (Tate-Compliant Formula):** A physics formula F(x_1, ..., x_n) = 0 is Tate-compliant if it is (a) dimensionally homogeneous in Planck units (Ostrowski-compliant), and (b) the algebraic relation among the dimensionless quantities is expressible as a rational function of ratios — i.e., F ∈ ℚ(x̃_1, ..., x̃_n) — so that F can be evaluated at every completion without analytic extension.
+
+**Rationale:** The adelic formulation requires that physical laws live on the adele ring, not on ℝ alone. A formula defined only on ℝ (e.g., one involving the Archimedean limit of a transcendental number like π_∞ = 3.14159...) cannot be transferred to ℚ_p without additional structure. But a formula defined as a ratio (e.g., C/d) transfers everywhere — the ratio is computed using local geometry and the local absolute value. Per the Scaffolds and Invariants paper (DOI: 10.5281/zenodo.21255344), π AS RATIO is place-democratic; π AS REAL NUMBER is Archimedean.
+
+**The Exact Rational Arithmetic infrastructure** (DOI: 10.5281/zenodo.20754388) provides the computational framework for evaluating Tate-compliant formulas at every place via p-adic Hensel codes — representing rational numbers as their residues modulo p^k for multiple primes simultaneously, achieving exact computation without rounding error.
+
+**Status of the adelic hypothesis:** The QNFO paper "When Will Non-Archimedean Geometry Displace the Real Numbers? A Structured Assessment of the Adelic Substrate Thesis" (DOI: 10.5281/zenodo.21747228) provides an independent assessment of the adelic substrate thesis — the claim that physics operates on the adeles rather than the reals. Per the Harmonic Paradigm Under Ostrowski's Theorem (DOI: 10.5281/zenodo.21535017), the theorem's applicability to specific physics frameworks (harmonic paradigm, Standard Model) is actively being evaluated. The Adelic Cross-Domain Program (DOI: 10.5281/zenodo.21736300) extends this to the full Standard Model mass spectrum.
+
+**Falsifiability condition:** The adelic extension would be disconfirmed if any dimensionally homogeneous physics formula, when expressed in dimensionless Planck units, takes a functional form that cannot be expressed as a rational function of ratios — i.e., if F(x̃_1, ..., x̃_n) = 0 is not a member of ℚ(x̃_1, ..., x̃_n). Such a formula would be Archimedean-privileging in a sense stronger than mere dimensional convention: its very functional form would require the analytic structure of ℝ. `[not yet falsifiable — all known physics formulas reduce to rational relations of dimensionless ratios]`
+
+
+
 ## 3 Systematic Reformulation
 
 We present selected reformulations organized by discipline. The complete inventory of 53 formulas is available in the supplementary artifact `artifacts/formula-inventory.md`.
