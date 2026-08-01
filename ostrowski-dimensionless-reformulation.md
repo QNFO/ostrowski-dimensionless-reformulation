@@ -611,3 +611,10 @@ The dimensionless program does not change the physics -- it changes what we see 
 18. Quni-Gudzinas, R. B. (2026). The Adelic Cross-Domain Program: From the Fine-Structure Constant to the Standard Model Mass Spectrum via Bruhat-Tits Trees. Zenodo. DOI: 10.5281/zenodo.21736300.
 19. Humpherys, D. (2024). Understanding the natural units and their hidden role in the laws of physics. *European Journal of Physics*. DOI: 10.1088/1361-6404/ad3122.
 20. Feldt, W. (2026). A Recursive Entropic Architecture for Cosmological Structure with Dimensional Invariance (REACS-DI): From Bohr Radius to Galaxy Filament. Cambridge University Press.
+21. Quni-Gudzinas, R. B. (2026). Mass-Frequency Identity v3.2.0. Zenodo. DOI: 10.5281/zenodo.21360549.
+22. Quni-Gudzinas, R. B. (2026). Continuum Trilogy Paper I: Computable Continuum — Depth Without Breadth. Zenodo. DOI: 10.5281/zenodo.21672990.
+23. Quni-Gudzinas, R. B. (2026). Zitterbewegung as a p-Adic Observable: Ultrametric Readout and Intrinsic Topological Protection for Majorana Qubits. Zenodo. DOI: 10.5281/zenodo.21736327.
+24. Quni-Gudzinas, R. B. (2026). Primitive Ultrametric Kernels: Valuation-Theoretic Classification of QEC Constructions. Zenodo. DOI: 10.5281/zenodo.21748009.
+25. Quni-Gudzinas, R. B. (2026). Statistical Audit of the 5-Smooth Semigroup Mass-Ratio Claim. Zenodo. DOI: 10.5281/zenodo.21748008.
+26. Quni-Gudzinas, R. B. (2026). The RG-Harmonic Isomorphism: Renormalization Group Similarities with Harmonic Quantum Mechanics. Zenodo. DOI: 10.5281/zenodo.21486206.
+27. Quni-Gudzinas, R. B. (2026). Exact Rational Arithmetic via p-adic Hensel Codes: A Computation-Ready Framework Resolving the Ostrowski Gap. Zenodo. DOI: 10.5281/zenodo.20754388.
