@@ -3,7 +3,7 @@ title: "The Ostrowski Dimensionless Reformulation: A Systematic Compilation of F
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-08-01"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: "10.5281/zenodo.21749885"
+doi: "10.5281/zenodo.21750381"
 status: "published"
 ---
 
@@ -25,6 +25,10 @@ The dimensionless solution expresses every physical quantity as a pure-number ra
 
 ### 1.2 Precedent Work
 
+Three prior QNFO publications established the dimensionless program, with a fourth providing the canonical physical interpretation of what the dimensionless convention achieves:
+
+- **Mass-Frequency Identity v3.2.0** (DOI: 10.5281/zenodo.21360549, 2026-07-14): the identity m = omega emerges directly from setting hbar = c = 1 (since m = E/c^2 and E = hbar omega, so m_tilde = omega_tilde in Planck units). This paper provides the physical interpretation of what ODR achieves for 53 formulas — the mass-frequency identity is the canonical example of the dimensionless program's claim that dimensional constants conceal pure-number relationships. `[established]`
+
 Two prior QNFO publications established the dimensionless program:
 
 - **Non-Anthropocentric Natural Units** (DOI: 10.5281/zenodo.21480756) reformulated the Bekenstein-Hawking entropy bound without anthropocentric units, introducing the dimensionless horizon area and Ostrowski's theorem as a challenge to the Archimedean assumption. `[established]`
@@ -32,6 +36,8 @@ Two prior QNFO publications established the dimensionless program:
 - **OC Paper v1.2** (DOI: 10.5281/zenodo.21748773) reformulated the Bekenstein bound in dimensionless Planck units: S ≤ 2π k_B R E/(ℏc) $\rightarrow$ I ≤ 2π R E/ln 2. **OC Paper v1.3** (DOI: 10.5281/zenodo.21749177) reformulated Landauer's principle presenting both conventional dimensional form (E ≥ k_B T ln 2) and dimensionless Planck-unit form (E ≥ T ln 2) with explicit Ostrowski rationale. `[established]`
 
 This paper extends the program to a systematic survey across ten physical disciplines.
+
+**Relationship to the Dimensionless Physics Framework (v1.3.1, DOI: 10.5281/zenodo.21206291, 2026-07-05):** A parallel QNFO project, "Dimensionless Physics: A Unified Framework," addresses the same core problem from a complementary perspective. Where the Dimensionless Physics Framework provides a unified conceptual architecture, ODR provides the systematic formula-level inventory — the detailed algebraic derivations that operationalize the framework's principles for 53 specific equations. The two projects are mutually reinforcing: the Framework supplies the conceptual scaffolding; ODR supplies the formula-specific evidence base. `[established]`
 
 ### 1.3 Scope and Classification
 
@@ -60,6 +66,8 @@ The ten disciplines surveyed are: Quantum Mechanics, Thermodynamics & Statistica
 A physical formula containing dimensional constants can be evaluated only at |·|_$\infty$. The specific numerical value of ℏ, for instance, is a real number. In a p-adic completion, the real number 1.054571817... × 10⁻³⁴ has no well-defined meaning because p-adic numbers arise from a different metric: |p^n · a/b|_p = p⁻ⁿ for $p \nmid a, b$. The conversion factor between SI units and Planck units -- the numerical value of ℏ -- is an Archimedean artifact.
 
 In contrast, a dimensionless equation containing only pure numbers can be evaluated at any place. The equation $\tilde{S}$_BH = A/4 (Bekenstein-Hawking) is a relation among pure numbers: if A is a pure number (area in Planck units), then $\tilde{S}$_BH is equally A/4 regardless of whether one computes |A|_$\infty$ or |A|_p. The formula is place-democratic.
+
+**The special case of pi:** The paradigmatic dimensionless number -- the circumference-to-diameter ratio -- illustrates the same principle. pi as the real number 3.14159... exists only at the Archimedean place; its decimal expansion has no p-adic meaning. But pi AS A RATIO (C/d) is definable in any geometry, and this ratio is the place-democratic invariant per the Scaffolds and Invariants paper (DOI: 10.5281/zenodo.21255344). The parallel to physical constants is exact: hbar as the specific number 1.054571817... x 10^{-34} is an Archimedean artifact; hbar as the quantization ratio relating energy to frequency is the place-democratic invariant that survives in any completion.
 
 ### 2.2 The Dimensional-Dimensionless Correspondence Theorem
 
@@ -167,9 +175,11 @@ The von Klitzing constant, which in SI appears as a specific resistance (≈ 25.
 
 Several of the most important physical constants are already dimensionless and require no reformulation. These include:
 
-- **Fine-structure constant:** α = e²/(4πε₀ℏc) ≈ 1/137.036. The primary dimensionless coupling of electromagnetism. `[established]`
+- **Fine-structure constant:** α = e²/(4πε₀ℏc) ≈ 1/137.036. The primary dimensionless coupling of electromagnetism. Cross-references: the Fine-Structure Constant as a Cross-Ratio paper (DOI: 10.5281/zenodo.20108536) interprets α = r_e/λ_C as a projective-geometric invariant; the Alpha-Pi-Helix paper v2.1 (DOI: 10.5281/zenodo.21515612) treats π and α as geometric proportions (C/d and r_e/λ_C) with genuine pedagogical value at v1.1. `[established]`
 - **Weinberg angle:** sin²θ_W ≈ 0.23. Already a dimensionless ratio. `[established]`
 - **Holevo bound:** χ = S(ρ) - Σ p_i S(ρ_i). A dimensionless information-theoretic limit. `[established]`
+
+**Ostrowski-evaluated harmonic paradigm:** The Harmonic Paradigm Under Ostrowski's Theorem paper (DOI: 10.5281/zenodo.21535017, 2026-07-24) applies Ostrowski's theorem to the Harmonic Paradigm specifically — demonstrating that the theorem's relevance extends beyond the systematic compilation (ODR) to domain-specific physics frameworks. This confirms the general applicability of the place-democracy criterion. `[established]`
 
 The existence of these already-dimensionless fundamental constants supports the thesis that the dimensional ones -- ℏ, c, G, k_B, ε₀ -- are artifacts of unit conventions, not independent properties of nature. The dimensionless reformulation exposes this by showing that every dimensional formula reduces to one involving only dimensionless constants plus the pure-number α.
 
@@ -245,3 +255,9 @@ The dimensionless program does not change the physics -- it changes what we see 
 8. Hawking, S. W. (1975). Particle creation by black holes. *Communications in Mathematical Physics*, 43(3), 199-220.
 9. Landauer, R. (1961). Irreversibility and heat generation in the computing process. *IBM Journal of Research and Development*, 5(3), 183-191.
 10. Einstein, A. (1915). Die Feldgleichungen der Gravitation. *Sitzungsberichte der Preussischen Akademie der Wissenschaften zu Berlin*, 844-847.
+11. Quni-Gudzinas, R. B. (2026). Dimensionless Physics: A Unified Framework v1.3.1. Zenodo. DOI: 10.5281/zenodo.21206291.
+12. Quni-Gudzinas, R. B. (2026). Scaffolds and Invariants: An Epistemic Hygiene Audit of pi, Number Bases, and Geometric Centers. Zenodo. DOI: 10.5281/zenodo.21255344.
+13. Quni-Gudzinas, R. B. (2026). The Harmonic Paradigm Under Ostrowski's Theorem: A p-Adic/Adelic Re-Evaluation with Helical Compton Vortex Synthesis. Zenodo. DOI: 10.5281/zenodo.21535017.
+14. Quni-Gudzinas, R. B. (2026). Fine-Structure Constant as a Cross-Ratio: A Geometric Reframing of alpha. Zenodo. DOI: 10.5281/zenodo.20108536.
+15. Quni-Gudzinas, R. B. (2026). Alpha-Pi-Helix v2.1. Zenodo. DOI: 10.5281/zenodo.21515612.
+16. Quni-Gudzinas, R. B. (2026). Compton Frequency Cross-Ratios on Bruhat-Tits Trees v2.3.1. Zenodo. DOI: 10.5281/zenodo.21491767.

@@ -1,0 +1,364 @@
+{
+  "mass_frequency": [
+    {
+      "title": "Compton Frequency Cross-Ratios on Bruhat-Tits Trees: A Pre-Registered Search for Adelic Structure in the Standard Model Mass Spectrum (Version 2.3.1)",
+      "doi": "10.5281/zenodo.21491767",
+      "date": "2026-07-22",
+      "author": "Rowan Brad Quni-Gudzinas",
+      "is_qnfo": true
+    }
+  ],
+  "dimensionless": [
+    {
+      "title": "The Ostrowski Dimensionless Reformulation: A Systematic Compilation of Fundamental Physics Equations in Planck Units",
+      "doi": "10.5281/zenodo.21749885",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "Dimensionless Physics: A Unified Framework v1.3.1",
+      "doi": "10.5281/zenodo.21206291",
+      "date": "2026-07-05",
+      "author": "Rowan Brad Quni-Gudzinas",
+      "is_qnfo": true
+    },
+    {
+      "title": "Dimensionless Physics: A Unified Framework",
+      "doi": "10.5281/zenodo.21193454",
+      "date": "2026-07-04",
+      "author": "Rowan Brad Quni-Gudzinas",
+      "is_qnfo": true
+    }
+  ],
+  "planck_units": [
+    {
+      "title": "The Ostrowski Dimensionless Reformulation: A Systematic Compilation of Fundamental Physics Equations in Planck Units",
+      "doi": "10.5281/zenodo.21749885",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    }
+  ],
+  "fine_structure": [
+    {
+      "title": "The Adelic Cross-Domain Program: From the Fine-Structure Constant to the Standard Model Mass Spectrum via Bruhat-Tits Trees",
+      "doi": "10.5281/zenodo.21736300",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "Fine-Structure Constant as a Cross-Ratio: A Geometric Reframing of alpha",
+      "doi": "10.5281/zenodo.21335639",
+      "date": "2026-07-13",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "The Cosmic Constant: A Synthesis of Geometric and Quantum Field Theories for the Derivation of the Fine-Structure Constant",
+      "doi": "10.5281/zenodo.16921280",
+      "date": "2025-08-21",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "The Principle of Harmonic Closure: A Derivation of the Universe's Fundamental Structure from the Fine-Structure Constant and the Standard Model",
+      "doi": "10.5281/zenodo.16883376",
+      "date": "2025-08-15",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    }
+  ],
+  "alpha_constant": [
+    {
+      "title": "Fine-Structure Constant as a Cross-Ratio: A Geometric Reframing of alpha",
+      "doi": "10.5281/zenodo.21335639",
+      "date": "2026-07-13",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    }
+  ],
+  "pi_title": [
+    {
+      "title": "Scaffolds and Invariants: An Epistemic Hygiene Audit of pi, Number Bases, and Geometric Centers",
+      "doi": "10.5281/zenodo.21255344",
+      "date": "2026-07-08",
+      "author": "Rowan Brad Quni-Gudzinas",
+      "is_qnfo": true
+    },
+    {
+      "title": "Alpha Pi Project: From Cardiac Rhythms to Cosmic Fractals",
+      "doi": "10.5281/zenodo.19479494",
+      "date": "2026-04-09",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    }
+  ],
+  "natural_units": [],
+  "ostrowski": [
+    {
+      "title": "The Ostrowski Dimensionless Reformulation: A Systematic Compilation of Fundamental Physics Equations in Planck Units",
+      "doi": "10.5281/zenodo.21749885",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "Exact Rational Arithmetic via p-adic Hensel Codes: A Computation-Ready Framework Resolving the Ostrowski Gap v1.2.0",
+      "doi": "10.5281/zenodo.21208336",
+      "date": "2026-07-05",
+      "author": "Quni-Gudzinas, Rowan",
+      "is_qnfo": true
+    },
+    {
+      "title": "Exact Rational Arithmetic via p-adic Hensel Codes: A Computation-Ready Framework Resolving the Ostrowski Gap v1.0.1",
+      "doi": "10.5281/zenodo.20756305",
+      "date": "2026-06-19",
+      "author": "Quni-Gudzinas, Rowan",
+      "is_qnfo": true
+    },
+    {
+      "title": "Exact Rational Arithmetic via p-adic Hensel Codes: A Computation-Ready Framework Resolving the Ostrowski Gap v1.0.1",
+      "doi": "10.5281/zenodo.20756303",
+      "date": "2026-06-19",
+      "author": "Quni-Gudzinas, Rowan",
+      "is_qnfo": true
+    },
+    {
+      "title": "Exact Rational Arithmetic via p-adic Hensel Codes: A Computation-Ready Framework Resolving the Ostrowski Gap",
+      "doi": "10.5281/zenodo.20754449",
+      "date": "2026-06-19",
+      "author": "Quni-Gudzinas, Rowan",
+      "is_qnfo": true
+    },
+    {
+      "title": "Exact Rational Arithmetic via p-adic Hensel Codes: A Computation-Ready Framework Resolving the Ostrowski Gap",
+      "doi": "10.5281/zenodo.20754441",
+      "date": "2026-06-19",
+      "author": "Quni-Gudzinas, Rowan",
+      "is_qnfo": true
+    },
+    {
+      "title": "Exact Rational Arithmetic via p-adic Hensel Codes: A Computation-Ready Framework Resolving the Ostrowski Gap",
+      "doi": "10.5281/zenodo.20754388",
+      "date": "2026-06-19",
+      "author": "Quni-Gudzinas, Rowan",
+      "is_qnfo": true
+    }
+  ],
+  "recent_all": [
+    {
+      "title": "The Ostrowski Dimensionless Reformulation: A Systematic Compilation of Fundamental Physics Equations in Planck Units",
+      "doi": "10.5281/zenodo.21749885",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "Autaxys Ontological Closure: When Is a Physical Quantity Computationally Real?",
+      "doi": "10.5281/zenodo.21749060",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "The Valuation Reading of the Qubit Delusion: Is the Adelic Kernel Load-Bearing?",
+      "doi": "10.5281/zenodo.21748713",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "Passive Error Resilience Through Ultrametric Geometry: A Proposal for p-Adic Quantum Metrology",
+      "doi": "10.5281/zenodo.21748299",
+      "date": "2026-08-01",
+      "author": "Rowan Brad Quni-Gudzinas",
+      "is_qnfo": true
+    },
+    {
+      "title": "Primitive Ultrametric Kernels: Valuation-Theoretic Classification of QEC Constructions",
+      "doi": "10.5281/zenodo.21748009",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "Statistical Audit of the 5-Smooth Semigroup Mass-Ratio Claim",
+      "doi": "10.5281/zenodo.21748008",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "Cross-Domain Consilience: KKR Information-Theoretic Limits to Autaxys Ontological Closure",
+      "doi": "10.5281/zenodo.21747395",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "When Will Non-Archimedean Geometry Displace the Real Numbers? A Structured Assessment of the Adelic Substrate Thesis",
+      "doi": "10.5281/zenodo.21747228",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "Extending v_p^max Code Classification: Testing the Mahler Spectral Conjecture on Additional Stabilizer Code Families",
+      "doi": "10.5281/zenodo.21737222",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "Extending v_p^max Code Classification: Testing the Mahler Spectral Conjecture on Additional Stabilizer Code Families",
+      "doi": "10.5281/zenodo.21737208",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "ROWAN BRAD QUNI-GUDZINAS RESUME",
+      "doi": "10.5281/zenodo.21737071",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "Composite-Radix Theory: Characterizing the Kernel Membership of Silent Radix Encryption",
+      "doi": "10.5281/zenodo.21736927",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "Zitterbewegung as a p-Adic Observable: Ultrametric Readout and Intrinsic Topological Protection for Majorana Qubits",
+      "doi": "10.5281/zenodo.21736327",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "The Adelic Cross-Domain Program: From the Fine-Structure Constant to the Standard Model Mass Spectrum via Bruhat-Tits Trees",
+      "doi": "10.5281/zenodo.21736300",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "The Substrate Is the Algorithm: A Categorical Formalization of the Strongest Consilience Thread",
+      "doi": "10.5281/zenodo.21736173",
+      "date": "2026-08-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    }
+  ],
+  "harmonic": [
+    {
+      "title": "The Harmonic Paradigm Under Ostrowski's Theorem: A p-Adic/Ad\u00e9lic Re-Evaluation with Helical Compton Vortex Synthesis",
+      "doi": "10.5281/zenodo.21535017",
+      "date": "2026-07-24",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "The Adelic Completion of the Harmonic Paradigm: A Five-Pillar Red-Team Assessment (v1.2)",
+      "doi": "10.5281/zenodo.21511271",
+      "date": "2026-07-23",
+      "author": "DeepChat Research Agent",
+      "is_qnfo": false
+    },
+    {
+      "title": "Compton Frequency Cross-Ratios on Bruhat-Tits Trees: A Pre-Registered Search for Adelic Structure in the Standard Model Mass Spectrum (Version 2.3.1)",
+      "doi": "10.5281/zenodo.21491767",
+      "date": "2026-07-22",
+      "author": "Rowan Brad Quni-Gudzinas",
+      "is_qnfo": true
+    },
+    {
+      "title": "The RG-Harmonic Isomorphism: Renormalization Group Similarities with Harmonic Quantum Mechanics \u2014 A Retrospective Evaluation of Planck, Einstein, and the Quantum Milestone Chain",
+      "doi": "10.5281/zenodo.21486206",
+      "date": "2026-07-22",
+      "author": "Rowan Brad Quni-Gudzinas",
+      "is_qnfo": true
+    },
+    {
+      "title": "QUANTUM RESONANCE COMPUTING SYSTEMS AND METHODS FOR STABLE QUANTUM COMPUTATION",
+      "doi": "10.5281/zenodo.21361902",
+      "date": "2026-07-14",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "Quantum Error Correction Is a Misnomer: From Metric Translation to Metric Resonance",
+      "doi": "10.5281/zenodo.21204706",
+      "date": "2026-07-05",
+      "author": "Rowan Brad Quni-Gudzinas",
+      "is_qnfo": true
+    },
+    {
+      "title": "Geometric Factorization via Multi-Stage Coordinate Transformation and Resonance",
+      "doi": "10.5281/zenodo.17454717",
+      "date": "2025-10-27",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "Substrate-Integrated Computation: A Paradigm Shift from Abstract Logic to Geometric Resonance",
+      "doi": "10.5281/zenodo.17278402",
+      "date": "2025-10-06",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "Resonance of Being: A Vibrational Ontology of Life",
+      "doi": "10.5281/zenodo.17246252",
+      "date": "2025-10-01",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "The $13.25 Billion Category Error: Why the Higgs 'Particle' Never Existed: A Formal Proof of the Higgs Field Resonance as a Statistical and Ontological Category Error",
+      "doi": "10.5281/zenodo.17165385",
+      "date": "2025-09-20",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "The Fractal Architecture of Stability: From Quantum Resonance to Macroscopic Persistence",
+      "doi": "10.5281/zenodo.17144702",
+      "date": "2025-09-17",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "The Resonant Resolution: A Complete Technical and Philosophical Documentation of Harmonic Computing as a Physical Answer to the G\u00f6delian Impasse",
+      "doi": "10.5281/zenodo.17130594",
+      "date": "2025-09-16",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "Prime Harmonic Spectral Geometry (PHSG): A Complete, Parameter-Free Framework for Fundamental Physics",
+      "doi": "10.5281/zenodo.17007279",
+      "date": "2025-08-30",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "The Prime Harmonic Ontological Construct (POHC): A Complete, Parameter-Free, Spectral-Geometric Unification of Physics",
+      "doi": "10.5281/zenodo.16942141",
+      "date": "2025-08-25",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    },
+    {
+      "title": "Quantum Vacuum's Harmonic Order: A Physicalist Construction of the Hilbert-P\u00f3lya Operator",
+      "doi": "10.5281/zenodo.16933769",
+      "date": "2025-08-23",
+      "author": "Quni-Gudzinas, Rowan Brad",
+      "is_qnfo": true
+    }
+  ]
+}
