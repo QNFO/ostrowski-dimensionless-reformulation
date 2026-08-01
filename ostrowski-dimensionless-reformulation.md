@@ -11,15 +11,15 @@ status: "draft"
 
 ## Abstract
 
-We present a systematic compilation and dimensionless reformulation of 53 fundamental physics equations across ten disciplines, motivated by the Ostrowski Dimensionless Mandate (qnfo-core §0.7). Dimensional formulations of physical laws -- those containing explicit occurrences of ℏ, c, G, k_B, or ε₀ -- implicitly privilege the Archimedean (∞) completion of the rational numbers. Per Ostrowski's theorem (1916), every non-trivial absolute value on ℚ is equivalent either to the real Archimedean place or to a p-adic non-Archimedean place. A dimensional formula can only be evaluated at the Archimedean place because its constants' specific numerical values have no meaning in p-adic completions. By expressing all quantities as pure-number ratios to their Planck-scale counterparts (with ℏ = c = G = k_B = 1), each formula becomes a relation among dimensionless numbers that is equally well-defined at every place. We provide detailed derivations for 26 multi-constant formulas (Class F: those containing combinations of ℏ, c, G, k_B), mathematical proofs of the dimensional-dimensionless correspondence via the Buckingham Pi theorem, and Ostrowski rationales for each physical domain. No physical content is lost: the dimensional homogeneity of physical laws guarantees that the constants can always be absorbed into dimensionless ratios. The reformulation does not change the physics -- it makes explicit the place-democracy that dimensional formalisms conceal.
+We present a systematic compilation and dimensionless reformulation of 53 fundamental physics equations across ten disciplines, motivated by the Ostrowski Dimensionless Mandate (qnfo-core §0.7). Dimensional formulations of physical laws -- those containing explicit occurrences of ℏ, c, G, k_B, or ε₀ -- implicitly privilege the Archimedean ($\infty$) completion of the rational numbers. Per Ostrowski's theorem (1916), every non-trivial absolute value on ℚ is equivalent either to the real Archimedean place or to a p-adic non-Archimedean place. A dimensional formula can only be evaluated at the Archimedean place because its constants' specific numerical values have no meaning in p-adic completions. By expressing all quantities as pure-number ratios to their Planck-scale counterparts (with ℏ = c = G = k_B = 1), each formula becomes a relation among dimensionless numbers that is equally well-defined at every place. We provide detailed derivations for 26 multi-constant formulas (Class F: those containing combinations of ℏ, c, G, k_B), mathematical proofs of the dimensional-dimensionless correspondence via the Buckingham Pi theorem, and Ostrowski rationales for each physical domain. No physical content is lost: the dimensional homogeneity of physical laws guarantees that the constants can always be absorbed into dimensionless ratios. The reformulation does not change the physics -- it makes explicit the place-democracy that dimensional formalisms conceal.
 
 ## 1 Introduction
 
 ### 1.1 The Ostrowski Dimensionless Mandate
 
-The Ostrowski Dimensionless Mandate (qnfo-core §0.7, effective 2026-08-01) requires that all physics formulas in QNFO publications be expressed in dimensionless natural numbers using Planck units (ℏ = c = G = k_B = 1). The mandate is grounded in Ostrowski's theorem (1916), which classifies every non-trivial absolute value on ℚ as equivalent either to the standard real absolute value |·|_∞ or to a p-adic absolute value |·|_p for some prime p `[established -- Ostrowski, 1916, Acta Mathematica 41:271-284]`.
+The Ostrowski Dimensionless Mandate (qnfo-core §0.7, effective 2026-08-01) requires that all physics formulas in QNFO publications be expressed in dimensionless natural numbers using Planck units (ℏ = c = G = k_B = 1). The mandate is grounded in Ostrowski's theorem (1916), which classifies every non-trivial absolute value on ℚ as equivalent either to the standard real absolute value |·|_$\infty$ or to a p-adic absolute value |·|_p for some prime p `[established -- Ostrowski, 1916, Acta Mathematica 41:271-284]`.
 
-A physical quantity expressed as a real number implicitly selects the Archimedean place among all completions of ℚ. If a formula contains dimensional constants such as ℏ, c, G, or k_B, it assumes the quantities being related have well-defined real-number values. The constants' specific numerical values -- ℏ ≈ 1.054571817 × 10⁻³⁴ J·s, c = 299792458 m/s, G ≈ 6.67430 × 10⁻¹¹ m³/(kg·s²), k_B ≈ 1.380649 × 10⁻²³ J/K -- are defined only in the Archimedean topology. They have no counterpart in a p-adic completion of ℚ. A formula that embeds these constants is therefore Archimedean-privileging: it can be evaluated at |·|_∞ but not at |·|_p.
+A physical quantity expressed as a real number implicitly selects the Archimedean place among all completions of ℚ. If a formula contains dimensional constants such as ℏ, c, G, or k_B, it assumes the quantities being related have well-defined real-number values. The constants' specific numerical values -- ℏ ≈ 1.054571817 × 10⁻³⁴ J·s, c = 299792458 m/s, G ≈ 6.67430 × 10⁻¹¹ m³/(kg·s²), k_B ≈ 1.380649 × 10⁻²³ J/K -- are defined only in the Archimedean topology. They have no counterpart in a p-adic completion of ℚ. A formula that embeds these constants is therefore Archimedean-privileging: it can be evaluated at |·|_$\infty$ but not at |·|_p.
 
 The dimensionless solution expresses every physical quantity as a pure-number ratio to its Planck-scale counterpart. A pure number -- an element of ℚ or a limit thereof -- is equally well-defined at every place. Thus a dimensionless formula holds for all completions simultaneously.
 
@@ -29,7 +29,7 @@ Two prior QNFO publications established the dimensionless program:
 
 - **Non-Anthropocentric Natural Units** (DOI: 10.5281/zenodo.21480756) reformulated the Bekenstein-Hawking entropy bound without anthropocentric units, introducing the dimensionless horizon area and Ostrowski's theorem as a challenge to the Archimedean assumption. `[established]`
 
-- **OC Paper v1.2** (DOI: 10.5281/zenodo.21748773) reformulated the Bekenstein bound in dimensionless Planck units: S ≤ 2π k_B R E/(ℏc) → I ≤ 2π R E/ln 2. **OC Paper v1.3** (DOI: 10.5281/zenodo.21749177) reformulated Landauer's principle presenting both conventional dimensional form (E ≥ k_B T ln 2) and dimensionless Planck-unit form (E ≥ T ln 2) with explicit Ostrowski rationale. `[established]`
+- **OC Paper v1.2** (DOI: 10.5281/zenodo.21748773) reformulated the Bekenstein bound in dimensionless Planck units: S ≤ 2π k_B R E/(ℏc) $\rightarrow$ I ≤ 2π R E/ln 2. **OC Paper v1.3** (DOI: 10.5281/zenodo.21749177) reformulated Landauer's principle presenting both conventional dimensional form (E ≥ k_B T ln 2) and dimensionless Planck-unit form (E ≥ T ln 2) with explicit Ostrowski rationale. `[established]`
 
 This paper extends the program to a systematic survey across ten physical disciplines.
 
@@ -53,19 +53,19 @@ The ten disciplines surveyed are: Quantum Mechanics, Thermodynamics & Statistica
 
 ### 2.1 Ostrowski's Theorem and Place-Democracy
 
-**Theorem (Ostrowski, 1916):** Every non-trivial absolute value on ℚ is equivalent either to the standard real absolute value |·|_∞ or to a p-adic absolute value |·|_p for some prime p. `[established]`
+**Theorem (Ostrowski, 1916):** Every non-trivial absolute value on ℚ is equivalent either to the standard real absolute value |·|_$\infty$ or to a p-adic absolute value |·|_p for some prime p. `[established]`
 
-**Proof sketch:** Let |·| be a non-trivial absolute value on ℚ. The classification hinges on whether |n| is bounded for integers n. If |n| is unbounded (Archimedean case), then |·| is equivalent to |·|_∞. If |n| ≤ 1 for all integers (non-Archimedean case), the set {n : |n| < 1} is a prime ideal pℤ, yielding |·|_p. The proof is exhaustive: there are exactly these two families, with no intermediate cases. `[established -- standard valuation theory]`
+**Proof sketch:** Let |·| be a non-trivial absolute value on ℚ. The classification hinges on whether |n| is bounded for integers n. If |n| is unbounded (Archimedean case), then |·| is equivalent to |·|_$\infty$. If |n| ≤ 1 for all integers (non-Archimedean case), the set {n : |n| < 1} is a prime ideal pℤ, yielding |·|_p. The proof is exhaustive: there are exactly these two families, with no intermediate cases. `[established -- standard valuation theory]`
 
-A physical formula containing dimensional constants can be evaluated only at |·|_∞. The specific numerical value of ℏ, for instance, is a real number. In a p-adic completion, the real number 1.054571817... × 10⁻³⁴ has no well-defined meaning because p-adic numbers arise from a fundamentally different metric: |p^n · a/b|_p = p⁻ⁿ for p ∤ a, b. The conversion factor between SI units and Planck units -- the numerical value of ℏ -- is an Archimedean artifact.
+A physical formula containing dimensional constants can be evaluated only at |·|_$\infty$. The specific numerical value of ℏ, for instance, is a real number. In a p-adic completion, the real number 1.054571817... × 10⁻³⁴ has no well-defined meaning because p-adic numbers arise from a fundamentally different metric: |p^n · a/b|_p = p⁻ⁿ for $p \nmid a, b$. The conversion factor between SI units and Planck units -- the numerical value of ℏ -- is an Archimedean artifact.
 
-In contrast, a dimensionless equation containing only pure numbers can be evaluated at any place. The equation S̃_BH = A/4 (Bekenstein-Hawking) is a relation among pure numbers: if A is a pure number (area in Planck units), then S̃_BH is equally A/4 regardless of whether one computes |A|_∞ or |A|_p. The formula is place-democratic.
+In contrast, a dimensionless equation containing only pure numbers can be evaluated at any place. The equation $\tilde{S}$_BH = A/4 (Bekenstein-Hawking) is a relation among pure numbers: if A is a pure number (area in Planck units), then $\tilde{S}$_BH is equally A/4 regardless of whether one computes |A|_$\infty$ or |A|_p. The formula is place-democratic.
 
 ### 2.2 The Dimensional-Dimensionless Correspondence Theorem
 
-**Theorem:** Let F(x₁, ..., x_n; ℏ, c, G, k_B) = 0 be a dimensionally homogeneous physical law. Then there exists an equivalent dimensionless equation F̃(x̃₁, ..., x̃_n) = 0 where x̃_i = x_i/x_i^(P) and x_i^(P) is the Planck-scale counterpart of quantity x_i, such that F̃ contains no dimensional constants.
+**Theorem:** Let F(x₁, ..., x_n; ℏ, c, G, k_B) = 0 be a dimensionally homogeneous physical law. Then there exists an equivalent dimensionless equation $\tilde{F}$($\tilde{x}$₁, ..., $\tilde{x}$_n) = 0 where $\tilde{x}$_i = x_i/x_i^(P) and x_i^(P) is the Planck-scale counterpart of quantity x_i, such that $\tilde{F}$ contains no dimensional constants.
 
-**Proof:** By the Buckingham Pi theorem, any dimensionally homogeneous equation among n physical quantities involving k independent physical dimensions can be rewritten as a relation among n - k dimensionless Pi groups. The Planck system (ℏ, c, G, k_B) provides exactly four dimensionally independent quantities, spanning the physical dimensions of mass (M), length (L), time (T), and temperature (Θ). Every physical quantity has a unique combination of ℏ, c, G, k_B that yields its physical dimension -- this combination is precisely the Planck-scale counterpart x_i^(P). The dimensionless ratio x̃_i = x_i/x_i^(P) is therefore always well-defined. Substituting x_i = x̃_i · x_i^(P) into the original equation F = 0, all factors of ℏ, c, G, k_B cancel by dimensional homogeneity, leaving F̃ = 0. `[established -- dimensional analysis]`
+**Proof:** By the Buckingham Pi theorem, any dimensionally homogeneous equation among n physical quantities involving k independent physical dimensions can be rewritten as a relation among n - k dimensionless Pi groups. The Planck system (ℏ, c, G, k_B) provides exactly four dimensionally independent quantities, spanning the physical dimensions of mass (M), length (L), time (T), and temperature (Θ). Every physical quantity has a unique combination of ℏ, c, G, k_B that yields its physical dimension -- this combination is precisely the Planck-scale counterpart x_i^(P). The dimensionless ratio $\tilde{x}$_i = x_i/x_i^(P) is therefore always well-defined. Substituting x_i = $\tilde{x}$_i · x_i^(P) into the original equation F = 0, all factors of ℏ, c, G, k_B cancel by dimensional homogeneity, leaving $\tilde{F}$ = 0. `[established -- dimensional analysis]`
 
 **Corollary:** No physical content is lost in the reformulation. The dimensional constants are carriers of unit-scale information, not of physical law. Their specific numerical values reflect the meter-kilogram-second-kelvin convention, not properties of nature.
 
@@ -83,7 +83,7 @@ $$i\hbar \frac{\partial\psi}{\partial t} = \left(-\frac{\hbar^2}{2m}\nabla^2 + V
 In dimensionless Planck units (ℏ = c = G = k_B = 1):
 $$i\frac{\partial\psi}{\partial\tilde{t}} = \left(-\frac{1}{2\tilde{m}}\tilde{\nabla}^2 + \tilde{V}\right)\psi$$
 
-where t̃ = t/t_P, m̃ = m/m_P, ∇̃ = ℓ_P∇, Ṽ = V/E_P. The derivation proceeds by substituting the Planck-scale definitions:
+where $\tilde{t}$ = t/t_P, $\tilde{m}$ = m/m_P, $\tilde{∇}$ = ℓ_P∇, $\tilde{V}$ = V/E_P. The derivation proceeds by substituting the Planck-scale definitions:
 
 $$\frac{\hbar}{t_P} = \frac{\hbar}{\sqrt{\hbar G/c^5}} = \sqrt{\frac{\hbar c^5}{G}} = E_P$$
 
@@ -101,7 +101,7 @@ $$\Delta x \Delta p \geq \frac{\hbar}{2}$$
 In dimensionless Planck units:
 $$\Delta\tilde{x} \Delta\tilde{p} \geq \frac{1}{2}$$
 
-where Δx̃ = Δx/ℓ_P and Δp̃ = Δp c/E_P. The factor ℏ/2 becomes the pure number 1/2 -- a statement that the product of normalized uncertainties is at least one-half.
+where Δ$\tilde{x}$ = Δx/ℓ_P and Δ$\tilde{p}$ = Δp c/E_P. The factor ℏ/2 becomes the pure number 1/2 -- a statement that the product of normalized uncertainties is at least one-half.
 
 ### 3.2 Thermodynamics
 
@@ -113,7 +113,7 @@ $$B_\nu(T) = \frac{2h\nu^3}{c^2} \frac{1}{e^{h\nu/(k_B T)} - 1}$$
 In dimensionless Planck units:
 $$\tilde{B}_{\tilde{\nu}}(\tilde{T}) = 4\pi\tilde{\nu}^3 \frac{1}{e^{2\pi\tilde{\nu}/\tilde{T}} - 1}$$
 
-with ν̃ = ν t_P and T̃ = T/T_P. The reduction uses h = 2π (since h = 2πℏ and ℏ = 1) and the cancellation of c² in the pre-factor. The physical content is preserved in the exponent: the ratio hν/(k_B T) becomes 2πν̃/T̃ -- a pure dimensionless number that determines the spectral regime.
+with $\tilde{ν}$ = ν t_P and $\tilde{T}$ = T/T_P. The reduction uses h = 2π (since h = 2πℏ and ℏ = 1) and the cancellation of c² in the pre-factor. The physical content is preserved in the exponent: the ratio hν/(k_B T) becomes 2π$\tilde{ν}$/$\tilde{T}$ -- a pure dimensionless number that determines the spectral regime.
 
 **Stefan-Boltzmann Law (Class F):**
 
@@ -131,13 +131,13 @@ $$G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$$
 In dimensionless Planck units:
 $$\tilde{G}_{\mu\nu} + \tilde{\Lambda} g_{\mu\nu} = 8\pi \tilde{T}_{\mu\nu}$$
 
-where G̃_μν = G_μν ℓ_P², T̃_μν = T_μν/(E_P/ℓ_P³), and Λ̃ = Λ ℓ_P². The reduction eliminates the factor G/c⁴ ≈ 8.262 × 10⁻⁴⁵ m⁻¹·J⁻¹·m³ entirely. The coefficient 8π is a pure geometric factor arising from the Newtonian limit in four spacetime dimensions.
+where $\tilde{G}$_μν = G_μν ℓ_P², $\tilde{T}$_μν = T_μν/(E_P/ℓ_P³), and $\tilde{Λ}$ = Λ ℓ_P². The reduction eliminates the factor G/c⁴ ≈ 8.262 × 10⁻⁴⁵ m⁻¹·J⁻¹·m³ entirely. The coefficient 8π is a pure geometric factor arising from the Newtonian limit in four spacetime dimensions.
 
 **Hawking Temperature (Class F):**
 
 $$T_H = \frac{\hbar c^3}{8\pi G M k_B} \quad\longrightarrow\quad \tilde{T}_H = \frac{1}{8\pi \tilde{M}}$$
 
-A black hole's temperature is simply the inverse of its mass (times 1/(8π)) when both are expressed in Planck units. A solar-mass black hole (M̃ ≈ 10³⁸) has T̃_H ≈ 4 × 10⁻⁴¹ -- practically absolute zero. A Planck-mass black hole would have T̃_H ≈ 1/(8π) ≈ 0.04, corresponding to approximately 4% of the Planck temperature.
+A black hole's temperature is simply the inverse of its mass (times 1/(8π)) when both are expressed in Planck units. A solar-mass black hole ($\tilde{M}$ ≈ 10³⁸) has $\tilde{T}$_H ≈ 4 × 10⁻⁴¹ -- practically absolute zero. A Planck-mass black hole would have $\tilde{T}$_H ≈ 1/(8π) ≈ 0.04, corresponding to approximately 4% of the Planck temperature.
 
 ### 3.4 Cosmology
 
@@ -145,7 +145,7 @@ A black hole's temperature is simply the inverse of its mass (times 1/(8π)) whe
 
 $$\rho_c = \frac{3H^2}{8\pi G} \quad\longrightarrow\quad \tilde{\rho}_c = \frac{3\tilde{H}^2}{8\pi}$$
 
-with ρ̃_c = ρ_c/(E_P/ℓ_P³) and H̃ = H t_P. The Hubble constant today, H₀ ≈ 70 km/(s·Mpc), corresponds to H̃₀ ≈ 1.2 × 10⁻⁶¹ in Planck units -- reflecting the enormous ratio between the Hubble scale and the Planck scale.
+with $\tilde{ρ}$_c = ρ_c/(E_P/ℓ_P³) and $\tilde{H}$ = H t_P. The Hubble constant today, H₀ ≈ 70 km/(s·Mpc), corresponds to $\tilde{H}$₀ ≈ 1.2 × 10⁻⁶¹ in Planck units -- reflecting the enormous ratio between the Hubble scale and the Planck scale.
 
 ### 3.5 Quantum Field Theory
 
@@ -207,7 +207,7 @@ The key findings are:
 
 2. **The dimensional constants are unit-scale carriers.** Their specific numerical values (ℏ ≈ 1.05 × 10⁻³⁴, c = 3.00 × 10⁸, G ≈ 6.67 × 10⁻¹¹, k_B ≈ 1.38 × 10⁻²³) reflect the meter-kilogram-second-kelvin convention. In Planck units, all four become exactly 1.
 
-3. **The dimensionless forms reveal hidden structure.** The Bohr radius becomes 1/(α m̃_e), exposing the 137-fold ratio between atomic and Compton scales. The Stefan-Boltzmann constant becomes π²/60, a pure geometric number. The Hawking temperature becomes 1/(8πM), a simple reciprocal relation.
+3. **The dimensionless forms reveal hidden structure.** The Bohr radius becomes 1/(α $\tilde{m}$_e), exposing the 137-fold ratio between atomic and Compton scales. The Stefan-Boltzmann constant becomes π²/60, a pure geometric number. The Hawking temperature becomes 1/(8πM), a simple reciprocal relation.
 
 4. **Nature's deepest constants are already dimensionless** (α ≈ 1/137, sin²θ_W ≈ 0.23, n_s ≈ 0.965). The dimensionless reformulation extends this transparency to all of fundamental physics.
 
