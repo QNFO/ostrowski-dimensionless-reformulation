@@ -3,7 +3,7 @@ title: "The Ostrowski Dimensionless Reformulation: A Systematic Compilation of F
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-08-01"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: "10.5281/zenodo.21750975"
+doi: "10.5281/zenodo.21751503"
 status: "published"
 ---
 
