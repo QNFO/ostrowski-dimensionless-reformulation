@@ -147,6 +147,37 @@ The Ostrowski Dimensionless Mandate (qnfo-core §0.7) requires all physics formu
 
 
 
+
+### 2.5 Running Couplings and the Scale-Dependence of Dimensionless Quantities
+
+The Ratio Primacy Principle (v1.4, §2.3) established that physical quantities are ratios, not real numbers. The Completion Lattice (v1.5, §2.4) established that these ratios are place-democratic — definable at every completion of ℚ. A third dimension of compliance was surfaced by red-team audit (v1.7): **dimensionless quantities are also SCALE-DEPENDENT functions, not fixed numbers.** The fine-structure constant α, the Weinberg angle sin²θ_W, and the dimensionless Fermi constant G̃_F all RUN with the dimensionless energy scale Q̃ = Q/E_P, where Q is the momentum transfer and E_P the Planck energy.
+
+**The critical distinction:** the Ostrowski/Tate mandate requires dimensionless ratios, but a dimensionless ratio may still be a FUNCTION of scale. α(Q̃²) is dimensionless at every scale — but its numerical value changes from 1/137.036 at Q̃ → 0 (the IR limit) to 1/127.9 at Q̃ = M_Z/E_P (the Z-boson scale), a 7.14% variation `[established — PDG: α⁻¹(0) = 137.036, α⁻¹(M_Z) = 127.9]`.
+
+**The compliant statement:**
+
+1. **α is a running ratio:** α(Q̃²) = r_e(Q̃)/λ̄_C(Q̃), where each quantity is a ratio to its Planck-scale counterpart. This is the place-democratic form — a ratio of ratios, well-defined at every completion. The one-loop QED running equation is itself dimensionless in Planck units:
+
+$$\beta_1(\alpha) = \tilde{\mu}\frac{d\alpha}{d\tilde{\mu}} = \frac{2\alpha^2}{3\pi}$$
+
+with the solution α(Q̃²) = α(0)/(1 − (α(0)/3π) ln(Q̃²/μ̃₀²)).
+
+2. **The decimal 1/137.036 is one completion at one scale:** it is the Archimedean, base-10 projection of α(Q̃²) evaluated in the deep IR (Q̃ → 0). Per the directive — *if it is a decimal or base-10 quantity, it is only one completion, not Ostrowski/Tate compliant* — the fixed decimal is a degenerate presentation. The compliant object is the function α(Q̃²) with its ratio definition.
+
+3. **Every formula in §3 that writes "α" implicitly means "α(Q̃²) at the formula's characteristic scale":**
+   - Atomic physics (Bohr radius, Rydberg, hydrogen levels, Thomson): Q̃ ~ α m̃_e → IR value 1/137.036
+   - Quantum Hall / Josephson / conductance: Q̃ at the Landau-level scale → IR value (0.01% correction negligible)
+   - Coulomb law: Q̃ ~ 1/r̃ → running with distance
+   - Z-pole / electroweak: Q̃ = M_Z/E_P → 1/127.9
+   - Planck-scale: Q̃ ~ 1 → determined by the running equation
+
+4. **The same applies to sin²θ_W(Q̃²) and G̃_F(Q̃²):** the Weinberg angle runs from ~0.23 (low energy) to 0.2312 (M_Z, MS-bar); the Fermi constant is scale-dependent. Neither is a fixed Archimedean decimal.
+
+**Falsifiability:** This correction would be disconfirmed if any physical observable measured α, sin²θ_W, or G_F to be exactly scale-independent outside experimental uncertainty. The measured running of α between IR and M_Z (7.14%) is direct disconfirming evidence of the "fixed constant" presentation. `[established]`
+
+
+
+
 ## 3 Systematic Reformulation
 
 We present selected reformulations organized by discipline. The complete inventory of 53 formulas is available in the supplementary artifact `artifacts/formula-inventory.md`.
@@ -245,8 +276,8 @@ The von Klitzing constant, which in SI appears as a specific resistance (≈ 25.
 
 Several of the most important physical constants are already dimensionless and require no reformulation. These include:
 
-- **Fine-structure constant:** α = e²/(4πε₀ℏc) ≈ 1/137.036. The primary dimensionless coupling of electromagnetism. Cross-references: the Fine-Structure Constant as a Cross-Ratio paper (DOI: 10.5281/zenodo.20108536) interprets α = r_e/λ_C as a projective-geometric invariant; the Alpha-Pi-Helix paper v2.1 (DOI: 10.5281/zenodo.21515612) treats π and α as geometric proportions (C/d and r_e/λ_C) with genuine pedagogical value at v1.1. `[established]`
-- **Weinberg angle:** sin²θ_W ≈ 0.23. Already a dimensionless ratio. `[established]`
+- **Fine-structure constant (RUNNING, v1.7):** α(Q̃²) = e²/(4πε₀ℏc) is a running coupling, not a fixed number. The value ≈ 1/137.036 is the deep-IR (Q̃ → 0) Archimedean projection; at the Z-pole it is 1/127.9. The place-democratic form is the running ratio α(Q̃²) = r_e(Q̃)/λ̄_C(Q̃) (see §2.5). The primary dimensionless coupling of electromagnetism. Cross-references: the Fine-Structure Constant as a Cross-Ratio paper (DOI: 10.5281/zenodo.20108536) interprets α = r_e/λ_C as a projective-geometric invariant; the Alpha-Pi-Helix paper v2.1 (DOI: 10.5281/zenodo.21515612) treats π and α as geometric proportions (C/d and r_e/λ_C) with genuine pedagogical value at v1.1. `[established]`
+- **Weinberg angle (RUNNING, v1.7):** sin²θ_W(Q̃²) ≈ 0.23 at low energy, 0.2312 at M_Z (MS-bar). Already a dimensionless ratio, but scale-dependent — annotate the scale at which it is evaluated (see §2.5). `[established]`
 - **Holevo bound:** χ = S(ρ) - Σ p_i S(ρ_i). A dimensionless information-theoretic limit. `[established]`
 
 **Ostrowski-evaluated harmonic paradigm:** The Harmonic Paradigm Under Ostrowski's Theorem paper (DOI: 10.5281/zenodo.21535017, 2026-07-24) applies Ostrowski's theorem to the Harmonic Paradigm specifically — demonstrating that the theorem's relevance extends beyond the systematic compilation (ODR) to domain-specific physics frameworks. This confirms the general applicability of the place-democracy criterion. `[established]`
@@ -310,7 +341,7 @@ The key findings are:
 
 3. **The dimensionless forms reveal hidden structure.** The Bohr radius becomes 1/(α $\tilde{m}$_e), exposing the 137-fold ratio between atomic and Compton scales. The Stefan-Boltzmann constant becomes π²/60, a pure geometric number. The Hawking temperature becomes 1/(8πM), a simple reciprocal relation.
 
-4. **Nature's deepest constants are already dimensionless** (α ≈ 1/137, sin²θ_W ≈ 0.23, n_s ≈ 0.965). The dimensionless reformulation extends this transparency to all of fundamental physics.
+4. **Nature's deepest constants are already dimensionless** (α ≈ 1/137, sin²θ_W ≈ 0.23, n_s ≈ 0.965) — with the v1.7 caveat that these are running functions of the dimensionless energy scale Q̃, and the decimals shown are their deep-IR Archimedean projections, not fixed numbers (see §2.5). The dimensionless reformulation extends this transparency to all of fundamental physics.
 
 The dimensionless program does not change the physics -- it changes what we see in the physics. The formulas become place-democratic: expressible as relations among pure numbers that are equally meaningful at every completion of ℚ.
 
