@@ -1,0 +1,1784 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2025-11-24T19:57:24.600006+00:00",
+        "modified": "2025-11-24T19:57:25.835756+00:00",
+        "id": 17703718,
+        "conceptrecid": "17703717",
+        "doi": "10.5281/zenodo.17703718",
+        "conceptdoi": "10.5281/zenodo.17703717",
+        "doi_url": "https://doi.org/10.5281/zenodo.17703718",
+        "metadata": {
+          "title": "Physical and Philosophical Limits in the Representation of Irrational Numbers: From Thermodynamics to the Continuum \u2013 A Pedagogical Note",
+          "doi": "10.5281/zenodo.17703718",
+          "publication_date": "2025-11-24",
+          "description": "<p>This article is a pedagogical and documentary note. We review, in an expository way,<br>how the complete physical representation of irrational numbers, such as &pi;, is constrained<br>by thermodynamics, information theory, and the structure of spacetime. **We argue that<br>the collective force of these physical constraints provides concrete support for philosophi-<br>cal perspectives that question actual infinities in physics.** Classical results such as Lan-<br>dauer&rsquo;s principle, the Bekenstein bound, and the holographic principle (which yields an<br>upper information limit of &sim; 10122 bits for the observable universe), together with quan-<br>tum limits including Bremermann&rsquo;s and the Margolus&ndash;Levitin bound, imply that no finite<br>physical system&mdash;not even the observable universe&mdash;can materialize infinitely many digits<br>of an irrational number. We introduce a qualitative hierarchy of irrationality according to<br>computational and energetic cost, and discuss alternative philosophical viewpoints (finitism,<br>ultrafinitism, constructivism) and discrete models in physics. The aim of this note is to<br>assemble well-known ideas into a coherent narrative that clarifies what it can mean, in<br>practice, to &ldquo;physically represent&rdquo; a number, and to contrast the operational success of the<br>mathematical continuum with its impossible full realization in the physical universe.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Caraccioli Abrego, Ricardo Adonis",
+              "affiliation": "Universidad Nacional Aut\u00f3noma de Honduras",
+              "orcid": "0009-0006-3522-5818"
+            },
+            {
+              "name": "Reyes Pagoada, Marco Antonio",
+              "affiliation": "Universidad Nacional Aut\u00f3noma de Honduras"
+            },
+            {
+              "name": "Spilsbury Fuentes, Michael Joel",
+              "affiliation": "Universidad Nacional Aut\u00f3noma de Honduras"
+            }
+          ],
+          "keywords": [
+            "Bekenstein bound",
+            "Lan- dauer's principle"
+          ],
+          "version": "1",
+          "language": "eng",
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "17703717"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Physical and Philosophical Limits in the Representation of Irrational Numbers: From Thermodynamics to the Continuum \u2013 A Pedagogical Note",
+        "links": {
+          "self": "https://zenodo.org/api/records/17703718",
+          "self_html": "https://zenodo.org/records/17703718",
+          "preview_html": "https://zenodo.org/records/17703718?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.17703718",
+          "self_doi": "https://doi.org/10.5281/zenodo.17703718",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17703718",
+          "reserve_doi": "https://zenodo.org/api/records/17703718/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/17703717",
+          "parent_html": "https://zenodo.org/records/17703717",
+          "parent_doi": "https://doi.org/10.5281/zenodo.17703717",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17703717",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17703718/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17703718/sequence/default",
+          "files": "https://zenodo.org/api/records/17703718/files",
+          "media_files": "https://zenodo.org/api/records/17703718/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:17703718:Constantes.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:17703718:Constantes.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:17703718:Constantes.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:17703718:Constantes.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:17703718:Constantes.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:17703718:Constantes.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/17703718/files-archive",
+          "archive_media": "https://zenodo.org/api/records/17703718/media-files-archive",
+          "latest": "https://zenodo.org/api/records/17703718/versions/latest",
+          "latest_html": "https://zenodo.org/records/17703718/latest",
+          "versions": "https://zenodo.org/api/records/17703718/versions",
+          "draft": "https://zenodo.org/api/records/17703718/draft",
+          "access_links": "https://zenodo.org/api/records/17703718/access/links",
+          "access_grants": "https://zenodo.org/api/records/17703718/access/grants",
+          "access_users": "https://zenodo.org/api/records/17703718/access/users",
+          "access_request": "https://zenodo.org/api/records/17703718/access/request",
+          "access": "https://zenodo.org/api/records/17703718/access",
+          "communities": "https://zenodo.org/api/records/17703718/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/17703718/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/17703718/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/17703718/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/17703718/quota-increase",
+          "requests": "https://zenodo.org/api/records/17703718/requests"
+        },
+        "updated": "2025-11-24T19:57:25.835756+00:00",
+        "recid": "17703718",
+        "revision": 4,
+        "files": [
+          {
+            "id": "b2d39737-611d-4e53-ab6d-9f8b1dc0c038",
+            "key": "Constantes.pdf",
+            "size": 336676,
+            "checksum": "md5:0f00e93542b811ddb5b51c85738742d9",
+            "links": {
+              "self": "https://zenodo.org/api/records/17703718/files/Constantes.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1360405"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 251,
+          "unique_downloads": 249,
+          "views": 32,
+          "unique_views": 31,
+          "version_downloads": 251,
+          "version_unique_downloads": 249,
+          "version_unique_views": 31,
+          "version_views": 32
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2022-01-11T12:09:45.238973+00:00",
+        "modified": "2022-01-11T14:53:14.993255+00:00",
+        "id": 5837630,
+        "conceptrecid": "5837629",
+        "doi": "10.5281/zenodo.5837630",
+        "conceptdoi": "10.5281/zenodo.5837629",
+        "doi_url": "https://doi.org/10.5281/zenodo.5837630",
+        "metadata": {
+          "title": "diman: A Clojure library for applying dimensional analysis.",
+          "doi": "10.5281/zenodo.5837630",
+          "publication_date": "2022-01-11",
+          "description": "<p>A Clojure library for applying dimensional analysis.</p>\n\n<p>Current Features</p>\n\n<ul>\n\t<li>Create dimensional formulae.</li>\n\t<li>Create dimensional equations.</li>\n\t<li>Implement principle of dimensional homogeneity; Perform consistency checks.</li>\n\t<li>Derive dimensionless products.</li>\n</ul>\n\n<p><a href=\"https://cljdoc.org/d/com.neuralgraphs/diman/\">Documentation</a></p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Sharma, Lungsi",
+              "affiliation": "Ronin Institute",
+              "orcid": "0000-0002-1607-0164"
+            }
+          ],
+          "contributors": [
+            {
+              "name": "Sharma, Lungsi",
+              "affiliation": "Ronin Institute",
+              "type": "ProjectLeader",
+              "orcid": "0000-0002-1607-0164"
+            }
+          ],
+          "keywords": [
+            "Dimensional analysis",
+            "scientific computing",
+            "clojure",
+            "functional programming",
+            "simulation",
+            "modeling"
+          ],
+          "version": "v1.1.0",
+          "references": [
+            "Sharma, B. L. (2021, July 26). Dimensional Analysis: A Potential Use of Dimensionless Products in Biology/Neuroscience [Html slides]. Institut des Neurosciences Paris-Saclay (NeuroPSI), D\u00e9partement de Neurosciences Int\u00e9gratives et Computationnelles (ICN), CNRS. https://lungsi-slides.github.io/dataclub/icn/2021July26/index.html",
+            "Ngwua, L. (2021, July 4). Theory of Dimensionless Products. NeuralGraphs. https://www.neuralgraphs.com/lectures/diman/lectp1.html"
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Software",
+            "type": "software"
+          },
+          "license": {
+            "id": "bsd-3-clause"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "5837629"
+                }
+              }
+            ]
+          }
+        },
+        "title": "diman: A Clojure library for applying dimensional analysis.",
+        "links": {
+          "self": "https://zenodo.org/api/records/5837630",
+          "self_html": "https://zenodo.org/records/5837630",
+          "preview_html": "https://zenodo.org/records/5837630?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.5837630",
+          "self_doi": "https://doi.org/10.5281/zenodo.5837630",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.5837630",
+          "reserve_doi": "https://zenodo.org/api/records/5837630/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/5837629",
+          "parent_html": "https://zenodo.org/records/5837629",
+          "parent_doi": "https://doi.org/10.5281/zenodo.5837629",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.5837629",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:5837630/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:5837630/sequence/default",
+          "files": "https://zenodo.org/api/records/5837630/files",
+          "media_files": "https://zenodo.org/api/records/5837630/media-files",
+          "archive": "https://zenodo.org/api/records/5837630/files-archive",
+          "archive_media": "https://zenodo.org/api/records/5837630/media-files-archive",
+          "latest": "https://zenodo.org/api/records/5837630/versions/latest",
+          "latest_html": "https://zenodo.org/records/5837630/latest",
+          "versions": "https://zenodo.org/api/records/5837630/versions",
+          "draft": "https://zenodo.org/api/records/5837630/draft",
+          "access_links": "https://zenodo.org/api/records/5837630/access/links",
+          "access_grants": "https://zenodo.org/api/records/5837630/access/grants",
+          "access_users": "https://zenodo.org/api/records/5837630/access/users",
+          "access_request": "https://zenodo.org/api/records/5837630/access/request",
+          "access": "https://zenodo.org/api/records/5837630/access",
+          "communities": "https://zenodo.org/api/records/5837630/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/5837630/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/5837630/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/5837630/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/5837630/quota-increase",
+          "requests": "https://zenodo.org/api/records/5837630/requests"
+        },
+        "updated": "2022-01-11T14:53:14.993255+00:00",
+        "recid": "5837630",
+        "revision": 3,
+        "files": [
+          {
+            "id": "0430370a-e98e-4ad4-9e4a-1c57613737ea",
+            "key": "diman-1.1.0.zip",
+            "size": 1497413,
+            "checksum": "md5:cbda3eaba61d487de7d6eb58a8069139",
+            "links": {
+              "self": "https://zenodo.org/api/records/5837630/files/diman-1.1.0.zip/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "44913"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 44,
+          "unique_downloads": 44,
+          "views": 123,
+          "unique_views": 114,
+          "version_downloads": 44,
+          "version_unique_downloads": 44,
+          "version_unique_views": 114,
+          "version_views": 123
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-09-25T19:46:47.749110+00:00",
+        "modified": "2025-09-25T19:46:48.058319+00:00",
+        "id": 17203665,
+        "conceptrecid": "17203664",
+        "doi": "10.5281/zenodo.17203665",
+        "conceptdoi": "10.5281/zenodo.17203664",
+        "doi_url": "https://doi.org/10.5281/zenodo.17203665",
+        "metadata": {
+          "title": "Entropic Counting of Diagrammatic Microstates and the Emergence of Gravitational Dynamics",
+          "doi": "10.5281/zenodo.17203665",
+          "publication_date": "2025-09-25",
+          "description": "<p><span lang=\"EN-US\">We present a concrete demonstration that the entropic counting of diagrammatic microstates reproduces the essential thermodynamic and quantum features of gravity. Using a toy ensemble of two-dimensional horizon tilings as a proxy for diagrammatic Hilbert space configurations, we show that the microstate entropy obeys a Bekenstein&ndash;Hawking&ndash;like area law with subleading logarithmic corrections. The entropy increment associated with a single tile displacement reproduces the scaling of the Bekenstein bound, while the logarithmic correction matches the sign and form known from semiclassical quantum gravity. When inserted into the thermodynamic derivations of Newton&rsquo;s law and Einstein&rsquo;s field equations, this entropy yields consistent emergent dynamics. These results indicate that both the thermodynamic and quantum perspectives on gravity may share a common microscopic origin in diagrammatic entropy counting.</span></p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Arneth, Borros",
+              "affiliation": "Western Philippines University"
+            }
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "17203664"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Entropic Counting of Diagrammatic Microstates and the Emergence of Gravitational Dynamics",
+        "links": {
+          "self": "https://zenodo.org/api/records/17203665",
+          "self_html": "https://zenodo.org/records/17203665",
+          "preview_html": "https://zenodo.org/records/17203665?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.17203665",
+          "self_doi": "https://doi.org/10.5281/zenodo.17203665",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17203665",
+          "reserve_doi": "https://zenodo.org/api/records/17203665/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/17203664",
+          "parent_html": "https://zenodo.org/records/17203664",
+          "parent_doi": "https://doi.org/10.5281/zenodo.17203664",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17203664",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17203665/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17203665/sequence/default",
+          "files": "https://zenodo.org/api/records/17203665/files",
+          "media_files": "https://zenodo.org/api/records/17203665/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:17203665:short%20manuscript.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:17203665:short%20manuscript.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:17203665:short%20manuscript.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:17203665:short%20manuscript.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:17203665:short%20manuscript.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:17203665:short%20manuscript.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/17203665/files-archive",
+          "archive_media": "https://zenodo.org/api/records/17203665/media-files-archive",
+          "latest": "https://zenodo.org/api/records/17203665/versions/latest",
+          "latest_html": "https://zenodo.org/records/17203665/latest",
+          "versions": "https://zenodo.org/api/records/17203665/versions",
+          "draft": "https://zenodo.org/api/records/17203665/draft",
+          "access_links": "https://zenodo.org/api/records/17203665/access/links",
+          "access_grants": "https://zenodo.org/api/records/17203665/access/grants",
+          "access_users": "https://zenodo.org/api/records/17203665/access/users",
+          "access_request": "https://zenodo.org/api/records/17203665/access/request",
+          "access": "https://zenodo.org/api/records/17203665/access",
+          "communities": "https://zenodo.org/api/records/17203665/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/17203665/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/17203665/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/17203665/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/17203665/quota-increase",
+          "requests": "https://zenodo.org/api/records/17203665/requests"
+        },
+        "updated": "2025-09-25T19:46:48.058319+00:00",
+        "recid": "17203665",
+        "revision": 4,
+        "files": [
+          {
+            "id": "260f3dd8-bf67-4af4-8b69-9fbcabb8bad6",
+            "key": "short manuscript.pdf",
+            "size": 89866,
+            "checksum": "md5:7bff31e5401392127d503ed3e99b577d",
+            "links": {
+              "self": "https://zenodo.org/api/records/17203665/files/short%20manuscript.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "551651"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 28,
+          "unique_downloads": 27,
+          "views": 45,
+          "unique_views": 45,
+          "version_downloads": 28,
+          "version_unique_downloads": 27,
+          "version_unique_views": 45,
+          "version_views": 45
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-03-17T00:13:15.140311+00:00",
+        "modified": "2026-05-07T16:32:56.609420+00:00",
+        "id": 15036646,
+        "conceptrecid": "15036645",
+        "doi": "10.5281/zenodo.15036646",
+        "conceptdoi": "10.5281/zenodo.15036645",
+        "doi_url": "https://doi.org/10.5281/zenodo.15036646",
+        "metadata": {
+          "title": "Beyond the Bekenstein Bound: Prime-Driven Structured Resonance as the Fundamental Ordering Principle of Information and Entropy",
+          "doi": "10.5281/zenodo.15036646",
+          "publication_date": "2025-03-17",
+          "description": "<p><strong>Supersession Note &mdash; May 2026</strong></p>\n<p>This CODES-era work is an exploratory predecessor and is no longer the canonical statement of the author&rsquo;s program. It has been superseded by the identity-persistence stack:</p>\n<p>Universal Identity and Persistence:</p>\n<p>https://zenodo.org/records/19904166</p>\n<p>A Mathematical Theory of Identity Persistence:</p>\n<p>https://zenodo.org/records/19967345</p>\n<p>A Coding Theorem for Identity Persistence:</p>\n<p>https://zenodo.org/records/19996467</p>\n<p>Identity Persistence Calculus:</p>\n<p>https://zenodo.org/records/19905404</p>\n<p>The Bounded Corridor:</p>\n<p>https://zenodo.org/records/19645631</p>\n<p>The Unclosable Bridge:</p>\n<p>https://zenodo.org/records/19601328</p>\n<p>Claims in this record concerning replacement of probability, unrestricted universality, ontology, physics, intelligence, biology, governance, or reality should be read as developmental framing, not as the current formal claim.</p>\n<p>The current claim is restricted to identity persistence under transformation within explicit admissibility constraints: recurrence comparability, admissible redescription, bounded drift, scalar or scalar-equivalent governance, finite identity capacity, and deterministic finite-regime coding/enforcement where applicable.</p>\n<p>&nbsp;</p>",
+          "access_right": "restricted",
+          "creators": [
+            {
+              "name": "Bostick, Devin",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "Bekenstein Bound",
+            "Black Hole Thermodynamics",
+            "Quantum Entropy",
+            "Holographic Principle",
+            "Prime-Driven Resonance",
+            "Structured Resonance Physics",
+            "Resonance Field Theory",
+            "Non-Probabilistic Thermodynamics",
+            "ntropy as Structured Emergence",
+            "Hawking Radiation and Resonance",
+            "Dark Matter and Structured Information Flow",
+            "AI and Deterministic Cognition",
+            "Wavelet Coherence in Information Theory"
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Publication",
+            "type": "publication"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "15036645"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Beyond the Bekenstein Bound: Prime-Driven Structured Resonance as the Fundamental Ordering Principle of Information and Entropy",
+        "links": {
+          "self": "https://zenodo.org/api/records/15036646",
+          "self_html": "https://zenodo.org/records/15036646",
+          "preview_html": "https://zenodo.org/records/15036646?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.15036646",
+          "self_doi": "https://doi.org/10.5281/zenodo.15036646",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15036646",
+          "reserve_doi": "https://zenodo.org/api/records/15036646/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/15036645",
+          "parent_html": "https://zenodo.org/records/15036645",
+          "parent_doi": "https://doi.org/10.5281/zenodo.15036645",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15036645",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:15036646/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:15036646/sequence/default",
+          "files": "https://zenodo.org/api/records/15036646/files",
+          "media_files": "https://zenodo.org/api/records/15036646/media-files",
+          "archive": "https://zenodo.org/api/records/15036646/files-archive",
+          "archive_media": "https://zenodo.org/api/records/15036646/media-files-archive",
+          "latest": "https://zenodo.org/api/records/15036646/versions/latest",
+          "latest_html": "https://zenodo.org/records/15036646/latest",
+          "versions": "https://zenodo.org/api/records/15036646/versions",
+          "draft": "https://zenodo.org/api/records/15036646/draft",
+          "access_links": "https://zenodo.org/api/records/15036646/access/links",
+          "access_grants": "https://zenodo.org/api/records/15036646/access/grants",
+          "access_users": "https://zenodo.org/api/records/15036646/access/users",
+          "access_request": "https://zenodo.org/api/records/15036646/access/request",
+          "access": "https://zenodo.org/api/records/15036646/access",
+          "communities": "https://zenodo.org/api/records/15036646/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/15036646/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/15036646/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/15036646/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/15036646/quota-increase",
+          "requests": "https://zenodo.org/api/records/15036646/requests"
+        },
+        "updated": "2026-05-07T16:32:56.609420+00:00",
+        "recid": "15036646",
+        "revision": 6,
+        "files": [],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1256110"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 27,
+          "unique_downloads": 23,
+          "views": 49,
+          "unique_views": 47,
+          "version_downloads": 27,
+          "version_unique_downloads": 23,
+          "version_unique_views": 47,
+          "version_views": 49
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-06-01T02:45:58.262666+00:00",
+        "modified": "2026-06-01T02:45:58.459605+00:00",
+        "id": 20482477,
+        "conceptrecid": "20475338",
+        "doi": "10.5281/zenodo.20482477",
+        "conceptdoi": "10.5281/zenodo.20475338",
+        "doi_url": "https://doi.org/10.5281/zenodo.20482477",
+        "metadata": {
+          "title": "Information dynamics of time travel an axiomatic model of the information world-tube and its two self-consistent routes",
+          "doi": "10.5281/zenodo.20482477",
+          "publication_date": "2026-05-31",
+          "description": "<p class=\"MsoBodyText\">Closed timelike curves (CTCs) are permitted by several solutions of general relativity, yet their quantum-information treatment&mdash;Deutsch&rsquo;s density-matrix fixed point and the Lloyd&ndash;Maccone post-selected model&mdash;leaves implicit how information persists along a worldline and what a self-consistent solution must imply. We introduce an axiomatic framework built on the information world-tube: the timelike trajectory of the active carrier of one unit of information, governed by axioms of birth, persistence and annihilation. From these we derive a conservation law for active information, a holographic&ndash;persistence capacity bound that reduces to the Bekenstein bound in the instantaneous limit, and the thermodynamic cost of writing and erasing information. We show that self-consistent CTC solutions fall into two families&mdash;a memory-preserving cross-branch route and a memory-erasing rewind route&mdash;obtained as fixed points of a single causal-consistency functional. The framework is mathematically self-consistent and, in principle, falsifiable by quantum simulation.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Yin, Xiang",
+              "affiliation": null
+            }
+          ],
+          "resource_type": {
+            "title": "Thesis",
+            "type": "publication",
+            "subtype": "dissertation"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 2,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20475338"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Information dynamics of time travel an axiomatic model of the information world-tube and its two self-consistent routes",
+        "links": {
+          "self": "https://zenodo.org/api/records/20482477",
+          "self_html": "https://zenodo.org/records/20482477",
+          "preview_html": "https://zenodo.org/records/20482477?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20482477",
+          "self_doi": "https://doi.org/10.5281/zenodo.20482477",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20482477",
+          "reserve_doi": "https://zenodo.org/api/records/20482477/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20475338",
+          "parent_html": "https://zenodo.org/records/20475338",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20475338",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20475338",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20482477/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20482477/sequence/default",
+          "files": "https://zenodo.org/api/records/20482477/files",
+          "media_files": "https://zenodo.org/api/records/20482477/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:20482477:Information%20dynamics%20of%20time%20travel%20an%20axiomatic%20model%20of%20the%20information%20world-tube%20and%20its%20two%20self-consistent%20routes.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:20482477:Information%20dynamics%20of%20time%20travel%20an%20axiomatic%20model%20of%20the%20information%20world-tube%20and%20its%20two%20self-consistent%20routes.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:20482477:Information%20dynamics%20of%20time%20travel%20an%20axiomatic%20model%20of%20the%20information%20world-tube%20and%20its%20two%20self-consistent%20routes.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:20482477:Information%20dynamics%20of%20time%20travel%20an%20axiomatic%20model%20of%20the%20information%20world-tube%20and%20its%20two%20self-consistent%20routes.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:20482477:Information%20dynamics%20of%20time%20travel%20an%20axiomatic%20model%20of%20the%20information%20world-tube%20and%20its%20two%20self-consistent%20routes.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:20482477:Information%20dynamics%20of%20time%20travel%20an%20axiomatic%20model%20of%20the%20information%20world-tube%20and%20its%20two%20self-consistent%20routes.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/20482477/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20482477/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20482477/versions/latest",
+          "latest_html": "https://zenodo.org/records/20482477/latest",
+          "versions": "https://zenodo.org/api/records/20482477/versions",
+          "draft": "https://zenodo.org/api/records/20482477/draft",
+          "access_links": "https://zenodo.org/api/records/20482477/access/links",
+          "access_grants": "https://zenodo.org/api/records/20482477/access/grants",
+          "access_users": "https://zenodo.org/api/records/20482477/access/users",
+          "access_request": "https://zenodo.org/api/records/20482477/access/request",
+          "access": "https://zenodo.org/api/records/20482477/access",
+          "communities": "https://zenodo.org/api/records/20482477/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20482477/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20482477/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20482477/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20482477/quota-increase",
+          "requests": "https://zenodo.org/api/records/20482477/requests"
+        },
+        "updated": "2026-06-01T02:45:58.459605+00:00",
+        "recid": "20482477",
+        "revision": 4,
+        "files": [
+          {
+            "id": "19944dc4-4f18-4971-b972-d80cbac6f837",
+            "key": "Information dynamics of time travel an axiomatic model of the information world-tube and its two self-consistent routes.pdf",
+            "size": 420136,
+            "checksum": "md5:66a04c1754c55d32cd424d9f65c34106",
+            "links": {
+              "self": "https://zenodo.org/api/records/20482477/files/Information%20dynamics%20of%20time%20travel%20an%20axiomatic%20model%20of%20the%20information%20world-tube%20and%20its%20two%20self-consistent%20routes.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1669221"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 20,
+          "unique_downloads": 20,
+          "views": 54,
+          "unique_views": 50,
+          "version_downloads": 12,
+          "version_unique_downloads": 12,
+          "version_unique_views": 19,
+          "version_views": 21
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-05-22T11:10:37.430013+00:00",
+        "modified": "2025-05-22T11:10:37.795512+00:00",
+        "id": 15488499,
+        "conceptrecid": "15488498",
+        "doi": "10.5281/zenodo.15488499",
+        "conceptdoi": "10.5281/zenodo.15488498",
+        "doi_url": "https://doi.org/10.5281/zenodo.15488499",
+        "metadata": {
+          "title": "Symmetry, Not Area, Bounds Entropy: A Haar Measure  Reformulation of the Bekenstein Limit",
+          "doi": "10.5281/zenodo.15488499",
+          "publication_date": "2025-05-22",
+          "description": "<p>This paper proposes a novel reformulation of the Bekenstein entropy bound, replacing geometric surface area with symmetry as the fundamental constraint on information in gravitational systems. By modeling the boundary of a radially symmetric region as a homogeneous coset space <span><span>&Sigma;&cong;G/H\\Sigma \\cong G/H</span><span><span><span>&Sigma;</span><span>&cong;</span></span><span><span>G</span><span>/</span><span>H</span></span></span></span>, we derive both volume and entropy bounds from the invariant Haar measure &mdash; unifying thermodynamic and geometric constraints under group theory. We introduce a complexity-weighted extension in which entropy capacity scales inversely with the Kolmogorov complexity of the boundary's symmetry group action. This leads to a falsifiable prediction: when boundary area and symmetry diverge (e.g., in fractal or irregular geometries), entropy follows symmetry, not size. The framework provides a new, symmetry-first foundation for gravitational thermodynamics, black hole information theory, and holographic principles &mdash; linking geometry, information, and symmetry in a single measure-theoretic formulation.</p>\n<p><strong>Keywords:</strong> Bekenstein bound, entropy, Haar measure, symmetry, coset space, Kolmogorov complexity, black hole thermodynamics, information theory, gravitational entropy, holography, group theory</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Murphy, Andrew J",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "entropy",
+            "physics",
+            "mathematics",
+            "bekenstein",
+            "symmetry",
+            "group theory",
+            "Haar",
+            "Haar Measures",
+            "Lie Groups",
+            "Coset Space",
+            "Coset Spaces",
+            "Kolmogorov Complexity",
+            "Beckenstein Bound",
+            "Black Holes",
+            "Information Theory",
+            "Holography",
+            "Quantum Gravity"
+          ],
+          "dates": [
+            {
+              "type": "submitted",
+              "description": "Symmetry Not Area Bounds Entropy- A Haar Measure Reformulation of the Bekenstein Limit - A J Murphy - V3.8.pdf"
+            }
+          ],
+          "version": "1 (Zenodo)",
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-sa-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "15488498"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Symmetry, Not Area, Bounds Entropy: A Haar Measure  Reformulation of the Bekenstein Limit",
+        "links": {
+          "self": "https://zenodo.org/api/records/15488499",
+          "self_html": "https://zenodo.org/records/15488499",
+          "preview_html": "https://zenodo.org/records/15488499?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.15488499",
+          "self_doi": "https://doi.org/10.5281/zenodo.15488499",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15488499",
+          "reserve_doi": "https://zenodo.org/api/records/15488499/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/15488498",
+          "parent_html": "https://zenodo.org/records/15488498",
+          "parent_doi": "https://doi.org/10.5281/zenodo.15488498",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15488498",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:15488499/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:15488499/sequence/default",
+          "files": "https://zenodo.org/api/records/15488499/files",
+          "media_files": "https://zenodo.org/api/records/15488499/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:15488499:Symmetry%20Not%20Area%20Bounds%20Entropy-%20A%20Haar%20Measure%20Reformulation%20of%20the%20Bekenstein%20Limit%20-%20A%20J%20Murphy%20-%20V3.8.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:15488499:Symmetry%20Not%20Area%20Bounds%20Entropy-%20A%20Haar%20Measure%20Reformulation%20of%20the%20Bekenstein%20Limit%20-%20A%20J%20Murphy%20-%20V3.8.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:15488499:Symmetry%20Not%20Area%20Bounds%20Entropy-%20A%20Haar%20Measure%20Reformulation%20of%20the%20Bekenstein%20Limit%20-%20A%20J%20Murphy%20-%20V3.8.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:15488499:Symmetry%20Not%20Area%20Bounds%20Entropy-%20A%20Haar%20Measure%20Reformulation%20of%20the%20Bekenstein%20Limit%20-%20A%20J%20Murphy%20-%20V3.8.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:15488499:Symmetry%20Not%20Area%20Bounds%20Entropy-%20A%20Haar%20Measure%20Reformulation%20of%20the%20Bekenstein%20Limit%20-%20A%20J%20Murphy%20-%20V3.8.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:15488499:Symmetry%20Not%20Area%20Bounds%20Entropy-%20A%20Haar%20Measure%20Reformulation%20of%20the%20Bekenstein%20Limit%20-%20A%20J%20Murphy%20-%20V3.8.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/15488499/files-archive",
+          "archive_media": "https://zenodo.org/api/records/15488499/media-files-archive",
+          "latest": "https://zenodo.org/api/records/15488499/versions/latest",
+          "latest_html": "https://zenodo.org/records/15488499/latest",
+          "versions": "https://zenodo.org/api/records/15488499/versions",
+          "draft": "https://zenodo.org/api/records/15488499/draft",
+          "access_links": "https://zenodo.org/api/records/15488499/access/links",
+          "access_grants": "https://zenodo.org/api/records/15488499/access/grants",
+          "access_users": "https://zenodo.org/api/records/15488499/access/users",
+          "access_request": "https://zenodo.org/api/records/15488499/access/request",
+          "access": "https://zenodo.org/api/records/15488499/access",
+          "communities": "https://zenodo.org/api/records/15488499/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/15488499/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/15488499/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/15488499/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/15488499/quota-increase",
+          "requests": "https://zenodo.org/api/records/15488499/requests"
+        },
+        "updated": "2025-05-22T11:10:37.795512+00:00",
+        "recid": "15488499",
+        "revision": 4,
+        "files": [
+          {
+            "id": "72def0b6-91c3-40e4-85ae-ae7aa46afbc1",
+            "key": "Symmetry Not Area Bounds Entropy- A Haar Measure Reformulation of the Bekenstein Limit - A J Murphy - V3.8.pdf",
+            "size": 236523,
+            "checksum": "md5:0406c0d609be30fa5fddb0bcef55dcec",
+            "links": {
+              "self": "https://zenodo.org/api/records/15488499/files/Symmetry%20Not%20Area%20Bounds%20Entropy-%20A%20Haar%20Measure%20Reformulation%20of%20the%20Bekenstein%20Limit%20-%20A%20J%20Murphy%20-%20V3.8.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1315687"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 66,
+          "unique_downloads": 62,
+          "views": 128,
+          "unique_views": 127,
+          "version_downloads": 66,
+          "version_unique_downloads": 62,
+          "version_unique_views": 127,
+          "version_views": 128
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-06-01T02:42:36.853000+00:00",
+        "modified": "2026-06-01T02:42:37.119447+00:00",
+        "id": 20482447,
+        "conceptrecid": "20475324",
+        "doi": "10.5281/zenodo.20482447",
+        "conceptdoi": "10.5281/zenodo.20475324",
+        "doi_url": "https://doi.org/10.5281/zenodo.20482447",
+        "metadata": {
+          "title": "Information world-tubes as fundamental spacetime entities the worldline as a derived, eikonal object",
+          "doi": "10.5281/zenodo.20482447",
+          "publication_date": "2026-05-31",
+          "description": "<p class=\"MsoBodyText\">In relativity and quantum field theory the history of a structureless particle is a one-dimensional timelike worldline, yet frameworks that tie information to area&mdash;the holographic principle, the Bekenstein bound, and the discrete area spectrum of loop quantum gravity&mdash;deny a line the transverse measure needed to carry a finite quantum of information. From a single postulate, that spacetime stores each created bit in an extended spacetime information element persisting until erasure, we invert the usual ontology: the fundamental carrier is an information world-tube whose spacelike cross section is an area-quantized region of nonzero information content, and the familiar worldline is the <em>derived</em> locus of cross-sectional centroids, recovered in the eikonal limit. The tubular-neighborhood theorem makes the inversion precise, the centroid is timelike under the dominant energy condition, and a holographic&ndash;persistence capacity bound follows from the postulate. Three usually-stipulated features&mdash;intrinsic wave behavior, the area&ndash;information link, and a finite minimal carrier&mdash;become consequences while the standard kinematics is unchanged. A gate-defined semiconductor quantum dot realizes a single tube cross section in the laboratory.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Yin, Xiang",
+              "affiliation": null
+            }
+          ],
+          "resource_type": {
+            "title": "Thesis",
+            "type": "publication",
+            "subtype": "dissertation"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 2,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20475324"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Information world-tubes as fundamental spacetime entities the worldline as a derived, eikonal object",
+        "links": {
+          "self": "https://zenodo.org/api/records/20482447",
+          "self_html": "https://zenodo.org/records/20482447",
+          "preview_html": "https://zenodo.org/records/20482447?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20482447",
+          "self_doi": "https://doi.org/10.5281/zenodo.20482447",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20482447",
+          "reserve_doi": "https://zenodo.org/api/records/20482447/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20475324",
+          "parent_html": "https://zenodo.org/records/20475324",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20475324",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20475324",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20482447/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20482447/sequence/default",
+          "files": "https://zenodo.org/api/records/20482447/files",
+          "media_files": "https://zenodo.org/api/records/20482447/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:20482447:Information%20world-tubes%20as%20fundamental%20spacetime%20entities%20the%20worldline%20as%20a%20derived,%20eikonal%20object.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:20482447:Information%20world-tubes%20as%20fundamental%20spacetime%20entities%20the%20worldline%20as%20a%20derived,%20eikonal%20object.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:20482447:Information%20world-tubes%20as%20fundamental%20spacetime%20entities%20the%20worldline%20as%20a%20derived,%20eikonal%20object.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:20482447:Information%20world-tubes%20as%20fundamental%20spacetime%20entities%20the%20worldline%20as%20a%20derived,%20eikonal%20object.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:20482447:Information%20world-tubes%20as%20fundamental%20spacetime%20entities%20the%20worldline%20as%20a%20derived,%20eikonal%20object.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:20482447:Information%20world-tubes%20as%20fundamental%20spacetime%20entities%20the%20worldline%20as%20a%20derived,%20eikonal%20object.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/20482447/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20482447/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20482447/versions/latest",
+          "latest_html": "https://zenodo.org/records/20482447/latest",
+          "versions": "https://zenodo.org/api/records/20482447/versions",
+          "draft": "https://zenodo.org/api/records/20482447/draft",
+          "access_links": "https://zenodo.org/api/records/20482447/access/links",
+          "access_grants": "https://zenodo.org/api/records/20482447/access/grants",
+          "access_users": "https://zenodo.org/api/records/20482447/access/users",
+          "access_request": "https://zenodo.org/api/records/20482447/access/request",
+          "access": "https://zenodo.org/api/records/20482447/access",
+          "communities": "https://zenodo.org/api/records/20482447/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20482447/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20482447/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20482447/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20482447/quota-increase",
+          "requests": "https://zenodo.org/api/records/20482447/requests"
+        },
+        "updated": "2026-06-01T02:42:37.119447+00:00",
+        "recid": "20482447",
+        "revision": 4,
+        "files": [
+          {
+            "id": "82bdc5b6-ed08-4a8b-80f8-aed53e68a5fe",
+            "key": "Information world-tubes as fundamental spacetime entities the worldline as a derived, eikonal object.pdf",
+            "size": 410021,
+            "checksum": "md5:7ef815e2a17c3ac923794149e349a02c",
+            "links": {
+              "self": "https://zenodo.org/api/records/20482447/files/Information%20world-tubes%20as%20fundamental%20spacetime%20entities%20the%20worldline%20as%20a%20derived,%20eikonal%20object.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1669221"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 23,
+          "unique_downloads": 22,
+          "views": 58,
+          "unique_views": 52,
+          "version_downloads": 14,
+          "version_unique_downloads": 13,
+          "version_unique_views": 18,
+          "version_views": 21
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-11-30T12:58:59.079496+00:00",
+        "modified": "2025-11-30T12:58:59.545541+00:00",
+        "id": 17768836,
+        "conceptrecid": "17768835",
+        "doi": "10.5281/zenodo.17768836",
+        "conceptdoi": "10.5281/zenodo.17768835",
+        "doi_url": "https://doi.org/10.5281/zenodo.17768836",
+        "metadata": {
+          "title": "The Causal Origin of the Generalized Uncertainty Principle",
+          "doi": "10.5281/zenodo.17768836",
+          "publication_date": "2025-11-30",
+          "description": "<div>\n<div>The Generalized Uncertainty Principle (GUP), characterized by a quadratic momentum correction, is a standard prediction of String Theory and Loop Quantum Gravity, typically attributed to a fundamental minimum geometric length scale. We propose that GUP is not an intrinsic geometric modification of space, but a kinematic consequence of the relativistic speed limit applied to quantum measurement durations. By enforcing Lorentz invariance of the quantum phase and Time-Energy uncertainty, we derive a \"Spacetime Action Constraint.\" We validate this framework via three computational models: (1) a discrete phonon lattice (Control), (2) a fluctuating causal network (Mechanism), and (3) a temporal convolution model (Verification). We demonstrate that spatial discreteness alone preserves standard Heisenberg uncertainty, whereas introducing causal measurement latency reproduces the exact quadratic GUP scaling. Furthermore, applying this causal limit to information packing naturally recovers the Holographic Principle and the Bekenstein bound. These results suggest that the \"minimum length\" of quantum gravity can be reinterpreted as a \"minimum causal latency,\" implying that spacetime geometry is emergent from causal information constraints.</div>\n</div>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Sandner, Daniel",
+              "affiliation": null,
+              "orcid": "0000-0002-1041-814X"
+            }
+          ],
+          "keywords": [
+            "Generalized Uncertainty Principle",
+            "Quantum Gravity",
+            "Causal Latency",
+            "Holographic Principle",
+            "Relativistic Quantum Information",
+            "Holometer",
+            "Quantum Noise",
+            "Heisenberg Uncertainty",
+            "Time-Energy Uncertainty"
+          ],
+          "version": "v1.0.0",
+          "language": "eng",
+          "custom": {
+            "code:codeRepository": "https://github.com/sandner-art/SC-Heisenberg",
+            "code:programmingLanguage": [
+              {
+                "id": "python",
+                "title": {
+                  "en": "Python"
+                }
+              }
+            ]
+          },
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "17768835"
+                }
+              }
+            ]
+          }
+        },
+        "title": "The Causal Origin of the Generalized Uncertainty Principle",
+        "links": {
+          "self": "https://zenodo.org/api/records/17768836",
+          "self_html": "https://zenodo.org/records/17768836",
+          "preview_html": "https://zenodo.org/records/17768836?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.17768836",
+          "self_doi": "https://doi.org/10.5281/zenodo.17768836",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17768836",
+          "reserve_doi": "https://zenodo.org/api/records/17768836/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/17768835",
+          "parent_html": "https://zenodo.org/records/17768835",
+          "parent_doi": "https://doi.org/10.5281/zenodo.17768835",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17768835",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17768836/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17768836/sequence/default",
+          "files": "https://zenodo.org/api/records/17768836/files",
+          "media_files": "https://zenodo.org/api/records/17768836/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:17768836:paper.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:17768836:paper.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:17768836:paper.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:17768836:paper.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:17768836:paper.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:17768836:paper.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/17768836/files-archive",
+          "archive_media": "https://zenodo.org/api/records/17768836/media-files-archive",
+          "latest": "https://zenodo.org/api/records/17768836/versions/latest",
+          "latest_html": "https://zenodo.org/records/17768836/latest",
+          "versions": "https://zenodo.org/api/records/17768836/versions",
+          "draft": "https://zenodo.org/api/records/17768836/draft",
+          "access_links": "https://zenodo.org/api/records/17768836/access/links",
+          "access_grants": "https://zenodo.org/api/records/17768836/access/grants",
+          "access_users": "https://zenodo.org/api/records/17768836/access/users",
+          "access_request": "https://zenodo.org/api/records/17768836/access/request",
+          "access": "https://zenodo.org/api/records/17768836/access",
+          "communities": "https://zenodo.org/api/records/17768836/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/17768836/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/17768836/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/17768836/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/17768836/quota-increase",
+          "requests": "https://zenodo.org/api/records/17768836/requests"
+        },
+        "updated": "2025-11-30T12:58:59.545541+00:00",
+        "recid": "17768836",
+        "revision": 4,
+        "files": [
+          {
+            "id": "b6d7c0d0-7ac4-443c-9cc7-9a11e8f7e661",
+            "key": "paper.pdf",
+            "size": 1384168,
+            "checksum": "md5:b827182fe63280cc0063a23dd1deefcf",
+            "links": {
+              "self": "https://zenodo.org/api/records/17768836/files/paper.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "203848"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 88,
+          "unique_downloads": 72,
+          "views": 80,
+          "unique_views": 68,
+          "version_downloads": 88,
+          "version_unique_downloads": 72,
+          "version_unique_views": 68,
+          "version_views": 80
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-04-07T06:31:09.984212+00:00",
+        "modified": "2026-04-07T06:31:10.347900+00:00",
+        "id": 19448852,
+        "conceptrecid": "19448851",
+        "doi": "10.5281/zenodo.19448852",
+        "conceptdoi": "10.5281/zenodo.19448851",
+        "doi_url": "https://doi.org/10.5281/zenodo.19448852",
+        "metadata": {
+          "title": "The Autopoietic Theorem",
+          "doi": "10.5281/zenodo.19448852",
+          "publication_date": "2026-04-07",
+          "description": "<p>We show that the autopoietic hierarchy is a formal consequence of three foundational premises within any stable, spatially extended environment. These premises are change (the cosmic ought), finite information capacity (the Bekenstein bound), and stable low-level conditions. From these we derive the three orders of persistence (static, dynamic, and novelty-generating) as a chain of formal consequences. A formal Stack Theoretic interpretation of the Law of Increasing Functional Information shows that persistence under novelty favours weakness maximisation, because this keeps the most compatible futures open. We show that weakness maximisation diverges from simplicity maximisation in stable environments. This bridges a void of unviable intermediate forms and entails self-producing, boundary-maintaining systems. We then invoke the Law of the Stack to show that dynamic persistence at lower levels unlocks higher-level adaptability, creating selection pressure for novelty generation and the preconditions for open-ended evolution. The three orders are thus derivable from axioms rather than identified as empirical regularities. We ground each stage in established models of self-replicating cellular automata, autopoietic protocells, and homeodynamic selves. The result subsumes Assembly Theory's proposed orders of selection while deriving them from weaker assumptions, and reframes the origin of life as a question about mechanism rather than about possibility.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Bennett, Michael Timothy",
+              "affiliation": null,
+              "orcid": "0000-0001-6895-8782"
+            },
+            {
+              "name": "Suzuki, Keisuke",
+              "affiliation": "Hokkaido University",
+              "orcid": "0000-0001-7014-8770"
+            }
+          ],
+          "resource_type": {
+            "title": "Conference paper",
+            "type": "publication",
+            "subtype": "conferencepaper"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "19448851"
+                }
+              }
+            ]
+          }
+        },
+        "title": "The Autopoietic Theorem",
+        "links": {
+          "self": "https://zenodo.org/api/records/19448852",
+          "self_html": "https://zenodo.org/records/19448852",
+          "preview_html": "https://zenodo.org/records/19448852?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.19448852",
+          "self_doi": "https://doi.org/10.5281/zenodo.19448852",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19448852",
+          "reserve_doi": "https://zenodo.org/api/records/19448852/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/19448851",
+          "parent_html": "https://zenodo.org/records/19448851",
+          "parent_doi": "https://doi.org/10.5281/zenodo.19448851",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19448851",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:19448852/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:19448852/sequence/default",
+          "files": "https://zenodo.org/api/records/19448852/files",
+          "media_files": "https://zenodo.org/api/records/19448852/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:19448852:TAT%20(9).pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:19448852:TAT%20(9).pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:19448852:TAT%20(9).pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:19448852:TAT%20(9).pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:19448852:TAT%20(9).pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:19448852:TAT%20(9).pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/19448852/files-archive",
+          "archive_media": "https://zenodo.org/api/records/19448852/media-files-archive",
+          "latest": "https://zenodo.org/api/records/19448852/versions/latest",
+          "latest_html": "https://zenodo.org/records/19448852/latest",
+          "versions": "https://zenodo.org/api/records/19448852/versions",
+          "draft": "https://zenodo.org/api/records/19448852/draft",
+          "access_links": "https://zenodo.org/api/records/19448852/access/links",
+          "access_grants": "https://zenodo.org/api/records/19448852/access/grants",
+          "access_users": "https://zenodo.org/api/records/19448852/access/users",
+          "access_request": "https://zenodo.org/api/records/19448852/access/request",
+          "access": "https://zenodo.org/api/records/19448852/access",
+          "communities": "https://zenodo.org/api/records/19448852/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/19448852/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/19448852/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/19448852/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/19448852/quota-increase",
+          "requests": "https://zenodo.org/api/records/19448852/requests"
+        },
+        "updated": "2026-04-07T06:31:10.347900+00:00",
+        "recid": "19448852",
+        "revision": 4,
+        "files": [
+          {
+            "id": "a5a735d5-0eff-415e-9b07-17824ed3f4f3",
+            "key": "TAT (9).pdf",
+            "size": 265042,
+            "checksum": "md5:b2275fbc8aa7070c9c771c0839834785",
+            "links": {
+              "self": "https://zenodo.org/api/records/19448852/files/TAT%20(9).pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "499757"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 21,
+          "unique_downloads": 17,
+          "views": 23,
+          "unique_views": 23,
+          "version_downloads": 21,
+          "version_unique_downloads": 17,
+          "version_unique_views": 23,
+          "version_views": 23
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2021-12-24T20:20:29.539823+00:00",
+        "modified": "2026-08-01T13:58:15.084170+00:00",
+        "id": 5803749,
+        "conceptrecid": "5803748",
+        "doi": "10.9734/psij/2021/v25i930281",
+        "doi_url": "https://doi.org/10.9734/psij/2021/v25i930281",
+        "metadata": {
+          "title": "Entropic Information Theory: Formulae and Quantum Gravity; Bits from Bit",
+          "doi": "10.9734/psij/2021/v25i930281",
+          "publication_date": "2021-12-13",
+          "description": "<p>We show here that entropic information is capable of unifying all aspects of the universe at all scales in a coherent and global theoretical mathematical framework materialized by entropic information framework, theory and formulas, where dark matter, dark energy and gravity are truly informationals processes and where information is code and code is what creates the process, it is itself the process. Mass, energy and movement of information are respectively dark matter, dark energy, and gravity. Here, we reconcile general relativity and quantum mechanics by introducing quantum gravity for the Planckian scale. The formulas of entropic information are expressed in natural units, physical units of measurement based only on universal constants, constants, which refer to the basic structure of the laws of physics:&nbsp; C and G are part of the structure of space-time in general relativity, and h captures the relationship between energy and frequency that is the basis of quantum mechanics. Here we show that entropic information formulas are able to present entropic information in various unifying aspects and introduce gravity at the Planck scale. We prove that Entropic information theory is thus building the bridge between general relativity and quantum mechanics</p>",
+          "access_right": "restricted",
+          "creators": [
+            {
+              "name": "denis olivier",
+              "affiliation": null,
+              "orcid": "0000-0003-0448-7154"
+            }
+          ],
+          "keywords": [
+            "Information",
+            "general relativity",
+            "quantum mechanics",
+            "quantum gravity",
+            "dark matter",
+            "dark energy",
+            "universal physics constants",
+            "entropic information",
+            "unification",
+            "theory of everything",
+            "grand unified theory"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.9734/psij/2021/v25i930281",
+              "relation": "isReferencedBy",
+              "resource_type": "publication-article",
+              "scheme": "doi"
+            }
+          ],
+          "references": [
+            "Macrostates and Microstates Archived 2012-03-05 at the Wayback Machine",
+            "Reif, Frederick (1965). Fundamentals of Statistical and Thermal Physics. McGraw-Hill. pp. 66\u201370. ISBN 978-0-07-051800-1.",
+            "Pathria, R K (1965). Statistical Mechanics. Butterworth-Heinemann. p. 10. ISBN 0-7506-2469-8.",
+            "]  Shannon, Claude E. (July 1948). \"A Mathematical Theory of Communication\". Bell System Technical Journal. 27 (3): 379\u2013423. doi:10.1002/j.1538-7305.1948.tb01338.x. hdl:10338.dmlcz/101429",
+            "Shannon, Claude E. (October 1948). \"A Mathematical Theory of Communication\". Bell System Technical Journal. 27 (4): 623\u2013656. doi:10.1002/j.1538-7305.1948.tb00917.x. hdl:11858/00-001M-0000-002C-4317-B",
+            "Planck, M. (1914). The Theory of Heat Radiation. Translated by Masius, M. (2nd ed.). P. Blakiston's Son & Co. OL 7154661M",
+            "Christian Bizouard, \u00ab [PDF] E = m c2 l'\u00e9quation de Poincar\u00e9, Einstein et Planck [archive] \u00bb.",
+            "wikipedians , Superstrings, P-Branes and M-theory. Theory of Everything pp 514",
+            "Melvin M. Vopson. (2021) Estimation of the information contained in the visible matter of the universe. AIP Advances 11:10, 105317",
+            "Bekenstein, Jacob D. (1981). \"Universal upper bound on the entropy-to-energy ratio for bounded systems\" (PDF). Physical Review D. 23 (2): 287\u2013298. Bibcode:1981PhRvD..23..287B. doi:10.1103/PhysRevD.23.287.",
+            "Bekenstein, Jacob D. (2005). \"How does the Entropy/Information Bound Work?\". Foundations of Physics. 35 (11): 1805\u20131823. arXiv:quant-ph/0404042. Bibcode:2005FoPh...35.1805B. doi:10.1007/s10701-005-7350-7. S2CID 118942877",
+            "Bekenstein, Jacob (2008). \"Bekenstein bound\". Scholarpedia. 3 (10): 7374. Bibcode:2008SchpJ...3.7374B. doi:10.4249/scholarpedia.7374."
+          ],
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "journal": {
+            "issue": "9",
+            "pages": "23-30",
+            "title": "Physical Science International Journal",
+            "volume": "25"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "5803748"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Entropic Information Theory: Formulae and Quantum Gravity; Bits from Bit",
+        "links": {
+          "self": "https://zenodo.org/api/records/5803749",
+          "self_html": "https://zenodo.org/records/5803749",
+          "preview_html": "https://zenodo.org/records/5803749?preview=1",
+          "doi": "https://doi.org/10.9734/psij/2021/v25i930281",
+          "self_doi": "https://doi.org/10.9734/psij/2021/v25i930281",
+          "self_doi_html": "https://zenodo.org/doi/10.9734/psij/2021/v25i930281",
+          "reserve_doi": "https://zenodo.org/api/records/5803749/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/5803748",
+          "parent_html": "https://zenodo.org/records/5803748",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:5803749/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:5803749/sequence/default",
+          "files": "https://zenodo.org/api/records/5803749/files",
+          "media_files": "https://zenodo.org/api/records/5803749/media-files",
+          "archive": "https://zenodo.org/api/records/5803749/files-archive",
+          "archive_media": "https://zenodo.org/api/records/5803749/media-files-archive",
+          "latest": "https://zenodo.org/api/records/5803749/versions/latest",
+          "latest_html": "https://zenodo.org/records/5803749/latest",
+          "versions": "https://zenodo.org/api/records/5803749/versions",
+          "draft": "https://zenodo.org/api/records/5803749/draft",
+          "access_links": "https://zenodo.org/api/records/5803749/access/links",
+          "access_grants": "https://zenodo.org/api/records/5803749/access/grants",
+          "access_users": "https://zenodo.org/api/records/5803749/access/users",
+          "access_request": "https://zenodo.org/api/records/5803749/access/request",
+          "access": "https://zenodo.org/api/records/5803749/access",
+          "communities": "https://zenodo.org/api/records/5803749/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/5803749/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/5803749/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/5803749/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/5803749/quota-increase",
+          "requests": "https://zenodo.org/api/records/5803749/requests"
+        },
+        "updated": "2026-08-01T13:58:15.084170+00:00",
+        "recid": "5803749",
+        "revision": 11,
+        "files": [],
+        "swh": null,
+        "owners": [
+          {
+            "id": "277124"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 145,
+          "unique_downloads": 139,
+          "views": 143,
+          "unique_views": 135,
+          "version_downloads": 145,
+          "version_unique_downloads": 139,
+          "version_unique_views": 135,
+          "version_views": 143
+        },
+        "state": "done",
+        "submitted": true
+      }
+    ],
+    "total": 5642
+  },
+  "aggregations": {
+    "publication_date": {
+      "buckets": [
+        {
+          "key": "2001",
+          "doc_count": 1,
+          "label": "2001",
+          "is_selected": false
+        },
+        {
+          "key": "2002",
+          "doc_count": 0,
+          "label": "2002",
+          "is_selected": false
+        },
+        {
+          "key": "2003",
+          "doc_count": 0,
+          "label": "2003",
+          "is_selected": false
+        },
+        {
+          "key": "2004",
+          "doc_count": 0,
+          "label": "2004",
+          "is_selected": false
+        },
+        {
+          "key": "2005",
+          "doc_count": 0,
+          "label": "2005",
+          "is_selected": false
+        },
+        {
+          "key": "2006",
+          "doc_count": 5,
+          "label": "2006",
+          "is_selected": false
+        },
+        {
+          "key": "2007",
+          "doc_count": 5,
+          "label": "2007",
+          "is_selected": false
+        },
+        {
+          "key": "2008",
+          "doc_count": 5,
+          "label": "2008",
+          "is_selected": false
+        },
+        {
+          "key": "2009",
+          "doc_count": 8,
+          "label": "2009",
+          "is_selected": false
+        },
+        {
+          "key": "2010",
+          "doc_count": 9,
+          "label": "2010",
+          "is_selected": false
+        },
+        {
+          "key": "2011",
+          "doc_count": 14,
+          "label": "2011",
+          "is_selected": false
+        },
+        {
+          "key": "2012",
+          "doc_count": 15,
+          "label": "2012",
+          "is_selected": false
+        },
+        {
+          "key": "2013",
+          "doc_count": 21,
+          "label": "2013",
+          "is_selected": false
+        },
+        {
+          "key": "2014",
+          "doc_count": 18,
+          "label": "2014",
+          "is_selected": false
+        },
+        {
+          "key": "2015",
+          "doc_count": 22,
+          "label": "2015",
+          "is_selected": false
+        },
+        {
+          "key": "2016",
+          "doc_count": 24,
+          "label": "2016",
+          "is_selected": false
+        },
+        {
+          "key": "2017",
+          "doc_count": 31,
+          "label": "2017",
+          "is_selected": false
+        },
+        {
+          "key": "2018",
+          "doc_count": 38,
+          "label": "2018",
+          "is_selected": false
+        },
+        {
+          "key": "2019",
+          "doc_count": 56,
+          "label": "2019",
+          "is_selected": false
+        },
+        {
+          "key": "2020",
+          "doc_count": 44,
+          "label": "2020",
+          "is_selected": false
+        },
+        {
+          "key": "2021",
+          "doc_count": 66,
+          "label": "2021",
+          "is_selected": false
+        },
+        {
+          "key": "2022",
+          "doc_count": 67,
+          "label": "2022",
+          "is_selected": false
+        },
+        {
+          "key": "2023",
+          "doc_count": 56,
+          "label": "2023",
+          "is_selected": false
+        },
+        {
+          "key": "2024",
+          "doc_count": 102,
+          "label": "2024",
+          "is_selected": false
+        },
+        {
+          "key": "2025",
+          "doc_count": 1216,
+          "label": "2025",
+          "is_selected": false
+        },
+        {
+          "key": "2026",
+          "doc_count": 3811,
+          "label": "2026",
+          "is_selected": false
+        }
+      ],
+      "label": "Publication date"
+    },
+    "access_status": {
+      "buckets": [
+        {
+          "key": "open",
+          "doc_count": 5378,
+          "label": "Open",
+          "is_selected": false
+        },
+        {
+          "key": "restricted",
+          "doc_count": 234,
+          "label": "Restricted",
+          "is_selected": false
+        },
+        {
+          "key": "embargoed",
+          "doc_count": 30,
+          "label": "Embargoed",
+          "is_selected": false
+        }
+      ],
+      "label": "Access status"
+    },
+    "resource_type": {
+      "buckets": [
+        {
+          "key": "publication",
+          "doc_count": 4896,
+          "label": "Publication",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "publication-preprint",
+                "doc_count": 2951,
+                "label": "Preprint",
+                "is_selected": false
+              },
+              {
+                "key": "publication-article",
+                "doc_count": 534,
+                "label": "Journal article",
+                "is_selected": false
+              },
+              {
+                "key": "publication-dissertation",
+                "doc_count": 206,
+                "label": "Thesis",
+                "is_selected": false
+              },
+              {
+                "key": "publication-report",
+                "doc_count": 98,
+                "label": "Report",
+                "is_selected": false
+              },
+              {
+                "key": "publication-workingpaper",
+                "doc_count": 98,
+                "label": "Working paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-other",
+                "doc_count": 83,
+                "label": "Other",
+                "is_selected": false
+              },
+              {
+                "key": "publication-technicalnote",
+                "doc_count": 61,
+                "label": "Technical note",
+                "is_selected": false
+              },
+              {
+                "key": "publication-book",
+                "doc_count": 46,
+                "label": "Book",
+                "is_selected": false
+              },
+              {
+                "key": "publication-peerreview",
+                "doc_count": 45,
+                "label": "Peer review",
+                "is_selected": false
+              },
+              {
+                "key": "publication-conferencepaper",
+                "doc_count": 32,
+                "label": "Conference paper",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "dataset",
+          "doc_count": 388,
+          "label": "Dataset",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "software",
+          "doc_count": 111,
+          "label": "Software",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "software-computationalnotebook",
+                "doc_count": 8,
+                "label": "Computational notebook",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "model",
+          "doc_count": 94,
+          "label": "Model",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "other",
+          "doc_count": 58,
+          "label": "Other",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "image",
+          "doc_count": 39,
+          "label": "Image",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "image-figure",
+                "doc_count": 9,
+                "label": "Figure",
+                "is_selected": false
+              },
+              {
+                "key": "image-other",
+                "doc_count": 1,
+                "label": "Other",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "presentation",
+          "doc_count": 24,
+          "label": "Presentation",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "physicalobject",
+          "doc_count": 12,
+          "label": "Physical object",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "poster",
+          "doc_count": 10,
+          "label": "Poster",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "event",
+          "doc_count": 5,
+          "label": "Event",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        }
+      ],
+      "label": "Resource types"
+    },
+    "subject": {
+      "buckets": [
+        {
+          "key": "Quantum physics",
+          "doc_count": 161,
+          "label": "Quantum physics",
+          "is_selected": false
+        },
+        {
+          "key": "Theoretical physics",
+          "doc_count": 156,
+          "label": "Theoretical physics",
+          "is_selected": false
+        },
+        {
+          "key": "Mathematical physics",
+          "doc_count": 128,
+          "label": "Mathematical physics",
+          "is_selected": false
+        },
+        {
+          "key": "Physics",
+          "doc_count": 127,
+          "label": "Physics",
+          "is_selected": false
+        },
+        {
+          "key": "fine-structure constant",
+          "doc_count": 95,
+          "label": "fine-structure constant",
+          "is_selected": false
+        },
+        {
+          "key": "Particle physics",
+          "doc_count": 94,
+          "label": "Particle physics",
+          "is_selected": false
+        },
+        {
+          "key": "Physical cosmology",
+          "doc_count": 88,
+          "label": "Physical cosmology",
+          "is_selected": false
+        },
+        {
+          "key": "dark energy",
+          "doc_count": 87,
+          "label": "dark energy",
+          "is_selected": false
+        },
+        {
+          "key": "cosmological constant",
+          "doc_count": 77,
+          "label": "cosmological constant",
+          "is_selected": false
+        },
+        {
+          "key": "Cosmology",
+          "doc_count": 72,
+          "label": "Cosmology",
+          "is_selected": false
+        }
+      ],
+      "label": "Subjects"
+    },
+    "file_type": {
+      "buckets": [
+        {
+          "key": "pdf",
+          "doc_count": 4602,
+          "label": "PDF",
+          "is_selected": false
+        },
+        {
+          "key": "zip",
+          "doc_count": 514,
+          "label": "ZIP",
+          "is_selected": false
+        },
+        {
+          "key": "docx",
+          "doc_count": 264,
+          "label": "DOCX",
+          "is_selected": false
+        },
+        {
+          "key": "tex",
+          "doc_count": 255,
+          "label": "TEX",
+          "is_selected": false
+        },
+        {
+          "key": "py",
+          "doc_count": 206,
+          "label": "PY",
+          "is_selected": false
+        },
+        {
+          "key": "md",
+          "doc_count": 199,
+          "label": "MD",
+          "is_selected": false
+        },
+        {
+          "key": "png",
+          "doc_count": 187,
+          "label": "PNG",
+          "is_selected": false
+        },
+        {
+          "key": "txt",
+          "doc_count": 182,
+          "label": "TXT",
+          "is_selected": false
+        },
+        {
+          "key": "csv",
+          "doc_count": 118,
+          "label": "CSV",
+          "is_selected": false
+        },
+        {
+          "key": "bin",
+          "doc_count": 83,
+          "label": "BIN",
+          "is_selected": false
+        }
+      ],
+      "label": "File type"
+    }
+  },
+  "links": {
+    "self": "https://zenodo.org/api/records?page=1&q=%22Bekenstein+bound%22+dimensionless&size=10&sort=bestmatch",
+    "next": "https://zenodo.org/api/records?page=2&q=%22Bekenstein+bound%22+dimensionless&size=10&sort=bestmatch"
+  }
+}

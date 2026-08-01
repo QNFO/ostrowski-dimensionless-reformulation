@@ -1,0 +1,1842 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2022-01-11T12:09:45.238973+00:00",
+        "modified": "2022-01-11T14:53:14.993255+00:00",
+        "id": 5837630,
+        "conceptrecid": "5837629",
+        "doi": "10.5281/zenodo.5837630",
+        "conceptdoi": "10.5281/zenodo.5837629",
+        "doi_url": "https://doi.org/10.5281/zenodo.5837630",
+        "metadata": {
+          "title": "diman: A Clojure library for applying dimensional analysis.",
+          "doi": "10.5281/zenodo.5837630",
+          "publication_date": "2022-01-11",
+          "description": "<p>A Clojure library for applying dimensional analysis.</p>\n\n<p>Current Features</p>\n\n<ul>\n\t<li>Create dimensional formulae.</li>\n\t<li>Create dimensional equations.</li>\n\t<li>Implement principle of dimensional homogeneity; Perform consistency checks.</li>\n\t<li>Derive dimensionless products.</li>\n</ul>\n\n<p><a href=\"https://cljdoc.org/d/com.neuralgraphs/diman/\">Documentation</a></p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Sharma, Lungsi",
+              "affiliation": "Ronin Institute",
+              "orcid": "0000-0002-1607-0164"
+            }
+          ],
+          "contributors": [
+            {
+              "name": "Sharma, Lungsi",
+              "affiliation": "Ronin Institute",
+              "type": "ProjectLeader",
+              "orcid": "0000-0002-1607-0164"
+            }
+          ],
+          "keywords": [
+            "Dimensional analysis",
+            "scientific computing",
+            "clojure",
+            "functional programming",
+            "simulation",
+            "modeling"
+          ],
+          "version": "v1.1.0",
+          "references": [
+            "Sharma, B. L. (2021, July 26). Dimensional Analysis: A Potential Use of Dimensionless Products in Biology/Neuroscience [Html slides]. Institut des Neurosciences Paris-Saclay (NeuroPSI), D\u00e9partement de Neurosciences Int\u00e9gratives et Computationnelles (ICN), CNRS. https://lungsi-slides.github.io/dataclub/icn/2021July26/index.html",
+            "Ngwua, L. (2021, July 4). Theory of Dimensionless Products. NeuralGraphs. https://www.neuralgraphs.com/lectures/diman/lectp1.html"
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Software",
+            "type": "software"
+          },
+          "license": {
+            "id": "bsd-3-clause"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "5837629"
+                }
+              }
+            ]
+          }
+        },
+        "title": "diman: A Clojure library for applying dimensional analysis.",
+        "links": {
+          "self": "https://zenodo.org/api/records/5837630",
+          "self_html": "https://zenodo.org/records/5837630",
+          "preview_html": "https://zenodo.org/records/5837630?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.5837630",
+          "self_doi": "https://doi.org/10.5281/zenodo.5837630",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.5837630",
+          "reserve_doi": "https://zenodo.org/api/records/5837630/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/5837629",
+          "parent_html": "https://zenodo.org/records/5837629",
+          "parent_doi": "https://doi.org/10.5281/zenodo.5837629",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.5837629",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:5837630/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:5837630/sequence/default",
+          "files": "https://zenodo.org/api/records/5837630/files",
+          "media_files": "https://zenodo.org/api/records/5837630/media-files",
+          "archive": "https://zenodo.org/api/records/5837630/files-archive",
+          "archive_media": "https://zenodo.org/api/records/5837630/media-files-archive",
+          "latest": "https://zenodo.org/api/records/5837630/versions/latest",
+          "latest_html": "https://zenodo.org/records/5837630/latest",
+          "versions": "https://zenodo.org/api/records/5837630/versions",
+          "draft": "https://zenodo.org/api/records/5837630/draft",
+          "access_links": "https://zenodo.org/api/records/5837630/access/links",
+          "access_grants": "https://zenodo.org/api/records/5837630/access/grants",
+          "access_users": "https://zenodo.org/api/records/5837630/access/users",
+          "access_request": "https://zenodo.org/api/records/5837630/access/request",
+          "access": "https://zenodo.org/api/records/5837630/access",
+          "communities": "https://zenodo.org/api/records/5837630/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/5837630/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/5837630/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/5837630/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/5837630/quota-increase",
+          "requests": "https://zenodo.org/api/records/5837630/requests"
+        },
+        "updated": "2022-01-11T14:53:14.993255+00:00",
+        "recid": "5837630",
+        "revision": 3,
+        "files": [
+          {
+            "id": "0430370a-e98e-4ad4-9e4a-1c57613737ea",
+            "key": "diman-1.1.0.zip",
+            "size": 1497413,
+            "checksum": "md5:cbda3eaba61d487de7d6eb58a8069139",
+            "links": {
+              "self": "https://zenodo.org/api/records/5837630/files/diman-1.1.0.zip/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "44913"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 44,
+          "unique_downloads": 44,
+          "views": 123,
+          "unique_views": 114,
+          "version_downloads": 44,
+          "version_unique_downloads": 44,
+          "version_unique_views": 114,
+          "version_views": 123
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-10-26T18:55:54.755324+00:00",
+        "modified": "2025-10-26T18:55:54.979880+00:00",
+        "id": 17450263,
+        "conceptrecid": "17450262",
+        "doi": "10.5281/zenodo.17450263",
+        "conceptdoi": "10.5281/zenodo.17450262",
+        "doi_url": "https://doi.org/10.5281/zenodo.17450263",
+        "metadata": {
+          "title": "Connecting Time\u2013Energy Physics to G\u00f6del's Incompleteness: A Phenomenological Model of Logical Limits",
+          "doi": "10.5281/zenodo.17450263",
+          "publication_date": "2025-10-26",
+          "description": "<p>G&ouml;del&rsquo;s incompleteness theorems show that any consistent, computably axiomatizable theory containing arithmetic has true statements unprovable within it.<br>This paper examines whether logical incompleteness may arise as a <em>physical</em> manifestation of finite time&ndash;energy resources governing computation.<br>By linking G&ouml;del&rsquo;s proof conditions to the Mandelstam&ndash;Tamm and Margolus&ndash;Levitin quantum speed limits and to Landauer&rsquo;s principle, it proposes a minimal phenomenological model in which measurable time &tau; = t + \u03d5 couples to local energy density E(r,t).<br>The model predicts that the dimensionless indicator &Gamma;\u0303 = L \u2225&nabla; log &tau;\u2225 quantifies physical incompleteness: regions with &Gamma;\u0303 &gt; 1 correspond to computations that cannot converge within finite time&ndash;energy budgets.<br>Simulations reproduce this behavior, showing &Gamma;\u0303 &gt; 1 zones at energy gradients &gt; 10&sup3; J/m\u2074 and a linear scaling of max &Gamma;\u0303 with E\u2080.<br>Parameter estimates are grounded in optical-clock and qubit data, and the work provides reproducible Python code for empirical testing.<br>The study positions incompleteness as an emergent, resource-bounded property of physical computation rather than a purely formal limitation.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Hall, Matthew",
+              "affiliation": null,
+              "orcid": "0009-0001-7066-2558"
+            }
+          ],
+          "keywords": [
+            "G\u00f6del incompleteness",
+            "time\u2013energy coupling",
+            "phenomenological model",
+            "quantum speed limit",
+            "Landauer principle",
+            "computational physics",
+            "stochastic thermodynamics",
+            "logical limits",
+            "quantum information",
+            "resource-bounded computation"
+          ],
+          "version": "V1.0",
+          "references": [
+            "[1] K. G\u00f6del, \"\u00dcber formal unentscheidbare S\u00e4tze der Principia Mathematica und verwandter Systeme I,\" *Monatshefte f\u00fcr Mathematik und Physik*, 38, 173\u2013198 (1931).   [2] R. Landauer, \"Irreversibility and Heat Generation in the Computing Process,\" *IBM Journal of Research and Development*, 5 (3), 183\u2013191 (1961).   [3] S. Lloyd, \"Ultimate physical limits to computation,\" *Nature*, 406, 1047\u20131054 (2000).   [4] L. Mandelstam and I. Tamm, \"The uncertainty relation between energy and time in nonrelativistic quantum mechanics,\" *Journal of Physics (USSR)*, 9, 249\u2013254 (1945).   [5] N. Margolus and L. B. Levitin, \"The maximum speed of dynamical evolution,\" *Physical Review Letters*, 81 (8), 1351\u20131354 (1998).   [6] U. Seifert, \"Stochastic thermodynamics, fluctuation theorems and molecular machines,\" *Reports on Progress in Physics*, 75, 126001 (2012).   [7] C. Jarzynski, \"Nonequilibrium equality for free energy differences,\" *Physical Review Letters*, 78 (14), 2690\u20132693 (1997).   [8] A. D. Ludlow, M. M. Boyd, J. Ye, E. Peik, and P. O. Schmidt, \"Optical atomic clocks,\" *Reviews of Modern Physics*, 87, 637\u2013701 (2015).   [9] D. Deutsch, \"Quantum theory, the Church\u2013Turing principle and the universal quantum computer,\" *Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences*, 400 (1818), 97\u2013117 (1985).   [10] D. H. Wolpert, \"Computational capabilities of physical systems,\" *Physical Review E*, 65, 016128 (2001)."
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "17450262"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Connecting Time\u2013Energy Physics to G\u00f6del's Incompleteness: A Phenomenological Model of Logical Limits",
+        "links": {
+          "self": "https://zenodo.org/api/records/17450263",
+          "self_html": "https://zenodo.org/records/17450263",
+          "preview_html": "https://zenodo.org/records/17450263?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.17450263",
+          "self_doi": "https://doi.org/10.5281/zenodo.17450263",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17450263",
+          "reserve_doi": "https://zenodo.org/api/records/17450263/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/17450262",
+          "parent_html": "https://zenodo.org/records/17450262",
+          "parent_doi": "https://doi.org/10.5281/zenodo.17450262",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17450262",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17450263/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17450263/sequence/default",
+          "files": "https://zenodo.org/api/records/17450263/files",
+          "media_files": "https://zenodo.org/api/records/17450263/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:17450263:Connecting_Time__Energy_Physics_to_G%C3%B6del_s_Incompleteness__A_Phenomenological_Model_of_Logical_Limits%20(1).pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:17450263:Connecting_Time__Energy_Physics_to_G%C3%B6del_s_Incompleteness__A_Phenomenological_Model_of_Logical_Limits%20(1).pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:17450263:Connecting_Time__Energy_Physics_to_G%C3%B6del_s_Incompleteness__A_Phenomenological_Model_of_Logical_Limits%20(1).pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:17450263:Connecting_Time__Energy_Physics_to_G%C3%B6del_s_Incompleteness__A_Phenomenological_Model_of_Logical_Limits%20(1).pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:17450263:Connecting_Time__Energy_Physics_to_G%C3%B6del_s_Incompleteness__A_Phenomenological_Model_of_Logical_Limits%20(1).pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:17450263:Connecting_Time__Energy_Physics_to_G%C3%B6del_s_Incompleteness__A_Phenomenological_Model_of_Logical_Limits%20(1).pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/17450263/files-archive",
+          "archive_media": "https://zenodo.org/api/records/17450263/media-files-archive",
+          "latest": "https://zenodo.org/api/records/17450263/versions/latest",
+          "latest_html": "https://zenodo.org/records/17450263/latest",
+          "versions": "https://zenodo.org/api/records/17450263/versions",
+          "draft": "https://zenodo.org/api/records/17450263/draft",
+          "access_links": "https://zenodo.org/api/records/17450263/access/links",
+          "access_grants": "https://zenodo.org/api/records/17450263/access/grants",
+          "access_users": "https://zenodo.org/api/records/17450263/access/users",
+          "access_request": "https://zenodo.org/api/records/17450263/access/request",
+          "access": "https://zenodo.org/api/records/17450263/access",
+          "communities": "https://zenodo.org/api/records/17450263/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/17450263/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/17450263/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/17450263/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/17450263/quota-increase",
+          "requests": "https://zenodo.org/api/records/17450263/requests"
+        },
+        "updated": "2025-10-26T18:55:54.979880+00:00",
+        "recid": "17450263",
+        "revision": 4,
+        "files": [
+          {
+            "id": "99937983-1f8a-4534-a16c-ccd44272d6ac",
+            "key": "Connecting_Time__Energy_Physics_to_G\u00f6del_s_Incompleteness__A_Phenomenological_Model_of_Logical_Limits (1).pdf",
+            "size": 497684,
+            "checksum": "md5:94ecdba6dd0d797a48cd36735ea360be",
+            "links": {
+              "self": "https://zenodo.org/api/records/17450263/files/Connecting_Time__Energy_Physics_to_G%C3%B6del_s_Incompleteness__A_Phenomenological_Model_of_Logical_Limits%20(1).pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1264473"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 143,
+          "unique_downloads": 138,
+          "views": 116,
+          "unique_views": 116,
+          "version_downloads": 143,
+          "version_unique_downloads": 138,
+          "version_unique_views": 116,
+          "version_views": 116
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-01-12T10:35:27.355263+00:00",
+        "modified": "2026-01-12T19:22:55.125606+00:00",
+        "id": 18220557,
+        "conceptrecid": "18220556",
+        "doi": "10.5281/zenodo.18220557",
+        "conceptdoi": "10.5281/zenodo.18220556",
+        "doi_url": "https://doi.org/10.5281/zenodo.18220557",
+        "metadata": {
+          "title": "The Infoton Particles at Hawking Temperature",
+          "doi": "10.5281/zenodo.18220557",
+          "publication_date": "2026-01-12",
+          "description": "<p>By substituting Hawking temperature (T_H = \u210fc&sup3;/8&pi;GMk_B) into the Infoton equation m = (k_B T ln(2))/c&sup2;, I derive the information-energy mass at a black hole horizon: m = (\u210fc)(ln(2))/(8&pi;GM). This result shows Infoton mass is inversely proportional to black hole mass&mdash;as a black hole evaporates, information at its horizon becomes more massive. More generally, temperature mediates the coupling between information and spacetime geometry.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Walker, January",
+              "affiliation": "Infoton",
+              "orcid": "0009-0000-6843-2051"
+            }
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.18210355",
+              "relation": "cites",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            }
+          ],
+          "dates": [
+            {
+              "type": "accepted"
+            }
+          ],
+          "references": [
+            "1.\tWalker, J. The Infoton: A Fundamental Particle of Information-Energy. Januarian Physics 2026, 1, 1.0. https://doi.org/10.5281/zenodo.18210354",
+            "2.\tEinstein, A. On the electrodynamics of moving bodies. Ann. Phys. 1905, 17, 891. https://users.physics.ox.ac.uk/~rtaylor/teaching/specrel.pdf",
+            "3.\tLandauer, R. Irreversibility and heat generation in the computing process. IBM J. Res. Dev. 1961, 5, 183\u2013191. https://doi.org/10.1147/rd.53.0183",
+            "4.\tCort\u00eas, M.; Liddle, A.R. Hawking evaporation and the Landauer Principle. arXiv 2024, arXiv:2407.08777. https://arxiv.org/abs/2407.08777",
+            "5.\tHawking, S.W. Black hole explosions? Nature 1974, 248, 30\u201331. https://doi.org/10.1038/248030a0",
+            "6.\tNernst, W. \u00dcber die Berechnung chemischer Gleichgewichte aus thermischen Messungen. Nachr. Kgl. Ges. Wiss. G\u00f6ttingen 1906, 1, 1\u201340. https://academicweb.nd.edu/~powers/ame.20231/nernst1906.pdf"
+          ],
+          "custom": {
+            "code:codeRepository": "https://github.com/JanuaryNWalker/Infoton",
+            "code:developmentStatus": {
+              "id": "wip",
+              "title": {
+                "en": "Wip"
+              }
+            }
+          },
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "18220556"
+                }
+              }
+            ]
+          }
+        },
+        "title": "The Infoton Particles at Hawking Temperature",
+        "links": {
+          "self": "https://zenodo.org/api/records/18220557",
+          "self_html": "https://zenodo.org/records/18220557",
+          "preview_html": "https://zenodo.org/records/18220557?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.18220557",
+          "self_doi": "https://doi.org/10.5281/zenodo.18220557",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18220557",
+          "reserve_doi": "https://zenodo.org/api/records/18220557/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/18220556",
+          "parent_html": "https://zenodo.org/records/18220556",
+          "parent_doi": "https://doi.org/10.5281/zenodo.18220556",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18220556",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18220557/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18220557/sequence/default",
+          "files": "https://zenodo.org/api/records/18220557/files",
+          "media_files": "https://zenodo.org/api/records/18220557/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:18220557:Infoton%20at%20Hawking%20Temperature.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:18220557:Infoton%20at%20Hawking%20Temperature.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:18220557:Infoton%20at%20Hawking%20Temperature.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:18220557:Infoton%20at%20Hawking%20Temperature.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:18220557:Infoton%20at%20Hawking%20Temperature.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:18220557:Infoton%20at%20Hawking%20Temperature.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/18220557/files-archive",
+          "archive_media": "https://zenodo.org/api/records/18220557/media-files-archive",
+          "latest": "https://zenodo.org/api/records/18220557/versions/latest",
+          "latest_html": "https://zenodo.org/records/18220557/latest",
+          "versions": "https://zenodo.org/api/records/18220557/versions",
+          "draft": "https://zenodo.org/api/records/18220557/draft",
+          "access_links": "https://zenodo.org/api/records/18220557/access/links",
+          "access_grants": "https://zenodo.org/api/records/18220557/access/grants",
+          "access_users": "https://zenodo.org/api/records/18220557/access/users",
+          "access_request": "https://zenodo.org/api/records/18220557/access/request",
+          "access": "https://zenodo.org/api/records/18220557/access",
+          "communities": "https://zenodo.org/api/records/18220557/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/18220557/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/18220557/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/18220557/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/18220557/quota-increase",
+          "requests": "https://zenodo.org/api/records/18220557/requests"
+        },
+        "updated": "2026-01-12T19:22:55.125606+00:00",
+        "recid": "18220557",
+        "revision": 5,
+        "files": [
+          {
+            "id": "b38b1b0f-c168-41c9-b428-bd6a0e6e6d82",
+            "key": "Infoton at Hawking Temperature.pdf",
+            "size": 365475,
+            "checksum": "md5:7edf74988d5709e3965df52396f672fa",
+            "links": {
+              "self": "https://zenodo.org/api/records/18220557/files/Infoton%20at%20Hawking%20Temperature.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1512144"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 671,
+          "unique_downloads": 572,
+          "views": 954,
+          "unique_views": 874,
+          "version_downloads": 671,
+          "version_unique_downloads": 572,
+          "version_unique_views": 874,
+          "version_views": 954
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-05-04T06:39:25.022430+00:00",
+        "modified": "2026-05-04T06:39:25.309689+00:00",
+        "id": 20019650,
+        "conceptrecid": "20019649",
+        "doi": "10.48550/arXiv.2604.24083",
+        "doi_url": "https://doi.org/10.48550/arXiv.2604.24083",
+        "metadata": {
+          "title": "The Kerimov-Alekberli Model: An Information-Geometric Framework for Real-Time System Stability",
+          "doi": "10.48550/arXiv.2604.24083",
+          "publication_date": "2026-04-27",
+          "description": "<p>This study introduces the Kerimov-Alekberli model, a novel information-geometric framework that redefines AI safety by formally linking non-equilibrium thermodynamics to stochastic control for the ethical alignment of autonomous systems. By establishing a formal isomorphism between non-equilibrium thermodynamics and stochastic control, we define systemic anomalies as deviations from a Riemannian manifold. The model utilizes the Kullback-Leibler divergence as the primary metric, governed by a dynamic threshold derived from the Fisher Information Metric. We further ground this framework in the Landauer Principle, proving that adversarial perturbations perform measurable physical work by increasing the system's informational entropy. Validation on the NSL-KDD dataset and unmanned aerial vehicle trajectory simulations demonstrated that our model achieves effective real-time detection via the FPT trigger, with strong performance metrics (e.g., high accuracy and low FPR) on benchmark datasets. This study provides a rigorous physical foundation for AI safety, transitioning from heuristic, rule-based ethical frameworks to a thermodynamics-based stability paradigm by grounding ethical violations in quantifiable physical work and entropic information.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Karimov, Hikmat",
+              "affiliation": "Azerbaijan Technical University",
+              "orcid": "0009-0002-4146-8913"
+            },
+            {
+              "name": "Alekberli, Rahid",
+              "affiliation": "Azerbaijan Technical University",
+              "orcid": "0000-0003-2332-9944"
+            }
+          ],
+          "keywords": [
+            "Kerimov\u2013Alekberli mode",
+            "information geometry",
+            "first-passage time",
+            "ethical entropy",
+            "Fisher information metric",
+            "Landauer's principle",
+            "KL divergence",
+            "none-quilibrium thermodynamics",
+            "AI safety",
+            "autonomous systems",
+            "anomaly detection",
+            "NSL-KDD",
+            "stochastic stability"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "arXiv:2604.24083",
+              "relation": "cites",
+              "resource_type": "publication-preprint",
+              "scheme": "arxiv"
+            },
+            {
+              "identifier": "arXiv:2604.24076",
+              "relation": "isSourceOf",
+              "resource_type": "publication-preprint",
+              "scheme": "arxiv"
+            }
+          ],
+          "version": "1.0",
+          "references": [
+            "Shun-ichi Amari. Information Geometry and Its Applications, volume 194. Springer Japan, 2016. doi: 10.1007/978-4-431-55978-8",
+            "Karl Friston. The free-energy principle: A unified brain theory? Nature Reviews Neuroscience, 11(2):127\u2013138, 2010. doi: 10.1038/nrn2787",
+            "Rolf Landauer. Irreversibility and heat generation in the computing process. IBM Journal of Research and Development, 5(3):183\u2013191, 1961. doi: 10.1147/rd.53.0183",
+            "Hannes Risken. The Fokker\u2013Planck Equation: Methods of Solution and Applications. Springer, Berlin, 1989. doi: 10.1007/978-3-642-61544-3",
+            "Mahbod Tavallaee, Ebrahim Bagheri, Wei Lu, and Ali A. Ghorbani. A detailed analysis of the KDD CUP 99 data set. In Proceedings of the 2nd IEEE Symposium on Computational Intelligence for Security and Defense Applications (CISDA), pages 1\u20136, 2009. doi: 10.1109/CISDA.2009.5356528",
+            "Xin Wang, Yue Guo, and Yang Gao. Unmanned autonomous intelligent system in 6G non-terrestrial network. Information, 15(1):38, 2024. doi: 10.3390/info15010038",
+            "Alexander D. Wissner-Gross and Cameron E. Freer. Causal entropic forces. Physical Review Letters, 110(16):168702, 2013. doi: 10.1103/PhysRevLett.110.168702"
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-nc-nd-4.0"
+          },
+          "communities": [
+            {
+              "id": "kerimov-alekberli"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20019649"
+                }
+              }
+            ]
+          }
+        },
+        "title": "The Kerimov-Alekberli Model: An Information-Geometric Framework for Real-Time System Stability",
+        "links": {
+          "self": "https://zenodo.org/api/records/20019650",
+          "self_html": "https://zenodo.org/records/20019650",
+          "preview_html": "https://zenodo.org/records/20019650?preview=1",
+          "doi": "https://doi.org/10.48550/arXiv.2604.24083",
+          "self_doi": "https://doi.org/10.48550/arXiv.2604.24083",
+          "self_doi_html": "https://zenodo.org/doi/10.48550/arXiv.2604.24083",
+          "reserve_doi": "https://zenodo.org/api/records/20019650/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20019649",
+          "parent_html": "https://zenodo.org/records/20019649",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20019650/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20019650/sequence/default",
+          "files": "https://zenodo.org/api/records/20019650/files",
+          "media_files": "https://zenodo.org/api/records/20019650/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:20019650:2604.24083v1%20(1).pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:20019650:2604.24083v1%20(1).pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:20019650:2604.24083v1%20(1).pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:20019650:2604.24083v1%20(1).pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:20019650:2604.24083v1%20(1).pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:20019650:2604.24083v1%20(1).pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/20019650/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20019650/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20019650/versions/latest",
+          "latest_html": "https://zenodo.org/records/20019650/latest",
+          "versions": "https://zenodo.org/api/records/20019650/versions",
+          "draft": "https://zenodo.org/api/records/20019650/draft",
+          "access_links": "https://zenodo.org/api/records/20019650/access/links",
+          "access_grants": "https://zenodo.org/api/records/20019650/access/grants",
+          "access_users": "https://zenodo.org/api/records/20019650/access/users",
+          "access_request": "https://zenodo.org/api/records/20019650/access/request",
+          "access": "https://zenodo.org/api/records/20019650/access",
+          "communities": "https://zenodo.org/api/records/20019650/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20019650/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20019650/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20019650/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20019650/quota-increase",
+          "requests": "https://zenodo.org/api/records/20019650/requests"
+        },
+        "updated": "2026-05-04T06:39:25.309689+00:00",
+        "recid": "20019650",
+        "revision": 4,
+        "files": [
+          {
+            "id": "30c04021-dc8b-4d89-bc62-276b1737d4da",
+            "key": "2604.24083v1 (1).pdf",
+            "size": 885181,
+            "checksum": "md5:d3cece6ebaa6ed65f0dd35ccd2836df8",
+            "links": {
+              "self": "https://zenodo.org/api/records/20019650/files/2604.24083v1%20(1).pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1595772"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 23,
+          "unique_downloads": 22,
+          "views": 38,
+          "unique_views": 37,
+          "version_downloads": 23,
+          "version_unique_downloads": 22,
+          "version_unique_views": 37,
+          "version_views": 38
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-07-28T09:47:20.244801+00:00",
+        "modified": "2026-07-29T17:38:23.269733+00:00",
+        "id": 21641463,
+        "conceptrecid": "18140965",
+        "doi": "10.5281/zenodo.21641463",
+        "conceptdoi": "10.5281/zenodo.18140965",
+        "doi_url": "https://doi.org/10.5281/zenodo.21641463",
+        "metadata": {
+          "title": "Thermodynamic Limits of Proof",
+          "doi": "10.5281/zenodo.21641463",
+          "publication_date": "2026-07-28",
+          "description": "<p>Proof available to an agent must be carried by retained, inspectable physical records. A declared proof interface determines which alternatives those records must separate and thereby induces a lower-bound family R(n). If the agent has work budget B &lt; &infin; and every irreversible retained distinction costs at least &epsilon; &gt; 0, then any instance satisfying &epsilon;R(n) &gt; B lies beyond that interface. The Physical Counting Impossibility Theorem therefore rules out universal exact proof for every fixed-budget substrate whenever R(n) is unbounded. Under Landauer/Bennett accounting, the ideal physical scale is &epsilon; &ge; k_BTln 2 per irreversible bit, experimentally verified to &plusmn;10%.</p>\n<p>For separable audit interfaces, exact query complexity gives R(n) = D(f\u2099): parity requires n retained local distinctions, while a hidden n-bit truth table requires 2\u207f. Global observables, compressed audits, interactive protocols, quantum witnesses, and finite survey catalogs define different evidence objects and therefore different families R(n). A reversible device may produce an answer and erase its scratch history; proof additionally requires the records licensed by the declared interface. Finite causal access supplies an independent bound on record acquisition.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Simas, Tristan",
+              "affiliation": null,
+              "orcid": "0000-0002-6526-3149"
+            }
+          ],
+          "keywords": [
+            "Lean 4",
+            "Physical Information",
+            "Landauer principle",
+            "Physical limits of computation",
+            "Thermodynamics",
+            "Epistemology"
+          ],
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 39,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "18140965"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Thermodynamic Limits of Proof",
+        "links": {
+          "self": "https://zenodo.org/api/records/21641463",
+          "self_html": "https://zenodo.org/records/21641463",
+          "preview_html": "https://zenodo.org/records/21641463?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.21641463",
+          "self_doi": "https://doi.org/10.5281/zenodo.21641463",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21641463",
+          "reserve_doi": "https://zenodo.org/api/records/21641463/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/18140965",
+          "parent_html": "https://zenodo.org/records/18140965",
+          "parent_doi": "https://doi.org/10.5281/zenodo.18140965",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18140965",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21641463/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21641463/sequence/default",
+          "files": "https://zenodo.org/api/records/21641463/files",
+          "media_files": "https://zenodo.org/api/records/21641463/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:21641463:paper4_toc.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:21641463:paper4_toc.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:21641463:paper4_toc.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:21641463:paper4_toc.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:21641463:paper4_toc.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:21641463:paper4_toc.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/21641463/files-archive",
+          "archive_media": "https://zenodo.org/api/records/21641463/media-files-archive",
+          "latest": "https://zenodo.org/api/records/21641463/versions/latest",
+          "latest_html": "https://zenodo.org/records/21641463/latest",
+          "versions": "https://zenodo.org/api/records/21641463/versions",
+          "draft": "https://zenodo.org/api/records/21641463/draft",
+          "access_links": "https://zenodo.org/api/records/21641463/access/links",
+          "access_grants": "https://zenodo.org/api/records/21641463/access/grants",
+          "access_users": "https://zenodo.org/api/records/21641463/access/users",
+          "access_request": "https://zenodo.org/api/records/21641463/access/request",
+          "access": "https://zenodo.org/api/records/21641463/access",
+          "communities": "https://zenodo.org/api/records/21641463/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/21641463/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/21641463/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/21641463/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/21641463/quota-increase",
+          "requests": "https://zenodo.org/api/records/21641463/requests"
+        },
+        "updated": "2026-07-29T17:38:23.269733+00:00",
+        "recid": "21641463",
+        "revision": 10,
+        "files": [
+          {
+            "id": "701dd56e-7fa7-4001-afd9-e3885462e308",
+            "key": "paper4_toc.pdf",
+            "size": 705572,
+            "checksum": "md5:05a118a0646288c3b54f08fd0e972acb",
+            "links": {
+              "self": "https://zenodo.org/api/records/21641463/files/paper4_toc.pdf/content"
+            }
+          },
+          {
+            "id": "e6193afb-f0a6-429b-ab77-e944094b825e",
+            "key": "paper4_toc_supplementary.pdf",
+            "size": 293201,
+            "checksum": "md5:3e4b9ac91132c42153ac6988b247975b",
+            "links": {
+              "self": "https://zenodo.org/api/records/21641463/files/paper4_toc_supplementary.pdf/content"
+            }
+          },
+          {
+            "id": "1059b358-2ca8-4821-b98a-7f4b69e11651",
+            "key": "paper4_toc_arxiv.zip",
+            "size": 1551219,
+            "checksum": "md5:d59dc327d07777c86ca238bfd2ced505",
+            "links": {
+              "self": "https://zenodo.org/api/records/21641463/files/paper4_toc_arxiv.zip/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1350892"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 2212,
+          "unique_downloads": 1871,
+          "views": 2744,
+          "unique_views": 2283,
+          "version_downloads": 6,
+          "version_unique_downloads": 6,
+          "version_unique_views": 14,
+          "version_views": 24
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-10-05T05:10:23.920425+00:00",
+        "modified": "2025-10-05T05:10:24.588941+00:00",
+        "id": 17270656,
+        "conceptrecid": "17270655",
+        "doi": "10.5281/zenodo.17270656",
+        "conceptdoi": "10.5281/zenodo.17270655",
+        "doi_url": "https://doi.org/10.5281/zenodo.17270656",
+        "metadata": {
+          "title": "Thermodynamic Feasibility Bounds in High-Dimensional Feedback Control: Event-Triggered Landauer Constraints and the Role of Criticality",
+          "doi": "10.5281/zenodo.17270656",
+          "publication_date": "2025-10-05",
+          "description": "<p>We derive thermodynamic feasibility bounds for feedback control by combining the data-rate theorem with Landauer&rsquo;s principle. For fixed-rate digital control, stabilization requires that the sum of positive Lyapunov exponents be less than the available write power divided by <span><span>kBTln\u20612k_B T \\ln 2</span><span><span><span><span>k</span><span><span><span><span><span><span>B</span></span></span><span></span></span></span></span></span><span>T</span><span>ln</span><span>2</span></span></span></span>. However, complex high-dimensional controllers can circumvent this bound through two mechanisms: (1) analog coupling that reduces effective instability without writing bits, and (2) event-triggered control that achieves sparse average write rates <span><span>R\u02c9\u226aRfixed\\bar{R} \\ll R_{\\text{fixed}}</span><span><span><span><span><span><span><span>R</span><span><span>\u02c9</span></span></span></span></span></span><span>\u226a</span></span><span><span><span>R</span><span><span><span><span><span><span><span>fixed</span></span></span></span><span></span></span></span></span></span></span></span></span> by intervening only when the system state crosses decision boundaries. Near critical points, susceptibility amplifies weak inputs, further reducing the required intervention rate. This creates a feasibility advantage: complex controllers can stabilize plants that exceed the fixed-rate Landauer bound. The framework predicts temperature-dependent performance limits, bursty heavy-tailed intervention patterns, and critical-regime sparsity&mdash;signatures absent from conventional control theory. We propose experiments in robotic flapping flight and show how biological systems may exploit event-triggered dynamics at critical operating points to achieve control performance beyond what fixed-rate digital architectures can thermodynamically afford.</p>\n<p><strong>Keywords:</strong> Landauer principle, event-triggered control, criticality, thermodynamic limits, high-dimensional systems, biological control</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Todd, Ian",
+              "affiliation": null
+            }
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "17270655"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Thermodynamic Feasibility Bounds in High-Dimensional Feedback Control: Event-Triggered Landauer Constraints and the Role of Criticality",
+        "links": {
+          "self": "https://zenodo.org/api/records/17270656",
+          "self_html": "https://zenodo.org/records/17270656",
+          "preview_html": "https://zenodo.org/records/17270656?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.17270656",
+          "self_doi": "https://doi.org/10.5281/zenodo.17270656",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17270656",
+          "reserve_doi": "https://zenodo.org/api/records/17270656/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/17270655",
+          "parent_html": "https://zenodo.org/records/17270655",
+          "parent_doi": "https://doi.org/10.5281/zenodo.17270655",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17270655",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17270656/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17270656/sequence/default",
+          "files": "https://zenodo.org/api/records/17270656/files",
+          "media_files": "https://zenodo.org/api/records/17270656/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:17270656:provisional%20-%20high%20d%20control.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:17270656:provisional%20-%20high%20d%20control.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:17270656:provisional%20-%20high%20d%20control.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:17270656:provisional%20-%20high%20d%20control.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:17270656:provisional%20-%20high%20d%20control.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:17270656:provisional%20-%20high%20d%20control.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/17270656/files-archive",
+          "archive_media": "https://zenodo.org/api/records/17270656/media-files-archive",
+          "latest": "https://zenodo.org/api/records/17270656/versions/latest",
+          "latest_html": "https://zenodo.org/records/17270656/latest",
+          "versions": "https://zenodo.org/api/records/17270656/versions",
+          "draft": "https://zenodo.org/api/records/17270656/draft",
+          "access_links": "https://zenodo.org/api/records/17270656/access/links",
+          "access_grants": "https://zenodo.org/api/records/17270656/access/grants",
+          "access_users": "https://zenodo.org/api/records/17270656/access/users",
+          "access_request": "https://zenodo.org/api/records/17270656/access/request",
+          "access": "https://zenodo.org/api/records/17270656/access",
+          "communities": "https://zenodo.org/api/records/17270656/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/17270656/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/17270656/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/17270656/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/17270656/quota-increase",
+          "requests": "https://zenodo.org/api/records/17270656/requests"
+        },
+        "updated": "2025-10-05T05:10:24.588941+00:00",
+        "recid": "17270656",
+        "revision": 4,
+        "files": [
+          {
+            "id": "45886fec-3ed1-4605-8296-78458d8998c1",
+            "key": "provisional - high d control.pdf",
+            "size": 135095,
+            "checksum": "md5:cf5cf091ac2d588fedaa81cc5e4d343f",
+            "links": {
+              "self": "https://zenodo.org/api/records/17270656/files/provisional%20-%20high%20d%20control.pdf/content"
+            }
+          },
+          {
+            "id": "95136e19-9e17-4298-862d-421f76767852",
+            "key": "high d control.pdf",
+            "size": 233589,
+            "checksum": "md5:c8f103cc1438d95459b87bf3752bf982",
+            "links": {
+              "self": "https://zenodo.org/api/records/17270656/files/high%20d%20control.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1293928"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 59,
+          "unique_downloads": 53,
+          "views": 28,
+          "unique_views": 27,
+          "version_downloads": 59,
+          "version_unique_downloads": 53,
+          "version_unique_views": 27,
+          "version_views": 28
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-02-14T09:00:56.968725+00:00",
+        "modified": "2026-02-14T09:00:57.233048+00:00",
+        "id": 18639849,
+        "conceptrecid": "18639848",
+        "doi": "10.5281/zenodo.18639849",
+        "conceptdoi": "10.5281/zenodo.18639848",
+        "doi_url": "https://doi.org/10.5281/zenodo.18639849",
+        "metadata": {
+          "title": "The Energetics of Phantom Perception: What Chronic Tinnitus Reveals About the Architecture of Conscious Experience",
+          "doi": "10.5281/zenodo.18639849",
+          "publication_date": "2026-02-14",
+          "description": "<p><em>For over twenty years, I have experienced chronic tinnitus, a persistent high-pitched tone that exists nowhere in the external world yet remains unwavering in conscious experience. This phantom sound led to an intuition that I suspect many tinnitus sufferers share: if a conscious percept can exist without external stimulus, it indicates an ongoing energy expenditure from some underlying physical process; and if the energy cost is negligible, perhaps consciousness operates in a substrate separate from neural tissue.</em></p>\n<p><em>This paper rigorously tests that intuition through quantitative analysis combining neuroscience, thermodynamics, information theory, and biophysics. We develop a comprehensive mathematical framework for estimating neural energy consumption, incorporating updated energy budgets from Howarth et al. (2012) and recent findings on network dynamics. Our analysis reveals that tinnitus maintenance requires approximately 0.1 to 10 mW of metabolic power, representing 0.0005 to 0.05% of baseline brain metabolism. Comparing neural energy expenditure to Landauer&rsquo;s thermodynamic minimum reveals a gap of 10<sup>10</sup>to 10<sup>13</sup> times.</em></p>\n<p><em>The intuition is incorrect on both points. First, tinnitus is not a significant energy leak; its metabolic cost is a tiny fraction of the brain&rsquo;s baseline energy use. Second, this finding does not imply that consciousness exists in another realm; the efficiency gap reflects expected biological overhead in a warm, noisy system designed for reliability rather than thermodynamic efficiency.</em></p>\n<p><em>What emerges instead is more intriguing: vivid conscious content can persist with minimal additional energy because the brain&rsquo;s substantial baseline metabolism sustains a generative workspace. Specific contents, including tinnitus, are primarily implemented through pattern selection (precision weighting, synchrony, connectivity) rather than large increases in neural activity. We formalize this as the Baseline-Content Dissociation Hypothesis (BCDH) and derive falsifiable predictions.</em></p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Hussain, Amjad",
+              "affiliation": null,
+              "orcid": "0009-0006-5528-7098"
+            }
+          ],
+          "keywords": [
+            "consciousness, tinnitus, neuroenergetics, Landauer principle, predictive coding, phantom perception, free energy principle"
+          ],
+          "resource_type": {
+            "title": "Publication",
+            "type": "publication"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "18639848"
+                }
+              }
+            ]
+          }
+        },
+        "title": "The Energetics of Phantom Perception: What Chronic Tinnitus Reveals About the Architecture of Conscious Experience",
+        "links": {
+          "self": "https://zenodo.org/api/records/18639849",
+          "self_html": "https://zenodo.org/records/18639849",
+          "preview_html": "https://zenodo.org/records/18639849?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.18639849",
+          "self_doi": "https://doi.org/10.5281/zenodo.18639849",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18639849",
+          "reserve_doi": "https://zenodo.org/api/records/18639849/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/18639848",
+          "parent_html": "https://zenodo.org/records/18639848",
+          "parent_doi": "https://doi.org/10.5281/zenodo.18639848",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18639848",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18639849/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18639849/sequence/default",
+          "files": "https://zenodo.org/api/records/18639849/files",
+          "media_files": "https://zenodo.org/api/records/18639849/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:18639849:Tinnitus_Consciousness_Paper.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:18639849:Tinnitus_Consciousness_Paper.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:18639849:Tinnitus_Consciousness_Paper.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:18639849:Tinnitus_Consciousness_Paper.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:18639849:Tinnitus_Consciousness_Paper.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:18639849:Tinnitus_Consciousness_Paper.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/18639849/files-archive",
+          "archive_media": "https://zenodo.org/api/records/18639849/media-files-archive",
+          "latest": "https://zenodo.org/api/records/18639849/versions/latest",
+          "latest_html": "https://zenodo.org/records/18639849/latest",
+          "versions": "https://zenodo.org/api/records/18639849/versions",
+          "draft": "https://zenodo.org/api/records/18639849/draft",
+          "access_links": "https://zenodo.org/api/records/18639849/access/links",
+          "access_grants": "https://zenodo.org/api/records/18639849/access/grants",
+          "access_users": "https://zenodo.org/api/records/18639849/access/users",
+          "access_request": "https://zenodo.org/api/records/18639849/access/request",
+          "access": "https://zenodo.org/api/records/18639849/access",
+          "communities": "https://zenodo.org/api/records/18639849/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/18639849/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/18639849/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/18639849/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/18639849/quota-increase",
+          "requests": "https://zenodo.org/api/records/18639849/requests"
+        },
+        "updated": "2026-02-14T09:00:57.233048+00:00",
+        "recid": "18639849",
+        "revision": 4,
+        "files": [
+          {
+            "id": "9f738d65-96e5-47d2-9edb-61d1d452f8c8",
+            "key": "Tinnitus_Consciousness_Paper.pdf",
+            "size": 37898,
+            "checksum": "md5:51ae814cb7c5e8101815c3a6997eec19",
+            "links": {
+              "self": "https://zenodo.org/api/records/18639849/files/Tinnitus_Consciousness_Paper.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1546668"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 84,
+          "unique_downloads": 78,
+          "views": 35,
+          "unique_views": 33,
+          "version_downloads": 84,
+          "version_unique_downloads": 78,
+          "version_unique_views": 33,
+          "version_views": 35
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-01-21T15:18:08.448883+00:00",
+        "modified": "2026-01-21T15:18:08.663008+00:00",
+        "id": 18297457,
+        "conceptrecid": "18297456",
+        "doi": "10.5281/zenodo.18297457",
+        "conceptdoi": "10.5281/zenodo.18297456",
+        "doi_url": "https://doi.org/10.5281/zenodo.18297457",
+        "metadata": {
+          "title": "Dimensionless Fan quantity kind definitions",
+          "doi": "10.5281/zenodo.18297457",
+          "publication_date": "2026-01-19",
+          "description": "<p>This Turtle (.ttl) ontology extends the QUDT (Quantities, Units, Dimensions, and Types) vocabulary with specialized QuantityKinds for fan performance analysis, addressing gaps in the core ontology. Fan engineering requires dimensionless quantities like the fan pressure coefficient or fan flow coefficient, which lack dedicated IRIs in standard QUDT distributions.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Probst, Matthias",
+              "affiliation": "Karlsruhe Institute of Technology",
+              "orcid": "0000-0001-8729-0482"
+            }
+          ],
+          "version": "1.0.0",
+          "resource_type": {
+            "title": "Dataset",
+            "type": "dataset"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "18297456"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Dimensionless Fan quantity kind definitions",
+        "links": {
+          "self": "https://zenodo.org/api/records/18297457",
+          "self_html": "https://zenodo.org/records/18297457",
+          "preview_html": "https://zenodo.org/records/18297457?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.18297457",
+          "self_doi": "https://doi.org/10.5281/zenodo.18297457",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18297457",
+          "reserve_doi": "https://zenodo.org/api/records/18297457/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/18297456",
+          "parent_html": "https://zenodo.org/records/18297456",
+          "parent_doi": "https://doi.org/10.5281/zenodo.18297456",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18297456",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18297457/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18297457/sequence/default",
+          "files": "https://zenodo.org/api/records/18297457/files",
+          "media_files": "https://zenodo.org/api/records/18297457/media-files",
+          "archive": "https://zenodo.org/api/records/18297457/files-archive",
+          "archive_media": "https://zenodo.org/api/records/18297457/media-files-archive",
+          "latest": "https://zenodo.org/api/records/18297457/versions/latest",
+          "latest_html": "https://zenodo.org/records/18297457/latest",
+          "versions": "https://zenodo.org/api/records/18297457/versions",
+          "draft": "https://zenodo.org/api/records/18297457/draft",
+          "access_links": "https://zenodo.org/api/records/18297457/access/links",
+          "access_grants": "https://zenodo.org/api/records/18297457/access/grants",
+          "access_users": "https://zenodo.org/api/records/18297457/access/users",
+          "access_request": "https://zenodo.org/api/records/18297457/access/request",
+          "access": "https://zenodo.org/api/records/18297457/access",
+          "communities": "https://zenodo.org/api/records/18297457/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/18297457/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/18297457/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/18297457/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/18297457/quota-increase",
+          "requests": "https://zenodo.org/api/records/18297457/requests"
+        },
+        "updated": "2026-01-21T15:18:08.663008+00:00",
+        "recid": "18297457",
+        "revision": 4,
+        "files": [
+          {
+            "id": "780968d7-d9ce-4430-834f-3bf88ef6c948",
+            "key": "dimensionless_fan_quantity_kinds.ttl",
+            "size": 3395,
+            "checksum": "md5:6dd973598f3c94c0f9714566ad397172",
+            "links": {
+              "self": "https://zenodo.org/api/records/18297457/files/dimensionless_fan_quantity_kinds.ttl/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1092400"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 29,
+          "unique_downloads": 26,
+          "views": 136,
+          "unique_views": 126,
+          "version_downloads": 29,
+          "version_unique_downloads": 26,
+          "version_unique_views": 126,
+          "version_views": 136
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-06-22T15:35:43.512604+00:00",
+        "modified": "2026-06-22T15:35:44.152345+00:00",
+        "id": 20799738,
+        "conceptrecid": "20799737",
+        "doi": "10.5281/zenodo.20799738",
+        "conceptdoi": "10.5281/zenodo.20799737",
+        "doi_url": "https://doi.org/10.5281/zenodo.20799738",
+        "metadata": {
+          "title": "Governance Thermodynamics: The Second Law of Persistent Systems KA Universality Program 8.0 \u2014 Paper P60",
+          "doi": "10.5281/zenodo.20799738",
+          "publication_date": "2026-06-22",
+          "description": "<div class=\"page\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><span>Papers P55&ndash;P59 introduced thermodynamic language into the KA program: constitutional entropy, free energy, temperature, and irreversibility. This paper elevates these from analogies to theorems. We prove: (T1) the </span><span>Governance Dissipation Theorem</span><span>&mdash;in the absence of external creation, every governance margin decays monotonically, and the viability dimension is non-increasing; this is the Second Law of Persistent Systems; (T2) the </span><span>Observer Work Theorem</span><span>&mdash;an observer&rsquo;s capacity to repair margins is bounded above by its state&ndash;future mutual information, establishing the governance analogue of Landauer&rsquo;s principle; (T3) the </span><span>Information&ndash;Persistence Inequality</span><span>&mdash;the rate of persistence maintenance is bounded by the observer&rsquo;s information processing rate; and (T4) the </span><span>Constitutional Irreversibility Theorem</span><span>&mdash;constitutional entropy production is strictly positive for any non- equilibrium governance transition, formalizing the arrow of constitutional time. Together, these results establish governance thermodynamics as a deductive structure, not a metaphor. The central claim: </span><span>governance obeys a second law. Maintaining order requires information. Losing order is free. </span></p>\n<p>&nbsp;</p>\n</div>\n</div>\n</div>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Karimov, Hikmat",
+              "affiliation": null
+            },
+            {
+              "name": "Alekberli, Rahid",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "governance thermodynamics",
+            "dissipation theorem",
+            "observer work bound",
+            "Landauer principle",
+            "constitutional irreversibility",
+            "second law"
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "kerimov-alekberli"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20799737"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Governance Thermodynamics: The Second Law of Persistent Systems KA Universality Program 8.0 \u2014 Paper P60",
+        "links": {
+          "self": "https://zenodo.org/api/records/20799738",
+          "self_html": "https://zenodo.org/records/20799738",
+          "preview_html": "https://zenodo.org/records/20799738?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20799738",
+          "self_doi": "https://doi.org/10.5281/zenodo.20799738",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20799738",
+          "reserve_doi": "https://zenodo.org/api/records/20799738/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20799737",
+          "parent_html": "https://zenodo.org/records/20799737",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20799737",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20799737",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20799738/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20799738/sequence/default",
+          "files": "https://zenodo.org/api/records/20799738/files",
+          "media_files": "https://zenodo.org/api/records/20799738/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:20799738:KA_P60_with_figures.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:20799738:KA_P60_with_figures.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:20799738:KA_P60_with_figures.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:20799738:KA_P60_with_figures.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:20799738:KA_P60_with_figures.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:20799738:KA_P60_with_figures.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/20799738/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20799738/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20799738/versions/latest",
+          "latest_html": "https://zenodo.org/records/20799738/latest",
+          "versions": "https://zenodo.org/api/records/20799738/versions",
+          "draft": "https://zenodo.org/api/records/20799738/draft",
+          "access_links": "https://zenodo.org/api/records/20799738/access/links",
+          "access_grants": "https://zenodo.org/api/records/20799738/access/grants",
+          "access_users": "https://zenodo.org/api/records/20799738/access/users",
+          "access_request": "https://zenodo.org/api/records/20799738/access/request",
+          "access": "https://zenodo.org/api/records/20799738/access",
+          "communities": "https://zenodo.org/api/records/20799738/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20799738/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20799738/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20799738/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20799738/quota-increase",
+          "requests": "https://zenodo.org/api/records/20799738/requests"
+        },
+        "updated": "2026-06-22T15:35:44.152345+00:00",
+        "recid": "20799738",
+        "revision": 4,
+        "files": [
+          {
+            "id": "3c4a24e5-f708-41a8-8f7b-f13743d9b92e",
+            "key": "KA_P60_with_figures.pdf",
+            "size": 463908,
+            "checksum": "md5:f21a5bd8841d37e7a6fc1846feccf7cd",
+            "links": {
+              "self": "https://zenodo.org/api/records/20799738/files/KA_P60_with_figures.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1581762"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 9,
+          "unique_downloads": 9,
+          "views": 8,
+          "unique_views": 8,
+          "version_downloads": 9,
+          "version_unique_downloads": 9,
+          "version_unique_views": 8,
+          "version_views": 8
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-10-11T12:54:24.601363+00:00",
+        "modified": "2025-10-11T12:54:25.063790+00:00",
+        "id": 17325911,
+        "conceptrecid": "17325074",
+        "doi": "10.5281/zenodo.17325911",
+        "conceptdoi": "10.5281/zenodo.17325074",
+        "doi_url": "https://doi.org/10.5281/zenodo.17325911",
+        "metadata": {
+          "title": "Horizons as Thermodynamic Measurement Channels: Operational Dimensionality, Landauer-Time Regularization, and the Information Geometry of Black Holes",
+          "doi": "10.5281/zenodo.17325911",
+          "publication_date": "2025-10-11",
+          "description": "<p>We model event horizons as measurement interfaces implementing thermodynamic projection with finite temporal resolution. Within an adjoint-like structure on appropriate subcategories Gravity &lt;-pi/R-&gt; Boundary, we derive an operational dimensionality D_op(epsilon, tau) constrained by measurement time tau and Landauer cost. We derive under stated assumptions a finite-time horizon timing bound Delta_t_horizon ~ beta (with units restored: beta = hbar/(k_B T_H)), yielding Landauer-Time Regularization (LTR): attempts to project faster incur divergent dissipation that backreacts and smears shocks. At horizons with temperature T_H, projection collapses bulk structure to rank-3 spatial observables carried along a null parameter. We show: (i) negentropy equals codimension D_max - D_op, making dimensional structure the thermodynamic quantity, (ii) complexity growth equals accumulated codimension deficit during reconstruction (hypothesis, calibrated to match dC/dt ~ 2M/(pi*hbar)), (iii) time emerges as measurement depth with intrinsic granularity ~ beta, and (iv) the Page transition is a measurement-induced dimensional phase change with width ~ sqrt(S_BH)*beta. This framework unifies black hole thermodynamics, complexity dynamics, and information retrieval as consequences of time-constrained dimensional projection, predicting testable scaling relationships and resolving paradoxes as bookkeeping errors between projection and reconstruction algebras.</p>\n<p>Keywords: Black hole thermodynamics, Information paradox, Quantum complexity, Operational dimensionality, Landauer principle, Temporal uncertainty, Emergent time</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "t",
+              "affiliation": null
+            }
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 1,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "17325074"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Horizons as Thermodynamic Measurement Channels: Operational Dimensionality, Landauer-Time Regularization, and the Information Geometry of Black Holes",
+        "links": {
+          "self": "https://zenodo.org/api/records/17325911",
+          "self_html": "https://zenodo.org/records/17325911",
+          "preview_html": "https://zenodo.org/records/17325911?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.17325911",
+          "self_doi": "https://doi.org/10.5281/zenodo.17325911",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17325911",
+          "reserve_doi": "https://zenodo.org/api/records/17325911/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/17325074",
+          "parent_html": "https://zenodo.org/records/17325074",
+          "parent_doi": "https://doi.org/10.5281/zenodo.17325074",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17325074",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17325911/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17325911/sequence/default",
+          "files": "https://zenodo.org/api/records/17325911/files",
+          "media_files": "https://zenodo.org/api/records/17325911/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:17325911:horizon%20thermodynamics.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:17325911:horizon%20thermodynamics.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:17325911:horizon%20thermodynamics.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:17325911:horizon%20thermodynamics.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:17325911:horizon%20thermodynamics.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:17325911:horizon%20thermodynamics.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/17325911/files-archive",
+          "archive_media": "https://zenodo.org/api/records/17325911/media-files-archive",
+          "latest": "https://zenodo.org/api/records/17325911/versions/latest",
+          "latest_html": "https://zenodo.org/records/17325911/latest",
+          "versions": "https://zenodo.org/api/records/17325911/versions",
+          "draft": "https://zenodo.org/api/records/17325911/draft",
+          "access_links": "https://zenodo.org/api/records/17325911/access/links",
+          "access_grants": "https://zenodo.org/api/records/17325911/access/grants",
+          "access_users": "https://zenodo.org/api/records/17325911/access/users",
+          "access_request": "https://zenodo.org/api/records/17325911/access/request",
+          "access": "https://zenodo.org/api/records/17325911/access",
+          "communities": "https://zenodo.org/api/records/17325911/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/17325911/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/17325911/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/17325911/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/17325911/quota-increase",
+          "requests": "https://zenodo.org/api/records/17325911/requests"
+        },
+        "updated": "2025-10-11T12:54:25.063790+00:00",
+        "recid": "17325911",
+        "revision": 4,
+        "files": [
+          {
+            "id": "cb8970ec-ab6d-43f4-a494-69d8761bb1ef",
+            "key": "horizon thermodynamics.pdf",
+            "size": 282296,
+            "checksum": "md5:a324c6fe04c2f73de3ef05deb1ed73d5",
+            "links": {
+              "self": "https://zenodo.org/api/records/17325911/files/horizon%20thermodynamics.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1293928"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 31,
+          "unique_downloads": 28,
+          "views": 47,
+          "unique_views": 46,
+          "version_downloads": 14,
+          "version_unique_downloads": 12,
+          "version_unique_views": 25,
+          "version_views": 25
+        },
+        "state": "done",
+        "submitted": true
+      }
+    ],
+    "total": 5694
+  },
+  "aggregations": {
+    "publication_date": {
+      "buckets": [
+        {
+          "key": "2001",
+          "doc_count": 1,
+          "label": "2001",
+          "is_selected": false
+        },
+        {
+          "key": "2002",
+          "doc_count": 0,
+          "label": "2002",
+          "is_selected": false
+        },
+        {
+          "key": "2003",
+          "doc_count": 0,
+          "label": "2003",
+          "is_selected": false
+        },
+        {
+          "key": "2004",
+          "doc_count": 0,
+          "label": "2004",
+          "is_selected": false
+        },
+        {
+          "key": "2005",
+          "doc_count": 0,
+          "label": "2005",
+          "is_selected": false
+        },
+        {
+          "key": "2006",
+          "doc_count": 5,
+          "label": "2006",
+          "is_selected": false
+        },
+        {
+          "key": "2007",
+          "doc_count": 5,
+          "label": "2007",
+          "is_selected": false
+        },
+        {
+          "key": "2008",
+          "doc_count": 5,
+          "label": "2008",
+          "is_selected": false
+        },
+        {
+          "key": "2009",
+          "doc_count": 8,
+          "label": "2009",
+          "is_selected": false
+        },
+        {
+          "key": "2010",
+          "doc_count": 9,
+          "label": "2010",
+          "is_selected": false
+        },
+        {
+          "key": "2011",
+          "doc_count": 14,
+          "label": "2011",
+          "is_selected": false
+        },
+        {
+          "key": "2012",
+          "doc_count": 15,
+          "label": "2012",
+          "is_selected": false
+        },
+        {
+          "key": "2013",
+          "doc_count": 21,
+          "label": "2013",
+          "is_selected": false
+        },
+        {
+          "key": "2014",
+          "doc_count": 18,
+          "label": "2014",
+          "is_selected": false
+        },
+        {
+          "key": "2015",
+          "doc_count": 22,
+          "label": "2015",
+          "is_selected": false
+        },
+        {
+          "key": "2016",
+          "doc_count": 24,
+          "label": "2016",
+          "is_selected": false
+        },
+        {
+          "key": "2017",
+          "doc_count": 31,
+          "label": "2017",
+          "is_selected": false
+        },
+        {
+          "key": "2018",
+          "doc_count": 38,
+          "label": "2018",
+          "is_selected": false
+        },
+        {
+          "key": "2019",
+          "doc_count": 56,
+          "label": "2019",
+          "is_selected": false
+        },
+        {
+          "key": "2020",
+          "doc_count": 44,
+          "label": "2020",
+          "is_selected": false
+        },
+        {
+          "key": "2021",
+          "doc_count": 65,
+          "label": "2021",
+          "is_selected": false
+        },
+        {
+          "key": "2022",
+          "doc_count": 67,
+          "label": "2022",
+          "is_selected": false
+        },
+        {
+          "key": "2023",
+          "doc_count": 55,
+          "label": "2023",
+          "is_selected": false
+        },
+        {
+          "key": "2024",
+          "doc_count": 102,
+          "label": "2024",
+          "is_selected": false
+        },
+        {
+          "key": "2025",
+          "doc_count": 1237,
+          "label": "2025",
+          "is_selected": false
+        },
+        {
+          "key": "2026",
+          "doc_count": 3843,
+          "label": "2026",
+          "is_selected": false
+        }
+      ],
+      "label": "Publication date"
+    },
+    "access_status": {
+      "buckets": [
+        {
+          "key": "open",
+          "doc_count": 5443,
+          "label": "Open",
+          "is_selected": false
+        },
+        {
+          "key": "restricted",
+          "doc_count": 221,
+          "label": "Restricted",
+          "is_selected": false
+        },
+        {
+          "key": "embargoed",
+          "doc_count": 30,
+          "label": "Embargoed",
+          "is_selected": false
+        }
+      ],
+      "label": "Access status"
+    },
+    "resource_type": {
+      "buckets": [
+        {
+          "key": "publication",
+          "doc_count": 4947,
+          "label": "Publication",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "publication-preprint",
+                "doc_count": 3014,
+                "label": "Preprint",
+                "is_selected": false
+              },
+              {
+                "key": "publication-article",
+                "doc_count": 536,
+                "label": "Journal article",
+                "is_selected": false
+              },
+              {
+                "key": "publication-dissertation",
+                "doc_count": 206,
+                "label": "Thesis",
+                "is_selected": false
+              },
+              {
+                "key": "publication-workingpaper",
+                "doc_count": 112,
+                "label": "Working paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-report",
+                "doc_count": 100,
+                "label": "Report",
+                "is_selected": false
+              },
+              {
+                "key": "publication-other",
+                "doc_count": 89,
+                "label": "Other",
+                "is_selected": false
+              },
+              {
+                "key": "publication-technicalnote",
+                "doc_count": 63,
+                "label": "Technical note",
+                "is_selected": false
+              },
+              {
+                "key": "publication-book",
+                "doc_count": 41,
+                "label": "Book",
+                "is_selected": false
+              },
+              {
+                "key": "publication-peerreview",
+                "doc_count": 41,
+                "label": "Peer review",
+                "is_selected": false
+              },
+              {
+                "key": "publication-conferencepaper",
+                "doc_count": 32,
+                "label": "Conference paper",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "dataset",
+          "doc_count": 389,
+          "label": "Dataset",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "software",
+          "doc_count": 113,
+          "label": "Software",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "software-computationalnotebook",
+                "doc_count": 8,
+                "label": "Computational notebook",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "model",
+          "doc_count": 94,
+          "label": "Model",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "other",
+          "doc_count": 56,
+          "label": "Other",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "image",
+          "doc_count": 40,
+          "label": "Image",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "image-figure",
+                "doc_count": 9,
+                "label": "Figure",
+                "is_selected": false
+              },
+              {
+                "key": "image-other",
+                "doc_count": 1,
+                "label": "Other",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "presentation",
+          "doc_count": 25,
+          "label": "Presentation",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "physicalobject",
+          "doc_count": 10,
+          "label": "Physical object",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "poster",
+          "doc_count": 10,
+          "label": "Poster",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "event",
+          "doc_count": 5,
+          "label": "Event",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        }
+      ],
+      "label": "Resource types"
+    },
+    "subject": {
+      "buckets": [
+        {
+          "key": "Landauer principle",
+          "doc_count": 214,
+          "label": "Landauer principle",
+          "is_selected": false
+        },
+        {
+          "key": "Quantum physics",
+          "doc_count": 154,
+          "label": "Quantum physics",
+          "is_selected": false
+        },
+        {
+          "key": "Theoretical physics",
+          "doc_count": 150,
+          "label": "Theoretical physics",
+          "is_selected": false
+        },
+        {
+          "key": "Physics",
+          "doc_count": 134,
+          "label": "Physics",
+          "is_selected": false
+        },
+        {
+          "key": "Mathematical physics",
+          "doc_count": 132,
+          "label": "Mathematical physics",
+          "is_selected": false
+        },
+        {
+          "key": "fine-structure constant",
+          "doc_count": 98,
+          "label": "fine-structure constant",
+          "is_selected": false
+        },
+        {
+          "key": "dark energy",
+          "doc_count": 94,
+          "label": "dark energy",
+          "is_selected": false
+        },
+        {
+          "key": "Particle physics",
+          "doc_count": 88,
+          "label": "Particle physics",
+          "is_selected": false
+        },
+        {
+          "key": "cosmological constant",
+          "doc_count": 76,
+          "label": "cosmological constant",
+          "is_selected": false
+        },
+        {
+          "key": "cosmology",
+          "doc_count": 75,
+          "label": "cosmology",
+          "is_selected": false
+        }
+      ],
+      "label": "Subjects"
+    },
+    "file_type": {
+      "buckets": [
+        {
+          "key": "pdf",
+          "doc_count": 4665,
+          "label": "PDF",
+          "is_selected": false
+        },
+        {
+          "key": "zip",
+          "doc_count": 530,
+          "label": "ZIP",
+          "is_selected": false
+        },
+        {
+          "key": "docx",
+          "doc_count": 263,
+          "label": "DOCX",
+          "is_selected": false
+        },
+        {
+          "key": "tex",
+          "doc_count": 263,
+          "label": "TEX",
+          "is_selected": false
+        },
+        {
+          "key": "md",
+          "doc_count": 218,
+          "label": "MD",
+          "is_selected": false
+        },
+        {
+          "key": "py",
+          "doc_count": 208,
+          "label": "PY",
+          "is_selected": false
+        },
+        {
+          "key": "png",
+          "doc_count": 191,
+          "label": "PNG",
+          "is_selected": false
+        },
+        {
+          "key": "txt",
+          "doc_count": 186,
+          "label": "TXT",
+          "is_selected": false
+        },
+        {
+          "key": "csv",
+          "doc_count": 117,
+          "label": "CSV",
+          "is_selected": false
+        },
+        {
+          "key": "bin",
+          "doc_count": 84,
+          "label": "BIN",
+          "is_selected": false
+        }
+      ],
+      "label": "File type"
+    }
+  },
+  "links": {
+    "self": "https://zenodo.org/api/records?page=1&q=%22Landauer+principle%22+dimensionless&size=10&sort=bestmatch",
+    "next": "https://zenodo.org/api/records?page=2&q=%22Landauer+principle%22+dimensionless&size=10&sort=bestmatch"
+  }
+}

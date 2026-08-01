@@ -1,0 +1,3012 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 3931718,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2022-03-31T20:48:45Z",
+          "timestamp": 1648759725247
+        },
+        "reference-count": 0,
+        "publisher": "IOP Publishing",
+        "issue": "6",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Phys. Bull."
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              1961,
+              6
+            ]
+          ]
+        },
+        "DOI": "10.1088/0031-9112/12/6/015",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              9
+            ]
+          ],
+          "date-time": "2015-12-09T14:05:06Z",
+          "timestamp": 1449669906000
+        },
+        "page": "172-173",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Units, Dimensions and Dimensionless Numbers"
+        ],
+        "prefix": "10.1088",
+        "volume": "12",
+        "author": [
+          {
+            "given": "E W H",
+            "family": "Selwyn",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "266",
+        "published-online": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "Physics Bulletin"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              11
+            ]
+          ],
+          "date-time": "2020-04-11T13:52:06Z",
+          "timestamp": 1586613126000
+        },
+        "score": 26.59724,
+        "resource": {
+          "primary": {
+            "URL": "https://iopscience.iop.org/article/10.1088/0031-9112/12/6/015"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1961,
+              6
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "6",
+          "published-print": {
+            "date-parts": [
+              [
+                1961,
+                6,
+                1
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1088/0031-9112/12/6/015",
+        "ISSN": [
+          "0031-9112"
+        ],
+        "issn-type": [
+          {
+            "value": "0031-9112",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1961,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              4
+            ]
+          ],
+          "date-time": "2022-04-04T12:38:21Z",
+          "timestamp": 1649075901386
+        },
+        "publisher-location": "London",
+        "standards-body": {
+          "name": "BSI British Standards",
+          "acronym": "BSI"
+        },
+        "reference-count": 0,
+        "publisher": "BSI British Standards",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3403/00028306",
+        "type": "standard",
+        "created": {
+          "date-parts": [
+            [
+              2013,
+              12,
+              10
+            ]
+          ],
+          "date-time": "2013-12-10T16:24:37Z",
+          "timestamp": 1386692677000
+        },
+        "approved": {
+          "date-parts": [
+            [
+              1982,
+              2,
+              26
+            ]
+          ]
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Specification for quantities, units and symbols"
+        ],
+        "prefix": "10.3403",
+        "member": "1988",
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              12,
+              5
+            ]
+          ],
+          "date-time": "2017-12-05T07:50:58Z",
+          "timestamp": 1512460258000
+        },
+        "score": 26.425182,
+        "resource": {
+          "primary": {
+            "URL": "https://linkresolver.bsigroup.com/junction/resolve/000000000010120281?restype=standard"
+          }
+        },
+        "subtitle": [
+          "Dimensionless parameters"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3403/00028306"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              28
+            ]
+          ],
+          "date-time": "2026-02-28T08:48:26Z",
+          "timestamp": 1772268506954,
+          "version": "3.50.1"
+        },
+        "reference-count": 0,
+        "publisher": "PeerJ",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.7717/peerj.1490/table-1",
+        "type": "component",
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              12
+            ]
+          ],
+          "date-time": "2015-12-12T23:55:44Z",
+          "timestamp": 1449964544000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Table 1: Example of conversion of physical dimensions to dimensionless units."
+        ],
+        "prefix": "10.7717",
+        "member": "4443",
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              3,
+              10
+            ]
+          ],
+          "date-time": "2017-03-10T11:28:16Z",
+          "timestamp": 1489145296000
+        },
+        "score": 25.636707,
+        "resource": {
+          "primary": {
+            "URL": "https://peerj.com/articles/1490/table-1"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.7717/peerj.1490/table-1",
+        "relation": {
+          "is-component-of": [
+            {
+              "id-type": "doi",
+              "id": "10.7717/peerj.1490",
+              "asserted-by": "object"
+            }
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              6
+            ]
+          ],
+          "date-time": "2026-03-06T12:26:53Z",
+          "timestamp": 1772800013295,
+          "version": "3.50.1"
+        },
+        "reference-count": 67,
+        "publisher": "Elsevier BV",
+        "issue": "6",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2004,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2004-09-01T00:00:00Z",
+              "timestamp": 1093996800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Physics Letters A"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2004,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.physleta.2004.07.019",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2004,
+              8,
+              4
+            ]
+          ],
+          "date-time": "2004-08-04T14:11:17Z",
+          "timestamp": 1091628677000
+        },
+        "page": "475-485",
+        "source": "Crossref",
+        "is-referenced-by-count": 16,
+        "title": [
+          "Fluctuation\u2013dissipation theorems for nonlinear Fokker\u2013Planck equations of the Desai\u2013Zwanzig type and Vlasov\u2013Fokker\u2013Planck equations"
+        ],
+        "prefix": "10.1016",
+        "volume": "329",
+        "author": [
+          {
+            "given": "T.D.",
+            "family": "Frank",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib001",
+            "doi-asserted-by": "crossref",
+            "first-page": "204101",
+            "DOI": "10.1103/PhysRevLett.90.204101",
+            "volume": "90",
+            "author": "Munoz",
+            "year": "2003",
+            "journal-title": "Phys. Rev. Lett."
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib002",
+            "doi-asserted-by": "crossref",
+            "first-page": "021607",
+            "DOI": "10.1103/PhysRevE.67.021607",
+            "volume": "67",
+            "author": "de los Santos",
+            "year": "2003",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib003",
+            "doi-asserted-by": "crossref",
+            "first-page": "2750",
+            "DOI": "10.1103/PhysRevLett.76.2750",
+            "volume": "76",
+            "author": "Marsili",
+            "year": "1996",
+            "journal-title": "Phys. Rev. Lett."
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib004",
+            "doi-asserted-by": "crossref",
+            "first-page": "6015",
+            "DOI": "10.1103/PhysRevE.62.6015",
+            "volume": "62",
+            "author": "Giada",
+            "year": "2000",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib005",
+            "series-title": "Stochastic Processes in Polymeric Fluids",
+            "author": "\u00d6ttinger",
+            "year": "1996"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib006",
+            "series-title": "The Theory of Polymer Dynamics",
+            "author": "Doi",
+            "year": "1988"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib007",
+            "doi-asserted-by": "crossref",
+            "first-page": "589",
+            "DOI": "10.1515/zna-2003-1101",
+            "volume": "58",
+            "author": "Ilg",
+            "year": "2003",
+            "journal-title": "Z. Naturforsch. A"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib008",
+            "doi-asserted-by": "crossref",
+            "first-page": "88",
+            "DOI": "10.1016/S0378-4371(02)02031-9",
+            "volume": "323",
+            "author": "Felderhof",
+            "year": "2003",
+            "journal-title": "Physica A"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib009",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1007/BF01020331",
+            "volume": "19",
+            "author": "Desai",
+            "year": "1978",
+            "journal-title": "J. Stat. Phys."
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib010",
+            "doi-asserted-by": "crossref",
+            "first-page": "659",
+            "DOI": "10.1007/BF01013379",
+            "volume": "46",
+            "author": "Bonilla",
+            "year": "1987",
+            "journal-title": "J. Stat. Phys."
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib011",
+            "doi-asserted-by": "crossref",
+            "first-page": "3958",
+            "DOI": "10.1103/PhysRevE.53.3958",
+            "volume": "53",
+            "author": "Bulsara",
+            "year": "1996",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib012",
+            "doi-asserted-by": "crossref",
+            "first-page": "316",
+            "DOI": "10.1103/PhysRevE.52.316",
+            "volume": "52",
+            "author": "Morillo",
+            "year": "1995",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib013",
+            "doi-asserted-by": "crossref",
+            "first-page": "1406",
+            "DOI": "10.1103/PhysRevLett.77.1406",
+            "volume": "77",
+            "author": "Daido",
+            "year": "1996",
+            "journal-title": "Phys. Rev. Lett."
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib014",
+            "doi-asserted-by": "crossref",
+            "first-page": "404",
+            "DOI": "10.1103/PhysRevLett.76.404",
+            "volume": "76",
+            "author": "Wiesenfeld",
+            "year": "1996",
+            "journal-title": "Phys. Rev. Lett."
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib015",
+            "doi-asserted-by": "crossref",
+            "first-page": "1616",
+            "DOI": "10.1103/PhysRevLett.78.1616",
+            "volume": "78",
+            "author": "Kim",
+            "year": "1997",
+            "journal-title": "Phys. Rev. Lett."
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib016",
+            "doi-asserted-by": "crossref",
+            "first-page": "2838",
+            "DOI": "10.1103/PhysRevE.58.2838",
+            "volume": "58",
+            "author": "Li",
+            "year": "1998",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib017",
+            "doi-asserted-by": "crossref",
+            "first-page": "62",
+            "DOI": "10.1016/S0167-2789(00)00071-3",
+            "volume": "144",
+            "author": "Frank",
+            "year": "2000",
+            "journal-title": "Physica D"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib018",
+            "doi-asserted-by": "crossref",
+            "first-page": "011905",
+            "DOI": "10.1103/PhysRevE.63.011905",
+            "volume": "63",
+            "author": "Frank",
+            "year": "2001",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib019",
+            "doi-asserted-by": "crossref",
+            "first-page": "011106",
+            "DOI": "10.1103/PhysRevE.64.011106",
+            "volume": "64",
+            "author": "Li",
+            "year": "2001",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib020",
+            "doi-asserted-by": "crossref",
+            "first-page": "4278",
+            "DOI": "10.1103/PhysRevLett.86.4278",
+            "volume": "86",
+            "author": "Ariaratnam",
+            "year": "2001",
+            "journal-title": "Phys. Rev. Lett."
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib021",
+            "doi-asserted-by": "crossref",
+            "first-page": "046110",
+            "DOI": "10.1103/PhysRevE.65.046110",
+            "volume": "65",
+            "author": "Birner",
+            "year": "2002",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib022",
+            "doi-asserted-by": "crossref",
+            "first-page": "3395",
+            "DOI": "10.1103/PhysRevLett.73.3395",
+            "volume": "73",
+            "author": "van den Broeck",
+            "year": "1994",
+            "journal-title": "Phys. Rev. Lett."
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib023",
+            "doi-asserted-by": "crossref",
+            "first-page": "6918",
+            "DOI": "10.1103/PhysRevE.54.6918",
+            "volume": "54",
+            "author": "Garcia-Ojalvo",
+            "year": "1996",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib024",
+            "doi-asserted-by": "crossref",
+            "first-page": "2658",
+            "DOI": "10.1103/PhysRevE.56.2658",
+            "volume": "56",
+            "author": "M\u00fcller",
+            "year": "1997",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib025",
+            "doi-asserted-by": "crossref",
+            "first-page": "4084",
+            "DOI": "10.1103/PhysRevE.55.4084",
+            "volume": "55",
+            "author": "van den Broeck",
+            "year": "1997",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib026",
+            "doi-asserted-by": "crossref",
+            "first-page": "R2495",
+            "DOI": "10.1103/PhysRevE.57.R2495",
+            "volume": "57",
+            "author": "Genovese",
+            "year": "1998",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib027",
+            "doi-asserted-by": "crossref",
+            "first-page": "R6275",
+            "DOI": "10.1103/PhysRevE.60.R6275",
+            "volume": "60",
+            "author": "Zaikin",
+            "year": "1999",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib028",
+            "doi-asserted-by": "crossref",
+            "first-page": "153",
+            "DOI": "10.1016/0378-4371(95)00350-9",
+            "volume": "224",
+            "author": "Parrondo",
+            "year": "1996",
+            "journal-title": "Physica A"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib029",
+            "doi-asserted-by": "crossref",
+            "first-page": "4355",
+            "DOI": "10.1103/PhysRevE.58.4355",
+            "volume": "58",
+            "author": "Zaikin",
+            "year": "1998",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib030",
+            "series-title": "Noise in Spatially Extended Systems",
+            "author": "Garcia-Ojalvo",
+            "year": "1999"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib031",
+            "series-title": "Plasma Physics",
+            "author": "Cairns",
+            "year": "1985"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib032",
+            "series-title": "Numerical Simulations of Plasmas",
+            "author": "Dnestrovskii",
+            "year": "1986"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib033",
+            "series-title": "Statistical Physics",
+            "author": "Klimontovich",
+            "year": "1986"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib034",
+            "series-title": "Introduction to Plasma Theory",
+            "author": "Nicholson",
+            "year": "1983"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib035",
+            "doi-asserted-by": "crossref",
+            "first-page": "44",
+            "DOI": "10.1016/S0375-9601(98)00865-2",
+            "volume": "251",
+            "author": "Nekrasov",
+            "year": "1999",
+            "journal-title": "Phys. Lett. A"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib036",
+            "doi-asserted-by": "crossref",
+            "first-page": "213",
+            "DOI": "10.1016/S0375-9601(99)00002-X",
+            "volume": "252",
+            "author": "Davidson",
+            "year": "1999",
+            "journal-title": "Phys. Lett. A"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib037",
+            "doi-asserted-by": "crossref",
+            "first-page": "297",
+            "DOI": "10.1016/S0375-9601(99)00388-6",
+            "volume": "258",
+            "author": "Davidson",
+            "year": "1999",
+            "journal-title": "Phys. Lett. A"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib038",
+            "series-title": "Physics of Intense Charged Particle Beam in High Energy Accelerator",
+            "author": "Davidson",
+            "year": "2001"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib039",
+            "doi-asserted-by": "crossref",
+            "first-page": "2889",
+            "DOI": "10.1103/PhysRevE.54.2889",
+            "volume": "54",
+            "author": "Heifets",
+            "year": "1996",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib040",
+            "first-page": "044401",
+            "volume": "4",
+            "author": "Heifets",
+            "year": "2001",
+            "journal-title": "Phys. Rev. ST-AB"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib041",
+            "doi-asserted-by": "crossref",
+            "first-page": "5976",
+            "DOI": "10.1103/PhysRevE.55.5976",
+            "volume": "55",
+            "author": "Stupakov",
+            "year": "1997",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib042",
+            "doi-asserted-by": "crossref",
+            "first-page": "173",
+            "DOI": "10.1016/j.physleta.2003.10.001",
+            "volume": "319",
+            "author": "Frank",
+            "year": "2003",
+            "journal-title": "Phys. Lett. A"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib043",
+            "doi-asserted-by": "crossref",
+            "first-page": "1036",
+            "DOI": "10.1063/1.1748449",
+            "volume": "19",
+            "author": "Green",
+            "year": "1951",
+            "journal-title": "J. Chem. Phys."
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib044",
+            "series-title": "Statistical Physics II",
+            "author": "Kubo",
+            "year": "1985"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib045",
+            "series-title": "Introduction to Modern Statistical Mechanics",
+            "author": "Chandler",
+            "year": "1987"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib046",
+            "doi-asserted-by": "crossref",
+            "first-page": "25",
+            "DOI": "10.1007/BF01391621",
+            "volume": "252",
+            "author": "Agarwal",
+            "year": "1972",
+            "journal-title": "Z. Phys."
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib047",
+            "doi-asserted-by": "crossref",
+            "first-page": "2393",
+            "DOI": "10.1103/PhysRevA.36.2393",
+            "volume": "36",
+            "author": "Shiino",
+            "year": "1987",
+            "journal-title": "Phys. Rev. A"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib048",
+            "doi-asserted-by": "crossref",
+            "first-page": "2526",
+            "DOI": "10.1103/PhysRevE.54.2526",
+            "volume": "54",
+            "author": "H\u00fctter",
+            "year": "1996",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib049",
+            "doi-asserted-by": "crossref",
+            "first-page": "347",
+            "DOI": "10.1016/0378-4371(95)00211-1",
+            "volume": "222",
+            "author": "Plastino",
+            "year": "1995",
+            "journal-title": "Physica A"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib050",
+            "doi-asserted-by": "crossref",
+            "first-page": "6634",
+            "DOI": "10.1103/PhysRevE.57.6634",
+            "volume": "57",
+            "author": "Borland",
+            "year": "1998",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib051",
+            "doi-asserted-by": "crossref",
+            "first-page": "283",
+            "DOI": "10.1016/S0375-9601(01)00543-6",
+            "volume": "288",
+            "author": "Kaniadakis",
+            "year": "2001",
+            "journal-title": "Phys. Lett. A"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib052",
+            "doi-asserted-by": "crossref",
+            "first-page": "391",
+            "DOI": "10.1016/j.physa.2003.09.056",
+            "volume": "331",
+            "author": "Frank",
+            "year": "2004",
+            "journal-title": "Physica A"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib053",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.1016/j.physa.2004.04.014",
+            "volume": "340",
+            "author": "Frank",
+            "year": "2004",
+            "journal-title": "Physica A"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib054",
+            "doi-asserted-by": "crossref",
+            "first-page": "139",
+            "DOI": "10.1140/epjb/e2004-00039-7",
+            "volume": "37",
+            "author": "Frank",
+            "year": "2004",
+            "journal-title": "Eur. Phys. J. B"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib055",
+            "doi-asserted-by": "crossref",
+            "first-page": "3561",
+            "DOI": "10.1088/0305-4470/37/11/001",
+            "volume": "37",
+            "author": "Frank",
+            "year": "2004",
+            "journal-title": "J. Phys. A"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib056",
+            "doi-asserted-by": "crossref",
+            "first-page": "229",
+            "DOI": "10.1016/j.physd.2004.03.014",
+            "volume": "195",
+            "author": "Frank",
+            "year": "2004",
+            "journal-title": "Physica D"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib057",
+            "doi-asserted-by": "crossref",
+            "first-page": "150",
+            "DOI": "10.1016/S0375-9601(02)01446-9",
+            "volume": "305",
+            "author": "Frank",
+            "year": "2002",
+            "journal-title": "Phys. Lett. A"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib058",
+            "doi-asserted-by": "crossref",
+            "first-page": "199",
+            "DOI": "10.1016/j.physd.2003.08.010",
+            "volume": "189",
+            "author": "Frank",
+            "year": "2004",
+            "journal-title": "Physica D"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib059",
+            "series-title": "The Fokker\u2013Planck Equation\u2014Methods of Solution and Applications",
+            "author": "Risken",
+            "year": "1989"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib060",
+            "doi-asserted-by": "crossref",
+            "first-page": "350",
+            "DOI": "10.1143/PTP.47.350",
+            "volume": "47",
+            "author": "Shimizu",
+            "year": "1972",
+            "journal-title": "Prog. Theor. Phys."
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib061",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.1143/PTP.52.329",
+            "volume": "52",
+            "author": "Shimizu",
+            "year": "1974",
+            "journal-title": "Prog. Theor. Phys."
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib062",
+            "series-title": "Chemical Oscillations, Waves, and Turbulence",
+            "author": "Kuramoto",
+            "year": "1984"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib063",
+            "doi-asserted-by": "crossref",
+            "first-page": "1105",
+            "DOI": "10.1143/PTP.75.1105",
+            "volume": "75",
+            "author": "Shinomoto",
+            "year": "1986",
+            "journal-title": "Prog. Theor. Phys."
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib064",
+            "doi-asserted-by": "crossref",
+            "first-page": "600",
+            "DOI": "10.1143/PTP.79.600",
+            "volume": "79",
+            "author": "Sakaguchi",
+            "year": "1988",
+            "journal-title": "Prog. Theor. Phys."
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.physleta.2004.07.019_bib065",
+            "doi-asserted-by": "crossref",
+            "first-page": "68",
+            "DOI": "10.1038/scientificamerican1293-102",
+            "volume": "269",
+            "author": "Strogatz",
+            "year": "1993",
+            "journal-title": "Sci. Am."
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib066",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/S0167-2789(00)00094-4",
+            "volume": "143",
+            "author": "Strogatz",
+            "year": "2000",
+            "journal-title": "Physica D"
+          },
+          {
+            "key": "10.1016/j.physleta.2004.07.019_bib067",
+            "doi-asserted-by": "crossref",
+            "first-page": "3437",
+            "DOI": "10.1103/PhysRevE.62.3437",
+            "volume": "62",
+            "author": "Acebron",
+            "year": "2000",
+            "journal-title": "Phys. Rev. E"
+          }
+        ],
+        "container-title": [
+          "Physics Letters A"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0375960104010059?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0375960104010059?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              2,
+              5
+            ]
+          ],
+          "date-time": "2019-02-05T01:57:01Z",
+          "timestamp": 1549331821000
+        },
+        "score": 25.418503,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0375960104010059"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2004,
+              9
+            ]
+          ]
+        },
+        "references-count": 67,
+        "journal-issue": {
+          "issue": "6",
+          "published-print": {
+            "date-parts": [
+              [
+                2004,
+                9
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "S0375960104010059"
+        ],
+        "URL": "https://doi.org/10.1016/j.physleta.2004.07.019",
+        "ISSN": [
+          "0375-9601"
+        ],
+        "issn-type": [
+          {
+            "value": "0375-9601",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2004,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              13
+            ]
+          ],
+          "date-time": "2022-06-13T05:40:26Z",
+          "timestamp": 1655098826529
+        },
+        "edition-number": "1",
+        "reference-count": 0,
+        "publisher": "Cambridge University Press",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2013,
+                  3,
+                  5
+                ]
+              ],
+              "date-time": "2013-03-05T00:00:00Z",
+              "timestamp": 1362441600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 12,
+            "URL": "https://www.cambridge.org/core/terms"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2013,
+              2,
+              21
+            ]
+          ]
+        },
+        "DOI": "10.1017/cbo9781139019460.005",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2013,
+              3,
+              6
+            ]
+          ],
+          "date-time": "2013-03-06T05:29:04Z",
+          "timestamp": 1362547744000
+        },
+        "page": "37-49",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Itoprocesses and Fokker\u2013Planck equations"
+        ],
+        "prefix": "10.1017",
+        "member": "56",
+        "container-title": [
+          "Stochastic Calculus and Differential Equations for Physics and Finance"
+        ],
+        "link": [
+          {
+            "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D99398A4194549227DF94CAF3D71B4C9",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              13
+            ]
+          ],
+          "date-time": "2022-06-13T05:19:21Z",
+          "timestamp": 1655097561000
+        },
+        "score": 25.380379,
+        "resource": {
+          "primary": {
+            "URL": "https://www.cambridge.org/core/product/identifier/9781139019460%23c76340-216/type/book_part"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2013,
+              2,
+              21
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1017/cbo9781139019460.005",
+        "published": {
+          "date-parts": [
+            [
+              2013,
+              2,
+              21
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              3,
+              29
+            ]
+          ],
+          "date-time": "2022-03-29T16:36:14Z",
+          "timestamp": 1648571774372
+        },
+        "reference-count": 69,
+        "publisher": "Elsevier BV",
+        "issue": "3",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2005,
+                  4,
+                  1
+                ]
+              ],
+              "date-time": "2005-04-01T00:00:00Z",
+              "timestamp": 1112313600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Physics Letters A"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2005,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.physleta.2005.01.069",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2005,
+              2,
+              8
+            ]
+          ],
+          "date-time": "2005-02-08T15:15:25Z",
+          "timestamp": 1107875725000
+        },
+        "page": "224-234",
+        "source": "Crossref",
+        "is-referenced-by-count": 14,
+        "title": [
+          "Short-time correlations of many-body systems described by nonlinear Fokker\u2013Planck equations and Vlasov\u2013Fokker\u2013Planck equations"
+        ],
+        "prefix": "10.1016",
+        "volume": "337",
+        "author": [
+          {
+            "given": "T.D.",
+            "family": "Frank",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib001",
+            "series-title": "Fundamentals of Statistical and Thermal Physics",
+            "author": "Reif",
+            "year": "1965"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib002",
+            "series-title": "Plasma Physics",
+            "author": "Cairns",
+            "year": "1985"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib003",
+            "series-title": "Numerical Simulations of Plasmas",
+            "author": "Dnestrovskii",
+            "year": "1986"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib004",
+            "series-title": "Statistical Physics",
+            "author": "Klimontovich",
+            "year": "1986"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib005",
+            "series-title": "Introduction to Plasma Theory",
+            "author": "Nicholson",
+            "year": "1983"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib006",
+            "doi-asserted-by": "crossref",
+            "first-page": "44",
+            "DOI": "10.1016/S0375-9601(98)00865-2",
+            "volume": "251",
+            "author": "Nekrasov",
+            "year": "1999",
+            "journal-title": "Phys. Lett. A"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib007",
+            "doi-asserted-by": "crossref",
+            "first-page": "098701",
+            "DOI": "10.1103/PhysRevLett.89.098701",
+            "volume": "89",
+            "author": "Borland",
+            "year": "2002",
+            "journal-title": "Phys. Rev. Lett."
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib008",
+            "doi-asserted-by": "crossref",
+            "first-page": "659",
+            "DOI": "10.1007/BF01013379",
+            "volume": "46",
+            "author": "Bonilla",
+            "year": "1987",
+            "journal-title": "J. Stat. Phys."
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib009",
+            "doi-asserted-by": "crossref",
+            "first-page": "036108",
+            "DOI": "10.1103/PhysRevE.68.036108",
+            "volume": "68",
+            "author": "Chavanis",
+            "year": "2003",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib010",
+            "doi-asserted-by": "crossref",
+            "first-page": "016116",
+            "DOI": "10.1103/PhysRevE.69.016116",
+            "volume": "69",
+            "author": "Chavanis",
+            "year": "2004",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib011",
+            "doi-asserted-by": "crossref",
+            "first-page": "048101",
+            "DOI": "10.1103/PhysRevLett.87.048101",
+            "volume": "87",
+            "author": "Daido",
+            "year": "2001",
+            "journal-title": "Phys. Rev. Lett."
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib012",
+            "series-title": "The Theory of Polymer Pynamics",
+            "author": "Doi",
+            "year": "1988"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib013",
+            "doi-asserted-by": "crossref",
+            "first-page": "199",
+            "DOI": "10.1016/j.physd.2003.08.010",
+            "volume": "189",
+            "author": "Frank",
+            "year": "2004",
+            "journal-title": "Physica D"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib014",
+            "doi-asserted-by": "crossref",
+            "first-page": "229",
+            "DOI": "10.1016/j.physd.2004.03.014",
+            "volume": "195",
+            "author": "Frank",
+            "year": "2004",
+            "journal-title": "Physica D"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib015",
+            "series-title": "Noise in Spatially Extended Systems",
+            "author": "Garcia-Ojalvo",
+            "year": "1999"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib016",
+            "doi-asserted-by": "crossref",
+            "first-page": "1034",
+            "DOI": "10.1515/zna-1976-0902",
+            "volume": "31",
+            "author": "Hess",
+            "year": "1976",
+            "journal-title": "Z. Naturforschung A"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib017",
+            "doi-asserted-by": "crossref",
+            "first-page": "4263",
+            "DOI": "10.1103/PhysRevE.48.4263",
+            "volume": "48",
+            "author": "Kaniadakis",
+            "year": "1993",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib018",
+            "doi-asserted-by": "crossref",
+            "first-page": "283",
+            "DOI": "10.1016/S0375-9601(01)00543-6",
+            "volume": "288",
+            "author": "Kaniadakis",
+            "year": "2001",
+            "journal-title": "Phys. Lett. A"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib019",
+            "doi-asserted-by": "crossref",
+            "first-page": "051104",
+            "DOI": "10.1103/PhysRevE.69.051104",
+            "volume": "69",
+            "author": "Kawai",
+            "year": "2004",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib020",
+            "series-title": "Chemical Oscillations, Waves, and Turbulence",
+            "author": "Kuramoto",
+            "year": "1984"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib021",
+            "doi-asserted-by": "crossref",
+            "first-page": "051115",
+            "DOI": "10.1103/PhysRevE.65.051115",
+            "volume": "65",
+            "author": "Kostur",
+            "year": "2002",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib022",
+            "doi-asserted-by": "crossref",
+            "first-page": "011106",
+            "DOI": "10.1103/PhysRevE.64.011106",
+            "volume": "64",
+            "author": "Li",
+            "year": "2001",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib023",
+            "series-title": "Stochastic Processes in Polymeric Fluids",
+            "author": "\u00d6ttinger",
+            "year": "1996"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib024",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/S0167-2789(00)00094-4",
+            "volume": "143",
+            "author": "Strogatz",
+            "year": "2000",
+            "journal-title": "Physica D"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib025",
+            "series-title": "Phase Resetting in Medicine and Biology\u2014Stochastic Modelling and Data Analysis",
+            "author": "Tass",
+            "year": "1999"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib026",
+            "doi-asserted-by": "crossref",
+            "first-page": "3395",
+            "DOI": "10.1103/PhysRevLett.73.3395",
+            "volume": "73",
+            "author": "van den Broeck",
+            "year": "1994",
+            "journal-title": "Phys. Rev. Lett."
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib027",
+            "doi-asserted-by": "crossref",
+            "first-page": "213",
+            "DOI": "10.1016/S0375-9601(99)00002-X",
+            "volume": "252",
+            "author": "Davidson",
+            "year": "1999",
+            "journal-title": "Phys. Lett. A"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib028",
+            "doi-asserted-by": "crossref",
+            "first-page": "297",
+            "DOI": "10.1016/S0375-9601(99)00388-6",
+            "volume": "258",
+            "author": "Davidson",
+            "year": "1999",
+            "journal-title": "Phys. Lett. A"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib029",
+            "series-title": "Physics of Intense Charged Particle Beam in High Energy Accelerator",
+            "author": "Davidson",
+            "year": "2001"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib030",
+            "first-page": "165",
+            "volume": "62",
+            "author": "Shobuda",
+            "year": "1999",
+            "journal-title": "Part. Accel."
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib031",
+            "doi-asserted-by": "crossref",
+            "first-page": "67501",
+            "DOI": "10.1103/PhysRevE.64.067501",
+            "volume": "64",
+            "author": "Shobuda",
+            "year": "2001",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib032",
+            "doi-asserted-by": "crossref",
+            "first-page": "2889",
+            "DOI": "10.1103/PhysRevE.54.2889",
+            "volume": "54",
+            "author": "Heifets",
+            "year": "1996",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib033",
+            "first-page": "044402",
+            "volume": "2",
+            "author": "Heifets",
+            "year": "1999",
+            "journal-title": "Phys. Rev. STAB"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib034",
+            "first-page": "044401",
+            "volume": "4",
+            "author": "Heifets",
+            "year": "2001",
+            "journal-title": "Phys. Rev. STAB"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib035",
+            "doi-asserted-by": "crossref",
+            "first-page": "5976",
+            "DOI": "10.1103/PhysRevE.55.5976",
+            "volume": "55",
+            "author": "Stupakov",
+            "year": "1997",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib036",
+            "doi-asserted-by": "crossref",
+            "first-page": "224802",
+            "DOI": "10.1103/PhysRevLett.89.224802",
+            "volume": "89",
+            "author": "Venturini",
+            "year": "2002",
+            "journal-title": "Phys. Rev. Lett."
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib037",
+            "doi-asserted-by": "crossref",
+            "first-page": "318",
+            "DOI": "10.1016/0378-4371(94)90187-2",
+            "volume": "209",
+            "author": "Allen",
+            "year": "1994",
+            "journal-title": "Physica A"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib038",
+            "doi-asserted-by": "crossref",
+            "first-page": "6634",
+            "DOI": "10.1103/PhysRevE.57.6634",
+            "volume": "57",
+            "author": "Borland",
+            "year": "1998",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib039",
+            "doi-asserted-by": "crossref",
+            "first-page": "931",
+            "DOI": "10.1103/PhysRevE.54.931",
+            "volume": "54",
+            "author": "Drozdov",
+            "year": "1996",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib040",
+            "doi-asserted-by": "crossref",
+            "first-page": "52",
+            "DOI": "10.1016/S0378-4371(01)00345-4",
+            "volume": "301",
+            "author": "Frank",
+            "year": "2001",
+            "journal-title": "Physica A"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib041",
+            "doi-asserted-by": "crossref",
+            "first-page": "391",
+            "DOI": "10.1016/j.physa.2003.09.056",
+            "volume": "331",
+            "author": "Frank",
+            "year": "2004",
+            "journal-title": "Physica A"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib042",
+            "doi-asserted-by": "crossref",
+            "first-page": "475",
+            "DOI": "10.1016/j.physleta.2004.07.019",
+            "volume": "329",
+            "author": "Frank",
+            "year": "2004",
+            "journal-title": "Phys. Lett. A"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib043",
+            "doi-asserted-by": "crossref",
+            "first-page": "2526",
+            "DOI": "10.1103/PhysRevE.54.2526",
+            "volume": "54",
+            "author": "H\u00fctter",
+            "year": "1996",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib044",
+            "doi-asserted-by": "crossref",
+            "first-page": "2393",
+            "DOI": "10.1103/PhysRevA.36.2393",
+            "volume": "36",
+            "author": "Shiino",
+            "year": "1987",
+            "journal-title": "Phys. Rev. A"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib045",
+            "doi-asserted-by": "crossref",
+            "first-page": "139",
+            "DOI": "10.1140/epjb/e2004-00039-7",
+            "volume": "37",
+            "author": "Frank",
+            "year": "2004",
+            "journal-title": "Eur. Phys. J. B"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib046",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.1016/j.physa.2004.04.014",
+            "volume": "340",
+            "author": "Frank",
+            "year": "2004",
+            "journal-title": "Physica A"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib047",
+            "doi-asserted-by": "crossref",
+            "first-page": "173",
+            "DOI": "10.1016/j.physleta.2003.10.001",
+            "volume": "319",
+            "author": "Frank",
+            "year": "2003",
+            "journal-title": "Phys. Lett. A"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib048",
+            "series-title": "The Fokker\u2013Planck Equation\u2014Methods of Solution and Applications",
+            "author": "Risken",
+            "year": "1989"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib049",
+            "series-title": "Synergetics: Itroduction and Advanced Topics",
+            "author": "Haken",
+            "year": "2004"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib050",
+            "doi-asserted-by": "crossref",
+            "first-page": "2663",
+            "DOI": "10.1103/PhysRevA.27.2663",
+            "volume": "27",
+            "author": "Wehner",
+            "year": "1983",
+            "journal-title": "Phys. Rev. A"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib051",
+            "doi-asserted-by": "crossref",
+            "first-page": "1716",
+            "DOI": "10.1103/PhysRevE.61.1716",
+            "volume": "61",
+            "author": "Brilliantov",
+            "year": "2000",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib052",
+            "doi-asserted-by": "crossref",
+            "first-page": "066304",
+            "DOI": "10.1103/PhysRevE.63.066304",
+            "volume": "63",
+            "author": "Vlad",
+            "year": "2001",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib053",
+            "doi-asserted-by": "crossref",
+            "unstructured": "T.D. Frank, R. Friedrich, P.J. Beek, Time series analysis for multivariate time-delayed systems with noise: applications to laser physics and human movements, Stochastics Dynamics, 2005, in press",
+            "DOI": "10.1142/S0219493705001456"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib054",
+            "doi-asserted-by": "crossref",
+            "first-page": "061104",
+            "DOI": "10.1103/PhysRevE.69.061104",
+            "volume": "69",
+            "author": "Frank",
+            "year": "2004",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib055",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1007/BF01020331",
+            "volume": "19",
+            "author": "Desai",
+            "year": "1978",
+            "journal-title": "J. Stat. Phys."
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib056",
+            "doi-asserted-by": "crossref",
+            "first-page": "347",
+            "DOI": "10.1016/0378-4371(95)00211-1",
+            "volume": "222",
+            "author": "Plastino",
+            "year": "1995",
+            "journal-title": "Physica A"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib057",
+            "doi-asserted-by": "crossref",
+            "first-page": "479",
+            "DOI": "10.1007/BF01016429",
+            "volume": "52",
+            "author": "Tsallis",
+            "year": "1988",
+            "journal-title": "J. Stat. Phys."
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib058",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/j.physd.2004.01.006",
+            "volume": "193",
+            "author": "Tsallis",
+            "year": "2004",
+            "journal-title": "Physica D"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib059",
+            "series-title": "Nonextensive Statistical Mechanics and Its Applications",
+            "author": "Abe",
+            "year": "2001"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib060",
+            "doi-asserted-by": "crossref",
+            "first-page": "285",
+            "DOI": "10.1007/s100510051006",
+            "volume": "12",
+            "author": "Borland",
+            "year": "1999",
+            "journal-title": "Eur. Phys. J. B"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib061",
+            "doi-asserted-by": "crossref",
+            "first-page": "031104",
+            "DOI": "10.1103/PhysRevE.67.031104",
+            "volume": "67",
+            "author": "Lenzi",
+            "year": "2003",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib062",
+            "doi-asserted-by": "crossref",
+            "first-page": "R2197",
+            "DOI": "10.1103/PhysRevE.54.R2197",
+            "volume": "54",
+            "author": "Tsallis",
+            "year": "1996",
+            "journal-title": "Phys. Rev. E"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib063",
+            "doi-asserted-by": "crossref",
+            "first-page": "351",
+            "DOI": "10.1016/S0378-4371(00)00178-3",
+            "volume": "285",
+            "author": "Frank",
+            "year": "2000",
+            "journal-title": "Physica A"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib064",
+            "doi-asserted-by": "crossref",
+            "first-page": "816",
+            "DOI": "10.1016/S0031-8914(57)94839-5",
+            "volume": "23",
+            "author": "van Kampen",
+            "year": "1957",
+            "journal-title": "Physica"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib065",
+            "series-title": "Physics of Collective Instabilities in High Energy Accelerators",
+            "author": "Chao",
+            "year": "1993"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib066",
+            "series-title": "Particle Accelerator Physics II\u2014Nonlinear and Higher-Order Beam Dynamics",
+            "author": "Wiedemann",
+            "year": "1993"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib067",
+            "first-page": "054403",
+            "volume": "5",
+            "author": "Venturini",
+            "year": "2002",
+            "journal-title": "Phys. Rev. STAB"
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib068",
+            "doi-asserted-by": "crossref",
+            "first-page": "66",
+            "DOI": "10.1209/epl/i2002-00319-x",
+            "volume": "60",
+            "author": "Thomas",
+            "year": "2002",
+            "journal-title": "Europhys. Lett."
+          },
+          {
+            "key": "10.1016/j.physleta.2005.01.069_bib069",
+            "doi-asserted-by": "crossref",
+            "first-page": "323",
+            "DOI": "10.1103/RevModPhys.17.323",
+            "volume": "17",
+            "author": "Wang",
+            "year": "1945",
+            "journal-title": "Rev. Mod. Phys."
+          }
+        ],
+        "container-title": [
+          "Physics Letters A"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0375960105001829?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0375960105001829?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              5
+            ]
+          ],
+          "date-time": "2020-04-05T17:45:01Z",
+          "timestamp": 1586108701000
+        },
+        "score": 25.359013,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0375960105001829"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2005,
+              4
+            ]
+          ]
+        },
+        "references-count": 69,
+        "journal-issue": {
+          "issue": "3",
+          "published-print": {
+            "date-parts": [
+              [
+                2005,
+                4
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "S0375960105001829"
+        ],
+        "URL": "https://doi.org/10.1016/j.physleta.2005.01.069",
+        "ISSN": [
+          "0375-9601"
+        ],
+        "issn-type": [
+          {
+            "value": "0375-9601",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2005,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              25
+            ]
+          ],
+          "date-time": "2023-05-25T12:27:52Z",
+          "timestamp": 1685017672215
+        },
+        "reference-count": 30,
+        "publisher": "Pleiades Publishing Ltd",
+        "issue": "3",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  1,
+                  30
+                ]
+              ],
+              "date-time": "2023-01-30T00:00:00Z",
+              "timestamp": 1675036800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  1,
+                  30
+                ]
+              ],
+              "date-time": "2023-01-30T00:00:00Z",
+              "timestamp": 1675036800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Jetp Lett."
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              2
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Diakonov theory of quantum gravity, in which tetrads emerge as the bilinear combinations of the fermionic fields, suggests that in general relativity the metric may have dimension 2; i.e., <jats:inline-formula><jats:tex-math>$$[{{g}_{{\\mu \\nu }}}] = 1{\\text{/}}{{[L]}^{2}}$$</jats:tex-math></jats:inline-formula>. Several other approaches to quantum gravity, including the model of superplastic vacuum and <jats:italic>BF</jats:italic>-theories of gravity support this suggestion. The important consequence of such metric dimension is that all the diffeomorphism invariant quantities are dimensionless for any dimension of spacetime. These include the action <jats:italic>S</jats:italic>, interval <jats:italic>s</jats:italic>, cosmological constant \u039b, scalar curvature <jats:italic>R</jats:italic>, scalar field \u03a6, etc. Here we are trying to further exploit the Diakonov idea, and consider the dimension of the Planck constant. The application of the Diakonov theory suggests that the Planck constant <jats:inline-formula><jats:tex-math>$$\\hbar $$</jats:tex-math></jats:inline-formula> is the parameter of the Minkowski metric. The Minkowski parameter <jats:inline-formula><jats:tex-math>$$\\hbar $$</jats:tex-math></jats:inline-formula> is invariant only under Lorentz transformations, and is not diffeomorphism invariant. As a result, the Planck constant <jats:inline-formula><jats:tex-math>$$\\hbar $$</jats:tex-math></jats:inline-formula> has the dimension of length. Whether this Planck constant length is related to the Planck length scale, is an open question. In principle there can be different Minkowski vacua with their own values of the parameter <jats:inline-formula><jats:tex-math>$$\\hbar $$</jats:tex-math></jats:inline-formula>. Then in the thermal contact between the two vacua their temperatures obey the analog of the Tolman law: <jats:inline-formula><jats:tex-math>$${{\\hbar }_{1}}{\\text{/}}{{T}_{1}} = {{\\hbar }_{2}}{\\text{/}}{{T}_{2}}$$</jats:tex-math></jats:inline-formula>.</jats:p>",
+        "DOI": "10.1134/s0021364022603013",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              30
+            ]
+          ],
+          "date-time": "2023-01-30T16:12:17Z",
+          "timestamp": 1675095137000
+        },
+        "page": "240-244",
+        "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Dimensionless Physics: Planck Constant as an Element of the Minkowski Metric"
+        ],
+        "prefix": "10.1134",
+        "volume": "117",
+        "author": [
+          {
+            "given": "G. E.",
+            "family": "Volovik",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "137",
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              30
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "3511_CR1",
+            "unstructured": "D. Diakonov, arXiv: 1109.0091."
+          },
+          {
+            "key": "3511_CR2",
+            "doi-asserted-by": "publisher",
+            "first-page": "727",
+            "DOI": "10.1134/S106377612104021X",
+            "volume": "132",
+            "author": "G. E. Volovik",
+            "year": "2021",
+            "unstructured": "G. E. Volovik, J. Exp. Theor. Phys. 132, 727 (2021).",
+            "journal-title": "J. Exp. Theor. Phys."
+          },
+          {
+            "key": "3511_CR3",
+            "doi-asserted-by": "publisher",
+            "first-page": "663",
+            "DOI": "10.1134/S106377612211019X",
+            "volume": "135",
+            "author": "G. E. Volovik",
+            "year": "2022",
+            "unstructured": "G. E. Volovik, J. Exp. Theor. Phys. 135, 663 (2022).",
+            "journal-title": "J. Exp. Theor. Phys."
+          },
+          {
+            "key": "3511_CR4",
+            "doi-asserted-by": "publisher",
+            "first-page": "364",
+            "DOI": "10.1134/S0021364019060031",
+            "volume": "109",
+            "author": "F. R. Klinkhamer",
+            "year": "2019",
+            "unstructured": "F. R. Klinkhamer and G. E. Volovik, JETP Lett. 109, 364 (2019).",
+            "journal-title": "JETP Lett."
+          },
+          {
+            "key": "3511_CR5",
+            "doi-asserted-by": "publisher",
+            "first-page": "67",
+            "DOI": "10.1016/0003-4916(80)90119-0",
+            "volume": "125",
+            "author": "I. E. Dzyaloshinskii",
+            "year": "1980",
+            "unstructured": "I. E. Dzyaloshinskii and G. E. Volovick, Ann. Phys. 125, 67 (1980).",
+            "journal-title": "Ann. Phys."
+          },
+          {
+            "key": "3511_CR6",
+            "doi-asserted-by": "crossref",
+            "unstructured": "J. Nissinen and G. E. Volovik, Phys. Rev. Res. 1, 023007 (2019).",
+            "DOI": "10.1103/PhysRevResearch.1.023007"
+          },
+          {
+            "key": "3511_CR7",
+            "doi-asserted-by": "crossref",
+            "unstructured": "J. Nissinen, Ann. Phys. 447, 169139 (2022).",
+            "DOI": "10.1016/j.aop.2022.169139"
+          },
+          {
+            "key": "3511_CR8",
+            "doi-asserted-by": "crossref",
+            "unstructured": "J. Nissinen, Phys. Rev. Lett. 124, 117002 (2020).",
+            "DOI": "10.1103/PhysRevLett.124.117002"
+          },
+          {
+            "key": "3511_CR9",
+            "doi-asserted-by": "crossref",
+            "unstructured": "S. Laurila and J. Nissinen, Phys. Rev. B 102, 235163 (2020).",
+            "DOI": "10.1103/PhysRevB.102.235163"
+          },
+          {
+            "key": "3511_CR10",
+            "doi-asserted-by": "crossref",
+            "unstructured": "L. Gioia, Ch. Wang, and A. A. Burkov, Phys. Rev. Res. 3, 043067 (2021).",
+            "DOI": "10.1103/PhysRevResearch.3.043067"
+          },
+          {
+            "key": "3511_CR11",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A. A. Vladimirov and D. Diakonov, Phys. Rev. D 86, 104019 (2012).",
+            "DOI": "10.1103/PhysRevD.86.104019"
+          },
+          {
+            "key": "3511_CR12",
+            "doi-asserted-by": "publisher",
+            "first-page": "800",
+            "DOI": "10.1134/S1063779614040145",
+            "volume": "45",
+            "author": "A. A. Vladimirov",
+            "year": "2014",
+            "unstructured": "A. A. Vladimirov and D. Diakonov, Phys. Part. Nucl. 45, 800 (2014).",
+            "journal-title": "Phys. Part. Nucl."
+          },
+          {
+            "key": "3511_CR13",
+            "doi-asserted-by": "publisher",
+            "first-page": "321",
+            "DOI": "10.1016/j.physletb.2012.06.005",
+            "volume": "713",
+            "author": "Y. N. Obukhov",
+            "year": "2012",
+            "unstructured": "Y. N. Obukhov and F. W. Hehl, Phys. Lett. B 713, 321 (2012).",
+            "journal-title": "Phys. Lett. B"
+          },
+          {
+            "key": "3511_CR14",
+            "doi-asserted-by": "publisher",
+            "first-page": "1900",
+            "DOI": "10.1143/PTP.60.1900",
+            "volume": "60",
+            "author": "K. Akama",
+            "year": "1978",
+            "unstructured": "K. Akama, Prog. Theor. Phys. 60, 1900 (1978).",
+            "journal-title": "Prog. Theor. Phys."
+          },
+          {
+            "key": "3511_CR15",
+            "doi-asserted-by": "publisher",
+            "first-page": "697",
+            "DOI": "10.1134/S0021364009230027",
+            "volume": "90",
+            "author": "G. E. Volovik",
+            "year": "2009",
+            "unstructured": "G. E. Volovik, JETP Lett. 90, 697 (2009).",
+            "journal-title": "JETP Lett."
+          },
+          {
+            "key": "3511_CR16",
+            "first-page": "249",
+            "volume": "310",
+            "author": "S. Weinberg",
+            "year": "1983",
+            "unstructured": "S. Weinberg and J. G. Taylor, Philos. Trans. R. Soc. London, Ser. A 310, 249 (1983).",
+            "journal-title": "Ser. A"
+          },
+          {
+            "key": "3511_CR17",
+            "doi-asserted-by": "crossref",
+            "unstructured": "M. J. Duff, L. B. Okun, and G. Veneziano, J. High Energy Phys. 0203, 023 (2002).",
+            "DOI": "10.1088/1126-6708/2002/03/023"
+          },
+          {
+            "key": "3511_CR18",
+            "volume-title": "Multiple Facets of Quantization and Supersymmetry, Michael Marinov Memorial Volume",
+            "author": "L. B. Okun",
+            "year": "2002",
+            "unstructured": "L. B. Okun, in Multiple Facets of Quantization and Supersymmetry, Michael Marinov Memorial Volume, Ed.\u00a0by M. Olshanetsky and A. Vainshtein (World Scientific, Singapore, 2002)."
+          },
+          {
+            "key": "3511_CR19",
+            "doi-asserted-by": "publisher",
+            "first-page": "1370",
+            "DOI": "10.1134/1.1495649",
+            "volume": "65",
+            "author": "L. B. Okun",
+            "year": "2002",
+            "unstructured": "L. B. Okun, Phys. At. Nucl. 65, 1370 (2002).",
+            "journal-title": "Phys. At. Nucl."
+          },
+          {
+            "key": "3511_CR20",
+            "doi-asserted-by": "publisher",
+            "first-page": "1373",
+            "DOI": "10.1134/1.1495650",
+            "volume": "65",
+            "author": "G. Gamow",
+            "year": "2002",
+            "unstructured": "G. Gamow, D. Ivanenko, and L. Landau, Phys. At. Nucl. 65, 1373 (2002).",
+            "journal-title": "Phys. At. Nucl."
+          },
+          {
+            "key": "3511_CR21",
+            "doi-asserted-by": "crossref",
+            "unstructured": "F. R. Klinkhamer, Phys. Rev. D 106, 124015 (2022).",
+            "DOI": "10.1103/PhysRevD.106.124015"
+          },
+          {
+            "key": "3511_CR22",
+            "doi-asserted-by": "crossref",
+            "unstructured": "S. N. Vergeles, Class. Quantum Grav. 39, 038001 (2022).",
+            "DOI": "10.1088/1361-6382/ac40e6"
+          },
+          {
+            "key": "3511_CR23",
+            "doi-asserted-by": "publisher",
+            "first-page": "373",
+            "DOI": "10.1063/1.525379",
+            "volume": "23",
+            "author": "H. T. Nieh",
+            "year": "1982",
+            "unstructured": "H. T. Nieh and M. L. Yan, J. Math. Phys. 23, 373 (1982).",
+            "journal-title": "J. Math. Phys."
+          },
+          {
+            "key": "3511_CR24",
+            "doi-asserted-by": "publisher",
+            "first-page": "237",
+            "DOI": "10.1016/0003-4916(82)90186-5",
+            "volume": "138",
+            "author": "H. T. Nieh",
+            "year": "1982",
+            "unstructured": "H. T. Nieh and M. L. Yan, Ann. Phys. 138, 237 (1982).",
+            "journal-title": "Ann. Phys."
+          },
+          {
+            "key": "3511_CR25",
+            "doi-asserted-by": "publisher",
+            "first-page": "5237",
+            "DOI": "10.1142/S0217751X07038414",
+            "volume": "22",
+            "author": "H. T. Nieh",
+            "year": "2007",
+            "unstructured": "H. T. Nieh, Int. J. Mod. Phys. A 22, 5237 (2007).",
+            "journal-title": "Int. J. Mod. Phys. A"
+          },
+          {
+            "key": "3511_CR26",
+            "unstructured": "S. Carlip, arXiv: 2209.14282."
+          },
+          {
+            "key": "3511_CR27",
+            "doi-asserted-by": "crossref",
+            "unstructured": "S. L. Adler,  Phys. Rev. D 106, 104061 (2022); arXiv: 2209.02537.",
+            "DOI": "10.1103/PhysRevD.106.104061"
+          },
+          {
+            "key": "3511_CR28",
+            "doi-asserted-by": "crossref",
+            "unstructured": "S. L. Adler, Int. J. Mod. Phys. D 31, 2250070 (2022).",
+            "DOI": "10.1142/S0218271822500705"
+          },
+          {
+            "key": "3511_CR29",
+            "doi-asserted-by": "crossref",
+            "unstructured": "F. R. Klinkhamer, Int. J. Mod. Phys. D 26, 1750006 (2017).",
+            "DOI": "10.1142/S0218271817500067"
+          },
+          {
+            "key": "3511_CR30",
+            "doi-asserted-by": "crossref",
+            "unstructured": "F. R. Klinkhamer, LHEP 2022, 312 (2022); arXiv: 2207.03453 [hep-th].",
+            "DOI": "10.31526/LHEP.2022.312"
+          }
+        ],
+        "container-title": [
+          "JETP Letters"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1134/S0021364022603013.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1134/S0021364022603013/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1134/S0021364022603013.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              15
+            ]
+          ],
+          "date-time": "2023-04-15T01:02:40Z",
+          "timestamp": 1681520560000
+        },
+        "score": 25.229542,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1134/S0021364022603013"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              30
+            ]
+          ]
+        },
+        "references-count": 30,
+        "journal-issue": {
+          "issue": "3",
+          "published-print": {
+            "date-parts": [
+              [
+                2023,
+                2
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "3511"
+        ],
+        "URL": "https://doi.org/10.1134/s0021364022603013",
+        "ISSN": [
+          "0021-3640",
+          "1090-6487"
+        ],
+        "issn-type": [
+          {
+            "value": "0021-3640",
+            "type": "print"
+          },
+          {
+            "value": "1090-6487",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              30
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "27 November 2022",
+            "order": 1,
+            "name": "received",
+            "label": "Received",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "19 December 2022",
+            "order": 2,
+            "name": "revised",
+            "label": "Revised",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "19 December 2022",
+            "order": 3,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "30 January 2023",
+            "order": 4,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "The author declares that he has no conflicts of interest.",
+            "order": 1,
+            "name": "Ethics",
+            "group": {
+              "name": "EthicsHeading",
+              "label": "CONFLICT OF INTEREST"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              6
+            ]
+          ],
+          "date-time": "2022-04-06T01:29:23Z",
+          "timestamp": 1649208563293
+        },
+        "reference-count": 0,
+        "publisher": "IOP Publishing",
+        "issue": "12",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Phys. Bull."
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              1986,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1088/0031-9112/37/12/034",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              5
+            ]
+          ],
+          "date-time": "2015-12-05T14:15:53Z",
+          "timestamp": 1449324953000
+        },
+        "page": "502-502",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "A Dictionary of Scientific Units Including Dimensionless Numbers and Scales (5th edn)"
+        ],
+        "prefix": "10.1088",
+        "volume": "37",
+        "author": [
+          {
+            "given": "D O",
+            "family": "Wharmby",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "266",
+        "published-online": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              5
+            ]
+          ]
+        },
+        "container-title": [
+          "Physics Bulletin"
+        ],
+        "link": [
+          {
+            "URL": "http://stacks.iop.org/0031-9112/37/i=12/a=034/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              11
+            ]
+          ],
+          "date-time": "2020-04-11T06:07:29Z",
+          "timestamp": 1586585249000
+        },
+        "score": 25.133154,
+        "resource": {
+          "primary": {
+            "URL": "https://iopscience.iop.org/article/10.1088/0031-9112/37/12/034"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1986,
+              12
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "12",
+          "published-print": {
+            "date-parts": [
+              [
+                1986,
+                12,
+                1
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1088/0031-9112/37/12/034",
+        "ISSN": [
+          "0031-9112"
+        ],
+        "issn-type": [
+          {
+            "value": "0031-9112",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              1986,
+              12
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              4
+            ]
+          ],
+          "date-time": "2024-09-04T20:43:45Z",
+          "timestamp": 1725482625400
+        },
+        "publisher-location": "Berlin, Heidelberg",
+        "reference-count": 7,
+        "publisher": "Springer Berlin Heidelberg",
+        "isbn-type": [
+          {
+            "type": "print",
+            "value": "9783540446262"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.1007/3-540-44628-1_2",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2007,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2007-04-16T15:47:36Z",
+          "timestamp": 1176738456000
+        },
+        "page": "7-12",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Basic Equations and Dimensionless Numbers"
+        ],
+        "prefix": "10.1007",
+        "author": [
+          {
+            "given": "Michael E.",
+            "family": "Dreyer",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "reference": [
+          {
+            "key": "2_CR1",
+            "doi-asserted-by": "publisher",
+            "first-page": "333",
+            "DOI": "10.1063/1.1747247",
+            "volume": "17",
+            "author": "R.C. Tolman",
+            "year": "1949",
+            "unstructured": "R.C. Tolman: J. Chem. Phys. 17, 333 (1949)",
+            "journal-title": "J. Chem. Phys."
+          },
+          {
+            "key": "2_CR2",
+            "first-page": "134",
+            "volume-title": "Handbuch der Physik, Bd. 10: Struktur der Fl\u00fcssigkeiten",
+            "author": "S. Ono",
+            "year": "1960",
+            "unstructured": "S. Ono, S. Kondo: Molecular Theory of Surface Tension in Liquids. In: Handbuch der Physik, Bd. 10: Struktur der Fl\u00fcssigkeiten, ed by S. Fl\u00fcgge (Springer, Berlin G\u00f6ttingen, Heidelberg 1960) p. 134"
+          },
+          {
+            "key": "2_CR3",
+            "first-page": "129",
+            "volume": "CR-168848",
+            "author": "H.T. Davis",
+            "year": "1982",
+            "unstructured": "H.T. Davis: NASA CR-168848, 129 (1982)",
+            "journal-title": "NASA"
+          },
+          {
+            "key": "2_CR4",
+            "first-page": "209",
+            "volume-title": "Fluid Mechanics",
+            "author": "F.M. White",
+            "year": "1986",
+            "unstructured": "F.M. White: Fluid Mechanics, (McGraw Hill, New York 1986) p. 209"
+          },
+          {
+            "key": "2_CR5",
+            "first-page": "76",
+            "volume-title": "Transport Phenomena",
+            "author": "R.B. Bird",
+            "year": "1960",
+            "unstructured": "R.B. Bird, W.E. Stewart, E.N. Lightfoot: Transport Phenomena, (John Wiley, New York 1960) p. 76"
+          },
+          {
+            "key": "2_CR6",
+            "first-page": "275",
+            "volume-title": "Lehrbuch der Theoretischen Physik, Band 6, Hydrodynamik",
+            "author": "L.D. Landau",
+            "year": "1991",
+            "unstructured": "L.D. Landau, E.M. Lifschitz: Lehrbuch der Theoretischen Physik, Band 6, Hydrodynamik, (Akademie Verlag, Berlin 1991) p. 275"
+          },
+          {
+            "key": "2_CR7",
+            "volume-title": "Grundlagen der Einphasen- und Mehrphasenstr\u00f6mungen",
+            "author": "H. Brauer",
+            "year": "1971",
+            "unstructured": "H. Brauer: Grundlagen der Einphasen- und Mehrphasenstr\u00f6mungen, (Verlag Sauerl\u00e4nder, Aarau (Schweiz) 1971)"
+          }
+        ],
+        "container-title": [
+          "Springer Tracts in Modern Physics",
+          "Free Surface Flows under Compensated Gravity Conditions"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/3-540-44628-1_2.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2020,
+              11,
+              17
+            ]
+          ],
+          "date-time": "2020-11-17T21:06:20Z",
+          "timestamp": 1605647180000
+        },
+        "score": 24.786543,
+        "resource": {
+          "primary": {
+            "URL": "http://link.springer.com/10.1007/3-540-44628-1_2"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783540446262"
+        ],
+        "references-count": 7,
+        "URL": "https://doi.org/10.1007/3-540-44628-1_2"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2023,
+              8,
+              7
+            ]
+          ],
+          "date-time": "2023-08-07T01:40:06Z",
+          "timestamp": 1691372406875
+        },
+        "reference-count": 0,
+        "publisher": "American Association of Physics Teachers (AAPT)",
+        "issue": "11",
+        "content-domain": {
+          "domain": [
+            "pubs.aip.org"
+          ],
+          "crossmark-restriction": true
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1961,
+              11,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1119/1.1937614",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2005,
+              8,
+              22
+            ]
+          ],
+          "date-time": "2005-08-22T18:09:26Z",
+          "timestamp": 1124734166000
+        },
+        "page": "796-797",
+        "update-policy": "http://dx.doi.org/10.1063/aip-crossmark-policy-page",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Units, Dimensions, and Dimensionless Numbers, How to Solve Physics Problems and Dimensions, Units, and Numbers"
+        ],
+        "prefix": "10.1119",
+        "volume": "29",
+        "author": [
+          {
+            "given": "D. C.",
+            "family": "Ipsen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Edwin M.",
+            "family": "Ripin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Renee G.",
+            "family": "Ford",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Ralph E.",
+            "family": "Cullman",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "R. M.",
+            "family": "Helms",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "East Carolina College"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "3",
+        "published-online": {
+          "date-parts": [
+            [
+              2005,
+              7,
+              20
+            ]
+          ]
+        },
+        "container-title": [
+          "American Journal of Physics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://pubs.aip.org/aapt/ajp/article-pdf/29/11/796/11565024/796_1_online.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          },
+          {
+            "URL": "https://pubs.aip.org/aapt/ajp/article-pdf/29/11/796/11565024/796_1_online.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              8,
+              7
+            ]
+          ],
+          "date-time": "2023-08-07T00:59:45Z",
+          "timestamp": 1691369985000
+        },
+        "score": 24.753157,
+        "resource": {
+          "primary": {
+            "URL": "https://pubs.aip.org/ajp/article/29/11/796/1037300/Units-Dimensions-and-Dimensionless-Numbers-How-to"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1961,
+              11,
+              1
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "11",
+          "published-print": {
+            "date-parts": [
+              [
+                1961,
+                11,
+                1
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1119/1.1937614",
+        "ISSN": [
+          "0002-9505",
+          "1943-2909"
+        ],
+        "issn-type": [
+          {
+            "value": "0002-9505",
+            "type": "print"
+          },
+          {
+            "value": "1943-2909",
+            "type": "electronic"
+          }
+        ],
+        "published-other": {
+          "date-parts": [
+            [
+              1961,
+              11
+            ]
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              1961,
+              11,
+              1
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 10,
+    "query": {
+      "start-index": 0,
+      "search-terms": "dimensionless physics equations Planck units"
+    }
+  }
+}

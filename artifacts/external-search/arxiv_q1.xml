@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/xNMnPgYa71WSGpIP5nckqYVuRqo</id>
+  <title>arXiv Query: search_query=ti:dimensionless AND ti:physics AND ti:Planck&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-08-01T21:54:13Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:dimensionless+AND+(ti:physics+AND+ti:Planck)&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2209.15426v6</id>
+    <title>Dimensionless physics: Planck constant as an element of Minkowski metric</title>
+    <updated>2022-12-26T15:07:50Z</updated>
+    <link href="https://arxiv.org/abs/2209.15426v6" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2209.15426v6" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Diakonov theory of quantum gravity, in which tetrads emerge as the bilinear combinations of the fermionis fields,\cite{Diakonov2011} suggests that in general relativity the metric may have dimension 2, i.e. $[g_{μν}]=1/[L]^2$. Several other approaches to quantum gravity, including the model of superplastic vacuum and $BF$-theories of gravity support this suggesuion. The important consequence of such metric dimension is that all the diffeomorphism invariant quantities are dimensionless for any dimension of spacetime. These include the action $S$, interval $s$, cosmological constant $Λ$, scalar curvature $R$, scalar field $Φ$, etc. Here we are trying to further exploit the Diakonov idea, and consider the dimension of the Planck constant. The application of the Diakonov theory suggests that the Planck constant $\hbar$ is the parameter of the Minkowski metric. The Minkowski parameter $\hbar$ is invariant only under Lorentz transformations, and is not diffeomorphism invariant. As a result the Planck constant $\hbar$ has nonzero dimension -- the dimension of length [L]. Whether this Planck constant length is related to the Planck length scale, is an open question. In principle there can be different Minkowski vacua with their own values of the parameter $\hbar$. Then in the thermal contact between the two vacua their temperatures obey the analog of the Tolman law: $\hbar_1/T_1= \hbar_2/T_2$.</summary>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.other" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-09-30T17:40:56Z</published>
+    <arxiv:comment>11 pages, no figures, version accepted in JETP Letters, arXiv admin note: text overlap with arXiv:2207.05754</arxiv:comment>
+    <arxiv:primary_category term="gr-qc"/>
+    <author>
+      <name>G. E. Volovik</name>
+    </author>
+    <arxiv:doi>10.1134/S0021364022603013</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1134/S0021364022603013" title="doi"/>
+  </entry>
+</feed>

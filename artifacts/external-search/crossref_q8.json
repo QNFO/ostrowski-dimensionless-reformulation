@@ -1,0 +1,1302 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 5257385,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              29
+            ]
+          ],
+          "date-time": "2026-07-29T23:33:29Z",
+          "timestamp": 1785368009808,
+          "version": "3.55.0"
+        },
+        "posted": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              3
+            ]
+          ]
+        },
+        "group-title": "Physical Sciences",
+        "reference-count": 0,
+        "publisher": "MDPI AG",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  3,
+                  3
+                ]
+              ],
+              "date-time": "2026-03-03T00:00:00Z",
+              "timestamp": 1772496000000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by/4.0"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "accepted": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              26
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Redefining of the notions of econophysics based on the Landauer principle is suggested. Economic temperature is defined via the economic Landauer principle. The economic temperature is proportional to the minimal monetary cost associated with erasing or transmitting one bit of information in a given economic system. The introduced definition is useful for high-frequency trading. Clausius formulation of the Second Law of Thermodynamics for economic systems is formulated as follows: energy/money cannot spontaneously flow from a colder economic system to a hotter economic system. Carnot and Szilard\u2019s economical engines are addressed. The Carath\u00e9odory formulation of the Second Law of Thermodynamics is re-shaped as follows: in every neighborhood of any equilibrium economic state, there exist states that cannot be reached by the process, which does not spend money or information. Optimal-power Curzon\u2013Ahlborn economic engine is discussed.</jats:p>",
+        "DOI": "10.20944/preprints202603.0238.v1",
+        "type": "posted-content",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              4
+            ]
+          ],
+          "date-time": "2026-03-04T05:18:00Z",
+          "timestamp": 1772601480000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Econophysics and Landauer Principle. Redefining of the Economic Temperature via the Landauer Principle"
+        ],
+        "prefix": "10.20944",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-1356-2486",
+            "authenticated-orcid": false,
+            "given": "Edward",
+            "family": "Bormashenko",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Igor",
+            "family": "Shendrik",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1968",
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              4
+            ]
+          ],
+          "date-time": "2026-03-04T05:19:14Z",
+          "timestamp": 1772601554000
+        },
+        "score": 29.301567,
+        "resource": {
+          "primary": {
+            "URL": "https://www.preprints.org/manuscript/202603.0238/v1"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              3
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.20944/preprints202603.0238.v1",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              3
+            ]
+          ]
+        },
+        "subtype": "preprint"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2025-07-01T04:05:18Z",
+          "timestamp": 1751342718083,
+          "version": "3.41.0"
+        },
+        "reference-count": 0,
+        "publisher": "MDPI",
+        "isbn-type": [
+          {
+            "value": "9783725841424",
+            "type": "electronic"
+          },
+          {
+            "value": "9783725841417",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              26
+            ]
+          ]
+        },
+        "DOI": "10.3390/books978-3-7258-4142-4",
+        "type": "book",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              30
+            ]
+          ],
+          "date-time": "2025-06-30T07:59:08Z",
+          "timestamp": 1751270348000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The Landauer Principle and Its Implementations in Physics, Chemistry and Biology"
+        ],
+        "prefix": "10.3390",
+        "member": "1968",
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              30
+            ]
+          ],
+          "date-time": "2025-06-30T07:59:12Z",
+          "timestamp": 1751270352000
+        },
+        "score": 27.825626,
+        "resource": {
+          "primary": {
+            "URL": "https://www.mdpi.com/books/reprint/10948"
+          }
+        },
+        "subtitle": [
+          "The Landauer Principle and Its Implementations in Physics, Chemistry and Biology"
+        ],
+        "editor": [
+          {
+            "given": "Edward",
+            "family": "Bormashenko",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "editor",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              26
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783725841424",
+          "9783725841417"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.3390/books978-3-7258-4142-4",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              26
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              4
+            ]
+          ],
+          "date-time": "2022-04-04T12:38:21Z",
+          "timestamp": 1649075901386
+        },
+        "publisher-location": "London",
+        "standards-body": {
+          "name": "BSI British Standards",
+          "acronym": "BSI"
+        },
+        "reference-count": 0,
+        "publisher": "BSI British Standards",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3403/00028306",
+        "type": "standard",
+        "created": {
+          "date-parts": [
+            [
+              2013,
+              12,
+              10
+            ]
+          ],
+          "date-time": "2013-12-10T16:24:37Z",
+          "timestamp": 1386692677000
+        },
+        "approved": {
+          "date-parts": [
+            [
+              1982,
+              2,
+              26
+            ]
+          ]
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Specification for quantities, units and symbols"
+        ],
+        "prefix": "10.3403",
+        "member": "1988",
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              12,
+              5
+            ]
+          ],
+          "date-time": "2017-12-05T07:50:58Z",
+          "timestamp": 1512460258000
+        },
+        "score": 26.425182,
+        "resource": {
+          "primary": {
+            "URL": "https://linkresolver.bsigroup.com/junction/resolve/000000000010120281?restype=standard"
+          }
+        },
+        "subtitle": [
+          "Dimensionless parameters"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3403/00028306"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              28
+            ]
+          ],
+          "date-time": "2026-02-28T08:48:26Z",
+          "timestamp": 1772268506954,
+          "version": "3.50.1"
+        },
+        "reference-count": 0,
+        "publisher": "PeerJ",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.7717/peerj.1490/table-1",
+        "type": "component",
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              12
+            ]
+          ],
+          "date-time": "2015-12-12T23:55:44Z",
+          "timestamp": 1449964544000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Table 1: Example of conversion of physical dimensions to dimensionless units."
+        ],
+        "prefix": "10.7717",
+        "member": "4443",
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              3,
+              10
+            ]
+          ],
+          "date-time": "2017-03-10T11:28:16Z",
+          "timestamp": 1489145296000
+        },
+        "score": 25.636707,
+        "resource": {
+          "primary": {
+            "URL": "https://peerj.com/articles/1490/table-1"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.7717/peerj.1490/table-1",
+        "relation": {
+          "is-component-of": [
+            {
+              "id-type": "doi",
+              "id": "10.7717/peerj.1490",
+              "asserted-by": "object"
+            }
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              26
+            ]
+          ],
+          "date-time": "2026-02-26T18:01:23Z",
+          "timestamp": 1772128883588,
+          "version": "3.50.1"
+        },
+        "description": "Supplemental Information for 10.1021/acs.jpclett.4c03156",
+        "reference-count": 0,
+        "publisher": "American Chemical Society (ACS)",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.1021/acs.jpclett.4c03156.s001",
+        "type": "component",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              30
+            ]
+          ],
+          "date-time": "2025-01-30T08:30:31Z",
+          "timestamp": 1738225831000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Deriving the Landauer Principle From the Quantum Shannon Entropy"
+        ],
+        "prefix": "10.1021",
+        "member": "316",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              6
+            ]
+          ],
+          "date-time": "2025-02-06T03:41:12Z",
+          "timestamp": 1738813272000
+        },
+        "score": 24.728224,
+        "resource": {
+          "primary": {
+            "URL": "https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.4c03156/suppl_file/jz4c03156_si_001.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1021/acs.jpclett.4c03156.s001",
+        "relation": {
+          "is-component-of": [
+            {
+              "id-type": "doi",
+              "id": "10.1021/acs.jpclett.4c03156",
+              "asserted-by": "object"
+            }
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              4,
+              30
+            ]
+          ],
+          "date-time": "2024-04-30T19:10:40Z",
+          "timestamp": 1714504240241
+        },
+        "reference-count": 8,
+        "publisher": "American Physical Society (APS)",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2018,
+                  5,
+                  21
+                ]
+              ],
+              "date-time": "2018-05-21T00:00:00Z",
+              "timestamp": 1526860800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://link.aps.org/licenses/aps-default-license"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "journals.aps.org"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "Physics"
+        ],
+        "DOI": "10.1103/physics.11.49",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2018,
+              10,
+              15
+            ]
+          ],
+          "date-time": "2018-10-15T15:10:02Z",
+          "timestamp": 1539616202000
+        },
+        "update-policy": "http://dx.doi.org/10.1103/crossmark-policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Landauer Principle Stands up to Quantum Test"
+        ],
+        "prefix": "10.1103",
+        "volume": "11",
+        "author": [
+          {
+            "given": "Massimiliano",
+            "family": "Esposito",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "16",
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              21
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "Physics.11.49Cc1R1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1147/rd.53.0183"
+          },
+          {
+            "key": "Physics.11.49Cc2R1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nature10872"
+          },
+          {
+            "key": "Physics.11.49Cc3R1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1103/PhysRevLett.113.190601"
+          },
+          {
+            "key": "Physics.11.49Cc4R1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1103/PhysRevLett.120.210601"
+          },
+          {
+            "key": "Physics.11.49Cc6R1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1209/0295-5075/95/40004"
+          },
+          {
+            "key": "Physics.11.49Cc8R1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/1367-2630/12/1/013013"
+          },
+          {
+            "key": "Physics.11.49Cc9R1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/1367-2630/16/10/103011"
+          },
+          {
+            "key": "Physics.11.49Cc10R1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1103/PhysRevX.6.041064"
+          }
+        ],
+        "container-title": [
+          "Physics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.aps.org/article/10.1103/Physics.11.49",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          },
+          {
+            "URL": "http://harvest.aps.org/v2/journals/articles/10.1103/Physics.11.49/fulltext",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2018,
+              10,
+              15
+            ]
+          ],
+          "date-time": "2018-10-15T15:10:34Z",
+          "timestamp": 1539616234000
+        },
+        "score": 24.56659,
+        "resource": {
+          "primary": {
+            "URL": "https://link.aps.org/doi/10.1103/Physics.11.49"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              21
+            ]
+          ]
+        },
+        "references-count": 8,
+        "URL": "https://doi.org/10.1103/physics.11.49",
+        "ISSN": [
+          "1943-2879"
+        ],
+        "issn-type": [
+          {
+            "value": "1943-2879",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              21
+            ]
+          ]
+        },
+        "article-number": "49"
+      },
+      {
+        "institution": [
+          {
+            "name": "National Institute of Standards and Technology",
+            "acronym": [
+              "NIST"
+            ],
+            "place": [
+              "Gaithersburg, MD"
+            ],
+            "department": [
+              "Information Technology Laboratory"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2024-10-12T04:12:17Z",
+          "timestamp": 1728706337411
+        },
+        "publisher-location": "Gaithersburg, MD",
+        "reference-count": 0,
+        "publisher": "National Institute of Standards and Technology",
+        "funder": [
+          {
+            "DOI": "10.13039/100007764",
+            "name": "Information Technology Laboratory",
+            "doi-asserted-by": "publisher",
+            "id": [
+              {
+                "id": "10.13039/100007764",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.6028/nist.tn.1990",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              9
+            ]
+          ],
+          "date-time": "2018-05-09T17:58:59Z",
+          "timestamp": 1525888739000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Software science' revisited: rationalizing Halstead's system using dimensionless units."
+        ],
+        "prefix": "10.6028",
+        "author": [
+          {
+            "given": "David",
+            "family": "Flater",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "4068",
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              5
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              11
+            ]
+          ],
+          "date-time": "2024-10-11T18:30:12Z",
+          "timestamp": 1728671412000
+        },
+        "score": 24.270632,
+        "resource": {
+          "primary": {
+            "URL": "http://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.1990.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2018,
+              5
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.6028/nist.tn.1990",
+        "published": {
+          "date-parts": [
+            [
+              2018,
+              5
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              8
+            ]
+          ],
+          "date-time": "2025-07-08T04:05:10Z",
+          "timestamp": 1751947510430,
+          "version": "3.41.2"
+        },
+        "posted": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              13
+            ]
+          ]
+        },
+        "group-title": "Physical Sciences",
+        "reference-count": 0,
+        "publisher": "MDPI AG",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  6,
+                  13
+                ]
+              ],
+              "date-time": "2025-06-13T00:00:00Z",
+              "timestamp": 1749772800000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by/4.0"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "accepted": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              13
+            ]
+          ]
+        },
+        "abstract": "<jats:p>We introduce a synchronization procedure for clocks based on the Einstein\u2013Landauer framework. Clocks are modeled as discrete, macroscopic devices operating at a thermal equilibrium temperature ?. Synchronization is achieved by transmitting photons from one clock to another; the absorption of a photon by a clock reduces the uncertainty in its time-keeping. The minimum energy required for this reduction in uncertainty is determined by the Landauer bound. We distinguish between the time-bearing and non-time-bearing de-grees of freedom of the clocks. A reduction in uncertainty under synchronization in the time-bearing degrees of freedom necessarily leads to heat dissipation in the non-time-bearing ones. The minimum energy dissipation in these non-time-bearing de-grees of freedom is likewise given by the Landauer limit. The same is true for mechanical synchronization of clocks. We also consider lattices of clocks and analyze synchronization using a Ramsey graph approach. Notably, clocks operating at the same temperature may be synchronized using photons of different frequencies. Each clock is categorized as either synchronized or non-synchronized, resulting in a bi-colored complete graph of clocks. By Ramsey\u2019s theorem, such a graph inevitably contains a triad (or loop) of clocks that are ei-ther all synchronized or all non-synchronized. The extension of the Ramsey approach to infinite lattices of clocks is reported. Landauer synchronization also limits the accuracy of watches.</jats:p>",
+        "DOI": "10.20944/preprints202505.2306.v2",
+        "type": "posted-content",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              16
+            ]
+          ],
+          "date-time": "2025-06-16T03:44:32Z",
+          "timestamp": 1750045472000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Landauer Principle and Einstein Synchronization of Clocks: the Ramsey Approach"
+        ],
+        "prefix": "10.20944",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-1356-2486",
+            "authenticated-orcid": false,
+            "given": "Edward",
+            "family": "Bormashenko",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-0980-3670",
+            "authenticated-orcid": false,
+            "given": "Michael",
+            "family": "Nosonovsky",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "1968",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              7
+            ]
+          ],
+          "date-time": "2025-07-07T07:59:04Z",
+          "timestamp": 1751875144000
+        },
+        "score": 23.943256,
+        "resource": {
+          "primary": {
+            "URL": "https://www.preprints.org/manuscript/202505.2306/v2"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              13
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.20944/preprints202505.2306.v2",
+        "relation": {
+          "is-version-of": [
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202505.2306.v1",
+              "asserted-by": "subject"
+            }
+          ],
+          "is-preprint-of": [
+            {
+              "id-type": "doi",
+              "id": "10.3390/e27070697",
+              "asserted-by": "subject"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              13
+            ]
+          ]
+        },
+        "subtype": "preprint"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              27
+            ]
+          ],
+          "date-time": "2026-02-27T23:57:18Z",
+          "timestamp": 1772236638005,
+          "version": "3.50.1"
+        },
+        "posted": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              29
+            ]
+          ]
+        },
+        "group-title": "Physical Sciences",
+        "reference-count": 0,
+        "publisher": "MDPI AG",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  5,
+                  29
+                ]
+              ],
+              "date-time": "2025-05-29T00:00:00Z",
+              "timestamp": 1748476800000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by/4.0"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "accepted": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              28
+            ]
+          ]
+        },
+        "abstract": "<jats:p>We introduce a synchronization procedure for clocks based on the Einstein\u2013Landauer framework. Clocks are modeled as discrete, macroscopic devices operating at a thermal equilibrium temperature</jats:p>",
+        "DOI": "10.20944/preprints202505.2306.v1",
+        "type": "posted-content",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              29
+            ]
+          ],
+          "date-time": "2025-05-29T20:56:38Z",
+          "timestamp": 1748552198000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Landauer Principle and Einstein Synchronization of Clocks: The Ramsey Approach"
+        ],
+        "prefix": "10.20944",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-1356-2486",
+            "authenticated-orcid": false,
+            "given": "Edward",
+            "family": "Bormashenko",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-0980-3670",
+            "authenticated-orcid": false,
+            "given": "Michael",
+            "family": "Nosonovsky",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "1968",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              7
+            ]
+          ],
+          "date-time": "2025-07-07T03:58:35Z",
+          "timestamp": 1751860715000
+        },
+        "score": 23.797995,
+        "resource": {
+          "primary": {
+            "URL": "https://www.preprints.org/manuscript/202505.2306/v1"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              29
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.20944/preprints202505.2306.v1",
+        "relation": {
+          "is-version-of": [
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202505.2306.v2",
+              "asserted-by": "subject"
+            }
+          ],
+          "is-preprint-of": [
+            {
+              "id-type": "doi",
+              "id": "10.3390/e27070697",
+              "asserted-by": "subject"
+            }
+          ],
+          "has-version": [
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202505.2306.v2",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              29
+            ]
+          ]
+        },
+        "subtype": "preprint"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              3
+            ]
+          ],
+          "date-time": "2025-10-03T17:53:21Z",
+          "timestamp": 1759514001752,
+          "version": "3.37.3"
+        },
+        "posted": {
+          "date-parts": [
+            [
+              2019,
+              8,
+              5
+            ]
+          ]
+        },
+        "group-title": "Physical Sciences",
+        "reference-count": 0,
+        "publisher": "MDPI AG",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2019,
+                  8,
+                  5
+                ]
+              ],
+              "date-time": "2019-08-05T00:00:00Z",
+              "timestamp": 1564963200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by/4.0"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "accepted": {
+          "date-parts": [
+            [
+              2019,
+              8,
+              2
+            ]
+          ]
+        },
+        "abstract": "<jats:p>The Landauer principle supplies the estimation of the minimal mass of a particle which is capable to record/erase information within a thermal bath at the temperature of T. Particles lighter than     m &amp;tilde;  0  =   k B  Tln2   c 2     will not transform the information to the surrounding bodies and are well expected to be undetectable. The relation of the Landauer principle to the problem of &amp;ldquo;dark matter&amp;rdquo; is discussed. The maximal informational content of a particle at rest, estimated as    I  max  =   m 0   c 2     k B  Tkn2   is introduced. The Landauer principle also allows the estimation of minimal energy of the field which is capable to record/erase 1 bit of information in the surrounding at the temperature of T. The relativistic aspects of the Landauer principle and its relation to the relativistic transformation of temperature are addressed.</jats:p>",
+        "DOI": "10.20944/preprints201908.0060.v1",
+        "type": "posted-content",
+        "created": {
+          "date-parts": [
+            [
+              2019,
+              8,
+              6
+            ]
+          ],
+          "date-time": "2019-08-06T09:07:08Z",
+          "timestamp": 1565082428000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 20,
+        "title": [
+          "Landauer Principle: Re-Formulation of the Second Thermodynamics Law or a Step to Great Unification?"
+        ],
+        "prefix": "10.20944",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-1356-2486",
+            "authenticated-orcid": false,
+            "given": "Edward",
+            "family": "Bormashenko",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "1968",
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              7,
+              9
+            ]
+          ],
+          "date-time": "2024-07-09T06:48:56Z",
+          "timestamp": 1720507736000
+        },
+        "score": 23.3298,
+        "resource": {
+          "primary": {
+            "URL": "https://www.preprints.org/manuscript/201908.0060/v1"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              8,
+              5
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.20944/preprints201908.0060.v1",
+        "relation": {
+          "is-preprint-of": [
+            {
+              "id-type": "doi",
+              "id": "10.3390/e21100918",
+              "asserted-by": "subject"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              8,
+              5
+            ]
+          ]
+        },
+        "subtype": "preprint"
+      }
+    ],
+    "items-per-page": 10,
+    "query": {
+      "start-index": 0,
+      "search-terms": "Landauer principle dimensionless natural units"
+    }
+  }
+}

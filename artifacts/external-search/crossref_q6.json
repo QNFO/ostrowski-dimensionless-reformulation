@@ -1,0 +1,2384 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 155736,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              27
+            ]
+          ],
+          "date-time": "2026-01-27T23:35:03Z",
+          "timestamp": 1769556903846,
+          "version": "3.49.0"
+        },
+        "reference-count": 0,
+        "publisher": "Scholarpedia",
+        "issue": "10",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Scholarpedia"
+        ],
+        "DOI": "10.4249/scholarpedia.7374",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              2,
+              19
+            ]
+          ],
+          "date-time": "2010-02-19T13:46:35Z",
+          "timestamp": 1266587195000
+        },
+        "page": "7374",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Bekenstein bound"
+        ],
+        "prefix": "10.4249",
+        "volume": "3",
+        "author": [
+          {
+            "given": "Jacob",
+            "family": "Bekenstein",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "2952",
+        "published-online": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        },
+        "container-title": [
+          "Scholarpedia"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2010,
+              2,
+              19
+            ]
+          ],
+          "date-time": "2010-02-19T13:46:41Z",
+          "timestamp": 1266587201000
+        },
+        "score": 30.559406,
+        "resource": {
+          "primary": {
+            "URL": "http://www.scholarpedia.org/article/Bekenstein_bound"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "10",
+          "published-online": {
+            "date-parts": [
+              [
+                2008
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "7374"
+        ],
+        "URL": "https://doi.org/10.4249/scholarpedia.7374",
+        "ISSN": [
+          "1941-6016"
+        ],
+        "issn-type": [
+          {
+            "value": "1941-6016",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              8,
+              23
+            ]
+          ],
+          "date-time": "2024-08-23T15:49:48Z",
+          "timestamp": 1724428188741
+        },
+        "reference-count": 0,
+        "publisher": "WORLD SCIENTIFIC",
+        "isbn-type": [
+          {
+            "value": "9789811203954",
+            "type": "print"
+          },
+          {
+            "value": "9789811203961",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1142/9789811203961_0013",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              18
+            ]
+          ],
+          "date-time": "2019-09-18T08:49:07Z",
+          "timestamp": 1568796547000
+        },
+        "page": "159-171",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "The Bekenstein Bound"
+        ],
+        "prefix": "10.1142",
+        "author": [
+          {
+            "given": "Don N.",
+            "family": "Page",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Physics, 4-183 CCIS, University of Alberta, Edmonton, Alberta T6G 2E1, Canada"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "219",
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              17
+            ]
+          ]
+        },
+        "container-title": [
+          "Jacob Bekenstein"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              18
+            ]
+          ],
+          "date-time": "2019-09-18T08:49:10Z",
+          "timestamp": 1568796550000
+        },
+        "score": 28.510479,
+        "resource": {
+          "primary": {
+            "URL": "https://www.worldscientific.com/doi/abs/10.1142/9789811203961_0013"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              17
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789811203954",
+          "9789811203961"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1142/9789811203961_0013",
+          "10.1142/11373"
+        ],
+        "URL": "https://doi.org/10.1142/9789811203961_0013",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              17
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              5
+            ]
+          ],
+          "date-time": "2025-11-05T06:36:01Z",
+          "timestamp": 1762324561787
+        },
+        "reference-count": 0,
+        "publisher": "WORLD SCIENTIFIC",
+        "isbn-type": [
+          {
+            "value": "9789811203954",
+            "type": "print"
+          },
+          {
+            "value": "9789811203961",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1142/9789811203961_0011",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              18
+            ]
+          ],
+          "date-time": "2019-09-18T08:49:07Z",
+          "timestamp": 1568796547000
+        },
+        "page": "121-138",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+          "Cosmological Implications of the Bekenstein Bound"
+        ],
+        "prefix": "10.1142",
+        "author": [
+          {
+            "given": "Tom",
+            "family": "Banks",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Physics and NHETC, Rutgers University, Piscataway, NJ 08854, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Willy",
+            "family": "Fischler",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Physics and Texas Cosmology Center, University of Texas, Austin, TX 78712, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "219",
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              17
+            ]
+          ]
+        },
+        "container-title": [
+          "Jacob Bekenstein"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              18
+            ]
+          ],
+          "date-time": "2019-09-18T08:49:13Z",
+          "timestamp": 1568796553000
+        },
+        "score": 27.837069,
+        "resource": {
+          "primary": {
+            "URL": "https://www.worldscientific.com/doi/abs/10.1142/9789811203961_0011"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              17
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789811203954",
+          "9789811203961"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1142/9789811203961_0011",
+          "10.1142/11373"
+        ],
+        "URL": "https://doi.org/10.1142/9789811203961_0011",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              17
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              7,
+              20
+            ]
+          ],
+          "date-time": "2024-07-20T07:15:54Z",
+          "timestamp": 1721459754019
+        },
+        "reference-count": 0,
+        "publisher": "WORLD SCIENTIFIC",
+        "isbn-type": [
+          {
+            "value": "9789811203954",
+            "type": "print"
+          },
+          {
+            "value": "9789811203961",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1142/9789811203961_0012",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              18
+            ]
+          ],
+          "date-time": "2019-09-18T04:49:07Z",
+          "timestamp": 1568782147000
+        },
+        "page": "139-158",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+          "Black Hole Entropy and the Bekenstein Bound"
+        ],
+        "prefix": "10.1142",
+        "author": [
+          {
+            "given": "Raphael",
+            "family": "Bousso",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Center for Theoretical Physics and Department of Physics, University of California, Berkeley, CA 94720, USA"
+              },
+              {
+                "name": "Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "219",
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              17
+            ]
+          ]
+        },
+        "container-title": [
+          "Jacob Bekenstein"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              18
+            ]
+          ],
+          "date-time": "2019-09-18T04:49:12Z",
+          "timestamp": 1568782152000
+        },
+        "score": 27.611317,
+        "resource": {
+          "primary": {
+            "URL": "https://www.worldscientific.com/doi/abs/10.1142/9789811203961_0012"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              17
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789811203954",
+          "9789811203961"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1142/9789811203961_0012",
+          "10.1142/11373"
+        ],
+        "URL": "https://doi.org/10.1142/9789811203961_0012",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              17
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              10
+            ]
+          ],
+          "date-time": "2024-05-10T02:12:13Z",
+          "timestamp": 1715307133853
+        },
+        "reference-count": 0,
+        "publisher": "WORLD SCIENTIFIC",
+        "isbn-type": [
+          {
+            "value": "9789811203954",
+            "type": "print"
+          },
+          {
+            "value": "9789811203961",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1142/9789811203961_others03",
+        "type": "other",
+        "created": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              18
+            ]
+          ],
+          "date-time": "2019-09-18T04:49:07Z",
+          "timestamp": 1568782147000
+        },
+        "page": "119-119",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "THE BEKENSTEIN BOUND"
+        ],
+        "prefix": "10.1142",
+        "author": [
+          {
+            "given": "Lars",
+            "family": "Brink",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Chalmers University of Technology, Sweden"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Viatcheslav",
+            "family": "Mukhanov",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Ludwig-Maximilians-Universit\u00e4t of Munich, Germany"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Eliezer",
+            "family": "Rabinovici",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Hebrew University of Jerusalem, Israel"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "K K",
+            "family": "Phua",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Institute of Advanced Studies, Nanyang Technological University, Singapore"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "219",
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              17
+            ]
+          ]
+        },
+        "container-title": [
+          "Jacob Bekenstein"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              18
+            ]
+          ],
+          "date-time": "2019-09-18T04:49:23Z",
+          "timestamp": 1568782163000
+        },
+        "score": 26.854612,
+        "resource": {
+          "primary": {
+            "URL": "https://www.worldscientific.com/doi/abs/10.1142/9789811203961_others03"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              17
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789811203954",
+          "9789811203961"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1142/9789811203961_others03",
+          "10.1142/11373"
+        ],
+        "URL": "https://doi.org/10.1142/9789811203961_others03",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              17
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              8,
+              6
+            ]
+          ],
+          "date-time": "2024-08-06T13:54:11Z",
+          "timestamp": 1722952451426
+        },
+        "reference-count": 0,
+        "publisher": "WORLD SCIENTIFIC",
+        "isbn-type": [
+          {
+            "value": "9789811203954",
+            "type": "print"
+          },
+          {
+            "value": "9789811203961",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1142/9789811203961_0026",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              18
+            ]
+          ],
+          "date-time": "2019-09-18T08:49:07Z",
+          "timestamp": 1568796547000
+        },
+        "page": "335-346",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Universal upper bound on the entropy-to-energy ratio for bounded systems"
+        ],
+        "prefix": "10.1142",
+        "author": [
+          {
+            "given": "Jacob D.",
+            "family": "Bekenstein",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Institute for Theoretical Physics, University of California, Santa Barbara, California 93106, United States"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "219",
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              17
+            ]
+          ]
+        },
+        "container-title": [
+          "Jacob Bekenstein"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              18
+            ]
+          ],
+          "date-time": "2019-09-18T08:49:26Z",
+          "timestamp": 1568796566000
+        },
+        "score": 26.398312,
+        "resource": {
+          "primary": {
+            "URL": "https://www.worldscientific.com/doi/abs/10.1142/9789811203961_0026"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              17
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789811203954",
+          "9789811203961"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.1142/9789811203961_0026",
+          "10.1142/11373"
+        ],
+        "URL": "https://doi.org/10.1142/9789811203961_0026",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              17
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              8,
+              6
+            ]
+          ],
+          "date-time": "2024-08-06T00:02:37Z",
+          "timestamp": 1722902557032
+        },
+        "reference-count": 0,
+        "publisher": "AIP",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2005
+            ]
+          ]
+        },
+        "DOI": "10.1063/1.2149737",
+        "type": "proceedings-article",
+        "created": {
+          "date-parts": [
+            [
+              2005,
+              12,
+              2
+            ]
+          ],
+          "date-time": "2005-12-02T03:42:01Z",
+          "timestamp": 1133494921000
+        },
+        "page": "387-390",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Modifications of the Bekenstein Bound from Dimensional Reduction of Covariant Entropy Bound"
+        ],
+        "prefix": "10.1063",
+        "volume": "805",
+        "author": [
+          {
+            "given": "Ho-Ung",
+            "family": "Yee",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "317",
+        "event": {
+          "name": "PARTICLES, STRINGS, AND COSMOLOGY: 11th International Symposium on Particles, Strings, and Cosmology; PASCOS 2005",
+          "location": "Gyeongju (Korea)"
+        },
+        "container-title": [
+          "AIP Conference Proceedings"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              20
+            ]
+          ],
+          "date-time": "2023-04-20T11:01:46Z",
+          "timestamp": 1681988506000
+        },
+        "score": 26.1362,
+        "resource": {
+          "primary": {
+            "URL": "https://pubs.aip.org/aip/acp/article/805/1/387-390/958962"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2005
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1063/1.2149737",
+        "ISSN": [
+          "0094-243X"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0094-243X"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2005
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              3
+            ]
+          ],
+          "date-time": "2026-07-03T15:45:16Z",
+          "timestamp": 1783093516391,
+          "version": "3.54.6"
+        },
+        "reference-count": 42,
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "02",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "J. High Energy Phys."
+        ],
+        "DOI": "10.1088/1126-6708/2004/02/025",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2004,
+              2,
+              12
+            ]
+          ],
+          "date-time": "2004-02-12T23:13:52Z",
+          "timestamp": 1076627632000
+        },
+        "page": "025-025",
+        "source": "Crossref",
+        "is-referenced-by-count": 19,
+        "title": [
+          "Bound states and the Bekenstein bound"
+        ],
+        "prefix": "10.1007",
+        "volume": "2004",
+        "author": [
+          {
+            "given": "Raphael",
+            "family": "Bousso",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2004,
+              2,
+              12
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "1",
+            "doi-asserted-by": "crossref",
+            "first-page": "287",
+            "DOI": "10.1103/PhysRevD.23.287",
+            "volume": "23",
+            "author": "J.D. Bekenstein",
+            "year": "1981",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "2",
+            "doi-asserted-by": "crossref",
+            "first-page": "3292",
+            "DOI": "10.1103/PhysRevD.9.3292",
+            "volume": "9",
+            "author": "J.D. Bekenstein",
+            "year": "1974",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "3",
+            "doi-asserted-by": "crossref",
+            "first-page": "035",
+            "DOI": "10.1088/1126-6708/2001/04/035",
+            "volume": "2001",
+            "author": "R. Bousso",
+            "year": "2001",
+            "journal-title": "J. High Energy Phys.",
+            "ISSN": "https://id.crossref.org/issn/1126-6708",
+            "issn-type": "print"
+          },
+          {
+            "key": "4",
+            "doi-asserted-by": "crossref",
+            "first-page": "001",
+            "DOI": "10.1088/1126-6708/2001/01/001",
+            "volume": "2001",
+            "author": "D. Kutasov",
+            "year": "2001",
+            "journal-title": "J. High Energy Phys.",
+            "ISSN": "https://id.crossref.org/issn/1126-6708",
+            "issn-type": "print"
+          },
+          {
+            "key": "5",
+            "doi-asserted-by": "crossref",
+            "first-page": "737",
+            "DOI": "10.1007/BF02757029",
+            "volume": "4",
+            "author": "J.D. Bekenstein",
+            "year": "1972",
+            "journal-title": "Nuovo Cim. Lett."
+          },
+          {
+            "key": "6",
+            "doi-asserted-by": "crossref",
+            "first-page": "2333",
+            "DOI": "10.1103/PhysRevD.7.2333",
+            "volume": "7",
+            "author": "J.D. Bekenstein",
+            "year": "1973",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1103/RevModPhys.74.825"
+          },
+          {
+            "key": "8",
+            "doi-asserted-by": "crossref",
+            "first-page": "942",
+            "DOI": "10.1103/PhysRevD.25.942",
+            "volume": "25",
+            "author": "W.G. Unruh",
+            "year": "1982",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "9",
+            "doi-asserted-by": "crossref",
+            "first-page": "2271",
+            "DOI": "10.1103/PhysRevD.27.2271",
+            "volume": "27",
+            "author": "W.G. Unruh",
+            "year": "1983",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "10",
+            "doi-asserted-by": "crossref",
+            "first-page": "104009",
+            "DOI": "10.1103/PhysRevD.60.104009",
+            "volume": "60",
+            "author": "M.A. Pelath",
+            "year": "1999",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "11",
+            "doi-asserted-by": "crossref",
+            "first-page": "124010",
+            "DOI": "10.1103/PhysRevD.60.124010",
+            "volume": "60",
+            "author": "J.D. Bekenstein",
+            "year": "1999",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1103/PhysRevD.66.104004"
+          },
+          {
+            "key": "13",
+            "volume": "4",
+            "author": "R.M. Wald",
+            "year": "2001",
+            "journal-title": "Living Rev. Rel."
+          },
+          {
+            "key": "14",
+            "first-page": "3555",
+            "volume": "32",
+            "author": "J.D. Bekenstein",
+            "year": "2001",
+            "journal-title": "Acta Phys. Polon.",
+            "ISSN": "https://id.crossref.org/issn/0587-4254",
+            "issn-type": "print"
+          },
+          {
+            "key": "15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1103/PhysRevLett.90.121302"
+          },
+          {
+            "key": "16",
+            "doi-asserted-by": "crossref",
+            "first-page": "084035",
+            "DOI": "10.1103/PhysRevD.62.084035",
+            "volume": "62",
+            "author": "E.E. Flanagan",
+            "year": "2000",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "17",
+            "doi-asserted-by": "crossref",
+            "first-page": "004",
+            "DOI": "10.1088/1126-6708/1999/07/004",
+            "volume": "1999",
+            "author": "R. Bousso",
+            "year": "1999",
+            "journal-title": "J. High Energy Phys.",
+            "ISSN": "https://id.crossref.org/issn/1126-6708",
+            "issn-type": "print"
+          },
+          {
+            "key": "18",
+            "author": "G. 't Hooft"
+          },
+          {
+            "key": "19",
+            "doi-asserted-by": "crossref",
+            "first-page": "6377",
+            "DOI": "10.1063/1.531249",
+            "volume": "36",
+            "author": "L. Susskind",
+            "year": "1995",
+            "journal-title": "J. Math. Phys.",
+            "ISSN": "https://id.crossref.org/issn/0022-2488",
+            "issn-type": "print"
+          },
+          {
+            "key": "20",
+            "doi-asserted-by": "crossref",
+            "first-page": "028",
+            "DOI": "10.1088/1126-6708/1999/06/028",
+            "volume": "1999",
+            "author": "R. Bousso",
+            "year": "1999",
+            "journal-title": "J. High Energy Phys.",
+            "ISSN": "https://id.crossref.org/issn/1126-6708",
+            "issn-type": "print"
+          },
+          {
+            "key": "21",
+            "doi-asserted-by": "crossref",
+            "first-page": "064001",
+            "DOI": "10.1103/PhysRevD.68.064001",
+            "volume": "68",
+            "author": "R. Bousso",
+            "year": "2003",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "22",
+            "author": "W. Fischler"
+          },
+          {
+            "key": "23",
+            "doi-asserted-by": "crossref",
+            "first-page": "103509",
+            "DOI": "10.1103/PhysRevD.60.103509",
+            "volume": "60",
+            "author": "N. Kaloper",
+            "year": "1999",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "24",
+            "doi-asserted-by": "crossref",
+            "first-page": "944",
+            "DOI": "10.1103/PhysRevD.26.944",
+            "volume": "26",
+            "author": "S.D. Unwin",
+            "year": "1982",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "25",
+            "doi-asserted-by": "crossref",
+            "first-page": "947",
+            "DOI": "10.1103/PhysRevD.26.947",
+            "volume": "26",
+            "author": "D.N. Page",
+            "year": "1982",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1103/PhysRevLett.48.286"
+          },
+          {
+            "key": "27",
+            "doi-asserted-by": "crossref",
+            "first-page": "950",
+            "DOI": "10.1103/PhysRevD.26.950",
+            "volume": "26",
+            "author": "J.D. Bekenstein",
+            "year": "1982",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "28",
+            "doi-asserted-by": "crossref",
+            "first-page": "2262",
+            "DOI": "10.1103/PhysRevD.27.2262",
+            "volume": "27",
+            "author": "J.D. Bekenstein",
+            "year": "1983",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1669",
+            "DOI": "10.1103/PhysRevD.30.1669",
+            "volume": "30",
+            "author": "J.D. Bekenstein",
+            "year": "1984",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "30",
+            "doi-asserted-by": "crossref",
+            "first-page": "1109",
+            "DOI": "10.1103/PhysRevD.39.1109",
+            "volume": "39",
+            "author": "M. Schiffer",
+            "year": "1989",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "31",
+            "doi-asserted-by": "crossref",
+            "first-page": "3598",
+            "DOI": "10.1103/PhysRevD.42.3598",
+            "volume": "42",
+            "author": "M. Schiffer",
+            "year": "1990",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "32",
+            "doi-asserted-by": "crossref",
+            "first-page": "355",
+            "DOI": "10.1142/S0129183190000207",
+            "volume": "1",
+            "author": "J. D. Bekenstein",
+            "year": "1990",
+            "journal-title": "Int. J. Mod. Phys.",
+            "ISSN": "https://id.crossref.org/issn/0129-1831",
+            "issn-type": "print"
+          },
+          {
+            "key": "33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1912",
+            "DOI": "10.1103/PhysRevD.49.1912",
+            "volume": "49",
+            "author": "J.D. Bekenstein",
+            "year": "1994",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "34",
+            "author": "J.D. Bekenstein"
+          },
+          {
+            "key": "35",
+            "author": "D.N. Page"
+          },
+          {
+            "key": "36",
+            "author": "D.N. Page"
+          },
+          {
+            "key": "37",
+            "author": "D.N. Page"
+          },
+          {
+            "key": "38",
+            "author": "J.D. Bekenstein"
+          },
+          {
+            "key": "39",
+            "author": "R. Bousso"
+          },
+          {
+            "key": "40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0370-1573(01)00015-1"
+          },
+          {
+            "key": "41",
+            "doi-asserted-by": "crossref",
+            "first-page": "2700",
+            "DOI": "10.1103/PhysRevD.50.2700",
+            "volume": "50",
+            "author": "L. Susskind",
+            "year": "1994",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "https://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "42",
+            "author": "R.M. Wald:"
+          }
+        ],
+        "container-title": [
+          "Journal of High Energy Physics"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2018,
+              4,
+              18
+            ]
+          ],
+          "date-time": "2018-04-18T19:20:53Z",
+          "timestamp": 1524079253000
+        },
+        "score": 25.543503,
+        "resource": {
+          "primary": {
+            "URL": "http://stacks.iop.org/1126-6708/2004/i=02/a=025?key=crossref.13af523531f9ca1d86942f3fa3b6f0c9"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2004,
+              2,
+              12
+            ]
+          ]
+        },
+        "references-count": 42,
+        "journal-issue": {
+          "issue": "02",
+          "published-online": {
+            "date-parts": [
+              [
+                2004,
+                2,
+                1
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1088/1126-6708/2004/02/025",
+        "ISSN": [
+          "1029-8479"
+        ],
+        "issn-type": [
+          {
+            "value": "1029-8479",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2004,
+              2,
+              12
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              5
+            ]
+          ],
+          "date-time": "2025-11-05T06:51:08Z",
+          "timestamp": 1762325468510,
+          "version": "build-2065373602"
+        },
+        "reference-count": 39,
+        "publisher": "MDPI AG",
+        "issue": "12",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2022,
+                  12,
+                  5
+                ]
+              ],
+              "date-time": "2022-12-05T00:00:00Z",
+              "timestamp": 1670198400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Universe"
+        ],
+        "abstract": "<jats:p>A universal upper limit on the entropy contained in a localized quantum system of a given size and total energy is expressed by the so-called Bekenstein bound. In a previous paper [Buoninfante, L. et al. 2022], on the basis of general thermodynamic arguments, and in regimes where the equipartition theorem still holds, the Bekenstein bound has been proved practically equivalent to the Heisenberg uncertainty relation. The smooth transition between the Bekenstein bound and the holographic bound suggests a new pair of canonical non-commutative variables, which could be thought to hold in strong gravity regimes.</jats:p>",
+        "DOI": "10.3390/universe8120645",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              5
+            ]
+          ],
+          "date-time": "2022-12-05T06:29:09Z",
+          "timestamp": 1670221749000
+        },
+        "page": "645",
+        "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Bekenstein Bound and Non-Commutative Canonical Variables"
+        ],
+        "prefix": "10.3390",
+        "volume": "8",
+        "author": [
+          {
+            "given": "Fabio",
+            "family": "Scardigli",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Dipartimento di Matematica, Politecnico di Milano, Piazza Leonardo da Vinci 32, 20133 Milano, Italy"
+              },
+              {
+                "name": "Department of Applied Mathematics, University of Waterloo, Waterloo, ON N2L 3G1, Canada"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "1968",
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              5
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "ref_1",
+            "doi-asserted-by": "crossref",
+            "first-page": "287",
+            "DOI": "10.1103/PhysRevD.23.287",
+            "article-title": "Universal upper bound on the entropy-to-energy ratio for bounded systems",
+            "volume": "23",
+            "author": "Bekenstein",
+            "year": "1981",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "ref_2",
+            "doi-asserted-by": "crossref",
+            "first-page": "737",
+            "DOI": "10.1007/BF02757029",
+            "article-title": "Black holes and the second law",
+            "volume": "4",
+            "author": "Bekenstein",
+            "year": "1972",
+            "journal-title": "Nuovo Cim. Lett."
+          },
+          {
+            "key": "ref_3",
+            "doi-asserted-by": "crossref",
+            "first-page": "2333",
+            "DOI": "10.1103/PhysRevD.7.2333",
+            "article-title": "Black Holes and Entropy",
+            "volume": "7",
+            "author": "Bekenstein",
+            "year": "1973",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "ref_4",
+            "doi-asserted-by": "crossref",
+            "first-page": "3292",
+            "DOI": "10.1103/PhysRevD.9.3292",
+            "article-title": "Generalized second law of thermodynamics in black-hole physics",
+            "volume": "9",
+            "author": "Bekenstein",
+            "year": "1974",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "ref_5",
+            "doi-asserted-by": "crossref",
+            "first-page": "161",
+            "DOI": "10.1007/BF01645742",
+            "article-title": "The four laws of black hole mechanics",
+            "volume": "31",
+            "author": "Bardeen",
+            "year": "1973",
+            "journal-title": "Commun. Math. Phys."
+          },
+          {
+            "key": "ref_6",
+            "doi-asserted-by": "crossref",
+            "first-page": "199",
+            "DOI": "10.1007/BF02345020",
+            "article-title": "Particle creation by black holes",
+            "volume": "43",
+            "author": "Hawking",
+            "year": "1975",
+            "journal-title": "Commun. Math. Phys."
+          },
+          {
+            "key": "ref_7",
+            "doi-asserted-by": "crossref",
+            "first-page": "623",
+            "DOI": "10.1103/PhysRevLett.46.623",
+            "article-title": "Energy Cost of Information Transfer",
+            "volume": "46",
+            "author": "Bekenstein",
+            "year": "1981",
+            "journal-title": "Phys. Rev. Lett."
+          },
+          {
+            "key": "ref_8",
+            "doi-asserted-by": "crossref",
+            "first-page": "355",
+            "DOI": "10.1007/BF00756269",
+            "article-title": "Black Holes And Everyday Physics",
+            "volume": "14",
+            "author": "Bekenstein",
+            "year": "1982",
+            "journal-title": "Gen. Rel. Grav."
+          },
+          {
+            "key": "ref_9",
+            "doi-asserted-by": "crossref",
+            "first-page": "339",
+            "DOI": "10.1016/S0370-2693(00)00450-0",
+            "article-title": "Holographic bound from second law of thermodynamics",
+            "volume": "481",
+            "author": "Bekenstein",
+            "year": "2000",
+            "journal-title": "Phys. Lett. B"
+          },
+          {
+            "key": "ref_10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1109",
+            "DOI": "10.1103/PhysRevD.39.1109",
+            "article-title": "Proof of the Quantum Bound on Specific Entropy for Free Fields",
+            "volume": "39",
+            "author": "Schiffer",
+            "year": "1989",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "ref_11",
+            "doi-asserted-by": "crossref",
+            "first-page": "355",
+            "DOI": "10.1142/S0129183190000207",
+            "article-title": "Quantum limitations on the storage and transmission of information",
+            "volume": "1",
+            "author": "Bekenstein",
+            "year": "1990",
+            "journal-title": "Int. J. Mod. Phys. C"
+          },
+          {
+            "key": "ref_12",
+            "doi-asserted-by": "crossref",
+            "first-page": "942",
+            "DOI": "10.1103/PhysRevD.25.942",
+            "article-title": "Acceleration radiation and the generalized second law of thermodynamics",
+            "volume": "25",
+            "author": "Unruh",
+            "year": "1982",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "ref_13",
+            "doi-asserted-by": "crossref",
+            "first-page": "944",
+            "DOI": "10.1103/PhysRevD.26.944",
+            "article-title": "Possible Violations Of The Entropy To Energy Ratio Bound",
+            "volume": "26",
+            "author": "Unwin",
+            "year": "1982",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "ref_14",
+            "doi-asserted-by": "crossref",
+            "first-page": "947",
+            "DOI": "10.1103/PhysRevD.26.947",
+            "article-title": "Comment on a Universal Upper Bound on the Entropy to Energy Ratio for Bounded Systems",
+            "volume": "26",
+            "author": "Page",
+            "year": "1982",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "ref_15",
+            "doi-asserted-by": "crossref",
+            "first-page": "2262",
+            "DOI": "10.1103/PhysRevD.27.2262",
+            "article-title": "Entropy Bounds And The Second Law For Black Holes",
+            "volume": "27",
+            "author": "Bekenstein",
+            "year": "1983",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "ref_16",
+            "doi-asserted-by": "crossref",
+            "first-page": "2271",
+            "DOI": "10.1103/PhysRevD.27.2271",
+            "article-title": "Entropy Bounds, Acceleration Radiation, And The Generalized Second Law",
+            "volume": "27",
+            "author": "Unruh",
+            "year": "1983",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "ref_17",
+            "doi-asserted-by": "crossref",
+            "first-page": "104009",
+            "DOI": "10.1103/PhysRevD.60.104009",
+            "article-title": "Comment on entropy bounds and the generalized second law",
+            "volume": "60",
+            "author": "Pelath",
+            "year": "1999",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "ref_18",
+            "doi-asserted-by": "crossref",
+            "first-page": "7",
+            "DOI": "10.1088/1126-6708/2008/10/007",
+            "article-title": "Defining entropy bounds",
+            "volume": "10",
+            "author": "Page",
+            "year": "2008",
+            "journal-title": "J. High Energy Phys."
+          },
+          {
+            "key": "ref_19",
+            "doi-asserted-by": "crossref",
+            "first-page": "3042",
+            "DOI": "10.1103/PhysRevD.27.3042",
+            "article-title": "BOUNDS ON THE ENTROPY",
+            "volume": "27",
+            "year": "1983",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "ref_20",
+            "first-page": "284",
+            "article-title": "Dimensional reduction in quantum gravity",
+            "volume": "930308",
+            "author": "Hooft",
+            "year": "1993",
+            "journal-title": "Conf. Proc. C"
+          },
+          {
+            "key": "ref_21",
+            "doi-asserted-by": "crossref",
+            "first-page": "6377",
+            "DOI": "10.1063/1.531249",
+            "article-title": "The world as a hologram",
+            "volume": "36",
+            "author": "Susskind",
+            "year": "1995",
+            "journal-title": "J. Math. Phys."
+          },
+          {
+            "key": "ref_22",
+            "doi-asserted-by": "crossref",
+            "first-page": "4",
+            "DOI": "10.1088/1126-6708/1999/07/004",
+            "article-title": "A Covariant entropy conjecture",
+            "volume": "7",
+            "author": "Bousso",
+            "year": "1999",
+            "journal-title": "J. High Energy Phys."
+          },
+          {
+            "key": "ref_23",
+            "doi-asserted-by": "crossref",
+            "first-page": "5695",
+            "DOI": "10.1103/PhysRevLett.84.5695",
+            "article-title": "Causal entropy bound for a spacelike region",
+            "volume": "84",
+            "author": "Brustein",
+            "year": "2000",
+            "journal-title": "Phys. Rev. Lett."
+          },
+          {
+            "key": "ref_24",
+            "doi-asserted-by": "crossref",
+            "first-page": "205021",
+            "DOI": "10.1088/0264-9381/25/20/205021",
+            "article-title": "Relative entropy and the Bekenstein bound",
+            "volume": "25",
+            "author": "Casini",
+            "year": "2008",
+            "journal-title": "Class. Quant. Grav."
+          },
+          {
+            "key": "ref_25",
+            "doi-asserted-by": "crossref",
+            "first-page": "58",
+            "DOI": "10.1038/scientificamerican0803-58",
+            "article-title": "Information in the holographic universe",
+            "volume": "289",
+            "author": "Bekenstein",
+            "year": "2003",
+            "journal-title": "Scientific American"
+          },
+          {
+            "key": "ref_26",
+            "doi-asserted-by": "crossref",
+            "first-page": "081302",
+            "DOI": "10.1103/PhysRevLett.96.081302",
+            "article-title": "Locking information in black holes",
+            "volume": "96",
+            "author": "Smolin",
+            "year": "2006",
+            "journal-title": "Phys. Rev. Lett."
+          },
+          {
+            "key": "ref_27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1670",
+            "DOI": "10.1038/ncomms2665",
+            "article-title": "A violation of the uncertainty principle implies a violation of the second law of thermodynamics",
+            "volume": "4",
+            "author": "Wehner",
+            "year": "2013",
+            "journal-title": "Nat. Commun."
+          },
+          {
+            "unstructured": "Fischler, W., and Susskind, L. (1998). Holography and Cosmology. arXiv.",
+            "key": "ref_28"
+          },
+          {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Banks, T., and Fischler, W. (2018). Cosmological Implications of the Bekenstein Bound. arXiv.",
+            "key": "ref_29",
+            "DOI": "10.1142/9789811203961_0011"
+          },
+          {
+            "unstructured": "Veneziano, G. (1999). Entropy Bounds and String Cosmology. arXiv.",
+            "key": "ref_30"
+          },
+          {
+            "key": "ref_31",
+            "doi-asserted-by": "crossref",
+            "first-page": "024025",
+            "DOI": "10.1103/PhysRevD.93.024025",
+            "article-title": "Generalized second law for cosmology",
+            "volume": "93",
+            "author": "Bousso",
+            "year": "2016",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "ref_32",
+            "doi-asserted-by": "crossref",
+            "first-page": "126",
+            "DOI": "10.1007/JHEP03(2021)126",
+            "article-title": "Entropy Bound and Unitarity of Scattering Amplitudes",
+            "volume": "3",
+            "author": "Dvali",
+            "year": "2021",
+            "journal-title": "J. High Energy Phys."
+          },
+          {
+            "key": "ref_33",
+            "doi-asserted-by": "crossref",
+            "first-page": "106002",
+            "DOI": "10.1103/PhysRevD.102.106002",
+            "article-title": "Bekenstein bound from the Pauli principle",
+            "volume": "102",
+            "author": "Acquaviva",
+            "year": "2020",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "ref_34",
+            "doi-asserted-by": "crossref",
+            "first-page": "136818",
+            "DOI": "10.1016/j.physletb.2021.136818",
+            "article-title": "Bekenstein bound and uncertainty relations",
+            "volume": "824",
+            "author": "Buoninfante",
+            "year": "2022",
+            "journal-title": "Phys. Lett. B"
+          },
+          {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ivanov, M.G., and Volovich, I.V. (2001). Entropy Bounds, Holographic Principle and Uncertainty Relation. Entropy, 3.",
+            "key": "ref_35",
+            "DOI": "10.3390/e3020066"
+          },
+          {
+            "key": "ref_36",
+            "doi-asserted-by": "crossref",
+            "first-page": "L197",
+            "DOI": "10.1088/0264-9381/20/14/103",
+            "article-title": "The generalized uncertainty principle, entropy bounds and black-hole (non-) evaporation in a thermal bath",
+            "volume": "20",
+            "author": "Custodio",
+            "year": "2003",
+            "journal-title": "Class. Quant. Grav."
+          },
+          {
+            "key": "ref_37",
+            "doi-asserted-by": "crossref",
+            "first-page": "50",
+            "DOI": "10.1088/1126-6708/2004/05/050",
+            "article-title": "Flat space physics from holography",
+            "volume": "5",
+            "author": "Bousso",
+            "year": "2004",
+            "journal-title": "J. High Energy Phys."
+          },
+          {
+            "key": "ref_38",
+            "doi-asserted-by": "crossref",
+            "first-page": "573",
+            "DOI": "10.1016/j.physletb.2008.01.029",
+            "article-title": "Corrections to Schwarzschild solution in noncommutative gauge theory of gravity",
+            "volume": "660",
+            "author": "Chaichian",
+            "year": "2008",
+            "journal-title": "Phys. Lett. B"
+          },
+          {
+            "key": "ref_39",
+            "doi-asserted-by": "crossref",
+            "first-page": "95",
+            "DOI": "10.1140/epjc/s10052-019-6610-1",
+            "article-title": "Noncommutative Schwarzschild geometry and generalized uncertainty principle",
+            "volume": "79",
+            "author": "Kanazawa",
+            "year": "2019",
+            "journal-title": "Eur. Phys. J. C"
+          }
+        ],
+        "container-title": [
+          "Universe"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://www.mdpi.com/2218-1997/8/12/645/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              11
+            ]
+          ],
+          "date-time": "2025-10-11T01:33:59Z",
+          "timestamp": 1760146439000
+        },
+        "score": 24.299461,
+        "resource": {
+          "primary": {
+            "URL": "https://www.mdpi.com/2218-1997/8/12/645"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              5
+            ]
+          ]
+        },
+        "references-count": 39,
+        "journal-issue": {
+          "issue": "12",
+          "published-online": {
+            "date-parts": [
+              [
+                2022,
+                12
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "universe8120645"
+        ],
+        "URL": "https://doi.org/10.3390/universe8120645",
+        "ISSN": [
+          "2218-1997"
+        ],
+        "issn-type": [
+          {
+            "type": "electronic",
+            "value": "2218-1997"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              5
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2022-04-01T21:55:02Z",
+          "timestamp": 1648850102932
+        },
+        "reference-count": 17,
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "08",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "J. High Energy Phys."
+        ],
+        "DOI": "10.1088/1126-6708/2004/08/033",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2004,
+              8,
+              19
+            ]
+          ],
+          "date-time": "2004-08-19T03:13:27Z",
+          "timestamp": 1092885207000
+        },
+        "page": "033-033",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+          "Note on Bound States and the Bekenstein Bound"
+        ],
+        "prefix": "10.1007",
+        "volume": "2004",
+        "author": [
+          {
+            "given": "Donald",
+            "family": "Marolf",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Radu",
+            "family": "Roiban",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2004,
+              8,
+              19
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "1",
+            "doi-asserted-by": "crossref",
+            "first-page": "2333",
+            "DOI": "10.1103/PhysRevD.7.2333",
+            "volume": "7",
+            "author": "J.D. Bekenstein",
+            "year": "1973",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "http://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "2",
+            "doi-asserted-by": "crossref",
+            "first-page": "3292",
+            "DOI": "10.1103/PhysRevD.9.3292",
+            "volume": "9",
+            "author": "J.D. Bekenstein",
+            "year": "1974",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "http://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "3",
+            "author": "J.D. Bekenstein"
+          },
+          {
+            "key": "4",
+            "doi-asserted-by": "crossref",
+            "first-page": "6377",
+            "DOI": "10.1063/1.531249",
+            "volume": "36",
+            "author": "L. Susskind",
+            "year": "1995",
+            "journal-title": "J. Math. Phys.",
+            "ISSN": "http://id.crossref.org/issn/0022-2488",
+            "issn-type": "print"
+          },
+          {
+            "key": "5",
+            "author": "G. 't Hooft"
+          },
+          {
+            "key": "6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1103/PhysRevLett.84.5695"
+          },
+          {
+            "key": "7",
+            "doi-asserted-by": "crossref",
+            "first-page": "004",
+            "DOI": "10.1088/1126-6708/1999/07/004",
+            "volume": "1999",
+            "author": "R. Bousso",
+            "year": "1999",
+            "journal-title": "J. High Energy Phys.",
+            "ISSN": "http://id.crossref.org/issn/1126-6708",
+            "issn-type": "print"
+          },
+          {
+            "key": "8",
+            "doi-asserted-by": "crossref",
+            "first-page": "942",
+            "DOI": "10.1103/PhysRevD.25.942",
+            "volume": "25",
+            "author": "W.G. Unruh",
+            "year": "1982",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "http://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1103/PhysRevD.66.104004"
+          },
+          {
+            "key": "10",
+            "doi-asserted-by": "crossref",
+            "first-page": "024014",
+            "DOI": "10.1103/PhysRevD.69.024014",
+            "volume": "69",
+            "author": "D. Marolf",
+            "year": "2004",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "http://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "11",
+            "doi-asserted-by": "crossref",
+            "first-page": "064006",
+            "DOI": "10.1103/PhysRevD.69.064006",
+            "volume": "69",
+            "author": "D. Marolf",
+            "year": "2004",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "http://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "12",
+            "doi-asserted-by": "crossref",
+            "first-page": "025",
+            "DOI": "10.1088/1126-6708/2004/02/025",
+            "volume": "2004",
+            "author": "R. Bousso",
+            "year": "2004",
+            "journal-title": "J. High Energy Phys.",
+            "ISSN": "http://id.crossref.org/issn/1126-6708",
+            "issn-type": "print"
+          },
+          {
+            "key": "13",
+            "doi-asserted-by": "crossref",
+            "first-page": "054",
+            "DOI": "10.1088/1126-6708/2004/03/054",
+            "volume": "2004",
+            "author": "R. Bousso",
+            "year": "2004",
+            "journal-title": "J. High Energy Phys.",
+            "ISSN": "http://id.crossref.org/issn/1126-6708",
+            "issn-type": "print"
+          },
+          {
+            "key": "14",
+            "doi-asserted-by": "crossref",
+            "first-page": "950",
+            "DOI": "10.1103/PhysRevD.26.950",
+            "volume": "26",
+            "author": "J.D. Bekenstein",
+            "year": "1982",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "http://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "15",
+            "doi-asserted-by": "crossref",
+            "first-page": "2262",
+            "DOI": "10.1103/PhysRevD.27.2262",
+            "volume": "27",
+            "author": "J.D. Bekenstein",
+            "year": "1983",
+            "journal-title": "Phys. Rev.",
+            "ISSN": "http://id.crossref.org/issn/0556-2821",
+            "issn-type": "print"
+          },
+          {
+            "key": "16",
+            "author": "J.D. Bekenstein"
+          },
+          {
+            "key": "17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0920-5632(95)00626-5"
+          }
+        ],
+        "container-title": [
+          "Journal of High Energy Physics"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2018,
+              7,
+              11
+            ]
+          ],
+          "date-time": "2018-07-11T19:20:10Z",
+          "timestamp": 1531336810000
+        },
+        "score": 24.293526,
+        "resource": {
+          "primary": {
+            "URL": "http://stacks.iop.org/1126-6708/2004/i=08/a=033?key=crossref.18b87fbe6473de3bd161c46905c97602"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2004,
+              8,
+              19
+            ]
+          ]
+        },
+        "references-count": 17,
+        "journal-issue": {
+          "issue": "08",
+          "published-online": {
+            "date-parts": [
+              [
+                2004,
+                8,
+                1
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1088/1126-6708/2004/08/033",
+        "ISSN": [
+          "1029-8479"
+        ],
+        "issn-type": [
+          {
+            "value": "1029-8479",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2004,
+              8,
+              19
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 10,
+    "query": {
+      "start-index": 0,
+      "search-terms": "Bekenstein bound dimensionless reformulation"
+    }
+  }
+}

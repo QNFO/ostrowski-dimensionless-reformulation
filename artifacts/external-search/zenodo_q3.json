@@ -1,0 +1,2591 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2022-02-23T11:33:21.659226+00:00",
+        "modified": "2023-11-08T03:39:47.809807+00:00",
+        "id": 6243075,
+        "conceptrecid": "6243074",
+        "doi": "10.5281/zenodo.6243075",
+        "conceptdoi": "10.5281/zenodo.6243074",
+        "doi_url": "https://doi.org/10.5281/zenodo.6243075",
+        "metadata": {
+          "title": "Anablepidae",
+          "doi": "10.5281/zenodo.6243075",
+          "publication_date": "2007-12-31",
+          "description": "Family Anablepidae  <p> <i>Gambusia affinis</i> (Baird &amp; Girard)</p>   <p> <i>Ascocotyle</i> (<i>Ascocotyle</i>) <i>secunda</i> Ostrowski de N&uacute;&ntilde;ez, 2001 <i>Ascocotyle</i> (<i>Ascocotyle</i>) <i>tertia</i> Ostrowski de N&uacute;&ntilde;ez, 2001 <i>Ascocotyle (Leighia</i>) <i>hadra</i> Ostrowski de N&uacute;&ntilde;ez, 1992 <i>Ascocotyle</i> (<i>Phagicola</i>) <i>diminuta</i> (Stunkard &amp; Haviland, 1924) <i>Pygidiopsis australis</i> Ostrowski de N&uacute;&ntilde;ez, 1996</p>   <p> <i>Jenynsia lineata</i> (Jenyns)</p>   <p> <i>Ascocotyle</i> (<i>Ascocotyle</i>) <i>secunda</i> Ostrowski de N&uacute;&ntilde;ez, 2001 <i>Ascocotyle</i> (<i>Ascocotyle</i>) <i>tertia</i> Ostrowski de N&uacute;&ntilde;ez, 2001 <i>Ascocotyle (Leighia</i>) <i>hadra</i> Ostrowski de N&uacute;&ntilde;ez, 1992 <i>Ascocotyle</i> (<i>Phagicola</i>) <i>angeloi</i> Travassos, 1928</p>   <p> <i>Ascocotyle</i> (<i>Phagicola</i>) <i>diminuta</i> (Stunkard &amp; Haviland, 1924) <i>Austrodiplostomum mordax</i> Szidat &amp; Nani, 1951</p>   <p> <i>Posthodiplostomum nanum</i> Dubois, 1937</p>   <p> <i>Pygidiopsis crassus</i> Ostrowski de N&uacute;&ntilde;ez, 1995</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Cremonte, Florencia",
+              "affiliation": null
+            },
+            {
+              "name": "Drago, Fabiana B.",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "Biodiversity",
+            "Taxonomy",
+            "Animalia",
+            "Chordata",
+            "Actinopterygii",
+            "Cyprinodontiformes",
+            "Anablepidae"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.273687",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "http://publication.plazi.org/id/FFDC8A6BFFD1F77A407AFFF9FFA69815",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://sibils.text-analytics.ch/search/collections/plazi/03E5F213FFCCF76740EDFBBEFD759EA4",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            }
+          ],
+          "references": [
+            "Szidat, L. & Nani, A. (1951) Diplostomiasis cerebralis del Pejerrey. Una grave epizootia que afecta a la economia nacional producida por larvas de Trematodes que destruyen el cerebro de los pejerreyes. Revista Nacional del Instituto de Investigacion de las Ciencias Naturales anexo al Museo Argentino de Ciencias Naturales \" Bernardino Rivadavia \", 1, 323 - 394."
+          ],
+          "custom": {
+            "dwc:family": [
+              "Anablepidae"
+            ],
+            "dwc:kingdom": [
+              "Animalia"
+            ],
+            "dwc:order": [
+              "Cyprinodontiformes"
+            ],
+            "dwc:phylum": [
+              "Chordata"
+            ],
+            "dwc:taxonRank": [
+              "family"
+            ]
+          },
+          "resource_type": {
+            "title": "Taxonomic treatment",
+            "type": "publication",
+            "subtype": "taxonomictreatment"
+          },
+          "journal": {
+            "pages": "30",
+            "title": "Checklist of digenean parasites of birds from Argentina, pp. 1-36 in Zootaxa",
+            "volume": "1403"
+          },
+          "alternate_identifiers": [
+            {
+              "identifier": "http://treatment.plazi.org/id/03E5F213FFCCF76740EDFBBEFD759EA4"
+            }
+          ],
+          "license": {
+            "id": "cc-zero"
+          },
+          "communities": [
+            {
+              "id": "biosyslit"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "6243074"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Anablepidae",
+        "links": {
+          "self": "https://zenodo.org/api/records/6243075",
+          "self_html": "https://zenodo.org/records/6243075",
+          "preview_html": "https://zenodo.org/records/6243075?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.6243075",
+          "self_doi": "https://doi.org/10.5281/zenodo.6243075",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6243075",
+          "reserve_doi": "https://zenodo.org/api/records/6243075/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/6243074",
+          "parent_html": "https://zenodo.org/records/6243074",
+          "parent_doi": "https://doi.org/10.5281/zenodo.6243074",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6243074",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:6243075/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:6243075/sequence/default",
+          "files": "https://zenodo.org/api/records/6243075/files",
+          "media_files": "https://zenodo.org/api/records/6243075/media-files",
+          "archive": "https://zenodo.org/api/records/6243075/files-archive",
+          "archive_media": "https://zenodo.org/api/records/6243075/media-files-archive",
+          "latest": "https://zenodo.org/api/records/6243075/versions/latest",
+          "latest_html": "https://zenodo.org/records/6243075/latest",
+          "versions": "https://zenodo.org/api/records/6243075/versions",
+          "draft": "https://zenodo.org/api/records/6243075/draft",
+          "access_links": "https://zenodo.org/api/records/6243075/access/links",
+          "access_grants": "https://zenodo.org/api/records/6243075/access/grants",
+          "access_users": "https://zenodo.org/api/records/6243075/access/users",
+          "access_request": "https://zenodo.org/api/records/6243075/access/request",
+          "access": "https://zenodo.org/api/records/6243075/access",
+          "communities": "https://zenodo.org/api/records/6243075/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/6243075/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/6243075/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/6243075/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/6243075/quota-increase",
+          "requests": "https://zenodo.org/api/records/6243075/requests"
+        },
+        "updated": "2023-11-08T03:39:47.809807+00:00",
+        "recid": "6243075",
+        "revision": 6,
+        "files": [
+          {
+            "id": "6b1c6591-e238-4805-a9cc-544c0417898e",
+            "key": "treatment.html",
+            "size": 1385,
+            "checksum": "md5:aa4fe672553d615b6c9fefc1d6c25c85",
+            "links": {
+              "self": "https://zenodo.org/api/records/6243075/files/treatment.html/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1161"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 34,
+          "unique_downloads": 34,
+          "views": 39,
+          "unique_views": 39,
+          "version_downloads": 34,
+          "version_unique_downloads": 34,
+          "version_unique_views": 39,
+          "version_views": 39
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2022-02-23T11:32:05.549401+00:00",
+        "modified": "2023-11-08T03:35:53.209495+00:00",
+        "id": 6243059,
+        "conceptrecid": "6243058",
+        "doi": "10.5281/zenodo.6243059",
+        "conceptdoi": "10.5281/zenodo.6243058",
+        "doi_url": "https://doi.org/10.5281/zenodo.6243059",
+        "metadata": {
+          "title": "Cochliopidae",
+          "doi": "10.5281/zenodo.6243059",
+          "publication_date": "2007-12-31",
+          "description": "Family Cochliopidae  <p> <i>Heleobia australis</i> (d'Orbigny)</p>   <p> <i>Psilochasmus oxyurus</i> (Creplin, 1825) L&uuml;he, 1910 <i>Heleobia australis australis</i> (d'Orbigny)</p>   <p> <i>Maritrema bonaerensis</i> Etchegoin &amp; Martorelli, 1997 <i>Heleobia castellanosae</i> (Gaillard)</p>   <p> <i>Ascocotyle</i> (<i>Ascocotyle</i>) <i>secunda</i> Ostrowski de N&uacute;&ntilde;ez, 2001</p>   <p> <i>Ascocotyle</i> (<i>Ascocotyle</i>) <i>tertia</i> Ostrowski de N&uacute;&ntilde;ez, 2001</p>   <p> <i>Ascocotyle</i> (<i>Phagicola</i>) <i>angeloi</i> Travassos, 1928</p>   <p> <i>Ascocotyle</i> (<i>Phagicola</i>) <i>diminuta</i> (Stunkard &amp; Haviland, 1924)</p>   <p> <i>Echinochasmus talaensis</i> Martorelli, 1985</p>   <p> <i>Pygidiopsis australis</i> Ostrowski de N&uacute;&ntilde;ez, 1996 <i>Heleobia conexa</i> (Gaillard).</p>   <p> <i>Levinseniella cruzi</i> Travassos, 1920</p>   <p> <i>Microphallus simillimus</i> (Travassos, 1920) Martorelli, 1991</p>   <p> <i>Microphallus szidati</i> Martorelli, 1986</p>   <p> <i>Heleobia hatcheri</i> Pilsbry</p>   <p> <i>Catatropis hatcheri</i> Flores &amp; Brugni, 2006 <i>Heleobia parchappei</i> (d&rsquo;Orbigny)</p>   <p> <i>Ascocotyle</i> (<i>Ascocotyle</i>) <i>secunda</i> Ostrowski de N&uacute;&ntilde;ez, 2001</p>   <p> <i>Ascocotyle</i> (<i>Ascocotyle</i>) <i>tertia</i> Ostrowski de N&uacute;&ntilde;ez, 2001</p>   <p> <i>Ascocotyle (Leighia</i>) <i>hadra</i> Ostrowski de N&uacute;&ntilde;ez, 1992</p>   <p> <i>Ascocotyle</i> (<i>Phagicola</i>) <i>diminuta</i> (Stunkard &amp; Haviland, 1924)</p>   <p> <i>Cyclocoelum</i> (<i>Cyclocoelum</i>) <i>microstomum</i> (Creplin, 1829)</p>   <p> <i>Hyptiasmus brumpti</i> Dollfus, 1948</p>   <p> <i>Levinseniella cruzi</i> Travassos, 1920</p>   <p> <i>Microphallus szidati</i> Martorelli, 1986</p>   <p> <i>Pygidiopsis crassus</i> Ostrowski de N&uacute;&ntilde;ez, 1995 <i>Heleobia piscium</i> (d'Orbigny)</p>   <p> <i>Ascocotyle</i> (<i>Ascocotyle</i>) <i>tenuicollis</i> Price, 1935</p>   <p> <i>Pygidiopsis</i> sp.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Cremonte, Florencia",
+              "affiliation": null
+            },
+            {
+              "name": "Drago, Fabiana B.",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "Biodiversity",
+            "Taxonomy",
+            "Animalia",
+            "Mollusca",
+            "Gastropoda",
+            "Littorinimorpha",
+            "Cochliopidae"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.273687",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "http://publication.plazi.org/id/FFDC8A6BFFD1F77A407AFFF9FFA69815",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://sibils.text-analytics.ch/search/collections/plazi/03E5F213FFCAF76140EDFDEDFE269EA3",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            }
+          ],
+          "references": [
+            "Martorelli, S. R. (1985) Estudios parasitologicos en biotopos lenticos de la Republica Argentina I: El ciclo biologico de Echinochasmus talaensis sp. nov. (Digenea) parasito de Pitangus sulphuratus bolivianus (Aves: Fournaridae). Neotropica, 31, 187 - 200.",
+            "Martorelli, S. R. (1991) El ciclo biologico abreviado de Microphallus simillimus (Travassos, 1920), comb. n. (Digenes; Microphallidae) parasito de Heleobia conexa (Mollusca, Hydrobiidae) y de Himantopus melanurus (Aves, Recurvirostridae) en Argentina. Iheringia, 71, 91 - 98.",
+            "Flores, V. R. & Brugni, N. (2006) Catatropis hatcheri n. sp. (Digenea: Notocotylidae) from Heleobia hatcheri (Prosobranchia: Hydrobiidae) and notes on its life-cycle in Patagonia, Argentina. Systematic Parasitology, 63, 111 - 118."
+          ],
+          "custom": {
+            "dwc:family": [
+              "Cochliopidae"
+            ],
+            "dwc:kingdom": [
+              "Animalia"
+            ],
+            "dwc:order": [
+              "Littorinimorpha"
+            ],
+            "dwc:phylum": [
+              "Mollusca"
+            ],
+            "dwc:taxonRank": [
+              "family"
+            ]
+          },
+          "resource_type": {
+            "title": "Taxonomic treatment",
+            "type": "publication",
+            "subtype": "taxonomictreatment"
+          },
+          "journal": {
+            "pages": "28",
+            "title": "Checklist of digenean parasites of birds from Argentina, pp. 1-36 in Zootaxa",
+            "volume": "1403"
+          },
+          "alternate_identifiers": [
+            {
+              "identifier": "http://treatment.plazi.org/id/03E5F213FFCAF76140EDFDEDFE269EA3"
+            }
+          ],
+          "license": {
+            "id": "cc-zero"
+          },
+          "communities": [
+            {
+              "id": "biosyslit"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "6243058"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Cochliopidae",
+        "links": {
+          "self": "https://zenodo.org/api/records/6243059",
+          "self_html": "https://zenodo.org/records/6243059",
+          "preview_html": "https://zenodo.org/records/6243059?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.6243059",
+          "self_doi": "https://doi.org/10.5281/zenodo.6243059",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6243059",
+          "reserve_doi": "https://zenodo.org/api/records/6243059/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/6243058",
+          "parent_html": "https://zenodo.org/records/6243058",
+          "parent_doi": "https://doi.org/10.5281/zenodo.6243058",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6243058",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:6243059/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:6243059/sequence/default",
+          "files": "https://zenodo.org/api/records/6243059/files",
+          "media_files": "https://zenodo.org/api/records/6243059/media-files",
+          "archive": "https://zenodo.org/api/records/6243059/files-archive",
+          "archive_media": "https://zenodo.org/api/records/6243059/media-files-archive",
+          "latest": "https://zenodo.org/api/records/6243059/versions/latest",
+          "latest_html": "https://zenodo.org/records/6243059/latest",
+          "versions": "https://zenodo.org/api/records/6243059/versions",
+          "draft": "https://zenodo.org/api/records/6243059/draft",
+          "access_links": "https://zenodo.org/api/records/6243059/access/links",
+          "access_grants": "https://zenodo.org/api/records/6243059/access/grants",
+          "access_users": "https://zenodo.org/api/records/6243059/access/users",
+          "access_request": "https://zenodo.org/api/records/6243059/access/request",
+          "access": "https://zenodo.org/api/records/6243059/access",
+          "communities": "https://zenodo.org/api/records/6243059/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/6243059/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/6243059/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/6243059/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/6243059/quota-increase",
+          "requests": "https://zenodo.org/api/records/6243059/requests"
+        },
+        "updated": "2023-11-08T03:35:53.209495+00:00",
+        "recid": "6243059",
+        "revision": 6,
+        "files": [
+          {
+            "id": "36d2fda5-91cb-4330-b0d9-cf12b5750e78",
+            "key": "treatment.html",
+            "size": 2261,
+            "checksum": "md5:47907115180f9d6e68689290ad9d729c",
+            "links": {
+              "self": "https://zenodo.org/api/records/6243059/files/treatment.html/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1161"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 28,
+          "unique_downloads": 27,
+          "views": 38,
+          "unique_views": 38,
+          "version_downloads": 28,
+          "version_unique_downloads": 27,
+          "version_unique_views": 38,
+          "version_views": 38
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2022-02-23T11:34:59.149532+00:00",
+        "modified": "2023-11-08T03:44:49.906672+00:00",
+        "id": 6243097,
+        "conceptrecid": "6243096",
+        "doi": "10.5281/zenodo.6243097",
+        "conceptdoi": "10.5281/zenodo.6243096",
+        "doi_url": "https://doi.org/10.5281/zenodo.6243097",
+        "metadata": {
+          "title": "Poeciliidae",
+          "doi": "10.5281/zenodo.6243097",
+          "publication_date": "2007-12-31",
+          "description": "Family Poeciliidae  <p> <i>Cnesterodon decemmaculatus</i> (Jennyns)</p>   <p> <i>Apharyngostrigea simplex</i> (Johnston, 1904)</p>   <p> <i>Ascocotyle</i> (<i>Ascocotyle</i>) <i>secunda</i> Ostrowski de N&uacute;&ntilde;ez, 2001 <i>Ascocotyle</i> (<i>Ascocotyle</i>) <i>tenuicollis</i> Price, 1935</p>   <p> <i>Ascocotyle</i> (<i>Ascocotyle</i>) <i>tertia</i> Ostrowski de N&uacute;&ntilde;ez, 2001 <i>Ascocotyle (Leighia</i>) <i>hadra</i> Ostrowski de N&uacute;&ntilde;ez, 1992 <i>Ascocotyle</i> (<i>Phagicola</i>) <i>angeloi</i> Travassos, 1928</p>   <p> <i>Ascocotyle</i> (<i>Phagicola</i>) <i>angrense</i> Travassos, 1916 <i>Ascocotyle</i> (<i>Phagicola</i>) <i>diminuta</i> (Stunkard &amp; Haviland, 1924) <i>Austrodiplostomum mordax</i> Szidat &amp; Nani, 1951 <i>Echinochasmus talaensis</i> Martorelli, 1985 <i>Posthodiplostomum nanum</i> Dubois, 1937 <i>Pygidiopsis australis</i> Ostrowski de N&uacute;&ntilde;ez, 1996 <i>Pygidiopsis crassus</i> Ostrowski de N&uacute;&ntilde;ez, 1995 <i>Pygidiopsis</i> sp.</p>   <p> <i>Phalloceros caudimaculatus</i> (Hensel)</p>   <p> <i>Ascocotyle</i> (<i>Ascocotyle</i>) <i>tenuicollis</i> Price, 1935 <i>Ascocotyle</i> (<i>Phagicola</i>) <i>angrense</i> Travassos, 1916 <i>Austrodiplostomum mordax</i> Szidat &amp; Nani, 1951 <i>Posthodiplostomum nanum</i> Dubois, 1937 <i>Pygidiopsis</i> sp.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Cremonte, Florencia",
+              "affiliation": null
+            },
+            {
+              "name": "Drago, Fabiana B.",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "Biodiversity",
+            "Taxonomy",
+            "Animalia",
+            "Chordata",
+            "Actinopterygii",
+            "Cyprinodontiformes",
+            "Poeciliidae"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.273687",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "http://publication.plazi.org/id/FFDC8A6BFFD1F77A407AFFF9FFA69815",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://sibils.text-analytics.ch/search/collections/plazi/03E5F213FFCFF76540EDF966FE269A89",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            }
+          ],
+          "references": [
+            "Szidat, L. & Nani, A. (1951) Diplostomiasis cerebralis del Pejerrey. Una grave epizootia que afecta a la economia nacional producida por larvas de Trematodes que destruyen el cerebro de los pejerreyes. Revista Nacional del Instituto de Investigacion de las Ciencias Naturales anexo al Museo Argentino de Ciencias Naturales \" Bernardino Rivadavia \", 1, 323 - 394.",
+            "Martorelli, S. R. (1985) Estudios parasitologicos en biotopos lenticos de la Republica Argentina I: El ciclo biologico de Echinochasmus talaensis sp. nov. (Digenea) parasito de Pitangus sulphuratus bolivianus (Aves: Fournaridae). Neotropica, 31, 187 - 200."
+          ],
+          "custom": {
+            "dwc:family": [
+              "Poeciliidae"
+            ],
+            "dwc:kingdom": [
+              "Animalia"
+            ],
+            "dwc:order": [
+              "Cyprinodontiformes"
+            ],
+            "dwc:phylum": [
+              "Chordata"
+            ],
+            "dwc:taxonRank": [
+              "family"
+            ]
+          },
+          "resource_type": {
+            "title": "Taxonomic treatment",
+            "type": "publication",
+            "subtype": "taxonomictreatment"
+          },
+          "journal": {
+            "pages": "31-32",
+            "title": "Checklist of digenean parasites of birds from Argentina, pp. 1-36 in Zootaxa",
+            "volume": "1403"
+          },
+          "alternate_identifiers": [
+            {
+              "identifier": "http://treatment.plazi.org/id/03E5F213FFCFF76540EDF966FE269A89"
+            }
+          ],
+          "license": {
+            "id": "cc-zero"
+          },
+          "communities": [
+            {
+              "id": "biosyslit"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "6243096"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Poeciliidae",
+        "links": {
+          "self": "https://zenodo.org/api/records/6243097",
+          "self_html": "https://zenodo.org/records/6243097",
+          "preview_html": "https://zenodo.org/records/6243097?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.6243097",
+          "self_doi": "https://doi.org/10.5281/zenodo.6243097",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6243097",
+          "reserve_doi": "https://zenodo.org/api/records/6243097/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/6243096",
+          "parent_html": "https://zenodo.org/records/6243096",
+          "parent_doi": "https://doi.org/10.5281/zenodo.6243096",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6243096",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:6243097/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:6243097/sequence/default",
+          "files": "https://zenodo.org/api/records/6243097/files",
+          "media_files": "https://zenodo.org/api/records/6243097/media-files",
+          "archive": "https://zenodo.org/api/records/6243097/files-archive",
+          "archive_media": "https://zenodo.org/api/records/6243097/media-files-archive",
+          "latest": "https://zenodo.org/api/records/6243097/versions/latest",
+          "latest_html": "https://zenodo.org/records/6243097/latest",
+          "versions": "https://zenodo.org/api/records/6243097/versions",
+          "draft": "https://zenodo.org/api/records/6243097/draft",
+          "access_links": "https://zenodo.org/api/records/6243097/access/links",
+          "access_grants": "https://zenodo.org/api/records/6243097/access/grants",
+          "access_users": "https://zenodo.org/api/records/6243097/access/users",
+          "access_request": "https://zenodo.org/api/records/6243097/access/request",
+          "access": "https://zenodo.org/api/records/6243097/access",
+          "communities": "https://zenodo.org/api/records/6243097/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/6243097/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/6243097/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/6243097/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/6243097/quota-increase",
+          "requests": "https://zenodo.org/api/records/6243097/requests"
+        },
+        "updated": "2023-11-08T03:44:49.906672+00:00",
+        "recid": "6243097",
+        "revision": 6,
+        "files": [
+          {
+            "id": "3da95b4e-c9ce-4ebe-981b-cd39e1d11673",
+            "key": "treatment.html",
+            "size": 1601,
+            "checksum": "md5:4710641d0d54fc00e9dc074076f461d6",
+            "links": {
+              "self": "https://zenodo.org/api/records/6243097/files/treatment.html/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1161"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 97,
+          "unique_downloads": 97,
+          "views": 58,
+          "unique_views": 57,
+          "version_downloads": 97,
+          "version_unique_downloads": 97,
+          "version_unique_views": 57,
+          "version_views": 58
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2022-02-09T11:12:18.921316+00:00",
+        "modified": "2024-12-01T04:56:44.438992+00:00",
+        "id": 6023096,
+        "conceptrecid": "6023095",
+        "doi": "10.5281/zenodo.6023096",
+        "conceptdoi": "10.5281/zenodo.6023095",
+        "doi_url": "https://doi.org/10.5281/zenodo.6023096",
+        "metadata": {
+          "title": "Posterotestes unelen Ostrowski de Nunez, Brugni & Flores 2003",
+          "doi": "10.5281/zenodo.6023096",
+          "publication_date": "2017-03-31",
+          "description": "<p><b><i>Posterotestes unelen</i> Ostrowski de N&uacute;&ntilde;ez, Brugni &amp; Flores, 2003</b></p><p><b>Material deposited:</b> IPCAS (type material), MACN- Pa (type material), MLP (type material), UNC (type material).</p><p><b>Host:</b> <i>Percichthys trucha</i> (type host).</p><p><b>Localities:</b> Epuy&eacute;n Lake (type locality), Chubut Province; other localities see table 1 in Ostrowski de N&uacute;&ntilde;ez <i>et al</i>. (2003).</p><p><b>Site of infection:</b> Posterior part of intestine.</p><p><b>Reference:</b> Ostrowski de N&uacute;&ntilde;ez <i>et al</i>. (2003).</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Margarita Ostrowski de N\u00fa\u00f1ez",
+              "affiliation": null
+            },
+            {
+              "name": "Nathalia J. Arredondo",
+              "affiliation": null
+            },
+            {
+              "name": "Alicia A. Gil de Pertierra",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "Biodiversity",
+            "Taxonomy",
+            "Animalia",
+            "Platyhelminthes",
+            "Trematoda",
+            "Plagiorchiida",
+            "Apocreadiidae",
+            "Posterotestes",
+            "Posterotestes unelen"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.1040686",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "http://publication.plazi.org/id/8C66FF8CFFFBFFFA9533FFF5FFD92216",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://biodiversitypmc.sibils.org/collections/plazi/705F87F4FFFFFFFE9591FC09FD5A2789",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://www.gbif.org/species/137227896",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://www.checklistbank.org/dataset/31645/taxon/705F87F4FFFFFFFE9591FC09FD5A2789.taxon",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "10.14411/fp.2003.037",
+              "relation": "cites",
+              "resource_type": "publication",
+              "scheme": "doi"
+            }
+          ],
+          "references": [
+            "Ostrowski de Nunez M., Brugni N., Flores V. 2003. Posterotestes unelen gen. et sp. n. (Digenea: Apocreadiidae) from Percichthys trucha (Osteichthyes: Percichthyidae) in Patagonia, Argentina. Folia Parasitologica 50: 211 - 214. http: // dx. doi. org / 10.14411 / fp. 2003.037"
+          ],
+          "custom": {
+            "dwc:family": [
+              "Apocreadiidae"
+            ],
+            "dwc:genus": [
+              "Posterotestes"
+            ],
+            "dwc:kingdom": [
+              "Animalia"
+            ],
+            "dwc:order": [
+              "Plagiorchiida"
+            ],
+            "dwc:phylum": [
+              "Platyhelminthes"
+            ],
+            "dwc:scientificNameAuthorship": [
+              "Ostrowski de Nunez, Brugni & Flores"
+            ],
+            "dwc:specificEpithet": [
+              "unelen"
+            ],
+            "dwc:taxonRank": [
+              "species"
+            ],
+            "openbiodiv:TaxonomicConceptLabel": [
+              "Posterotestes unelen de, 2003 sec. de, Arredondo & de, 2017"
+            ]
+          },
+          "resource_type": {
+            "title": "Taxonomic treatment",
+            "type": "publication",
+            "subtype": "taxonomictreatment"
+          },
+          "journal": {
+            "issue": "1",
+            "pages": "95",
+            "title": "Adult Trematodes (Platyhelminthes) of freshwater fishes from Argentina: a checklist, pp. 91-113 in Revue suisse de Zoologie",
+            "volume": "124"
+          },
+          "alternate_identifiers": [
+            {
+              "identifier": "http://treatment.plazi.org/id/705F87F4FFFFFFFE9591FC09FD5A2789"
+            }
+          ],
+          "license": {
+            "id": "cc-zero"
+          },
+          "communities": [
+            {
+              "id": "biosyslit"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "6023095"
+                }
+              }
+            ]
+          },
+          "notes": "Published as part of <i>Margarita Ostrowski de N\u00fa\u00f1ez, Nathalia J. Arredondo &amp; Alicia A. Gil de Pertierra, 2017, Adult Trematodes (Platyhelminthes) of freshwater fishes from Argentina: a checklist, pp. 91-113 in Revue suisse de Zoologie 124 (1)</i> on page 95, DOI: <a href=\"http://zenodo.org/record/1040686\">10.5281/zenodo.1040686</a>"
+        },
+        "title": "Posterotestes unelen Ostrowski de Nunez, Brugni & Flores 2003",
+        "links": {
+          "self": "https://zenodo.org/api/records/6023096",
+          "self_html": "https://zenodo.org/records/6023096",
+          "preview_html": "https://zenodo.org/records/6023096?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.6023096",
+          "self_doi": "https://doi.org/10.5281/zenodo.6023096",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6023096",
+          "reserve_doi": "https://zenodo.org/api/records/6023096/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/6023095",
+          "parent_html": "https://zenodo.org/records/6023095",
+          "parent_doi": "https://doi.org/10.5281/zenodo.6023095",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6023095",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:6023096/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:6023096/sequence/default",
+          "files": "https://zenodo.org/api/records/6023096/files",
+          "media_files": "https://zenodo.org/api/records/6023096/media-files",
+          "archive": "https://zenodo.org/api/records/6023096/files-archive",
+          "archive_media": "https://zenodo.org/api/records/6023096/media-files-archive",
+          "latest": "https://zenodo.org/api/records/6023096/versions/latest",
+          "latest_html": "https://zenodo.org/records/6023096/latest",
+          "versions": "https://zenodo.org/api/records/6023096/versions",
+          "draft": "https://zenodo.org/api/records/6023096/draft",
+          "access_links": "https://zenodo.org/api/records/6023096/access/links",
+          "access_grants": "https://zenodo.org/api/records/6023096/access/grants",
+          "access_users": "https://zenodo.org/api/records/6023096/access/users",
+          "access_request": "https://zenodo.org/api/records/6023096/access/request",
+          "access": "https://zenodo.org/api/records/6023096/access",
+          "communities": "https://zenodo.org/api/records/6023096/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/6023096/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/6023096/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/6023096/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/6023096/quota-increase",
+          "requests": "https://zenodo.org/api/records/6023096/requests"
+        },
+        "updated": "2024-12-01T04:56:44.438992+00:00",
+        "recid": "6023096",
+        "revision": 9,
+        "files": [
+          {
+            "id": "07e22c6d-6a42-41c5-8fd7-0dbbb7e66667",
+            "key": "treatment.html",
+            "size": 939,
+            "checksum": "md5:13b6d8d949cdd73d9f1bb6b05a33cb6d",
+            "links": {
+              "self": "https://zenodo.org/api/records/6023096/files/treatment.html/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1161"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 87,
+          "unique_downloads": 87,
+          "views": 131,
+          "unique_views": 131,
+          "version_downloads": 87,
+          "version_unique_downloads": 87,
+          "version_unique_views": 131,
+          "version_views": 131
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2021-11-13T00:22:59.637149+00:00",
+        "modified": "2024-11-29T21:26:58.777262+00:00",
+        "id": 5685683,
+        "conceptrecid": "5685682",
+        "doi": "10.5281/zenodo.5685683",
+        "conceptdoi": "10.5281/zenodo.5685682",
+        "doi_url": "https://doi.org/10.5281/zenodo.5685683",
+        "metadata": {
+          "title": "Lobatostoma jungwirthi Kritscher 1974",
+          "doi": "10.5281/zenodo.5685683",
+          "publication_date": "2015-12-31",
+          "description": "<p><b><i>Lobatostoma jungwirthi</i> Kritscher, 1974</b></p><p><i>Australoheros facetus</i> (Actinopterygii) freshwater; intestine; NEO; Argentina (South America) (Lunaschi</p><p>1984; Zylber &amp; Ostrowski de N&uacute;&ntilde;es 1999; Paola &amp; Damborenea 2001; Kohn <i>et al</i>. 2007).</p><p><i>Gymnogeophagus meridionalis</i> (Actinopterygii); freshwater; intestine; NEO; Argentina (South America)</p><p>(Zylber &amp; Ostrowski de N&uacute;&ntilde;es 1999).</p><p><i>Gymnogeophagus rhabdotus</i> (Actinopterygii); freshwater; intestine; NEO; Brazil (South America) (Kritscher 1974; Kohn <i>et al</i>. 2007).</p><p>Remark: Type host.</p><p><i>Heleobia castellanosae</i> (Gastropoda); freshwater; gonads; NEO; Argentina (South America) (Zylber &amp; Ostrowski de N&uacute;&ntilde;es 1999).</p><p><i>Heleobia parchappii</i> (Gastropoda); freshwater; digestive gland; NEO; Argentina (South America) (Paola &amp; Damborenea 2001).</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Alves, Philippe V.",
+              "affiliation": null
+            },
+            {
+              "name": "Vieira, Fabiano M.",
+              "affiliation": null
+            },
+            {
+              "name": "Santos, Cl\u00e1udia P.",
+              "affiliation": null
+            },
+            {
+              "name": "Scholz, Tom\u00e1\u0161",
+              "affiliation": null
+            },
+            {
+              "name": "Luque, Jos\u00e9 L.",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "Biodiversity",
+            "Taxonomy",
+            "Animalia",
+            "Platyhelminthes",
+            "Trematoda",
+            "Aspidogastrida",
+            "Aspidogastridae",
+            "Lobatostoma",
+            "Lobatostoma jungwirthi"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.11646/zootaxa.3918.3.2",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "http://zenodo.org/record/241203",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "url"
+            },
+            {
+              "identifier": "http://publication.plazi.org/id/FFABC35FFFEBFFD5FF99FFA7C8009648",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://biodiversitypmc.sibils.org/collections/plazi/0392BB27FFE7FFD8FF0EF89DC9FA97C8",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://www.gbif.org/species/119595581",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://www.checklistbank.org/dataset/42125/taxon/0392BB27FFE7FFD8FF0EF89DC9FA97C8.taxon",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "http://zoobank.org/53D764C6-8AA8-4621-9B2B-DB32141CA0D7",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "url"
+            }
+          ],
+          "references": [
+            "Kritscher, E. (1974) Lobatostoma jungwirthi nov. spec. (Aspidocotylea, Aspidogastridae) aus Geophagus brachyurus Cope 1894 (Pisc., Cichlidae). Annalen des Naturhistorichen Museums inWien, 78, 381 - 384.",
+            "Lunaschi, L. I. (1984) Helmintos parasitos de peces de agua dulce de la Argentina II. Presencia de Lobatostoma jungwirthi Kritscher, 1974 (Trematoda, Aspidogastrea) en Cichlasoma facetum (Jenyns). Neotropica, 30, 187 - 192.",
+            "Paola, A. & Damborenea, M. C. (2001) Tegumentary ultrastructure (SEM) of preadult and adult Lobatostoma jungwirthi Kritscher, 1974 (Trematoda, Aspidogastrea). Comparative Parasitology, 68, 249 - 255.",
+            "Kohn, A., Fernandes, B. M. M. & Cohen, S. C. (2007) South American trematodes parasites of fishes. Editora Imprinta, Rio de Janeiro, 318 pp."
+          ],
+          "custom": {
+            "dwc:family": [
+              "Aspidogastridae"
+            ],
+            "dwc:genus": [
+              "Lobatostoma"
+            ],
+            "dwc:kingdom": [
+              "Animalia"
+            ],
+            "dwc:order": [
+              "Aspidogastrida"
+            ],
+            "dwc:phylum": [
+              "Platyhelminthes"
+            ],
+            "dwc:scientificNameAuthorship": [
+              "Kritscher"
+            ],
+            "dwc:specificEpithet": [
+              "jungwirthi"
+            ],
+            "dwc:taxonRank": [
+              "species"
+            ],
+            "openbiodiv:TaxonomicConceptLabel": [
+              "Lobatostoma jungwirthi Kritscher, 1974 sec. Alves, Vieira, Santos, Scholz & Luque, 2015"
+            ]
+          },
+          "resource_type": {
+            "title": "Taxonomic treatment",
+            "type": "publication",
+            "subtype": "taxonomictreatment"
+          },
+          "journal": {
+            "issue": "3",
+            "pages": "351-352",
+            "title": "A Checklist of the Aspidogastrea (Platyhelminthes: Trematoda) of the World, pp. 339-396 in Zootaxa",
+            "volume": "3918"
+          },
+          "alternate_identifiers": [
+            {
+              "identifier": "http://treatment.plazi.org/id/0392BB27FFE7FFD8FF0EF89DC9FA97C8"
+            }
+          ],
+          "license": {
+            "id": "cc-zero"
+          },
+          "communities": [
+            {
+              "id": "biosyslit"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "5685682"
+                }
+              }
+            ]
+          },
+          "notes": "Published as part of <i>Alves, Philippe V., Vieira, Fabiano M., Santos, Cl\u00e1udia P., Scholz, Tom\u00e1\u0161 &amp; Luque, Jos\u00e9 L., 2015, A Checklist of the Aspidogastrea (Platyhelminthes: Trematoda) of the World, pp. 339-396 in Zootaxa 3918 (3)</i> on pages 351-352, DOI: 10.11646/zootaxa.3918.3.2, <a href=\"http://zenodo.org/record/241203\">http://zenodo.org/record/241203</a>"
+        },
+        "title": "Lobatostoma jungwirthi Kritscher 1974",
+        "links": {
+          "self": "https://zenodo.org/api/records/5685683",
+          "self_html": "https://zenodo.org/records/5685683",
+          "preview_html": "https://zenodo.org/records/5685683?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.5685683",
+          "self_doi": "https://doi.org/10.5281/zenodo.5685683",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.5685683",
+          "reserve_doi": "https://zenodo.org/api/records/5685683/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/5685682",
+          "parent_html": "https://zenodo.org/records/5685682",
+          "parent_doi": "https://doi.org/10.5281/zenodo.5685682",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.5685682",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:5685683/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:5685683/sequence/default",
+          "files": "https://zenodo.org/api/records/5685683/files",
+          "media_files": "https://zenodo.org/api/records/5685683/media-files",
+          "archive": "https://zenodo.org/api/records/5685683/files-archive",
+          "archive_media": "https://zenodo.org/api/records/5685683/media-files-archive",
+          "latest": "https://zenodo.org/api/records/5685683/versions/latest",
+          "latest_html": "https://zenodo.org/records/5685683/latest",
+          "versions": "https://zenodo.org/api/records/5685683/versions",
+          "draft": "https://zenodo.org/api/records/5685683/draft",
+          "access_links": "https://zenodo.org/api/records/5685683/access/links",
+          "access_grants": "https://zenodo.org/api/records/5685683/access/grants",
+          "access_users": "https://zenodo.org/api/records/5685683/access/users",
+          "access_request": "https://zenodo.org/api/records/5685683/access/request",
+          "access": "https://zenodo.org/api/records/5685683/access",
+          "communities": "https://zenodo.org/api/records/5685683/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/5685683/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/5685683/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/5685683/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/5685683/quota-increase",
+          "requests": "https://zenodo.org/api/records/5685683/requests"
+        },
+        "updated": "2024-11-29T21:26:58.777262+00:00",
+        "recid": "5685683",
+        "revision": 7,
+        "files": [
+          {
+            "id": "77ae2ab7-d225-4c5b-997e-41b5363a75ae",
+            "key": "treatment.html",
+            "size": 1257,
+            "checksum": "md5:ed467ed02386ff82996a46095a2bfc55",
+            "links": {
+              "self": "https://zenodo.org/api/records/5685683/files/treatment.html/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1161"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 32,
+          "unique_downloads": 32,
+          "views": 60,
+          "unique_views": 60,
+          "version_downloads": 32,
+          "version_unique_downloads": 32,
+          "version_unique_views": 60,
+          "version_views": 60
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2022-02-09T11:16:12.127976+00:00",
+        "modified": "2024-12-01T04:58:10.911646+00:00",
+        "id": 6023147,
+        "conceptrecid": "6023146",
+        "doi": "10.5281/zenodo.6023147",
+        "conceptdoi": "10.5281/zenodo.6023146",
+        "doi_url": "https://doi.org/10.5281/zenodo.6023147",
+        "metadata": {
+          "title": "Parspina carapo Ostrowski de Nunez, Arredondo & Gil de Pertierra 2011",
+          "doi": "10.5281/zenodo.6023147",
+          "publication_date": "2017-03-31",
+          "description": "<p><b><i>Parspina carapo</i> Ostrowski de N&uacute;&ntilde;ez, Arredondo &amp; Gil de Pertierra, 2011</b></p><p><b>Material deposited:</b> MACN-Pa (type material).</p><p><b>Host: <i>Gymnotus</i> sp. (type host) (Gymnotiformes:</b></p>Gymnotidae) (see remarks).<p><b>Localities:</b> Paran&aacute;-Guaz&uacute; River, Entre R&iacute;os Province (type locality); Colastin&eacute; River (tributary of Paran&aacute; River), Santa Fe Province.</p><p><b>Site of infection:</b> Middle and posterior part of intestine.</p><p><b>Reference:</b> Ostrowski de N&uacute;&ntilde;ez <i>et al</i>. (2011b).</p><p><b>Remarks:</b> Ostrowski de N&uacute;&ntilde;ez <i>et al</i>. (2011b) studied the tegument surface of the species, which was compared with that of <i>Parspina argentinensis</i>. Ostrowski de N&uacute;&ntilde;ez <i>et al.</i> (2011b) indicated the presence of <i>P. carapo</i> in <i>Gymnotus carapo</i>, but according to Froese &amp; Pauly (2016) and Casciotta <i>et al.</i> (2013) this species is not present in continental waters of Argentina.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Margarita Ostrowski de N\u00fa\u00f1ez",
+              "affiliation": null
+            },
+            {
+              "name": "Nathalia J. Arredondo",
+              "affiliation": null
+            },
+            {
+              "name": "Alicia A. Gil de Pertierra",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "Biodiversity",
+            "Taxonomy",
+            "Animalia",
+            "Platyhelminthes",
+            "Trematoda",
+            "Plagiorchiida",
+            "Cryptogonimidae",
+            "Parspina",
+            "Parspina carapo"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.1040686",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "http://publication.plazi.org/id/8C66FF8CFFFBFFFA9533FFF5FFD92216",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://biodiversitypmc.sibils.org/collections/plazi/705F87F4FFFCFFFD9591F840FC142136",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://www.gbif.org/species/137227877",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://www.checklistbank.org/dataset/31645/taxon/705F87F4FFFCFFFD9591F840FC142136.taxon",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "10.1007/s11230-010-9274-7",
+              "relation": "cites",
+              "resource_type": "publication",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.1007/s11230-011-9313-z",
+              "relation": "cites",
+              "resource_type": "publication",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.1111/jai.12028",
+              "relation": "cites",
+              "resource_type": "publication",
+              "scheme": "doi"
+            }
+          ],
+          "references": [
+            "Ostrowski de Nunez M., Arredondo N. J., Doma I. L., Gil de Pertierra A. A. 2011 a. Redescription of Parspina argentinensis (Szidat, 1954) (Digenea: Cryptogonimidae) from freshwater fishes (Pimelodidae) in the basins of the Parana and La Plata Rivers, Argentina, with comments on P. bagre Pearse, 1920. Systematic Parasitology 78: 27 - 40. http: // dx. doi. org / 10.1007 / s 11230 - 010 - 9274 - 7",
+            "Ostrowski de Nunez M., Arredondo N. J., Gil de Pertierra A. A. 2011 b. Two new species of Parspina Pearse, 1920 (Digenea, Cryptogonimidae) from freshwater fishes (Gymnotiformes) of the Parana River basin in Argentina. Systematic Parasitology 80: 67 - 79. http: // dx. doi. org / 10.1007 / s 11230 - 011 - 9313 - z",
+            "Froese R., Pauly D. (Eds) 2016. FishBase. World Wide Web electronic publication. www. fishbase. org, version (10 / 2016).",
+            "Casciotta J., Almiron A., Sanchez S., J. Iwaszkiw J., M. C. Bruno M. C 2013. The genus Gymnotus (Gymnotiformes: Gymnotidae) in Argentina. How bad taxonomy results in poor regulations and no conservation. Journal of Applied Ichthyology 29: 208 - 212. http: // dx. doi. org / 10.1111 / jai. 12028"
+          ],
+          "custom": {
+            "dwc:family": [
+              "Cryptogonimidae"
+            ],
+            "dwc:genus": [
+              "Parspina"
+            ],
+            "dwc:kingdom": [
+              "Animalia"
+            ],
+            "dwc:order": [
+              "Plagiorchiida"
+            ],
+            "dwc:phylum": [
+              "Platyhelminthes"
+            ],
+            "dwc:scientificNameAuthorship": [
+              "Ostrowski de Nunez, Arredondo & Gil de Pertierra"
+            ],
+            "dwc:specificEpithet": [
+              "carapo"
+            ],
+            "dwc:taxonRank": [
+              "species"
+            ],
+            "openbiodiv:TaxonomicConceptLabel": [
+              "Parspina carapo de, 2011 sec. de, Arredondo & de, 2017"
+            ]
+          },
+          "resource_type": {
+            "title": "Taxonomic treatment",
+            "type": "publication",
+            "subtype": "taxonomictreatment"
+          },
+          "journal": {
+            "issue": "1",
+            "pages": "98",
+            "title": "Adult Trematodes (Platyhelminthes) of freshwater fishes from Argentina: a checklist, pp. 91-113 in Revue suisse de Zoologie",
+            "volume": "124"
+          },
+          "alternate_identifiers": [
+            {
+              "identifier": "http://treatment.plazi.org/id/705F87F4FFFCFFFD9591F840FC142136"
+            }
+          ],
+          "license": {
+            "id": "cc-zero"
+          },
+          "communities": [
+            {
+              "id": "biosyslit"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "6023146"
+                }
+              }
+            ]
+          },
+          "notes": "Published as part of <i>Margarita Ostrowski de N\u00fa\u00f1ez, Nathalia J. Arredondo &amp; Alicia A. Gil de Pertierra, 2017, Adult Trematodes (Platyhelminthes) of freshwater fishes from Argentina: a checklist, pp. 91-113 in Revue suisse de Zoologie 124 (1)</i> on page 98, DOI: <a href=\"http://zenodo.org/record/1040686\">10.5281/zenodo.1040686</a>"
+        },
+        "title": "Parspina carapo Ostrowski de Nunez, Arredondo & Gil de Pertierra 2011",
+        "links": {
+          "self": "https://zenodo.org/api/records/6023147",
+          "self_html": "https://zenodo.org/records/6023147",
+          "preview_html": "https://zenodo.org/records/6023147?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.6023147",
+          "self_doi": "https://doi.org/10.5281/zenodo.6023147",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6023147",
+          "reserve_doi": "https://zenodo.org/api/records/6023147/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/6023146",
+          "parent_html": "https://zenodo.org/records/6023146",
+          "parent_doi": "https://doi.org/10.5281/zenodo.6023146",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6023146",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:6023147/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:6023147/sequence/default",
+          "files": "https://zenodo.org/api/records/6023147/files",
+          "media_files": "https://zenodo.org/api/records/6023147/media-files",
+          "archive": "https://zenodo.org/api/records/6023147/files-archive",
+          "archive_media": "https://zenodo.org/api/records/6023147/media-files-archive",
+          "latest": "https://zenodo.org/api/records/6023147/versions/latest",
+          "latest_html": "https://zenodo.org/records/6023147/latest",
+          "versions": "https://zenodo.org/api/records/6023147/versions",
+          "draft": "https://zenodo.org/api/records/6023147/draft",
+          "access_links": "https://zenodo.org/api/records/6023147/access/links",
+          "access_grants": "https://zenodo.org/api/records/6023147/access/grants",
+          "access_users": "https://zenodo.org/api/records/6023147/access/users",
+          "access_request": "https://zenodo.org/api/records/6023147/access/request",
+          "access": "https://zenodo.org/api/records/6023147/access",
+          "communities": "https://zenodo.org/api/records/6023147/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/6023147/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/6023147/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/6023147/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/6023147/quota-increase",
+          "requests": "https://zenodo.org/api/records/6023147/requests"
+        },
+        "updated": "2024-12-01T04:58:10.911646+00:00",
+        "recid": "6023147",
+        "revision": 9,
+        "files": [
+          {
+            "id": "ad0abcb0-0746-4d5f-9ec1-993dd69245da",
+            "key": "treatment.html",
+            "size": 1377,
+            "checksum": "md5:6bca50097e1dfa27948d1d8e7eccd374",
+            "links": {
+              "self": "https://zenodo.org/api/records/6023147/files/treatment.html/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1161"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 45,
+          "unique_downloads": 45,
+          "views": 58,
+          "unique_views": 55,
+          "version_downloads": 45,
+          "version_unique_downloads": 45,
+          "version_unique_views": 55,
+          "version_views": 58
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2022-02-09T11:16:21.056551+00:00",
+        "modified": "2024-12-01T04:58:15.554510+00:00",
+        "id": 6023149,
+        "conceptrecid": "6023148",
+        "doi": "10.5281/zenodo.6023149",
+        "conceptdoi": "10.5281/zenodo.6023148",
+        "doi_url": "https://doi.org/10.5281/zenodo.6023149",
+        "metadata": {
+          "title": "Parspina pimelodellae Arredondo & Ostrowski de Nunez 2013",
+          "doi": "10.5281/zenodo.6023149",
+          "publication_date": "2017-03-31",
+          "description": "<p><b><i>Parspina pimelodellae</i> Arredondo &amp; Ostrowski de</b> <b>N&uacute;&ntilde;ez, 2013</b></p><p><b>Material deposited:</b> MACN-Pa (type material).</p><p><b>Host:</b> <i>Pimelodella gracilis</i> (type host).</p><p><b>Locality:</b> Paran&aacute;-Guaz&uacute; River, Entre R&iacute;os Province (type locality).</p><p><b>Site of infection:</b> Anterior part of intestine.</p><p><b>Reference:</b> Arredondo &amp; Ostrowski de N&uacute;&ntilde;ez (2013).</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Margarita Ostrowski de N\u00fa\u00f1ez",
+              "affiliation": null
+            },
+            {
+              "name": "Nathalia J. Arredondo",
+              "affiliation": null
+            },
+            {
+              "name": "Alicia A. Gil de Pertierra",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "Biodiversity",
+            "Taxonomy",
+            "Animalia",
+            "Platyhelminthes",
+            "Trematoda",
+            "Plagiorchiida",
+            "Cryptogonimidae",
+            "Parspina",
+            "Parspina pimelodellae"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.1040686",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "http://publication.plazi.org/id/8C66FF8CFFFBFFFA9533FFF5FFD92216",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://biodiversitypmc.sibils.org/collections/plazi/705F87F4FFFCFFFD9666FC9EFA5A26A2",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://www.gbif.org/species/137227879",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://www.checklistbank.org/dataset/31645/taxon/705F87F4FFFCFFFD9666FC9EFA5A26A2.taxon",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "10.1007/s11230-012-9394-3",
+              "relation": "cites",
+              "resource_type": "publication",
+              "scheme": "doi"
+            }
+          ],
+          "references": [
+            "Arredondo N. J., Ostrowski de Nunez M. 2013. A new species of Parspina Pearse, 1920 (Digenea: Cryptogonimidae) from Pimelodella gracilis (Velenciennes) (Siluriformes: Heptapteridae) in the Parana River basin, Argentina, and a key to the genus. Systematic Parasitology 84: 81 - 87. http: // dx. doi. org / 10.1007 / s 11230 - 012 - 9394 - 3"
+          ],
+          "custom": {
+            "dwc:family": [
+              "Cryptogonimidae"
+            ],
+            "dwc:genus": [
+              "Parspina"
+            ],
+            "dwc:kingdom": [
+              "Animalia"
+            ],
+            "dwc:order": [
+              "Plagiorchiida"
+            ],
+            "dwc:phylum": [
+              "Platyhelminthes"
+            ],
+            "dwc:scientificNameAuthorship": [
+              "Arredondo & Ostrowski de Nunez"
+            ],
+            "dwc:specificEpithet": [
+              "pimelodellae"
+            ],
+            "dwc:taxonRank": [
+              "species"
+            ],
+            "openbiodiv:TaxonomicConceptLabel": [
+              "Parspina pimelodellae Arredondo, 2013 sec. de, Arredondo & de, 2017"
+            ]
+          },
+          "resource_type": {
+            "title": "Taxonomic treatment",
+            "type": "publication",
+            "subtype": "taxonomictreatment"
+          },
+          "journal": {
+            "issue": "1",
+            "pages": "98",
+            "title": "Adult Trematodes (Platyhelminthes) of freshwater fishes from Argentina: a checklist, pp. 91-113 in Revue suisse de Zoologie",
+            "volume": "124"
+          },
+          "alternate_identifiers": [
+            {
+              "identifier": "http://treatment.plazi.org/id/705F87F4FFFCFFFD9666FC9EFA5A26A2"
+            }
+          ],
+          "license": {
+            "id": "cc-zero"
+          },
+          "communities": [
+            {
+              "id": "biosyslit"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "6023148"
+                }
+              }
+            ]
+          },
+          "notes": "Published as part of <i>Margarita Ostrowski de N\u00fa\u00f1ez, Nathalia J. Arredondo &amp; Alicia A. Gil de Pertierra, 2017, Adult Trematodes (Platyhelminthes) of freshwater fishes from Argentina: a checklist, pp. 91-113 in Revue suisse de Zoologie 124 (1)</i> on page 98, DOI: <a href=\"http://zenodo.org/record/1040686\">10.5281/zenodo.1040686</a>"
+        },
+        "title": "Parspina pimelodellae Arredondo & Ostrowski de Nunez 2013",
+        "links": {
+          "self": "https://zenodo.org/api/records/6023149",
+          "self_html": "https://zenodo.org/records/6023149",
+          "preview_html": "https://zenodo.org/records/6023149?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.6023149",
+          "self_doi": "https://doi.org/10.5281/zenodo.6023149",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6023149",
+          "reserve_doi": "https://zenodo.org/api/records/6023149/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/6023148",
+          "parent_html": "https://zenodo.org/records/6023148",
+          "parent_doi": "https://doi.org/10.5281/zenodo.6023148",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6023148",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:6023149/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:6023149/sequence/default",
+          "files": "https://zenodo.org/api/records/6023149/files",
+          "media_files": "https://zenodo.org/api/records/6023149/media-files",
+          "archive": "https://zenodo.org/api/records/6023149/files-archive",
+          "archive_media": "https://zenodo.org/api/records/6023149/media-files-archive",
+          "latest": "https://zenodo.org/api/records/6023149/versions/latest",
+          "latest_html": "https://zenodo.org/records/6023149/latest",
+          "versions": "https://zenodo.org/api/records/6023149/versions",
+          "draft": "https://zenodo.org/api/records/6023149/draft",
+          "access_links": "https://zenodo.org/api/records/6023149/access/links",
+          "access_grants": "https://zenodo.org/api/records/6023149/access/grants",
+          "access_users": "https://zenodo.org/api/records/6023149/access/users",
+          "access_request": "https://zenodo.org/api/records/6023149/access/request",
+          "access": "https://zenodo.org/api/records/6023149/access",
+          "communities": "https://zenodo.org/api/records/6023149/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/6023149/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/6023149/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/6023149/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/6023149/quota-increase",
+          "requests": "https://zenodo.org/api/records/6023149/requests"
+        },
+        "updated": "2024-12-01T04:58:15.554510+00:00",
+        "recid": "6023149",
+        "revision": 9,
+        "files": [
+          {
+            "id": "bb443847-603f-4262-8e78-e913f5d94aa8",
+            "key": "treatment.html",
+            "size": 804,
+            "checksum": "md5:787601bfd566970977b1a913aee16c3a",
+            "links": {
+              "self": "https://zenodo.org/api/records/6023149/files/treatment.html/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1161"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 31,
+          "unique_downloads": 31,
+          "views": 59,
+          "unique_views": 56,
+          "version_downloads": 31,
+          "version_unique_downloads": 31,
+          "version_unique_views": 56,
+          "version_views": 59
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2022-02-09T11:16:29.475430+00:00",
+        "modified": "2024-12-01T04:58:20.152926+00:00",
+        "id": 6023151,
+        "conceptrecid": "6023150",
+        "doi": "10.5281/zenodo.6023151",
+        "conceptdoi": "10.5281/zenodo.6023150",
+        "doi_url": "https://doi.org/10.5281/zenodo.6023151",
+        "metadata": {
+          "title": "Parspina virescens Ostrowski de Nunez, Arredondo & Gil de Pertierra 2011",
+          "doi": "10.5281/zenodo.6023151",
+          "publication_date": "2017-03-31",
+          "description": "<p><b><i>Parspina virescens</i> Ostrowski de N&uacute;&ntilde;ez, Arredondo &amp; Gil de Pertierra, 2011</b></p><p><b>Material deposited:</b> MACN-Pa (type material).</p><p><b>Host:</b> <i>Eigenmannia virescens</i> (Valenciennes) (type host) (Gymnotiformes: Sternopygidae).</p><p><b>Locality:</b> Colastin&eacute; River (tributary of Paran&aacute; River) (type locality), Santa Fe Province.</p><p><b>Site of infection:</b> Pyloric caeca, anterior and middle part of intestine.</p><p><b>Reference:</b> Ostrowski de N&uacute;&ntilde;ez <i>et al</i>. (2011b).</p><p><b>Remarks:</b> Ostrowski de N&uacute;&ntilde;ez <i>et al</i>. (2011b) studied the tegument surface of the species, which was compared with that of <i>Parspina argentinensis</i> and <i>P. carapo</i>.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Margarita Ostrowski de N\u00fa\u00f1ez",
+              "affiliation": null
+            },
+            {
+              "name": "Nathalia J. Arredondo",
+              "affiliation": null
+            },
+            {
+              "name": "Alicia A. Gil de Pertierra",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "Biodiversity",
+            "Taxonomy",
+            "Animalia",
+            "Platyhelminthes",
+            "Trematoda",
+            "Plagiorchiida",
+            "Cryptogonimidae",
+            "Parspina",
+            "Parspina virescens"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.1040686",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "http://publication.plazi.org/id/8C66FF8CFFFBFFFA9533FFF5FFD92216",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://biodiversitypmc.sibils.org/collections/plazi/705F87F4FFFCFFFD967FFB0BFC75250C",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://www.gbif.org/species/137227878",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://www.checklistbank.org/dataset/31645/taxon/705F87F4FFFCFFFD967FFB0BFC75250C.taxon",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "10.1007/s11230-010-9274-7",
+              "relation": "cites",
+              "resource_type": "publication",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.1007/s11230-011-9313-z",
+              "relation": "cites",
+              "resource_type": "publication",
+              "scheme": "doi"
+            }
+          ],
+          "references": [
+            "Ostrowski de Nunez M., Arredondo N. J., Doma I. L., Gil de Pertierra A. A. 2011 a. Redescription of Parspina argentinensis (Szidat, 1954) (Digenea: Cryptogonimidae) from freshwater fishes (Pimelodidae) in the basins of the Parana and La Plata Rivers, Argentina, with comments on P. bagre Pearse, 1920. Systematic Parasitology 78: 27 - 40. http: // dx. doi. org / 10.1007 / s 11230 - 010 - 9274 - 7",
+            "Ostrowski de Nunez M., Arredondo N. J., Gil de Pertierra A. A. 2011 b. Two new species of Parspina Pearse, 1920 (Digenea, Cryptogonimidae) from freshwater fishes (Gymnotiformes) of the Parana River basin in Argentina. Systematic Parasitology 80: 67 - 79. http: // dx. doi. org / 10.1007 / s 11230 - 011 - 9313 - z"
+          ],
+          "custom": {
+            "dwc:family": [
+              "Cryptogonimidae"
+            ],
+            "dwc:genus": [
+              "Parspina"
+            ],
+            "dwc:kingdom": [
+              "Animalia"
+            ],
+            "dwc:order": [
+              "Plagiorchiida"
+            ],
+            "dwc:phylum": [
+              "Platyhelminthes"
+            ],
+            "dwc:scientificNameAuthorship": [
+              "Ostrowski de Nunez, Arredondo & Gil de Pertierra"
+            ],
+            "dwc:specificEpithet": [
+              "virescens"
+            ],
+            "dwc:taxonRank": [
+              "species"
+            ],
+            "openbiodiv:TaxonomicConceptLabel": [
+              "Parspina virescens de, 2011 sec. de, Arredondo & de, 2017"
+            ]
+          },
+          "resource_type": {
+            "title": "Taxonomic treatment",
+            "type": "publication",
+            "subtype": "taxonomictreatment"
+          },
+          "journal": {
+            "issue": "1",
+            "pages": "98",
+            "title": "Adult Trematodes (Platyhelminthes) of freshwater fishes from Argentina: a checklist, pp. 91-113 in Revue suisse de Zoologie",
+            "volume": "124"
+          },
+          "alternate_identifiers": [
+            {
+              "identifier": "http://treatment.plazi.org/id/705F87F4FFFCFFFD967FFB0BFC75250C"
+            }
+          ],
+          "license": {
+            "id": "cc-zero"
+          },
+          "communities": [
+            {
+              "id": "biosyslit"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "6023150"
+                }
+              }
+            ]
+          },
+          "notes": "Published as part of <i>Margarita Ostrowski de N\u00fa\u00f1ez, Nathalia J. Arredondo &amp; Alicia A. Gil de Pertierra, 2017, Adult Trematodes (Platyhelminthes) of freshwater fishes from Argentina: a checklist, pp. 91-113 in Revue suisse de Zoologie 124 (1)</i> on page 98, DOI: <a href=\"http://zenodo.org/record/1040686\">10.5281/zenodo.1040686</a>"
+        },
+        "title": "Parspina virescens Ostrowski de Nunez, Arredondo & Gil de Pertierra 2011",
+        "links": {
+          "self": "https://zenodo.org/api/records/6023151",
+          "self_html": "https://zenodo.org/records/6023151",
+          "preview_html": "https://zenodo.org/records/6023151?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.6023151",
+          "self_doi": "https://doi.org/10.5281/zenodo.6023151",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6023151",
+          "reserve_doi": "https://zenodo.org/api/records/6023151/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/6023150",
+          "parent_html": "https://zenodo.org/records/6023150",
+          "parent_doi": "https://doi.org/10.5281/zenodo.6023150",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6023150",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:6023151/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:6023151/sequence/default",
+          "files": "https://zenodo.org/api/records/6023151/files",
+          "media_files": "https://zenodo.org/api/records/6023151/media-files",
+          "archive": "https://zenodo.org/api/records/6023151/files-archive",
+          "archive_media": "https://zenodo.org/api/records/6023151/media-files-archive",
+          "latest": "https://zenodo.org/api/records/6023151/versions/latest",
+          "latest_html": "https://zenodo.org/records/6023151/latest",
+          "versions": "https://zenodo.org/api/records/6023151/versions",
+          "draft": "https://zenodo.org/api/records/6023151/draft",
+          "access_links": "https://zenodo.org/api/records/6023151/access/links",
+          "access_grants": "https://zenodo.org/api/records/6023151/access/grants",
+          "access_users": "https://zenodo.org/api/records/6023151/access/users",
+          "access_request": "https://zenodo.org/api/records/6023151/access/request",
+          "access": "https://zenodo.org/api/records/6023151/access",
+          "communities": "https://zenodo.org/api/records/6023151/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/6023151/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/6023151/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/6023151/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/6023151/quota-increase",
+          "requests": "https://zenodo.org/api/records/6023151/requests"
+        },
+        "updated": "2024-12-01T04:58:20.152926+00:00",
+        "recid": "6023151",
+        "revision": 9,
+        "files": [
+          {
+            "id": "1814fb01-be1f-49ec-a5d4-7a384b0beec7",
+            "key": "treatment.html",
+            "size": 1126,
+            "checksum": "md5:b96284a324b4bd87925c8c5fd00b2179",
+            "links": {
+              "self": "https://zenodo.org/api/records/6023151/files/treatment.html/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1161"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 63,
+          "unique_downloads": 63,
+          "views": 57,
+          "unique_views": 57,
+          "version_downloads": 63,
+          "version_unique_downloads": 63,
+          "version_unique_views": 57,
+          "version_views": 57
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2022-02-09T11:08:45.544935+00:00",
+        "modified": "2024-12-01T04:55:32.427927+00:00",
+        "id": 6023042,
+        "conceptrecid": "6023041",
+        "doi": "10.5281/zenodo.6023042",
+        "conceptdoi": "10.5281/zenodo.6023041",
+        "doi_url": "https://doi.org/10.5281/zenodo.6023042",
+        "metadata": {
+          "title": "Allocreadium patagonicum Shimazu, Urawa",
+          "doi": "10.5281/zenodo.6023042",
+          "publication_date": "2017-03-31",
+          "description": "<p><b><i>Allocreadium patagonicum</i> Shimazu, Urawa</b></p><p><b>&amp; Coria, 2000</b></p><p><i>Polylekithum percai</i> Ostrowski de N&uacute;&ntilde;ez, Brugni &amp; Viozzi, 2000</p><p><b>Material deposited:</b> BNMH, IPCAS (type material), MACN-Pa, NSMT-PI (type material); UNC.</p><p><b>Hosts:</b> <i>Percichthys colhuapiensis</i> (MacDonagh) (type host), <i>Percichthys trucha</i> (Valenciennes) (Perciformes: Percichthyidae).</p><p><b>Locality:</b> Alumin&eacute; Lake (type locality), Neuqu&eacute;n Province; Falkner, Moreno and Escondido Lakes, Rio Negro Province; Rivadavia Lake, Chubut Province.</p><p><b>Site of infection:</b> Intestine.</p><p><b>References:</b> Ostrowski de N&uacute;&ntilde;ez <i>et al</i>. (2000), Shimazu <i>et al</i>. (2000), Flores <i>et al.</i> (2004).</p><p><b>Remarks:</b> Ostrowski de N&uacute;&ntilde;ez <i>et al.</i> (2000) described <i>P. percai</i> from <i>P. trucha</i> in Patagonia; posteriorly Flores <i>et al.</i> (2004) considered this species as synonym of <i>A. patagonicum</i>.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Margarita Ostrowski de N\u00fa\u00f1ez",
+              "affiliation": null
+            },
+            {
+              "name": "Nathalia J. Arredondo",
+              "affiliation": null
+            },
+            {
+              "name": "Alicia A. Gil de Pertierra",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "Biodiversity",
+            "Taxonomy",
+            "Animalia",
+            "Platyhelminthes",
+            "Trematoda",
+            "Plagiorchiida",
+            "Allocreadiidae",
+            "Allocreadium",
+            "Allocreadium patagonicum"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.1040686",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "http://publication.plazi.org/id/8C66FF8CFFFBFFFA9533FFF5FFD92216",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://biodiversitypmc.sibils.org/collections/plazi/705F87F4FFFAFFFB9645FE94FC36260B",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://www.gbif.org/species/137227883",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://www.checklistbank.org/dataset/31645/taxon/705F87F4FFFAFFFB9645FE94FC36260B.taxon",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "10.14411/fp.2000.023",
+              "relation": "cites",
+              "resource_type": "publication",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.1023/A:1006497331377",
+              "relation": "cites",
+              "resource_type": "publication",
+              "scheme": "doi"
+            }
+          ],
+          "references": [
+            "Shimazu T., Urawa S., Coria C. O. 2000. Four species of digeneans, including Allocreadium patagonicum sp. n. (Allocreadiidae), from freshwater fishes of Patagonia, Argentina. Folia Parasitologica 47: 111 - 117. http: // dx. doi. org / 10.14411 / fp. 2000.023",
+            "Ostrowski de Nunez M., Brugni N., Viozzi G. 2000. Polylekithum percai n. sp. (Trematoda: Allocreadiidae) from Percichthys trucha in Patagonia, Argentina, and a redescription of Homalometron papilliferum Szidat, 1956 n. comb. Systematic Parasitology 47: 51 - 57. http: // dx. doi. org / 10.1023 / A: 1006497331377"
+          ],
+          "custom": {
+            "dwc:family": [
+              "Allocreadiidae"
+            ],
+            "dwc:genus": [
+              "Allocreadium"
+            ],
+            "dwc:kingdom": [
+              "Animalia"
+            ],
+            "dwc:order": [
+              "Plagiorchiida"
+            ],
+            "dwc:phylum": [
+              "Platyhelminthes"
+            ],
+            "dwc:scientificNameAuthorship": [
+              "Shimazu, Urawa"
+            ],
+            "dwc:specificEpithet": [
+              "patagonicum"
+            ],
+            "dwc:taxonRank": [
+              "species"
+            ]
+          },
+          "resource_type": {
+            "title": "Taxonomic treatment",
+            "type": "publication",
+            "subtype": "taxonomictreatment"
+          },
+          "journal": {
+            "issue": "1",
+            "pages": "92",
+            "title": "Adult Trematodes (Platyhelminthes) of freshwater fishes from Argentina: a checklist, pp. 91-113 in Revue suisse de Zoologie",
+            "volume": "124"
+          },
+          "alternate_identifiers": [
+            {
+              "identifier": "http://treatment.plazi.org/id/705F87F4FFFAFFFB9645FE94FC36260B"
+            }
+          ],
+          "license": {
+            "id": "cc-zero"
+          },
+          "communities": [
+            {
+              "id": "biosyslit"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "6023041"
+                }
+              }
+            ]
+          },
+          "notes": "Published as part of <i>Margarita Ostrowski de N\u00fa\u00f1ez, Nathalia J. Arredondo &amp; Alicia A. Gil de Pertierra, 2017, Adult Trematodes (Platyhelminthes) of freshwater fishes from Argentina: a checklist, pp. 91-113 in Revue suisse de Zoologie 124 (1)</i> on page 92, DOI: <a href=\"http://zenodo.org/record/1040686\">10.5281/zenodo.1040686</a>"
+        },
+        "title": "Allocreadium patagonicum Shimazu, Urawa",
+        "links": {
+          "self": "https://zenodo.org/api/records/6023042",
+          "self_html": "https://zenodo.org/records/6023042",
+          "preview_html": "https://zenodo.org/records/6023042?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.6023042",
+          "self_doi": "https://doi.org/10.5281/zenodo.6023042",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6023042",
+          "reserve_doi": "https://zenodo.org/api/records/6023042/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/6023041",
+          "parent_html": "https://zenodo.org/records/6023041",
+          "parent_doi": "https://doi.org/10.5281/zenodo.6023041",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6023041",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:6023042/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:6023042/sequence/default",
+          "files": "https://zenodo.org/api/records/6023042/files",
+          "media_files": "https://zenodo.org/api/records/6023042/media-files",
+          "archive": "https://zenodo.org/api/records/6023042/files-archive",
+          "archive_media": "https://zenodo.org/api/records/6023042/media-files-archive",
+          "latest": "https://zenodo.org/api/records/6023042/versions/latest",
+          "latest_html": "https://zenodo.org/records/6023042/latest",
+          "versions": "https://zenodo.org/api/records/6023042/versions",
+          "draft": "https://zenodo.org/api/records/6023042/draft",
+          "access_links": "https://zenodo.org/api/records/6023042/access/links",
+          "access_grants": "https://zenodo.org/api/records/6023042/access/grants",
+          "access_users": "https://zenodo.org/api/records/6023042/access/users",
+          "access_request": "https://zenodo.org/api/records/6023042/access/request",
+          "access": "https://zenodo.org/api/records/6023042/access",
+          "communities": "https://zenodo.org/api/records/6023042/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/6023042/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/6023042/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/6023042/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/6023042/quota-increase",
+          "requests": "https://zenodo.org/api/records/6023042/requests"
+        },
+        "updated": "2024-12-01T04:55:32.427927+00:00",
+        "recid": "6023042",
+        "revision": 10,
+        "files": [
+          {
+            "id": "4d835422-0dae-4174-8a58-8927ae05bf2b",
+            "key": "treatment.html",
+            "size": 1356,
+            "checksum": "md5:a07c0309b1c433b888b2e14b68476c34",
+            "links": {
+              "self": "https://zenodo.org/api/records/6023042/files/treatment.html/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1161"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 46,
+          "unique_downloads": 46,
+          "views": 40,
+          "unique_views": 40,
+          "version_downloads": 46,
+          "version_unique_downloads": 46,
+          "version_unique_views": 40,
+          "version_views": 40
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2022-02-19T18:37:05.108152+00:00",
+        "modified": "2025-01-03T18:00:53.658017+00:00",
+        "id": 6169801,
+        "conceptrecid": "6169800",
+        "doi": "10.5281/zenodo.6169801",
+        "conceptdoi": "10.5281/zenodo.6169800",
+        "doi_url": "https://doi.org/10.5281/zenodo.6169801",
+        "metadata": {
+          "title": "Posterotestes unelen Ostrowski",
+          "doi": "10.5281/zenodo.6169801",
+          "publication_date": "2012-12-31",
+          "description": "<p><b><i>* Posterotestes unelen</i> Ostrowski de N&uacute;&ntilde;ez, Brugni &amp; Flores, 2003</b></p><p><b>Type host.</b> <i>Percichthys trucha</i> (Cuvier &amp; Valenciennes) (Pisces: Percichthyidae).</p><p><b>Site of infection.</b> Posterior part of intestine.</p><p><b>Type locality.</b> Argentina, Province of Chubut, Lago Epuy&eacute;n (42&deg;11\u02b9S, 71&deg;31\u02b9W).</p><p>Paratypes: MLP 5101.</p><p><b>Remarks.</b> Holotype and 2 paratype deposited in the Colecci&oacute;n Nacional de Parasitolog&iacute;a in the Museo Argentino de Ciencias Naturales B. Rivadavia, Buenos Aires, Argentina.</p><p><b>Reference.</b> Ostrowski de N&uacute;&ntilde;ez <i>et al</i>. (2003).</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Lunaschi, Lia I.",
+              "affiliation": null
+            },
+            {
+              "name": "\u00c1lvarez, Victor Hugo Merlo",
+              "affiliation": null
+            },
+            {
+              "name": "Damborenea, Cristina",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "Biodiversity",
+            "Taxonomy",
+            "Animalia",
+            "Platyhelminthes",
+            "Trematoda",
+            "Plagiorchiida",
+            "Apocreadiidae",
+            "Posterotestes",
+            "Posterotestes unelen"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.208967",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "http://publication.plazi.org/id/22699F25FFC799477602FFC4FF95FFEB",
+              "relation": "isPartOf",
+              "resource_type": "publication-article",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://biodiversitypmc.sibils.org/collections/plazi/DE50E75DFFEF996F7695FF19FD5EFDFF",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://www.gbif.org/species/119508481",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            },
+            {
+              "identifier": "https://www.checklistbank.org/dataset/45396/taxon/DE50E75DFFEF996F7695FF19FD5EFDFF.taxon",
+              "relation": "isSourceOf",
+              "scheme": "url"
+            }
+          ],
+          "references": [
+            "Ostrowski de Nunez, M., Brugni, N. & Flores, V. R. (2003) Posterotestes unelen gen. et sp. n. (Digenea: Apocreadiidae) from Percichthys trucha (Osteichthyes: Percichthyidae) in Patagonia, Argentina. Folia Parasitologica, 50, 211 - 214."
+          ],
+          "custom": {
+            "dwc:family": [
+              "Apocreadiidae"
+            ],
+            "dwc:genus": [
+              "Posterotestes"
+            ],
+            "dwc:kingdom": [
+              "Animalia"
+            ],
+            "dwc:order": [
+              "Plagiorchiida"
+            ],
+            "dwc:phylum": [
+              "Platyhelminthes"
+            ],
+            "dwc:scientificNameAuthorship": [
+              "Ostrowski"
+            ],
+            "dwc:specificEpithet": [
+              "unelen"
+            ],
+            "dwc:taxonRank": [
+              "species"
+            ]
+          },
+          "resource_type": {
+            "title": "Taxonomic treatment",
+            "type": "publication",
+            "subtype": "taxonomictreatment"
+          },
+          "journal": {
+            "pages": "41",
+            "title": "Type material housed in the Helminthological Collection of the Museo de La Plata, Buenos Aires, Argentina, pp. 1-59 in Zootaxa",
+            "volume": "3199"
+          },
+          "alternate_identifiers": [
+            {
+              "identifier": "http://treatment.plazi.org/id/DE50E75DFFEF996F7695FF19FD5EFDFF"
+            }
+          ],
+          "license": {
+            "id": "cc-zero"
+          },
+          "communities": [
+            {
+              "id": "biosyslit"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "6169800"
+                }
+              }
+            ]
+          },
+          "notes": "Published as part of <i>Lunaschi, Lia I., \u00c1lvarez, Victor Hugo Merlo &amp; Damborenea, Cristina, 2012, Type material housed in the Helminthological Collection of the Museo de La Plata, Buenos Aires, Argentina, pp. 1-59 in Zootaxa 3199</i> on page 41, DOI: <a href=\"http://zenodo.org/record/208967\">10.5281/zenodo.208967</a>"
+        },
+        "title": "Posterotestes unelen Ostrowski",
+        "links": {
+          "self": "https://zenodo.org/api/records/6169801",
+          "self_html": "https://zenodo.org/records/6169801",
+          "preview_html": "https://zenodo.org/records/6169801?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.6169801",
+          "self_doi": "https://doi.org/10.5281/zenodo.6169801",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6169801",
+          "reserve_doi": "https://zenodo.org/api/records/6169801/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/6169800",
+          "parent_html": "https://zenodo.org/records/6169800",
+          "parent_doi": "https://doi.org/10.5281/zenodo.6169800",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6169800",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:6169801/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:6169801/sequence/default",
+          "files": "https://zenodo.org/api/records/6169801/files",
+          "media_files": "https://zenodo.org/api/records/6169801/media-files",
+          "archive": "https://zenodo.org/api/records/6169801/files-archive",
+          "archive_media": "https://zenodo.org/api/records/6169801/media-files-archive",
+          "latest": "https://zenodo.org/api/records/6169801/versions/latest",
+          "latest_html": "https://zenodo.org/records/6169801/latest",
+          "versions": "https://zenodo.org/api/records/6169801/versions",
+          "draft": "https://zenodo.org/api/records/6169801/draft",
+          "access_links": "https://zenodo.org/api/records/6169801/access/links",
+          "access_grants": "https://zenodo.org/api/records/6169801/access/grants",
+          "access_users": "https://zenodo.org/api/records/6169801/access/users",
+          "access_request": "https://zenodo.org/api/records/6169801/access/request",
+          "access": "https://zenodo.org/api/records/6169801/access",
+          "communities": "https://zenodo.org/api/records/6169801/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/6169801/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/6169801/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/6169801/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/6169801/quota-increase",
+          "requests": "https://zenodo.org/api/records/6169801/requests"
+        },
+        "updated": "2025-01-03T18:00:53.658017+00:00",
+        "recid": "6169801",
+        "revision": 10,
+        "files": [
+          {
+            "id": "1d12fd48-fb33-4e78-890a-3234582d49d5",
+            "key": "treatment.html",
+            "size": 983,
+            "checksum": "md5:adee851f4a78b82f7e8225f7e38e8c10",
+            "links": {
+              "self": "https://zenodo.org/api/records/6169801/files/treatment.html/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1161"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 27,
+          "unique_downloads": 27,
+          "views": 51,
+          "unique_views": 47,
+          "version_downloads": 27,
+          "version_unique_downloads": 27,
+          "version_unique_views": 47,
+          "version_views": 51
+        },
+        "state": "done",
+        "submitted": true
+      }
+    ],
+    "total": 131433
+  },
+  "aggregations": {
+    "publication_date": {
+      "buckets": [
+        {
+          "key": "2000",
+          "doc_count": 53,
+          "label": "2000",
+          "is_selected": false
+        },
+        {
+          "key": "2001",
+          "doc_count": 49,
+          "label": "2001",
+          "is_selected": false
+        },
+        {
+          "key": "2002",
+          "doc_count": 65,
+          "label": "2002",
+          "is_selected": false
+        },
+        {
+          "key": "2003",
+          "doc_count": 52,
+          "label": "2003",
+          "is_selected": false
+        },
+        {
+          "key": "2004",
+          "doc_count": 69,
+          "label": "2004",
+          "is_selected": false
+        },
+        {
+          "key": "2005",
+          "doc_count": 89,
+          "label": "2005",
+          "is_selected": false
+        },
+        {
+          "key": "2006",
+          "doc_count": 118,
+          "label": "2006",
+          "is_selected": false
+        },
+        {
+          "key": "2007",
+          "doc_count": 216,
+          "label": "2007",
+          "is_selected": false
+        },
+        {
+          "key": "2008",
+          "doc_count": 283,
+          "label": "2008",
+          "is_selected": false
+        },
+        {
+          "key": "2009",
+          "doc_count": 256,
+          "label": "2009",
+          "is_selected": false
+        },
+        {
+          "key": "2010",
+          "doc_count": 364,
+          "label": "2010",
+          "is_selected": false
+        },
+        {
+          "key": "2011",
+          "doc_count": 445,
+          "label": "2011",
+          "is_selected": false
+        },
+        {
+          "key": "2012",
+          "doc_count": 464,
+          "label": "2012",
+          "is_selected": false
+        },
+        {
+          "key": "2013",
+          "doc_count": 611,
+          "label": "2013",
+          "is_selected": false
+        },
+        {
+          "key": "2014",
+          "doc_count": 726,
+          "label": "2014",
+          "is_selected": false
+        },
+        {
+          "key": "2015",
+          "doc_count": 860,
+          "label": "2015",
+          "is_selected": false
+        },
+        {
+          "key": "2016",
+          "doc_count": 1090,
+          "label": "2016",
+          "is_selected": false
+        },
+        {
+          "key": "2017",
+          "doc_count": 1499,
+          "label": "2017",
+          "is_selected": false
+        },
+        {
+          "key": "2018",
+          "doc_count": 2201,
+          "label": "2018",
+          "is_selected": false
+        },
+        {
+          "key": "2019",
+          "doc_count": 2681,
+          "label": "2019",
+          "is_selected": false
+        },
+        {
+          "key": "2020",
+          "doc_count": 2885,
+          "label": "2020",
+          "is_selected": false
+        },
+        {
+          "key": "2021",
+          "doc_count": 4112,
+          "label": "2021",
+          "is_selected": false
+        },
+        {
+          "key": "2022",
+          "doc_count": 4877,
+          "label": "2022",
+          "is_selected": false
+        },
+        {
+          "key": "2023",
+          "doc_count": 5530,
+          "label": "2023",
+          "is_selected": false
+        },
+        {
+          "key": "2024",
+          "doc_count": 6622,
+          "label": "2024",
+          "is_selected": false
+        },
+        {
+          "key": "2025",
+          "doc_count": 33000,
+          "label": "2025",
+          "is_selected": false
+        },
+        {
+          "key": "2026",
+          "doc_count": 61234,
+          "label": "2026",
+          "is_selected": false
+        }
+      ],
+      "label": "Publication date"
+    },
+    "access_status": {
+      "buckets": [
+        {
+          "key": "open",
+          "doc_count": 125171,
+          "label": "Open",
+          "is_selected": false
+        },
+        {
+          "key": "restricted",
+          "doc_count": 5706,
+          "label": "Restricted",
+          "is_selected": false
+        },
+        {
+          "key": "embargoed",
+          "doc_count": 556,
+          "label": "Embargoed",
+          "is_selected": false
+        }
+      ],
+      "label": "Access status"
+    },
+    "resource_type": {
+      "buckets": [
+        {
+          "key": "publication",
+          "doc_count": 104292,
+          "label": "Publication",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "publication-preprint",
+                "doc_count": 46056,
+                "label": "Preprint",
+                "is_selected": false
+              },
+              {
+                "key": "publication-article",
+                "doc_count": 25938,
+                "label": "Journal article",
+                "is_selected": false
+              },
+              {
+                "key": "publication-report",
+                "doc_count": 2696,
+                "label": "Report",
+                "is_selected": false
+              },
+              {
+                "key": "publication-conferencepaper",
+                "doc_count": 2588,
+                "label": "Conference paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-workingpaper",
+                "doc_count": 2414,
+                "label": "Working paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-dissertation",
+                "doc_count": 2133,
+                "label": "Thesis",
+                "is_selected": false
+              },
+              {
+                "key": "publication-book",
+                "doc_count": 2007,
+                "label": "Book",
+                "is_selected": false
+              },
+              {
+                "key": "publication-other",
+                "doc_count": 1244,
+                "label": "Other",
+                "is_selected": false
+              },
+              {
+                "key": "publication-journal",
+                "doc_count": 948,
+                "label": "Journal",
+                "is_selected": false
+              },
+              {
+                "key": "publication-technicalnote",
+                "doc_count": 896,
+                "label": "Technical note",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "dataset",
+          "doc_count": 11924,
+          "label": "Dataset",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "software",
+          "doc_count": 5532,
+          "label": "Software",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "software-computationalnotebook",
+                "doc_count": 307,
+                "label": "Computational notebook",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "presentation",
+          "doc_count": 3111,
+          "label": "Presentation",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "poster",
+          "doc_count": 1807,
+          "label": "Poster",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "other",
+          "doc_count": 1512,
+          "label": "Other",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "image",
+          "doc_count": 1444,
+          "label": "Image",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "image-figure",
+                "doc_count": 890,
+                "label": "Figure",
+                "is_selected": false
+              },
+              {
+                "key": "image-diagram",
+                "doc_count": 103,
+                "label": "Diagram",
+                "is_selected": false
+              },
+              {
+                "key": "image-drawing",
+                "doc_count": 51,
+                "label": "Drawing",
+                "is_selected": false
+              },
+              {
+                "key": "image-other",
+                "doc_count": 47,
+                "label": "Other",
+                "is_selected": false
+              },
+              {
+                "key": "image-plot",
+                "doc_count": 45,
+                "label": "Plot",
+                "is_selected": false
+              },
+              {
+                "key": "image-photo",
+                "doc_count": 32,
+                "label": "Photo",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "model",
+          "doc_count": 670,
+          "label": "Model",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "lesson",
+          "doc_count": 521,
+          "label": "Lesson",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "video",
+          "doc_count": 296,
+          "label": "Video/Audio",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        }
+      ],
+      "label": "Resource types"
+    },
+    "subject": {
+      "buckets": [
+        {
+          "key": "Quantum physics",
+          "doc_count": 5287,
+          "label": "Quantum physics",
+          "is_selected": false
+        },
+        {
+          "key": "Physics",
+          "doc_count": 4325,
+          "label": "Physics",
+          "is_selected": false
+        },
+        {
+          "key": "Theoretical physics",
+          "doc_count": 4088,
+          "label": "Theoretical physics",
+          "is_selected": false
+        },
+        {
+          "key": "Mathematical physics",
+          "doc_count": 3574,
+          "label": "Mathematical physics",
+          "is_selected": false
+        },
+        {
+          "key": "Particle physics",
+          "doc_count": 2089,
+          "label": "Particle physics",
+          "is_selected": false
+        },
+        {
+          "key": "Physical cosmology",
+          "doc_count": 1942,
+          "label": "Physical cosmology",
+          "is_selected": false
+        },
+        {
+          "key": "Biodiversity",
+          "doc_count": 1750,
+          "label": "Biodiversity",
+          "is_selected": false
+        },
+        {
+          "key": "Taxonomy",
+          "doc_count": 1691,
+          "label": "Taxonomy",
+          "is_selected": false
+        },
+        {
+          "key": "Cosmology",
+          "doc_count": 1642,
+          "label": "Cosmology",
+          "is_selected": false
+        },
+        {
+          "key": "Quantum Theory",
+          "doc_count": 1522,
+          "label": "Quantum Theory",
+          "is_selected": false
+        }
+      ],
+      "label": "Subjects"
+    },
+    "file_type": {
+      "buckets": [
+        {
+          "key": "pdf",
+          "doc_count": 100154,
+          "label": "PDF",
+          "is_selected": false
+        },
+        {
+          "key": "zip",
+          "doc_count": 14182,
+          "label": "ZIP",
+          "is_selected": false
+        },
+        {
+          "key": "docx",
+          "doc_count": 4381,
+          "label": "DOCX",
+          "is_selected": false
+        },
+        {
+          "key": "txt",
+          "doc_count": 4170,
+          "label": "TXT",
+          "is_selected": false
+        },
+        {
+          "key": "tex",
+          "doc_count": 3562,
+          "label": "TEX",
+          "is_selected": false
+        },
+        {
+          "key": "md",
+          "doc_count": 3453,
+          "label": "MD",
+          "is_selected": false
+        },
+        {
+          "key": "png",
+          "doc_count": 3122,
+          "label": "PNG",
+          "is_selected": false
+        },
+        {
+          "key": "py",
+          "doc_count": 2370,
+          "label": "PY",
+          "is_selected": false
+        },
+        {
+          "key": "bin",
+          "doc_count": 1742,
+          "label": "BIN",
+          "is_selected": false
+        },
+        {
+          "key": "jpg",
+          "doc_count": 1620,
+          "label": "JPG",
+          "is_selected": false
+        }
+      ],
+      "label": "File type"
+    }
+  },
+  "links": {
+    "self": "https://zenodo.org/api/records?page=1&q=Ostrowski+theorem+physics&size=10&sort=bestmatch",
+    "next": "https://zenodo.org/api/records?page=2&q=Ostrowski+theorem+physics&size=10&sort=bestmatch"
+  }
+}

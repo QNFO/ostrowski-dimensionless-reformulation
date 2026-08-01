@@ -1,0 +1,2053 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-05-25T06:38:39.732701+00:00",
+        "modified": "2026-05-25T06:38:41.253414+00:00",
+        "id": 20372735,
+        "conceptrecid": "20372734",
+        "doi": "10.5281/zenodo.20372735",
+        "conceptdoi": "10.5281/zenodo.20372734",
+        "doi_url": "https://doi.org/10.5281/zenodo.20372735",
+        "metadata": {
+          "title": "Numerical data for the paper \"Nonlinear physics of axion inflation\"",
+          "doi": "10.5281/zenodo.20372735",
+          "publication_date": "2026-05-25",
+          "description": "<p>Data files containing numerical results illustrating the fundings of the paper \"Nonlinear physics of axion inflation\" https://arxiv.org/abs/2603.02570</p>\n<p><strong>%---------------------------------------------------------------------------------------------------------------------------------------%<br>Relation to figures in the paper.<br>%---------------------------------------------------------------------------------------------------------------------------------------%<br></strong></p>\n<p>Figures 1 and 7:<br>- background color --&gt; file \"Re-zeta.dat\"<br>- red solid line --&gt; file \"SR-UB-boundary.dat\"<br>- red dashed line --&gt; file \"SB-UB-boundary.dat\"</p>\n<p>Figures 2 and 3:<br>- red solid line --&gt; file \"SR-UB-boundary.dat\"<br>- red dashed line --&gt; file \"SB-UB-boundary.dat\"<br>- blue solid line --&gt; file \"delta-KG-criterion.dat\"</p>\n<p>Figure 4:<br>- panel (a): green dashed line, red dots --&gt;&nbsp; file \"bifurcation.dat\"<br>- panel (a): green solid and dashed lines --&gt; solution \\xi=\\xi(b) to Eq. (3.7) for fixed v=200; function \\bar{g}_0(\\xi) tabulated in file \"g0.dat\"<br>- panle (b) --&gt; file \"phase-space-xi2.89-b0.10853.dat\"<br>- panel (c) --&gt; file \"phase-space-xi2.977-b0.16972.dat\"</p>\n<p>Figure 5:<br>- panels (a1) and (b1) --&gt; file \"phase-space-v3.6e7-b1.4e-6.dat\"<br>- panel (c1) --&gt; file \"Fourier-v3.6e7-b1.4e-6.dat\"&nbsp;<br>- panels (a2) and (b2) --&gt; file \"phase-space-v3.6e7-b1.9e-6.dat\"<br>- panel (c2) --&gt; file \"Fourier-v3.6e7-b1.9e-6.dat\"&nbsp;<br>- panels (a3) and (b3) --&gt; file \"phase-space-v3.6e7-b3.3e-6.dat\"<br>- panel (c3) --&gt; file \"Fourier-v3.6e7-b3.3e-6.dat\"&nbsp;<br>- panels (a4) and (b4) --&gt; file \"phase-space-v3.6e7-b2.4e-5.dat\"<br>- panel (c4) --&gt; file \"Fourier-v3.6e7-b2.4e-5.dat\"&nbsp;</p>\n<p>Figure 6 (a):<br>- background color --&gt; solution of Eq. (4.3) w.r.t. \\beta, where v^{new}_{thr} is tabulated in file \"SR-UB-boundary.dat\"<br>- white contour lines --&gt; Eq. (4.3) for fixed values of \\beta, where v^{new}_{thr} is tabulated in file \"SR-UB-boundary.dat\"<br>- yellow [cyan] solid and dashed lines --&gt; parametric curves given by Eq. (4.4) with potential in Eq. (4.1) [Eq. (4.2)]</p>\n<p>Figure 6 (b):<br>- yellow solid curve --&gt; file \"m2-b20_gef.dat\"<br>- yellow dashed curve --&gt; file \"m2-b20_inf.dat\"<br>- cyan solid curve --&gt; file \"tanh-b60_gef.dat\"<br>- cyan dashed curve --&gt; file \"tanh-b60_inf.dat\"</p>\n<p>Figure 6(c):<br>- yellow solid curve --&gt; files \"m2-b20_gef.dat\" and \"m2-b20_inf.dat\"<br>- cyan solid curve --&gt; files \"tanh-b60_gef.dat\" and&nbsp;\"tanh-b60_inf.dat\"</p>\n<p><strong>%---------------------------------------------------------------------------------------------------------------------------------------%<br></strong><strong>Contents of each file.<br>%---------------------------------------------------------------------------------------------------------------------------------------%</strong></p>\n<p>File \"g0.dat\":<br>- 1 column --&gt; values of \\xi [dimensionless]<br>- 2 column --&gt; values of log_10(g_0(\\xi)) [dimensionless]</p>\n<p>Files \"SR-UB-boundary.dat\",&nbsp; \"SB-UB-boundary.dat\", and \"delta-KG-criterion.dat\":<br>- 1 column --&gt; values of log_10(v) [dimensionless]<br>- 2 column --&gt; values of log_10(b) [dimensionless]<br>- 3 column --&gt; values of \\xi [dimensionless]</p>\n<p>File \"Re-zeta.dat\":<br>- 1 column --&gt; values of log_10(v) [dimensionless]<br>- 2 column --&gt; values of log_10(b) [dimensionless]<br>- 3 column --&gt; values of Re(\\zeta_1) [dimensionless]</p>\n<p>File \"bifurcation.dat\":<br>- 1 column --&gt; values of b [dimensionless]<br>- 2 column --&gt; values of \\overline(\\xi) [dimensionless]<br>- 3 column --&gt; values of \\xi_{min} [dimensionless]<br>- 4 column --&gt; values of \\xi_{max} [dimensionless]</p>\n<p>Files \"phase-space-xi2.89-b0.10853.dat\" and \"phase-space-xi2.977-b0.16972.dat\":<br>- 1 column --&gt; values of \\xi [dimensionless]<br>- 2 column --&gt; values of d\\xi/dN [dimensionless]<br>- 3 column --&gt; values of \\rho_E/\\rho_{E,0}-1 [dimensionless]</p>\n<p>Files \"phase-space-v3.6e7-b1.4e-6.dat\", \"phase-space-v3.6e7-b1.9e-6.dat\", \"phase-space-v3.6e7-b3.3e-6.dat\", and \"phase-space-v3.6e7-b2.4e-5.dat\":<br>- 1 column --&gt; values of \\Delta N (number of e-folds) [dimensionless]<br>- 2 column --&gt; values of \\xi [dimensionless]<br>- 3 column --&gt; values of d\\xi/dN [dimensionless]<br>- 4 column --&gt; values of \\rho_E/\\rho_{E,0} [dimensionless]</p>\n<p>Files \"Fourier-v3.6e7-b1.4e-6.dat\", \"Fourier-v3.6e7-b1.9e-6.dat\", \"Fourier-v3.6e7-b3.3e-6.dat\", and \"Fourier-v3.6e7-b2.4e-5.dat\":<br>- 1 column --&gt; values of Fourier frequencies \\omega_n (w.r.t. number of e-folds as a time variable) [dimensionless]<br>- 2 column --&gt; values of Fourier coefficients A_n [dimensionless]<br>- 3 column --&gt; values of Fourier coefficients B_n [dimensionless]<br>- 4 column --&gt; values of Fourier coefficients D_n [dimensionless]</p>\n<p>Files \"m2-b20_gef.dat\" and \"tanh-b60_gef.dat\":<br>- 1 column --&gt; time t [reduced Planck units, M_P^-1]<br>- 2 column --&gt; number of e-folds N [dimensionless]<br>- 3 column --&gt; inflaton field \\phi [reduced Planck units, M_P]<br>- 4 column --&gt; inflaton velocity \\dot\\phi [reduced Planck units, M_P^2]<br>- 5 column --&gt; inflaton acceleration \\ddot\\phi [reduced Planck units, M_P^3]<br>- 6 column --&gt; Hubble rate H [reduced Planck units, M_P]<br>- 7 column --&gt; instability variable \\xi [dimensionless]<br>- 8 column --&gt; mean value of elecric field squared &lt;E^2&gt; [reducel Planck units, M_P^4]<br>- 9 column --&gt; mean value of magnetic field squared &lt;B^2&gt; [reducel Planck units, M_P^4]<br>- 10 column --&gt; mean value of Chern-Pontryagin density &lt;E.B&gt; [reducel Planck units, M_P^4]<br>- 11 column --&gt; instability threshold momentum k_h [reduced Planck units, M_P]</p>\n<p>&nbsp;Files \"m2-b20_inf.dat\" and \"tanh-b60_inf.dat\":<br>- 1 column --&gt; time t [reduced Planck units, M_P^-1]<br>- 2 column --&gt; number of e-folds N [dimensionless]<br>- 3 column --&gt; inflaton field \\phi [reduced Planck units, M_P]<br>- 4 column --&gt; inflaton velocity \\dot\\phi [reduced Planck units, M_P^2]<br>- 5 column --&gt; inflaton acceleration \\ddot\\phi [reduced Planck units, M_P^3]<br>- 6 column --&gt; Hubble rate H [reduced Planck units, M_P]</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Sobol, Oleksandr O.",
+              "affiliation": "Taras Shevchenko National University of Kyiv",
+              "orcid": "0000-0002-6300-3079"
+            },
+            {
+              "name": "von Eckardstein, Richard",
+              "affiliation": "University of M\u00fcnster",
+              "orcid": "0009-0006-9176-2343"
+            },
+            {
+              "name": "Schmitz, Kai",
+              "affiliation": "University of M\u00fcnster",
+              "orcid": "0000-0003-2807-6472"
+            },
+            {
+              "name": "Koch, Elias R.",
+              "affiliation": "University of M\u00fcnster",
+              "orcid": "0000-0003-1430-4331"
+            },
+            {
+              "name": "Thiele, Uwe",
+              "affiliation": "University of M\u00fcnster",
+              "orcid": "0000-0001-7989-9271"
+            },
+            {
+              "name": "Gurevich, Svetlana V.",
+              "affiliation": "University of M\u00fcnster",
+              "orcid": "0000-0002-5101-4686"
+            }
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "arXiv:2603.02570",
+              "relation": "isSourceOf",
+              "resource_type": "publication-preprint",
+              "scheme": "arxiv"
+            }
+          ],
+          "language": "eng",
+          "custom": {
+            "code:codeRepository": "https://github.com/richard-von-eckardstein/GEFF",
+            "code:programmingLanguage": [
+              {
+                "id": "python",
+                "title": {
+                  "en": "Python"
+                }
+              }
+            ],
+            "code:developmentStatus": {
+              "id": "active",
+              "title": {
+                "en": "Active"
+              }
+            }
+          },
+          "resource_type": {
+            "title": "Dataset",
+            "type": "dataset"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "gef-inflation"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20372734"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Numerical data for the paper \"Nonlinear physics of axion inflation\"",
+        "links": {
+          "self": "https://zenodo.org/api/records/20372735",
+          "self_html": "https://zenodo.org/records/20372735",
+          "preview_html": "https://zenodo.org/records/20372735?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20372735",
+          "self_doi": "https://doi.org/10.5281/zenodo.20372735",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20372735",
+          "reserve_doi": "https://zenodo.org/api/records/20372735/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20372734",
+          "parent_html": "https://zenodo.org/records/20372734",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20372734",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20372734",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20372735/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20372735/sequence/default",
+          "files": "https://zenodo.org/api/records/20372735/files",
+          "media_files": "https://zenodo.org/api/records/20372735/media-files",
+          "archive": "https://zenodo.org/api/records/20372735/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20372735/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20372735/versions/latest",
+          "latest_html": "https://zenodo.org/records/20372735/latest",
+          "versions": "https://zenodo.org/api/records/20372735/versions",
+          "draft": "https://zenodo.org/api/records/20372735/draft",
+          "access_links": "https://zenodo.org/api/records/20372735/access/links",
+          "access_grants": "https://zenodo.org/api/records/20372735/access/grants",
+          "access_users": "https://zenodo.org/api/records/20372735/access/users",
+          "access_request": "https://zenodo.org/api/records/20372735/access/request",
+          "access": "https://zenodo.org/api/records/20372735/access",
+          "communities": "https://zenodo.org/api/records/20372735/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20372735/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20372735/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20372735/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20372735/quota-increase",
+          "requests": "https://zenodo.org/api/records/20372735/requests"
+        },
+        "updated": "2026-05-25T06:38:41.253414+00:00",
+        "recid": "20372735",
+        "revision": 4,
+        "files": [
+          {
+            "id": "0151398a-d5d9-4402-8aa2-084fc06f5d15",
+            "key": "Fourier-v3.6e7-b2.4e-5.dat",
+            "size": 2752,
+            "checksum": "md5:b515bc2446820d3d232ae50953920646",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/Fourier-v3.6e7-b2.4e-5.dat/content"
+            }
+          },
+          {
+            "id": "ea70b902-894b-41c1-aa26-23f8270a313c",
+            "key": "phase-space-v3.6e7-b1.9e-6.dat",
+            "size": 7635,
+            "checksum": "md5:898e94290610ce7041db77023a97704a",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/phase-space-v3.6e7-b1.9e-6.dat/content"
+            }
+          },
+          {
+            "id": "8fbe7745-e9f8-4eaf-8078-fd5a178ec049",
+            "key": "phase-space-v3.6e7-b2.4e-5.dat",
+            "size": 7700,
+            "checksum": "md5:336130fd7975093930253b9b84e6bff6",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/phase-space-v3.6e7-b2.4e-5.dat/content"
+            }
+          },
+          {
+            "id": "73baea0f-9bea-4d85-9bb5-0f829715329b",
+            "key": "Fourier-v3.6e7-b1.9e-6.dat",
+            "size": 2926,
+            "checksum": "md5:86d3eb34cff67a9b9381eb050f1a4ea9",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/Fourier-v3.6e7-b1.9e-6.dat/content"
+            }
+          },
+          {
+            "id": "8a32d14c-f503-4379-ac83-bad113a60416",
+            "key": "delta-KG-criterion.dat",
+            "size": 42351,
+            "checksum": "md5:2bd9c24207ce93175549be5d49b2630c",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/delta-KG-criterion.dat/content"
+            }
+          },
+          {
+            "id": "653de6ff-6aba-4114-be74-6aae460c8078",
+            "key": "Fourier-v3.6e7-b1.4e-6.dat",
+            "size": 3062,
+            "checksum": "md5:402afad417c82987a6f21f226b360980",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/Fourier-v3.6e7-b1.4e-6.dat/content"
+            }
+          },
+          {
+            "id": "4cdc8338-39e2-4857-b8bd-0a16fa80b5e2",
+            "key": "Re-zeta.dat",
+            "size": 419667,
+            "checksum": "md5:7d119c101b2553a1b36eba0c54c31c66",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/Re-zeta.dat/content"
+            }
+          },
+          {
+            "id": "5a31228a-a7e4-4b18-ae81-ee7f07681876",
+            "key": "SR-UB-boundary.dat",
+            "size": 53942,
+            "checksum": "md5:410185811a751e8e56b1eac074a417c3",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/SR-UB-boundary.dat/content"
+            }
+          },
+          {
+            "id": "0a7e8d3a-bcf1-4dd2-972b-2208c36b606a",
+            "key": "phase-space-xi2.89-b0.10853.dat",
+            "size": 26479,
+            "checksum": "md5:4b25ac70acfb9d566854d3a4d1a94187",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/phase-space-xi2.89-b0.10853.dat/content"
+            }
+          },
+          {
+            "id": "7dff352c-6127-42ff-a4d0-11d5c7bc26de",
+            "key": "phase-space-v3.6e7-b3.3e-6.dat",
+            "size": 7665,
+            "checksum": "md5:a0f5843c42ea646c817aaa46791c7688",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/phase-space-v3.6e7-b3.3e-6.dat/content"
+            }
+          },
+          {
+            "id": "4b5b0793-c0d0-4493-b5bc-3e09869ba371",
+            "key": "SB-UB-boundary.dat",
+            "size": 53819,
+            "checksum": "md5:21ac311dbc2ea7219b9a86fca03da29e",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/SB-UB-boundary.dat/content"
+            }
+          },
+          {
+            "id": "47c1684b-4ba7-486c-a210-29dbdc8a949e",
+            "key": "tanh-b60_gef.dat",
+            "size": 123987,
+            "checksum": "md5:04e40a921d18ec14cade344b33997b4b",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/tanh-b60_gef.dat/content"
+            }
+          },
+          {
+            "id": "0657bc7e-1fc2-43b0-9cb2-b6f444209d9a",
+            "key": "Fourier-v3.6e7-b3.3e-6.dat",
+            "size": 2843,
+            "checksum": "md5:5ee463302c119ccff82ecb58d508a3d1",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/Fourier-v3.6e7-b3.3e-6.dat/content"
+            }
+          },
+          {
+            "id": "3d04f588-5279-4fd1-9150-c8f425a7fdf4",
+            "key": "bifurcation.dat",
+            "size": 1121,
+            "checksum": "md5:b7ac16a26b24810f986b699f587ab729",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/bifurcation.dat/content"
+            }
+          },
+          {
+            "id": "4a0a1ffa-9888-4891-9915-37bbbae09f65",
+            "key": "phase-space-v3.6e7-b1.4e-6.dat",
+            "size": 7673,
+            "checksum": "md5:f9e73faa62d5a04dcefb139b5cf6617a",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/phase-space-v3.6e7-b1.4e-6.dat/content"
+            }
+          },
+          {
+            "id": "a38f957c-e6e9-4ccc-b634-0d75c5594bc0",
+            "key": "phase-space-xi2.977-b0.16972.dat",
+            "size": 42810,
+            "checksum": "md5:c556ed62587ceaa3c9d19b36583cc773",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/phase-space-xi2.977-b0.16972.dat/content"
+            }
+          },
+          {
+            "id": "56fc9819-9268-454a-86ab-17400272dcfa",
+            "key": "g0.dat",
+            "size": 1114,
+            "checksum": "md5:93548bcb96302ae5e5d004b00d046bdc",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/g0.dat/content"
+            }
+          },
+          {
+            "id": "58b1d343-b576-45d8-b13e-7ca75e7cf901",
+            "key": "m2-b20_gef.dat",
+            "size": 403379,
+            "checksum": "md5:91232724f5dd27c3a35f978fa5e32173",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/m2-b20_gef.dat/content"
+            }
+          },
+          {
+            "id": "b67e1e3d-3918-4ac1-a023-76420e934f72",
+            "key": "m2-b20_inf.dat",
+            "size": 173558,
+            "checksum": "md5:4ae02b724f62b70d7f1f5c32d604f563",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/m2-b20_inf.dat/content"
+            }
+          },
+          {
+            "id": "9bded7e7-4737-40df-990e-c27bb5664e05",
+            "key": "tanh-b60_inf.dat",
+            "size": 30506,
+            "checksum": "md5:2baddb61bcb3b01ceefc86c83e3fd921",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/tanh-b60_inf.dat/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1554822"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 685,
+          "unique_downloads": 684,
+          "views": 116,
+          "unique_views": 113,
+          "version_downloads": 685,
+          "version_unique_downloads": 684,
+          "version_unique_views": 113,
+          "version_views": 116
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-04-25T04:28:04.486685+00:00",
+        "modified": "2026-04-25T04:28:05.160365+00:00",
+        "id": 19752850,
+        "conceptrecid": "19752849",
+        "doi": "10.54105/ijap.A1068.06010426",
+        "doi_url": "https://doi.org/10.54105/ijap.A1068.06010426",
+        "metadata": {
+          "title": "The Classical Electron Radius, the Electron Compton Wavelength and the Running Fine Structure Constant",
+          "doi": "10.54105/ijap.A1068.06010426",
+          "publication_date": "2026-04-30",
+          "description": "<p><strong>Abstract: </strong>The fine structure constant variation as a function of the electromagnetic interaction strength is investigated and shown to evolve from the canonical standard 1/137 to 1 at distances of the order of the classical electron radius, i.e. at a typical strong interaction value. This confirms the outcome at Planck scales, but it happens even later in the Universe's evolution, closer to the present time, although it will also be experimentally unattainable. The result is simply derived by imposing quantum effects, i.e. the Compton wavelength at the classical electron radius, in analogy with the procedure by which the corresponding Compton wavelength constrains the Schwarzschild radius.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Paolo Christillin",
+              "affiliation": "Department of Physics, Universit\u00e0 di Pisa, Italy.",
+              "orcid": "0000-0003-4953-0873"
+            }
+          ],
+          "keywords": [
+            "Compton Wavelength",
+            "Classical Electron Radius"
+          ],
+          "dates": [
+            {
+              "type": "accepted",
+              "description": "Manuscript received on 18 October 2025 | First Revised Manuscript received on 21 October 2025 | Second Revised Manuscript received on 16 March 2026 | Manuscript Accepted on 15 April 2026 | Manuscript published on 30 April 2026. "
+            }
+          ],
+          "version": "CC-BY-NC-ND 4.0",
+          "references": [
+            "Wikipedia, Planck units, (2023), https://en.wikipedia.org/wiki/Planck_units"
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "journal": {
+            "issue": "1",
+            "pages": "1-2",
+            "title": "Indian Journal of Advanced Physics (IJAP)",
+            "volume": "6"
+          },
+          "alternate_identifiers": [
+            {
+              "identifier": "10.54105/ijap.A1068.06010426"
+            },
+            {
+              "identifier": "2582-8983"
+            }
+          ],
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "19752849"
+                }
+              }
+            ]
+          }
+        },
+        "title": "The Classical Electron Radius, the Electron Compton Wavelength and the Running Fine Structure Constant",
+        "links": {
+          "self": "https://zenodo.org/api/records/19752850",
+          "self_html": "https://zenodo.org/records/19752850",
+          "preview_html": "https://zenodo.org/records/19752850?preview=1",
+          "doi": "https://doi.org/10.54105/ijap.A1068.06010426",
+          "self_doi": "https://doi.org/10.54105/ijap.A1068.06010426",
+          "self_doi_html": "https://zenodo.org/doi/10.54105/ijap.A1068.06010426",
+          "reserve_doi": "https://zenodo.org/api/records/19752850/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/19752849",
+          "parent_html": "https://zenodo.org/records/19752849",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:19752850/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:19752850/sequence/default",
+          "files": "https://zenodo.org/api/records/19752850/files",
+          "media_files": "https://zenodo.org/api/records/19752850/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:19752850:A106806010426.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:19752850:A106806010426.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:19752850:A106806010426.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:19752850:A106806010426.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:19752850:A106806010426.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:19752850:A106806010426.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/19752850/files-archive",
+          "archive_media": "https://zenodo.org/api/records/19752850/media-files-archive",
+          "latest": "https://zenodo.org/api/records/19752850/versions/latest",
+          "latest_html": "https://zenodo.org/records/19752850/latest",
+          "versions": "https://zenodo.org/api/records/19752850/versions",
+          "draft": "https://zenodo.org/api/records/19752850/draft",
+          "access_links": "https://zenodo.org/api/records/19752850/access/links",
+          "access_grants": "https://zenodo.org/api/records/19752850/access/grants",
+          "access_users": "https://zenodo.org/api/records/19752850/access/users",
+          "access_request": "https://zenodo.org/api/records/19752850/access/request",
+          "access": "https://zenodo.org/api/records/19752850/access",
+          "communities": "https://zenodo.org/api/records/19752850/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/19752850/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/19752850/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/19752850/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/19752850/quota-increase",
+          "requests": "https://zenodo.org/api/records/19752850/requests"
+        },
+        "updated": "2026-04-25T04:28:05.160365+00:00",
+        "recid": "19752850",
+        "revision": 4,
+        "files": [
+          {
+            "id": "92500f1c-d2c3-4031-a301-fa590aed1f20",
+            "key": "A106806010426.pdf",
+            "size": 437453,
+            "checksum": "md5:296abc4664dceb449b8444c104659fea",
+            "links": {
+              "self": "https://zenodo.org/api/records/19752850/files/A106806010426.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "250449"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 39,
+          "unique_downloads": 38,
+          "views": 86,
+          "unique_views": 83,
+          "version_downloads": 39,
+          "version_unique_downloads": 38,
+          "version_unique_views": 83,
+          "version_views": 86
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-08-12T06:45:55.126790+00:00",
+        "modified": "2025-08-12T06:45:55.574441+00:00",
+        "id": 16810417,
+        "conceptrecid": "16810416",
+        "doi": "10.5281/zenodo.16810417",
+        "conceptdoi": "10.5281/zenodo.16810416",
+        "doi_url": "https://doi.org/10.5281/zenodo.16810417",
+        "metadata": {
+          "title": "General Bathymetric Chart of the Oceans",
+          "doi": "10.5281/zenodo.16810417",
+          "publication_date": "2014",
+          "description": "<p>Gridded Bathymetric data for ocean and land, providing elevation data in meters, on a 15 arc-second interval grid.</p>\n<p>&nbsp;</p>\n<p>For more details, refer to the link <a href=\"https://www.gebco.net/data-products/historical-data-sets#gebco_2014\">https://www.gebco.net/data-products/historical-data-sets#gebco_2014</a></p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "GEBCO Compilation Group",
+              "affiliation": null
+            }
+          ],
+          "version": "2014",
+          "resource_type": {
+            "title": "Dataset",
+            "type": "dataset"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "16810416"
+                }
+              }
+            ]
+          }
+        },
+        "title": "General Bathymetric Chart of the Oceans",
+        "links": {
+          "self": "https://zenodo.org/api/records/16810417",
+          "self_html": "https://zenodo.org/records/16810417",
+          "preview_html": "https://zenodo.org/records/16810417?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.16810417",
+          "self_doi": "https://doi.org/10.5281/zenodo.16810417",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.16810417",
+          "reserve_doi": "https://zenodo.org/api/records/16810417/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/16810416",
+          "parent_html": "https://zenodo.org/records/16810416",
+          "parent_doi": "https://doi.org/10.5281/zenodo.16810416",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.16810416",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:16810417/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:16810417/sequence/default",
+          "files": "https://zenodo.org/api/records/16810417/files",
+          "media_files": "https://zenodo.org/api/records/16810417/media-files",
+          "archive": "https://zenodo.org/api/records/16810417/files-archive",
+          "archive_media": "https://zenodo.org/api/records/16810417/media-files-archive",
+          "latest": "https://zenodo.org/api/records/16810417/versions/latest",
+          "latest_html": "https://zenodo.org/records/16810417/latest",
+          "versions": "https://zenodo.org/api/records/16810417/versions",
+          "draft": "https://zenodo.org/api/records/16810417/draft",
+          "access_links": "https://zenodo.org/api/records/16810417/access/links",
+          "access_grants": "https://zenodo.org/api/records/16810417/access/grants",
+          "access_users": "https://zenodo.org/api/records/16810417/access/users",
+          "access_request": "https://zenodo.org/api/records/16810417/access/request",
+          "access": "https://zenodo.org/api/records/16810417/access",
+          "communities": "https://zenodo.org/api/records/16810417/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/16810417/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/16810417/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/16810417/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/16810417/quota-increase",
+          "requests": "https://zenodo.org/api/records/16810417/requests"
+        },
+        "updated": "2025-08-12T06:45:55.574441+00:00",
+        "recid": "16810417",
+        "revision": 4,
+        "files": [
+          {
+            "id": "e28e1910-0bd7-467c-a1d0-ca474e2d094c",
+            "key": "GEBCO_2014_2D.nc",
+            "size": 36548697,
+            "checksum": "md5:c3da054001325a4dd7f38644710915f3",
+            "links": {
+              "self": "https://zenodo.org/api/records/16810417/files/GEBCO_2014_2D.nc/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1362910"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 15,
+          "unique_downloads": 14,
+          "views": 19,
+          "unique_views": 19,
+          "version_downloads": 15,
+          "version_unique_downloads": 14,
+          "version_unique_views": 19,
+          "version_views": 19
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-06-30T18:30:11.397767+00:00",
+        "modified": "2026-06-30T18:30:11.784631+00:00",
+        "id": 20496593,
+        "conceptrecid": "20496592",
+        "doi": "10.5281/zenodo.20496593",
+        "conceptdoi": "10.5281/zenodo.20496592",
+        "doi_url": "https://doi.org/10.5281/zenodo.20496593",
+        "metadata": {
+          "title": "Energy-entropy relation linking physical dimensions in Planck units through a mathematical invariant derived from a model of statistical mechanics",
+          "doi": "10.5281/zenodo.20496593",
+          "publication_date": "2026-06-30",
+          "description": "<p class=\"MsoNormal\">This study begins by examining the energy-entropy relation for a hypothetical macroscopic energy system within the framework of statistical mechanics. The system&rsquo;s entropy, which arises from a distribution of microstates, renders a portion of its energy unavailable. The energy is expressed as the sum of photon energies and a comparable contribution from gravitational potential energy, as may occur in astrophysical environments where radiative and gravitational energies coexist, or in daily-life settings such as electricity production from additively combined hydro- and solar-electric sources. In the model system, both types of energy, together with the inverse thermodynamic beta scaling the information entropy, are expressed as dimensionless ratios in Planck units. The energy-entropy relation is first analyzed for the simple case where the system comprises two microstates, under conditions that ultimately reduce to a relation in which the difference between the internal energy of one microstate and the system&rsquo;s free energy is twice that for the other microstate. Under these conditions, with<span>in the framework of </span>Maxwell-Boltzmann statistics, the probability of one microstate emerges as the inverse of the golden ratio, <em>&phi;</em><sup>-1</sup><span>, and that of the other as </span><em>&phi;</em><sup><span>-2</span></sup>, at the <span>precision limited by the experimental uncertainty of physical constants defining the Planck units. Furthermore, the derivation reveals a unique reciprocal correspondence between the specific energy structure and the <em>&phi;</em>-based partitioning structure. The information entropy is 0.96 bits, close to its theoretical maximum of 1 bit, consistent with the system being near equilibrium. </span>When the energy-entropy relation is expressed in terms of the physical dimensions<span> </span>&mdash;<span> mass, length and time &mdash; as dimensionless ratios in Planck units, these </span>dimensions become quantitatively <span>interrelated through </span>an invariant containing the mathematical constants <em>&phi; </em><span>and <em>e</em></span> in the present one-dimensional scalar operation, allowing each dimension to be written in terms of the other two. Upon incorporating electrostatic energy in accordance with the mass-energy equivalence principle, this interrelation extends to electric charge, linking <span>mass, length, time and charge through </span>the mathematical constants <em>&phi;</em>, <em>e</em> and <span>\ud835\udf0b</span>. Furthermore, when these four dimensions in Planck units appear in a multiplicative-and-divisional combination, they reduce to a finite value anchored either jointly in the invariant and the constant <em>h</em>, or in <em>G</em>. Thus, none of these dimensions can be zero or infinite. Moreover, replacing the Planck units in the relations with their defining physical constants restores explicit dimensionality and reveals quantitative relations among those constants within experimental uncertainties. All these closed-form, variable-free relations do not depend on the two-state model or the use of dimensionless Planck units, as they arise from four distinct and complementary derivations: the original two-state derivation in Planck units, a two-state derivation in SI units, and two derivations based on a model of an infinite number of states in either Planck or SI units. The derived primary relation is validated through logical, conceptual, symbolic, and empirical consistency between its predictions and corresponding evidence.<span>&nbsp; </span></p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Lu, Zhe",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "Gravitational constant G, Planck constant h, Coulomb constant, speed of light in vacuum c, Boltzmann constant, thermodynamic \u03b2, elementary charge, electric permittivity, magnetic permeability, fine-structure constant \u03b1, golden ratio \u03c6, Planck units, physical dimensions, dimensionless invariant, thermodynamics, dimensional analysis, energy-entropy relation, statistical mechanics, Maxwell-Boltzmann statistics, probability space partitioning, infinite geometric series, self-normalization, closed-form identity, complementarity"
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20496592"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Energy-entropy relation linking physical dimensions in Planck units through a mathematical invariant derived from a model of statistical mechanics",
+        "links": {
+          "self": "https://zenodo.org/api/records/20496593",
+          "self_html": "https://zenodo.org/records/20496593",
+          "preview_html": "https://zenodo.org/records/20496593?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20496593",
+          "self_doi": "https://doi.org/10.5281/zenodo.20496593",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20496593",
+          "reserve_doi": "https://zenodo.org/api/records/20496593/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20496592",
+          "parent_html": "https://zenodo.org/records/20496592",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20496592",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20496592",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20496593/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20496593/sequence/default",
+          "files": "https://zenodo.org/api/records/20496593/files",
+          "media_files": "https://zenodo.org/api/records/20496593/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:20496593:Manuscript%20of%20Zhe%20Lu%20June%2030%202026.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:20496593:Manuscript%20of%20Zhe%20Lu%20June%2030%202026.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:20496593:Manuscript%20of%20Zhe%20Lu%20June%2030%202026.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:20496593:Manuscript%20of%20Zhe%20Lu%20June%2030%202026.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:20496593:Manuscript%20of%20Zhe%20Lu%20June%2030%202026.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:20496593:Manuscript%20of%20Zhe%20Lu%20June%2030%202026.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/20496593/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20496593/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20496593/versions/latest",
+          "latest_html": "https://zenodo.org/records/20496593/latest",
+          "versions": "https://zenodo.org/api/records/20496593/versions",
+          "draft": "https://zenodo.org/api/records/20496593/draft",
+          "access_links": "https://zenodo.org/api/records/20496593/access/links",
+          "access_grants": "https://zenodo.org/api/records/20496593/access/grants",
+          "access_users": "https://zenodo.org/api/records/20496593/access/users",
+          "access_request": "https://zenodo.org/api/records/20496593/access/request",
+          "access": "https://zenodo.org/api/records/20496593/access",
+          "communities": "https://zenodo.org/api/records/20496593/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20496593/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20496593/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20496593/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20496593/quota-increase",
+          "requests": "https://zenodo.org/api/records/20496593/requests"
+        },
+        "updated": "2026-06-30T18:30:11.784631+00:00",
+        "recid": "20496593",
+        "revision": 4,
+        "files": [
+          {
+            "id": "481132e3-8bbe-48ed-b491-b6b92bed5822",
+            "key": "Manuscript of Zhe Lu June 30 2026.pdf",
+            "size": 807115,
+            "checksum": "md5:ea58125395399c26e0b0a3fd4ce6ec73",
+            "links": {
+              "self": "https://zenodo.org/api/records/20496593/files/Manuscript%20of%20Zhe%20Lu%20June%2030%202026.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "351036"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 6,
+          "unique_downloads": 5,
+          "views": 26,
+          "unique_views": 23,
+          "version_downloads": 6,
+          "version_unique_downloads": 5,
+          "version_unique_views": 23,
+          "version_views": 26
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-07-17T12:23:05.867229+00:00",
+        "modified": "2026-07-17T16:15:30.771878+00:00",
+        "id": 21413683,
+        "conceptrecid": "21352471",
+        "doi": "10.5281/zenodo.21413683",
+        "conceptdoi": "10.5281/zenodo.21352471",
+        "doi_url": "https://doi.org/10.5281/zenodo.21413683",
+        "metadata": {
+          "title": "Determinism Analysis and its Application to Evaluation Order Independence (Software Artefact, SAS'26)",
+          "doi": "10.5281/zenodo.21413683",
+          "publication_date": "2026-07-17",
+          "description": "<p>This is the software artefact for the research paper published at SAS'26 entitled \"Determinism Analysis and its Application to Evaluation Order Independence\".</p>\n<p>It consists of the static analyser for checking determinism and evaluation order independence described in the article, and a set of test programs.</p>\n<p>The analyser comes in the form of its source code, and of a standalone Docker image, in which the analyser can be run directly.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Bonduelle, Sebastien",
+              "affiliation": "Inria Rennes - Bretagne Atlantique Research Centre",
+              "orcid": "0000-0001-6502-3033"
+            },
+            {
+              "name": "Montagu, Beno\u00eet",
+              "affiliation": "Inria Rennes - Bretagne Atlantique Research Centre",
+              "orcid": "0009-0005-6153-6276"
+            }
+          ],
+          "keywords": [
+            "static analysis",
+            "dependency analysis",
+            "abstract interpretation",
+            "evaluation order",
+            "non-determinism",
+            "compositional static analysis",
+            "tensor product"
+          ],
+          "language": "eng",
+          "custom": {
+            "code:programmingLanguage": [
+              {
+                "id": "ocaml",
+                "title": {
+                  "en": "OCaml"
+                }
+              }
+            ]
+          },
+          "resource_type": {
+            "title": "Software",
+            "type": "software"
+          },
+          "meeting": {
+            "title": "Static Analysis Symposium",
+            "acronym": "SAS",
+            "dates": "6-8 October 2026",
+            "place": "Oakland, USA",
+            "url": "https://conf.researchr.org/home/splash-issta-2026/sas-2026"
+          },
+          "license": {
+            "id": "lgpl-3.0-or-later"
+          },
+          "grants": [
+            {
+              "code": "ANR-22-PECY-0005",
+              "internal_id": "10.13039/501100001665::ANR-22-PECY-0005",
+              "funder": {
+                "name": "Agence Nationale de la Recherche",
+                "doi": "10.13039/501100001665",
+                "acronym": "ANR"
+              },
+              "title": "Improving Software Systems Security Evaluation",
+              "acronym": "SECUREVAL"
+            }
+          ],
+          "communities": [
+            {
+              "id": "sas2026"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 1,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "21352471"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Determinism Analysis and its Application to Evaluation Order Independence (Software Artefact, SAS'26)",
+        "links": {
+          "self": "https://zenodo.org/api/records/21413683",
+          "self_html": "https://zenodo.org/records/21413683",
+          "preview_html": "https://zenodo.org/records/21413683?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.21413683",
+          "self_doi": "https://doi.org/10.5281/zenodo.21413683",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21413683",
+          "reserve_doi": "https://zenodo.org/api/records/21413683/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/21352471",
+          "parent_html": "https://zenodo.org/records/21352471",
+          "parent_doi": "https://doi.org/10.5281/zenodo.21352471",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21352471",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21413683/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21413683/sequence/default",
+          "files": "https://zenodo.org/api/records/21413683/files",
+          "media_files": "https://zenodo.org/api/records/21413683/media-files",
+          "archive": "https://zenodo.org/api/records/21413683/files-archive",
+          "archive_media": "https://zenodo.org/api/records/21413683/media-files-archive",
+          "latest": "https://zenodo.org/api/records/21413683/versions/latest",
+          "latest_html": "https://zenodo.org/records/21413683/latest",
+          "versions": "https://zenodo.org/api/records/21413683/versions",
+          "draft": "https://zenodo.org/api/records/21413683/draft",
+          "access_links": "https://zenodo.org/api/records/21413683/access/links",
+          "access_grants": "https://zenodo.org/api/records/21413683/access/grants",
+          "access_users": "https://zenodo.org/api/records/21413683/access/users",
+          "access_request": "https://zenodo.org/api/records/21413683/access/request",
+          "access": "https://zenodo.org/api/records/21413683/access",
+          "communities": "https://zenodo.org/api/records/21413683/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/21413683/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/21413683/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/21413683/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/21413683/quota-increase",
+          "requests": "https://zenodo.org/api/records/21413683/requests"
+        },
+        "updated": "2026-07-17T16:15:30.771878+00:00",
+        "recid": "21413683",
+        "revision": 6,
+        "files": [
+          {
+            "id": "488e8f1f-e6b8-44d8-9f52-348bc1893e26",
+            "key": "README.md",
+            "size": 11109,
+            "checksum": "md5:4ec8bf0892f6e40ed8e0de87ec969e0b",
+            "links": {
+              "self": "https://zenodo.org/api/records/21413683/files/README.md/content"
+            }
+          },
+          {
+            "id": "5714ac1b-5d90-48e9-9f5e-392ba4bf72d6",
+            "key": "sas26-determinism.tar.xz",
+            "size": 1068971564,
+            "checksum": "md5:15d432d66e4ae2f91b64b450c6b1fb41",
+            "links": {
+              "self": "https://zenodo.org/api/records/21413683/files/sas26-determinism.tar.xz/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "208437"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 13,
+          "unique_downloads": 13,
+          "views": 82,
+          "unique_views": 76,
+          "version_downloads": 8,
+          "version_unique_downloads": 8,
+          "version_unique_views": 39,
+          "version_views": 41
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2024-08-27T09:27:59.668552+00:00",
+        "modified": "2024-08-27T09:27:59.876309+00:00",
+        "id": 10058328,
+        "conceptrecid": "10058327",
+        "doi": "10.1016/j.foodchem.2008.03.008",
+        "doi_url": "https://doi.org/10.1016/j.foodchem.2008.03.008",
+        "metadata": {
+          "title": "Food composition databases: the EuroFIR approach to develop tools to assure the quality of the data compilation process",
+          "doi": "10.1016/j.foodchem.2008.03.008",
+          "publication_date": "2009-04-01",
+          "description": "<p>One of the aims of the EuroFIR project is to establish a quality framework for national food composition databases. This paper discusses quality requirements of the data compilation process. Following the analytical production of food composition data, the compilation process is the next most important step in production of food composition data. The internationally recognised and recommended systematic approach to the identification, evaluation and control of significant hazards, Hazard Analysis Critical Control Points (HACCP), was used as a starting point. All steps in the compilation process are listed and presented as a generic EuroFIR flowchart describing the overall food data compilation process and identifying hazards and critical control points. The flowchart and standard operating procedures, documenting how to assure hazards at critical control points, are considered mandatory elements of the EuroFIR quality framework.</p>",
+          "access_right": "restricted",
+          "creators": [
+            {
+              "name": "Westenbrink, Susanne",
+              "affiliation": null
+            },
+            {
+              "name": "Oseredczuk, Marine",
+              "affiliation": null
+            },
+            {
+              "name": "Castanheira, Isabel",
+              "affiliation": null
+            },
+            {
+              "name": "Roe, Mark",
+              "affiliation": null
+            }
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Other",
+            "type": "publication",
+            "subtype": "other"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "eurofir_aisbl"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "10058327"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Food composition databases: the EuroFIR approach to develop tools to assure the quality of the data compilation process",
+        "links": {
+          "self": "https://zenodo.org/api/records/10058328",
+          "self_html": "https://zenodo.org/records/10058328",
+          "preview_html": "https://zenodo.org/records/10058328?preview=1",
+          "doi": "https://doi.org/10.1016/j.foodchem.2008.03.008",
+          "self_doi": "https://doi.org/10.1016/j.foodchem.2008.03.008",
+          "self_doi_html": "https://zenodo.org/doi/10.1016/j.foodchem.2008.03.008",
+          "reserve_doi": "https://zenodo.org/api/records/10058328/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/10058327",
+          "parent_html": "https://zenodo.org/records/10058327",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:10058328/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:10058328/sequence/default",
+          "files": "https://zenodo.org/api/records/10058328/files",
+          "media_files": "https://zenodo.org/api/records/10058328/media-files",
+          "archive": "https://zenodo.org/api/records/10058328/files-archive",
+          "archive_media": "https://zenodo.org/api/records/10058328/media-files-archive",
+          "latest": "https://zenodo.org/api/records/10058328/versions/latest",
+          "latest_html": "https://zenodo.org/records/10058328/latest",
+          "versions": "https://zenodo.org/api/records/10058328/versions",
+          "draft": "https://zenodo.org/api/records/10058328/draft",
+          "access_links": "https://zenodo.org/api/records/10058328/access/links",
+          "access_grants": "https://zenodo.org/api/records/10058328/access/grants",
+          "access_users": "https://zenodo.org/api/records/10058328/access/users",
+          "access_request": "https://zenodo.org/api/records/10058328/access/request",
+          "access": "https://zenodo.org/api/records/10058328/access",
+          "communities": "https://zenodo.org/api/records/10058328/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/10058328/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/10058328/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/10058328/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/10058328/quota-increase",
+          "requests": "https://zenodo.org/api/records/10058328/requests"
+        },
+        "updated": "2024-08-27T09:27:59.876309+00:00",
+        "recid": "10058328",
+        "revision": 4,
+        "files": [],
+        "swh": null,
+        "owners": [
+          {
+            "id": "257668"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 3,
+          "unique_downloads": 3,
+          "views": 160,
+          "unique_views": 160,
+          "version_downloads": 3,
+          "version_unique_downloads": 3,
+          "version_unique_views": 160,
+          "version_views": 160
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-07-23T13:46:37.544235+00:00",
+        "modified": "2025-07-23T13:46:37.767093+00:00",
+        "id": 16365279,
+        "conceptrecid": "16365278",
+        "doi": "10.5281/zenodo.16365279",
+        "conceptdoi": "10.5281/zenodo.16365278",
+        "doi_url": "https://doi.org/10.5281/zenodo.16365279",
+        "metadata": {
+          "title": "Pantheon+ Type Ia Supernova Distance Measurements",
+          "doi": "10.5281/zenodo.16365279",
+          "publication_date": "2022-10-22",
+          "description": "<div>Complete Pantheon+ compilation of 1701 Type Ia supernovae with standardized distance measurements. Includes redshifts, apparent magnitudes, distance moduli, and systematic uncertainties.&nbsp;</div>\n<div>&nbsp;</div>\n<div>Used for testing UDT distance relations d = z &times; R\u2080.</div>\n<div>&nbsp;</div>\n<div>Original source: <a href=\"https://github.com/PantheonPlusSH0ES/DataRelease\">https://github.com/PantheonPlusSH0ES/DataRelease</a> and <a href=\"https://ui.adsabs.harvard.edu/abs/2022ApJ...938..110S\">https://ui.adsabs.harvard.edu/abs/2022ApJ...938..110S</a></div>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Scolnic, Daniel",
+              "affiliation": "Duke University"
+            },
+            {
+              "name": "Brout, Dillon",
+              "affiliation": "Harvard University"
+            },
+            {
+              "name": "Carr, Anthony",
+              "affiliation": "University of Illinois Chicago"
+            },
+            {
+              "name": "Riess, John",
+              "affiliation": "Johns Hopkins University"
+            },
+            {
+              "name": "Pantheon+ Team",
+              "affiliation": null
+            }
+          ],
+          "resource_type": {
+            "title": "Dataset",
+            "type": "dataset"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "16365278"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Pantheon+ Type Ia Supernova Distance Measurements",
+        "links": {
+          "self": "https://zenodo.org/api/records/16365279",
+          "self_html": "https://zenodo.org/records/16365279",
+          "preview_html": "https://zenodo.org/records/16365279?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.16365279",
+          "self_doi": "https://doi.org/10.5281/zenodo.16365279",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.16365279",
+          "reserve_doi": "https://zenodo.org/api/records/16365279/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/16365278",
+          "parent_html": "https://zenodo.org/records/16365278",
+          "parent_doi": "https://doi.org/10.5281/zenodo.16365278",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.16365278",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:16365279/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:16365279/sequence/default",
+          "files": "https://zenodo.org/api/records/16365279/files",
+          "media_files": "https://zenodo.org/api/records/16365279/media-files",
+          "archive": "https://zenodo.org/api/records/16365279/files-archive",
+          "archive_media": "https://zenodo.org/api/records/16365279/media-files-archive",
+          "latest": "https://zenodo.org/api/records/16365279/versions/latest",
+          "latest_html": "https://zenodo.org/records/16365279/latest",
+          "versions": "https://zenodo.org/api/records/16365279/versions",
+          "draft": "https://zenodo.org/api/records/16365279/draft",
+          "access_links": "https://zenodo.org/api/records/16365279/access/links",
+          "access_grants": "https://zenodo.org/api/records/16365279/access/grants",
+          "access_users": "https://zenodo.org/api/records/16365279/access/users",
+          "access_request": "https://zenodo.org/api/records/16365279/access/request",
+          "access": "https://zenodo.org/api/records/16365279/access",
+          "communities": "https://zenodo.org/api/records/16365279/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/16365279/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/16365279/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/16365279/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/16365279/quota-increase",
+          "requests": "https://zenodo.org/api/records/16365279/requests"
+        },
+        "updated": "2025-07-23T13:46:37.767093+00:00",
+        "recid": "16365279",
+        "revision": 4,
+        "files": [
+          {
+            "id": "3fe38cd2-e129-43e1-91f7-3c2886fc9069",
+            "key": "Pantheon_SH0ES.dat",
+            "size": 579283,
+            "checksum": "md5:2049b142e6aad384470b3364aa10f3fa",
+            "links": {
+              "self": "https://zenodo.org/api/records/16365279/files/Pantheon_SH0ES.dat/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1369506"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 541,
+          "unique_downloads": 432,
+          "views": 836,
+          "unique_views": 730,
+          "version_downloads": 541,
+          "version_unique_downloads": 432,
+          "version_unique_views": 730,
+          "version_views": 836
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2018-01-09T14:40:22.577998+00:00",
+        "modified": "2024-08-02T20:44:49.451008+00:00",
+        "id": 1141202,
+        "conceptrecid": "1141201",
+        "doi": "10.15560/9.3.510",
+        "doi_url": "https://doi.org/10.15560/9.3.510",
+        "metadata": {
+          "title": "Annotated checklist of Echinoderms from Maranh\u00e3o and Piau\u00ed States, Northeastern Brazil",
+          "doi": "10.15560/9.3.510",
+          "publication_date": "2013-06-01",
+          "description": "The present study provides the first checklist of echinoderm species that occurs in the States of Maranh\u00e3o and Piau\u00ed, in Northeastern Brazil. The present compilation was produced based on an extensive bibliographical revision and on echinoderms deposited in the Invertebrate Collection Paulo Young, Federal University of Para\u00edba. Twenty-two species were listed, distributed into the classes Asteroidea (2 spp.), Ophiuroidea (16 spp.), Echinoidea (2 spp.), and Holothuroidea (2 spp.). The registered echinoderm diversity adds significantly to our faunistic knowledge, considering that no previous systematic compilation of echinoderms exists for this region.",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Gondim, Anne",
+              "affiliation": "Universidade Federal da Para\u00edba, Brazil"
+            },
+            {
+              "name": "Dias, Thelma",
+              "affiliation": "Universidade Estadual da Para\u00edba, Brazil"
+            },
+            {
+              "name": "Christoffersen, Martin",
+              "affiliation": "Universidade Federal da Para\u00edba, Brazil"
+            }
+          ],
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "journal": {
+            "issue": "(3)",
+            "pages": "510-518",
+            "title": "Check List",
+            "volume": "9"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "biosyslit"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "1141201"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Annotated checklist of Echinoderms from Maranh\u00e3o and Piau\u00ed States, Northeastern Brazil",
+        "links": {
+          "self": "https://zenodo.org/api/records/1141202",
+          "self_html": "https://zenodo.org/records/1141202",
+          "preview_html": "https://zenodo.org/records/1141202?preview=1",
+          "doi": "https://doi.org/10.15560/9.3.510",
+          "self_doi": "https://doi.org/10.15560/9.3.510",
+          "self_doi_html": "https://zenodo.org/doi/10.15560/9.3.510",
+          "reserve_doi": "https://zenodo.org/api/records/1141202/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/1141201",
+          "parent_html": "https://zenodo.org/records/1141201",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:1141202/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:1141202/sequence/default",
+          "files": "https://zenodo.org/api/records/1141202/files",
+          "media_files": "https://zenodo.org/api/records/1141202/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:1141202:CheckList_article_18675.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:1141202:CheckList_article_18675.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:1141202:CheckList_article_18675.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:1141202:CheckList_article_18675.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:1141202:CheckList_article_18675.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:1141202:CheckList_article_18675.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/1141202/files-archive",
+          "archive_media": "https://zenodo.org/api/records/1141202/media-files-archive",
+          "latest": "https://zenodo.org/api/records/1141202/versions/latest",
+          "latest_html": "https://zenodo.org/records/1141202/latest",
+          "versions": "https://zenodo.org/api/records/1141202/versions",
+          "draft": "https://zenodo.org/api/records/1141202/draft",
+          "access_links": "https://zenodo.org/api/records/1141202/access/links",
+          "access_grants": "https://zenodo.org/api/records/1141202/access/grants",
+          "access_users": "https://zenodo.org/api/records/1141202/access/users",
+          "access_request": "https://zenodo.org/api/records/1141202/access/request",
+          "access": "https://zenodo.org/api/records/1141202/access",
+          "communities": "https://zenodo.org/api/records/1141202/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/1141202/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/1141202/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/1141202/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/1141202/quota-increase",
+          "requests": "https://zenodo.org/api/records/1141202/requests"
+        },
+        "updated": "2024-08-02T20:44:49.451008+00:00",
+        "recid": "1141202",
+        "revision": 9,
+        "files": [
+          {
+            "id": "f2956a95-d77a-4d80-94d4-157e9bc78cfb",
+            "key": "CheckList_article_18675.pdf",
+            "size": 1609953,
+            "checksum": "md5:2223523e80901983699a0d35ffb961e6",
+            "links": {
+              "self": "https://zenodo.org/api/records/1141202/files/CheckList_article_18675.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1161"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 125,
+          "unique_downloads": 124,
+          "views": 144,
+          "unique_views": 144,
+          "version_downloads": 125,
+          "version_unique_downloads": 124,
+          "version_unique_views": 144,
+          "version_views": 144
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-10-30T08:08:02.814139+00:00",
+        "modified": "2025-10-30T08:10:36.128925+00:00",
+        "id": 17481592,
+        "conceptrecid": "17481591",
+        "doi": "10.5281/zenodo.17481592",
+        "conceptdoi": "10.5281/zenodo.17481591",
+        "doi_url": "https://doi.org/10.5281/zenodo.17481592",
+        "metadata": {
+          "title": "Quality-controlled bottom pressure dataset to analyse for continental shelf waves: Contribution to WP1 OI (Deliverable D1.6)",
+          "doi": "10.5281/zenodo.17481592",
+          "publication_date": "2025-10-30",
+          "description": "<p><span lang=\"EN-GB\">In this deliverable, we present the first version of a compilation of historical moored timeseries of pressure within 50 m of the seabed that have been deployed over the past 50 years over Antarctic continental shelves and slopes. We further compare the type of records contained within our compilation with state-of-the-art pressure time series typically observed by higher-sensitivity sensors directly seated on the seabed and demonstrate how this new dataset can be used to evaluate related satellite products in polar settings. The standardized data collection of near-seabed pressure records we present is restricted to the region south of 60&deg;S (Figure 1) and is freely accessible from SEANOE (<a href=\"https://www.seanoe.org/data/00983/109453/\"><span>https://www.seanoe.org/data/00983/109453/</span></a> ), and we hope to complement it with additional records and maintain it in the future. We refer to this data compilation as the OCEAN ICE near-seabed pressure compilation herein. Though beyond the scope of this data release report, this dataset provides an opportunity for a systematic study on pan-Antarctic ocean wave dynamics.</span></p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Dutrieux, Pierre",
+              "affiliation": "British Antarctic Survey",
+              "orcid": "0000-0002-8066-934X"
+            },
+            {
+              "name": "Zhou, Shenjie",
+              "affiliation": "British Antarctic Survey",
+              "orcid": "0000-0002-9124-6270"
+            }
+          ],
+          "resource_type": {
+            "title": "Project deliverable",
+            "type": "publication",
+            "subtype": "deliverable"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "grants": [
+            {
+              "code": "101060452",
+              "internal_id": "10.13039/501100000780::101060452",
+              "funder": {
+                "name": "European Commission",
+                "doi": "10.13039/501100000780",
+                "acronym": "EC"
+              },
+              "title": "Ocean Cryosphere Exchanges in ANtarctica: Impacts on Climate and the Earth system",
+              "acronym": "OCEAN ICE",
+              "program": "HORIZON.2.6",
+              "url": "https://cordis.europa.eu/projects/101060452"
+            }
+          ],
+          "communities": [
+            {
+              "id": "oceanice"
+            },
+            {
+              "id": "eu"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "17481591"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Quality-controlled bottom pressure dataset to analyse for continental shelf waves: Contribution to WP1 OI (Deliverable D1.6)",
+        "links": {
+          "self": "https://zenodo.org/api/records/17481592",
+          "self_html": "https://zenodo.org/records/17481592",
+          "preview_html": "https://zenodo.org/records/17481592?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.17481592",
+          "self_doi": "https://doi.org/10.5281/zenodo.17481592",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17481592",
+          "reserve_doi": "https://zenodo.org/api/records/17481592/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/17481591",
+          "parent_html": "https://zenodo.org/records/17481591",
+          "parent_doi": "https://doi.org/10.5281/zenodo.17481591",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17481591",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17481592/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17481592/sequence/default",
+          "files": "https://zenodo.org/api/records/17481592/files",
+          "media_files": "https://zenodo.org/api/records/17481592/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:17481592:FINAL-D1.6_OI_BottomPressureDataset.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:17481592:FINAL-D1.6_OI_BottomPressureDataset.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:17481592:FINAL-D1.6_OI_BottomPressureDataset.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:17481592:FINAL-D1.6_OI_BottomPressureDataset.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:17481592:FINAL-D1.6_OI_BottomPressureDataset.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:17481592:FINAL-D1.6_OI_BottomPressureDataset.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/17481592/files-archive",
+          "archive_media": "https://zenodo.org/api/records/17481592/media-files-archive",
+          "latest": "https://zenodo.org/api/records/17481592/versions/latest",
+          "latest_html": "https://zenodo.org/records/17481592/latest",
+          "versions": "https://zenodo.org/api/records/17481592/versions",
+          "draft": "https://zenodo.org/api/records/17481592/draft",
+          "access_links": "https://zenodo.org/api/records/17481592/access/links",
+          "access_grants": "https://zenodo.org/api/records/17481592/access/grants",
+          "access_users": "https://zenodo.org/api/records/17481592/access/users",
+          "access_request": "https://zenodo.org/api/records/17481592/access/request",
+          "access": "https://zenodo.org/api/records/17481592/access",
+          "communities": "https://zenodo.org/api/records/17481592/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/17481592/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/17481592/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/17481592/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/17481592/quota-increase",
+          "requests": "https://zenodo.org/api/records/17481592/requests"
+        },
+        "updated": "2025-10-30T08:10:36.128925+00:00",
+        "recid": "17481592",
+        "revision": 6,
+        "files": [
+          {
+            "id": "a2e7e099-f3a8-426a-9244-6a4952888377",
+            "key": "FINAL-D1.6_OI_BottomPressureDataset.pdf",
+            "size": 2291080,
+            "checksum": "md5:37717a6dcb15b584730c710691a72e9c",
+            "links": {
+              "self": "https://zenodo.org/api/records/17481592/files/FINAL-D1.6_OI_BottomPressureDataset.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "29385"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 66,
+          "unique_downloads": 57,
+          "views": 78,
+          "unique_views": 76,
+          "version_downloads": 66,
+          "version_unique_downloads": 57,
+          "version_unique_views": 76,
+          "version_views": 78
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-07-23T09:42:16.707862+00:00",
+        "modified": "2025-07-23T09:44:58.294278+00:00",
+        "id": 16357748,
+        "conceptrecid": "16357747",
+        "doi": "10.5281/zenodo.16357748",
+        "conceptdoi": "10.5281/zenodo.16357747",
+        "doi_url": "https://doi.org/10.5281/zenodo.16357748",
+        "metadata": {
+          "title": "Indicators on the Evolution and Development of Social Services in Spain",
+          "doi": "10.5281/zenodo.16357748",
+          "publication_date": "2025-07-23",
+          "description": "<p>This dataset presents the results of a systematic compilation of indicators on social services in Spain, carried out within the framework of the INVESSOC research project. Its objective is to support comparative analysis and monitoring of the evolution of social services across Spain's autonomous communities.</p>",
+          "access_right": "embargoed",
+          "embargo_date": "2026-12-31",
+          "creators": [
+            {
+              "name": "Laparra, Miguel",
+              "affiliation": "Universidad Publica de Navarra",
+              "orcid": "0000-0002-0790-3005"
+            },
+            {
+              "name": "Zugasti, Nerea",
+              "affiliation": "Universidad Publica de Navarra",
+              "orcid": "0000-0001-8401-0625"
+            },
+            {
+              "name": "S\u00e1nchez-Salmer\u00f3n, V\u00edctor",
+              "affiliation": "Universidad Publica de Navarra",
+              "orcid": "0000-0001-7420-838X"
+            },
+            {
+              "name": "Siria, Sandra",
+              "affiliation": "Universidad Publica de Navarra",
+              "orcid": "0000-0003-2733-2526"
+            }
+          ],
+          "keywords": [
+            "social services"
+          ],
+          "language": "spa",
+          "resource_type": {
+            "title": "Dataset",
+            "type": "dataset"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "16357747"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Indicators on the Evolution and Development of Social Services in Spain",
+        "links": {
+          "self": "https://zenodo.org/api/records/16357748",
+          "self_html": "https://zenodo.org/records/16357748",
+          "preview_html": "https://zenodo.org/records/16357748?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.16357748",
+          "self_doi": "https://doi.org/10.5281/zenodo.16357748",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.16357748",
+          "reserve_doi": "https://zenodo.org/api/records/16357748/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/16357747",
+          "parent_html": "https://zenodo.org/records/16357747",
+          "parent_doi": "https://doi.org/10.5281/zenodo.16357747",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.16357747",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:16357748/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:16357748/sequence/default",
+          "files": "https://zenodo.org/api/records/16357748/files",
+          "media_files": "https://zenodo.org/api/records/16357748/media-files",
+          "archive": "https://zenodo.org/api/records/16357748/files-archive",
+          "archive_media": "https://zenodo.org/api/records/16357748/media-files-archive",
+          "latest": "https://zenodo.org/api/records/16357748/versions/latest",
+          "latest_html": "https://zenodo.org/records/16357748/latest",
+          "versions": "https://zenodo.org/api/records/16357748/versions",
+          "draft": "https://zenodo.org/api/records/16357748/draft",
+          "access_links": "https://zenodo.org/api/records/16357748/access/links",
+          "access_grants": "https://zenodo.org/api/records/16357748/access/grants",
+          "access_users": "https://zenodo.org/api/records/16357748/access/users",
+          "access_request": "https://zenodo.org/api/records/16357748/access/request",
+          "access": "https://zenodo.org/api/records/16357748/access",
+          "communities": "https://zenodo.org/api/records/16357748/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/16357748/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/16357748/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/16357748/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/16357748/quota-increase",
+          "requests": "https://zenodo.org/api/records/16357748/requests"
+        },
+        "updated": "2025-07-23T09:44:58.294278+00:00",
+        "recid": "16357748",
+        "revision": 6,
+        "files": [],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1371276"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 0,
+          "unique_downloads": 0,
+          "views": 163,
+          "unique_views": 147,
+          "version_downloads": 0,
+          "version_unique_downloads": 0,
+          "version_unique_views": 147,
+          "version_views": 163
+        },
+        "state": "done",
+        "submitted": true
+      }
+    ],
+    "total": 181507
+  },
+  "aggregations": {
+    "publication_date": {
+      "buckets": [
+        {
+          "key": "2000",
+          "doc_count": 365,
+          "label": "2000",
+          "is_selected": false
+        },
+        {
+          "key": "2001",
+          "doc_count": 357,
+          "label": "2001",
+          "is_selected": false
+        },
+        {
+          "key": "2002",
+          "doc_count": 524,
+          "label": "2002",
+          "is_selected": false
+        },
+        {
+          "key": "2003",
+          "doc_count": 939,
+          "label": "2003",
+          "is_selected": false
+        },
+        {
+          "key": "2004",
+          "doc_count": 658,
+          "label": "2004",
+          "is_selected": false
+        },
+        {
+          "key": "2005",
+          "doc_count": 2291,
+          "label": "2005",
+          "is_selected": false
+        },
+        {
+          "key": "2006",
+          "doc_count": 1201,
+          "label": "2006",
+          "is_selected": false
+        },
+        {
+          "key": "2007",
+          "doc_count": 1365,
+          "label": "2007",
+          "is_selected": false
+        },
+        {
+          "key": "2008",
+          "doc_count": 1875,
+          "label": "2008",
+          "is_selected": false
+        },
+        {
+          "key": "2009",
+          "doc_count": 2244,
+          "label": "2009",
+          "is_selected": false
+        },
+        {
+          "key": "2010",
+          "doc_count": 2407,
+          "label": "2010",
+          "is_selected": false
+        },
+        {
+          "key": "2011",
+          "doc_count": 3326,
+          "label": "2011",
+          "is_selected": false
+        },
+        {
+          "key": "2012",
+          "doc_count": 2855,
+          "label": "2012",
+          "is_selected": false
+        },
+        {
+          "key": "2013",
+          "doc_count": 3515,
+          "label": "2013",
+          "is_selected": false
+        },
+        {
+          "key": "2014",
+          "doc_count": 4600,
+          "label": "2014",
+          "is_selected": false
+        },
+        {
+          "key": "2015",
+          "doc_count": 4727,
+          "label": "2015",
+          "is_selected": false
+        },
+        {
+          "key": "2016",
+          "doc_count": 5402,
+          "label": "2016",
+          "is_selected": false
+        },
+        {
+          "key": "2017",
+          "doc_count": 5938,
+          "label": "2017",
+          "is_selected": false
+        },
+        {
+          "key": "2018",
+          "doc_count": 6356,
+          "label": "2018",
+          "is_selected": false
+        },
+        {
+          "key": "2019",
+          "doc_count": 6469,
+          "label": "2019",
+          "is_selected": false
+        },
+        {
+          "key": "2020",
+          "doc_count": 9602,
+          "label": "2020",
+          "is_selected": false
+        },
+        {
+          "key": "2021",
+          "doc_count": 10840,
+          "label": "2021",
+          "is_selected": false
+        },
+        {
+          "key": "2022",
+          "doc_count": 11240,
+          "label": "2022",
+          "is_selected": false
+        },
+        {
+          "key": "2023",
+          "doc_count": 13603,
+          "label": "2023",
+          "is_selected": false
+        },
+        {
+          "key": "2024",
+          "doc_count": 17497,
+          "label": "2024",
+          "is_selected": false
+        },
+        {
+          "key": "2025",
+          "doc_count": 27096,
+          "label": "2025",
+          "is_selected": false
+        },
+        {
+          "key": "2026",
+          "doc_count": 32065,
+          "label": "2026",
+          "is_selected": false
+        }
+      ],
+      "label": "Publication date"
+    },
+    "access_status": {
+      "buckets": [
+        {
+          "key": "open",
+          "doc_count": 155210,
+          "label": "Open",
+          "is_selected": false
+        },
+        {
+          "key": "restricted",
+          "doc_count": 26050,
+          "label": "Restricted",
+          "is_selected": false
+        },
+        {
+          "key": "embargoed",
+          "doc_count": 247,
+          "label": "Embargoed",
+          "is_selected": false
+        }
+      ],
+      "label": "Access status"
+    },
+    "resource_type": {
+      "buckets": [
+        {
+          "key": "publication",
+          "doc_count": 147677,
+          "label": "Publication",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "publication-article",
+                "doc_count": 85554,
+                "label": "Journal article",
+                "is_selected": false
+              },
+              {
+                "key": "publication-taxonomictreatment",
+                "doc_count": 33997,
+                "label": "Taxonomic treatment",
+                "is_selected": false
+              },
+              {
+                "key": "publication-preprint",
+                "doc_count": 7805,
+                "label": "Preprint",
+                "is_selected": false
+              },
+              {
+                "key": "publication-conferencepaper",
+                "doc_count": 2708,
+                "label": "Conference paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-journal",
+                "doc_count": 1728,
+                "label": "Journal",
+                "is_selected": false
+              },
+              {
+                "key": "publication-report",
+                "doc_count": 1610,
+                "label": "Report",
+                "is_selected": false
+              },
+              {
+                "key": "publication-book",
+                "doc_count": 1418,
+                "label": "Book",
+                "is_selected": false
+              },
+              {
+                "key": "publication-section",
+                "doc_count": 1067,
+                "label": "Book chapter",
+                "is_selected": false
+              },
+              {
+                "key": "publication-dissertation",
+                "doc_count": 1059,
+                "label": "Thesis",
+                "is_selected": false
+              },
+              {
+                "key": "publication-workingpaper",
+                "doc_count": 966,
+                "label": "Working paper",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "image",
+          "doc_count": 16302,
+          "label": "Image",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "image-figure",
+                "doc_count": 16138,
+                "label": "Figure",
+                "is_selected": false
+              },
+              {
+                "key": "image-diagram",
+                "doc_count": 50,
+                "label": "Diagram",
+                "is_selected": false
+              },
+              {
+                "key": "image-other",
+                "doc_count": 18,
+                "label": "Other",
+                "is_selected": false
+              },
+              {
+                "key": "image-photo",
+                "doc_count": 16,
+                "label": "Photo",
+                "is_selected": false
+              },
+              {
+                "key": "image-plot",
+                "doc_count": 13,
+                "label": "Plot",
+                "is_selected": false
+              },
+              {
+                "key": "image-drawing",
+                "doc_count": 5,
+                "label": "Drawing",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "dataset",
+          "doc_count": 11472,
+          "label": "Dataset",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "software",
+          "doc_count": 2247,
+          "label": "Software",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "software-computationalnotebook",
+                "doc_count": 101,
+                "label": "Computational notebook",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "presentation",
+          "doc_count": 1183,
+          "label": "Presentation",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "other",
+          "doc_count": 1168,
+          "label": "Other",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "poster",
+          "doc_count": 797,
+          "label": "Poster",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "lesson",
+          "doc_count": 202,
+          "label": "Lesson",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "model",
+          "doc_count": 169,
+          "label": "Model",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "video",
+          "doc_count": 135,
+          "label": "Video/Audio",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        }
+      ],
+      "label": "Resource types"
+    },
+    "subject": {
+      "buckets": [
+        {
+          "key": "Biodiversity",
+          "doc_count": 84014,
+          "label": "Biodiversity",
+          "is_selected": false
+        },
+        {
+          "key": "Taxonomy",
+          "doc_count": 82761,
+          "label": "Taxonomy",
+          "is_selected": false
+        },
+        {
+          "key": "Animalia",
+          "doc_count": 61841,
+          "label": "Animalia",
+          "is_selected": false
+        },
+        {
+          "key": "Arthropoda",
+          "doc_count": 42183,
+          "label": "Arthropoda",
+          "is_selected": false
+        },
+        {
+          "key": "Insecta",
+          "doc_count": 30289,
+          "label": "Insecta",
+          "is_selected": false
+        },
+        {
+          "key": "Chordata",
+          "doc_count": 11406,
+          "label": "Chordata",
+          "is_selected": false
+        },
+        {
+          "key": "Plantae",
+          "doc_count": 9532,
+          "label": "Plantae",
+          "is_selected": false
+        },
+        {
+          "key": "Tracheophyta",
+          "doc_count": 8747,
+          "label": "Tracheophyta",
+          "is_selected": false
+        },
+        {
+          "key": "Coleoptera",
+          "doc_count": 8584,
+          "label": "Coleoptera",
+          "is_selected": false
+        },
+        {
+          "key": "Arachnida",
+          "doc_count": 7463,
+          "label": "Arachnida",
+          "is_selected": false
+        }
+      ],
+      "label": "Subjects"
+    },
+    "file_type": {
+      "buckets": [
+        {
+          "key": "pdf",
+          "doc_count": 89813,
+          "label": "PDF",
+          "is_selected": false
+        },
+        {
+          "key": "html",
+          "doc_count": 38368,
+          "label": "HTML",
+          "is_selected": false
+        },
+        {
+          "key": "png",
+          "doc_count": 14356,
+          "label": "PNG",
+          "is_selected": false
+        },
+        {
+          "key": "zip",
+          "doc_count": 5400,
+          "label": "ZIP",
+          "is_selected": false
+        },
+        {
+          "key": "docx",
+          "doc_count": 3757,
+          "label": "DOCX",
+          "is_selected": false
+        },
+        {
+          "key": "jpg",
+          "doc_count": 3540,
+          "label": "JPG",
+          "is_selected": false
+        },
+        {
+          "key": "xlsx",
+          "doc_count": 3472,
+          "label": "XLSX",
+          "is_selected": false
+        },
+        {
+          "key": "xml",
+          "doc_count": 2184,
+          "label": "XML",
+          "is_selected": false
+        },
+        {
+          "key": "csv",
+          "doc_count": 1768,
+          "label": "CSV",
+          "is_selected": false
+        },
+        {
+          "key": "txt",
+          "doc_count": 1634,
+          "label": "TXT",
+          "is_selected": false
+        }
+      ],
+      "label": "File type"
+    }
+  },
+  "links": {
+    "self": "https://zenodo.org/api/records?page=1&q=%22Planck+units%22+systematic+compilation&size=10&sort=bestmatch",
+    "next": "https://zenodo.org/api/records?page=2&q=%22Planck+units%22+systematic+compilation&size=10&sort=bestmatch"
+  }
+}

@@ -1,0 +1,2612 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 48820995,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              25
+            ]
+          ],
+          "date-time": "2026-05-25T23:03:06Z",
+          "timestamp": 1779750186971,
+          "version": "3.53.1"
+        },
+        "publisher-location": "Cham",
+        "reference-count": 32,
+        "publisher": "Springer Nature Switzerland",
+        "isbn-type": [
+          {
+            "value": "9783031760655",
+            "type": "print"
+          },
+          {
+            "value": "9783031760662",
+            "type": "electronic"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2025-01-01T00:00:00Z",
+              "timestamp": 1735689600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2025-01-01T00:00:00Z",
+              "timestamp": 1735689600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-3-031-76066-2_13",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              21
+            ]
+          ],
+          "date-time": "2025-08-21T07:30:45Z",
+          "timestamp": 1755761445000
+        },
+        "page": "275-280",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Three Good Reasons to\u00a0Explore the\u00a0Planck Scale"
+        ],
+        "prefix": "10.1007",
+        "author": [
+          {
+            "given": "Piero",
+            "family": "Nicolini",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              22
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "13_CR1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A. Cho, Science 337, 141, 6091 (2012)",
+            "DOI": "10.1126/science.337.6091.141"
+          },
+          {
+            "key": "13_CR2",
+            "unstructured": "B. Abbott, et al., Phys. Rev. Lett. 116 6, 061102 (2016)"
+          },
+          {
+            "key": "13_CR3",
+            "unstructured": "Astronomers Capture First Image of a Black Hole (2019)"
+          },
+          {
+            "key": "13_CR4",
+            "doi-asserted-by": "crossref",
+            "unstructured": "G. \u2019t Hooft, S. B. Giddings, C. Rovelli, P. Nicolini, J. Mureika, M. Kaminski, M. Bleicher, in2nd Karl Schwarzschild Meeting on Gravitational Physics, ed. by P. Nicolini, M. Kaminski, J. Mureika, M. Bleicher. Springer Proceedings in Physics, vol. 208 (Springer International Publishing, Switzerland, 2018), pp. 13\u201335",
+            "DOI": "10.1007/978-3-319-94256-8_2"
+          },
+          {
+            "key": "13_CR5",
+            "doi-asserted-by": "crossref",
+            "unstructured": "C. Kiefer, Quantum Gravity (Oxford University Press, New York, 2007)",
+            "DOI": "10.1093/acprof:oso/9780199212521.001.0001"
+          },
+          {
+            "key": "13_CR6",
+            "unstructured": "A.\u00a0Aurilia, E.\u00a0Spallucci, Planck\u2019s uncertainty principle and the saturation of Lorentz boosts by Planckian black holes (2013). arXiv:1309.7186 [gr-qc]"
+          },
+          {
+            "key": "13_CR7",
+            "doi-asserted-by": "crossref",
+            "unstructured": "G. Dvali, S. Folkerts, C. Germani, Phys. Rev. D 84, 024039 (2011)",
+            "DOI": "10.1103/PhysRevD.84.024039"
+          },
+          {
+            "key": "13_CR8",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R. J. Adler, Am. J. Phys. 78, 925 (2010)",
+            "DOI": "10.1119/1.3439650"
+          },
+          {
+            "key": "13_CR9",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A. Aurilia, S. Ansoldi, E. Spallucci, Class. Quant. Grav. 19, 3207 (2002)",
+            "DOI": "10.1088/0264-9381/19/12/307"
+          },
+          {
+            "key": "13_CR10",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A. Aurilia, E. Spallucci, Adv. High Energy Phys. 2013, 531696 (2013)",
+            "DOI": "10.1155/2013/531696"
+          },
+          {
+            "key": "13_CR11",
+            "doi-asserted-by": "crossref",
+            "unstructured": "D. Amati, M. Ciafaloni, G. Veneziano, Phys. Lett. B 197, 81 (1987)",
+            "DOI": "10.1016/0370-2693(87)90346-7"
+          },
+          {
+            "key": "13_CR12",
+            "doi-asserted-by": "crossref",
+            "unstructured": "D. Amati, M. Ciafaloni, G. Veneziano, Int. J. Mod. Phys. A 3, 1615 (1988)",
+            "DOI": "10.1142/S0217751X88000710"
+          },
+          {
+            "key": "13_CR13",
+            "doi-asserted-by": "crossref",
+            "unstructured": "D. Amati, M. Ciafaloni, G. Veneziano, Phys. Lett. B 216, 41 (1989)",
+            "DOI": "10.1016/0370-2693(89)91366-X"
+          },
+          {
+            "key": "13_CR14",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A. Kempf, G. Mangano, R.B. Mann, Phys. Rev. D 52, 1108 (1995)",
+            "DOI": "10.1103/PhysRevD.52.1108"
+          },
+          {
+            "key": "13_CR15",
+            "unstructured": "E. Aiken, M. Bishop, D. Singleton, in Touring the Planck Scale: Antonio Aurilia Memorial Volume, ed. by P. Nicolini. Fundamental Theories of Physics vol. 219 (Springer-Nature, 2025)"
+          },
+          {
+            "key": "13_CR16",
+            "doi-asserted-by": "crossref",
+            "unstructured": "B. J. Carr, J. Mureika, P. Nicolini, JHEP 07, 052 (2015)",
+            "DOI": "10.1007/JHEP07(2015)052"
+          },
+          {
+            "key": "13_CR17",
+            "unstructured": "B. J. Carr, in Touring the Planck Scale: Antonio Aurilia Memorial Volume, ed. by P. Nicolini. Fundamental Theories of Physics vol. 219 (Springer-Nature, 2025)"
+          },
+          {
+            "key": "13_CR18",
+            "doi-asserted-by": "crossref",
+            "unstructured": "J. Mureika, P. Nicolini, Eur. Phys. J. Plus 128, 78 (2013)",
+            "DOI": "10.1140/epjp/i2013-13078-0"
+          },
+          {
+            "key": "13_CR19",
+            "unstructured": "J. Mureika, in Touring the Planck Scale: Antonio Aurilia Memorial Volume, ed. by P. Nicolini. Fundamental Theories of Physics 219 (Springer-Nature, 2025)"
+          },
+          {
+            "key": "13_CR20",
+            "unstructured": "G.\u00a0\u2019t\u00a0Hooft, in Conference on Highlights of Particle and Condensed Matter Physics (SALAMFEST). Conf. Proc. C930308 (World Scientific, 1993), pp. 284\u2013296"
+          },
+          {
+            "key": "13_CR21",
+            "doi-asserted-by": "crossref",
+            "unstructured": "G. Dvali, C. Gomez, Fortsch. Phys. 61, 742 (2013)",
+            "DOI": "10.1002/prop.201300001"
+          },
+          {
+            "key": "13_CR22",
+            "unstructured": "G. Dvali, in Touring the Planck Scale: Antonio Aurilia Memorial Volume, ed. by P. Nicolini. Fundamental Theories of Physics 219 (Springer-Nature, 2025)"
+          },
+          {
+            "key": "13_CR23",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R. Casadio, A. Giugno, O. Micu, Int. J. Mod. Phys. D 25(02), 1630006 (2016)",
+            "DOI": "10.1142/S0218271816300068"
+          },
+          {
+            "key": "13_CR24",
+            "unstructured": "E. Spallucci, A. Smailagic, in Touring the Planck Scale: Antonio Aurilia Memorial Volume, ed. by P. Nicolini. Fundamental Theories of Physics 219 (Springer-Nature, 2025)"
+          },
+          {
+            "key": "13_CR25",
+            "doi-asserted-by": "crossref",
+            "unstructured": "G.\u00a0\u2019t\u00a0Hooft, Nucl. Phys. B 335, 138 (1990)",
+            "DOI": "10.1016/0550-3213(90)90174-C"
+          },
+          {
+            "key": "13_CR26",
+            "unstructured": "P. Gaete, J. A. Helay\u00ebl-Neto, in Touring the Planck Scale: Antonio Aurilia Memorial Volume, ed. by P. Nicolini. Fundamental Theories of Physics vol. 219 (Springer-Nature, 2025)"
+          },
+          {
+            "key": "13_CR27",
+            "doi-asserted-by": "crossref",
+            "unstructured": "G. La Nave, K. Limtragool, P. W. Phillips, Rev. Mod. Phys. 91(2), 021003 (2019)",
+            "DOI": "10.1103/RevModPhys.91.021003"
+          },
+          {
+            "key": "13_CR28",
+            "unstructured": "N. Altamirano, E. Gould, N. Afshordiz, R. B. Mann, in Touring the Planck Scale: Antonio Aurilia Memorial Volume, ed. by P. Nicolini. Fundamental Theories of Physics vol. 219 (Springer-Nature, 2025)"
+          },
+          {
+            "key": "13_CR29",
+            "doi-asserted-by": "crossref",
+            "unstructured": "W. G. Unruh, Phys. Rev. Lett. 46(21), 1351 (1981)",
+            "DOI": "10.1103/PhysRevLett.46.1351"
+          },
+          {
+            "key": "13_CR30",
+            "doi-asserted-by": "crossref",
+            "unstructured": "C.\u00a0Barcel\u00f3, S.\u00a0Liberati, M.\u00a0Visser, Liv. Rev. Relat. 14(1), 3 (2011)",
+            "DOI": "10.12942/lrr-2011-3"
+          },
+          {
+            "key": "13_CR31",
+            "doi-asserted-by": "crossref",
+            "unstructured": "J. Steinhauer, Nat. Phys. 10(11), 864 (2014)",
+            "DOI": "10.1038/nphys3104"
+          },
+          {
+            "key": "13_CR32",
+            "unstructured": "R. Balbinot, A. Fabbri, in Touring the Planck Scale: Antonio Aurilia Memorial Volume, ed. by P. Nicolini. Fundamental Theories of Physics vol. 219 (Springer-Nature, 2025)"
+          }
+        ],
+        "container-title": [
+          "Fundamental Theories of Physics",
+          "Touring the Planck Scale"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-3-031-76066-2_13",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              25
+            ]
+          ],
+          "date-time": "2026-05-25T22:25:27Z",
+          "timestamp": 1779747927000
+        },
+        "score": 29.14729,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/978-3-031-76066-2_13"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783031760655",
+          "9783031760662"
+        ],
+        "references-count": 32,
+        "URL": "https://doi.org/10.1007/978-3-031-76066-2_13",
+        "ISSN": [
+          "0168-1222",
+          "2365-6425"
+        ],
+        "issn-type": [
+          {
+            "value": "0168-1222",
+            "type": "print"
+          },
+          {
+            "value": "2365-6425",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "22 August 2025",
+            "order": 1,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ChapterHistory",
+              "label": "Chapter History"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              17
+            ]
+          ],
+          "date-time": "2026-06-17T13:45:26Z",
+          "timestamp": 1781703926473,
+          "version": "3.54.5"
+        },
+        "edition-number": "1",
+        "reference-count": 0,
+        "publisher": "Cambridge University Press",
+        "isbn-type": [
+          {
+            "value": "9780521662802",
+            "type": "print"
+          },
+          {
+            "value": "9780521664455",
+            "type": "print"
+          },
+          {
+            "value": "9780511612909",
+            "type": "electronic"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2009,
+                  12,
+                  15
+                ]
+              ],
+              "date-time": "2009-12-15T00:00:00Z",
+              "timestamp": 1260835200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 3242,
+            "URL": "https://www.cambridge.org/core/terms"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              1,
+              29
+            ]
+          ]
+        },
+        "DOI": "10.1017/cbo9780511612909.009",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2009,
+              12,
+              24
+            ]
+          ],
+          "date-time": "2009-12-24T10:15:56Z",
+          "timestamp": 1261649756000
+        },
+        "page": "177-196",
+        "source": "Crossref",
+        "is-referenced-by-count": 16,
+        "title": [
+          "Higher-dimensional algebra and Planck scale physics"
+        ],
+        "prefix": "10.1017",
+        "author": [
+          {
+            "given": "John C.",
+            "family": "Baez",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "56",
+        "container-title": [
+          "Physics Meets Philosophy at the Planck Scale"
+        ],
+        "link": [
+          {
+            "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E5DA5AEA507308A247EAB6551850D95D",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2022-10-12T19:48:38Z",
+          "timestamp": 1665604118000
+        },
+        "score": 28.753393,
+        "resource": {
+          "primary": {
+            "URL": "https://www.cambridge.org/core/product/identifier/CBO9780511612909A017/type/book_part"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              1,
+              29
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780521662802",
+          "9780521664455",
+          "9780511612909"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1017/cbo9780511612909.009",
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              1,
+              29
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              21
+            ]
+          ],
+          "date-time": "2026-07-21T02:04:00Z",
+          "timestamp": 1784599440333,
+          "version": "3.55.0"
+        },
+        "posted": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              16
+            ]
+          ]
+        },
+        "group-title": "Physical Sciences",
+        "reference-count": 0,
+        "publisher": "MDPI AG",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  7,
+                  16
+                ]
+              ],
+              "date-time": "2026-07-16T00:00:00Z",
+              "timestamp": 1784160000000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by/4.0"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "accepted": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              14
+            ]
+          ]
+        },
+        "abstract": "<jats:p>This article is a review of developed in 2007-2025 years   Planck scale informational physical model that is based on 3 main points. First of all  on the 2007 \u201cThe Information as Absolute\u201d conception, where the  fundamental phenomena/notions  \u201cMatter\u201d,  \u201cConsciousness\u201d, \u201cSpace\u201d, \u201cTime\u201d, \u201cEnergy\u201d, \u201cInformation\u201d, which  are fundamentally transcendent in conventional philosophy and sciences, are rigorously scientifically defined.  The conception completely rigorously scientifically legitimates the outstanding C. F.   von  Weizs\u00e4cker \u201cUr hypothesis\u201d,    and  E. Fredkin \u201cDigital Philosophy/Physics\u201d,   which posit   that  Matter  is constructed from  some binary reversible  logical elements;  and on all reliable experimental data. Correspondingly in the model it is postulated that Matter\u2019s  ultimate base is the  [4+4+1]4D dense lattice of primary  [4+4+1]4D binary reversible fundamental logical elements [FLE], which is placed in the corresponding Matter\u2019s fundamentally absolute \u201cCartesian\u201d [4+4+1]4D spacetime with metrics   (c\u03c4,X,Y,Z, g,w,e,s,ct), while everything in Matter is/are  some specific disturbances in the lattice. Basing on the above in the model a number of physical problems are either solved or essentially clarified, e.g. of what is real Matter\u2019s spacetime above, what are  the physical sense of Lorentz transformations; uncertainty and  wave-particle duality in  QM; particles and antiparticles, etc. Besides  initial Planck scale models of fundamental Gravity, Electric, and Nuclear/Strong Forces are developed, where it is shown that these Forces strengths ratio is in accordance with experimental values only if the FLE size and FLE flip time are Planck length and Planck time; the model rather probably  really scientifically clarifies  some cosmological problems, including the \u201cmatter-antimatter asymmetry: one. Etc. more  of the problems see in the article.</jats:p>",
+        "DOI": "10.20944/preprints202110.0453.v8",
+        "type": "posted-content",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              21
+            ]
+          ],
+          "date-time": "2026-07-21T01:31:48Z",
+          "timestamp": 1784597508000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Planck Scale Informational Physical Model and Fundamental Problems in Physics"
+        ],
+        "prefix": "10.20944",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-3370-5536",
+            "authenticated-orcid": false,
+            "given": "Sergey V.",
+            "family": "Shevchenko",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Vladimir V.",
+            "family": "Tokarevsky",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1968",
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              21
+            ]
+          ],
+          "date-time": "2026-07-21T01:31:49Z",
+          "timestamp": 1784597509000
+        },
+        "score": 28.490208,
+        "resource": {
+          "primary": {
+            "URL": "https://www.preprints.org/manuscript/202110.0453/v8"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              16
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.20944/preprints202110.0453.v8",
+        "relation": {
+          "is-version-of": [
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v1",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v2",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v3",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v4",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v5",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v6",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v7",
+              "asserted-by": "subject"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              16
+            ]
+          ]
+        },
+        "subtype": "preprint"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              21
+            ]
+          ],
+          "date-time": "2026-07-21T02:04:15Z",
+          "timestamp": 1784599455548,
+          "version": "3.55.0"
+        },
+        "posted": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              22
+            ]
+          ]
+        },
+        "group-title": "Physical Sciences",
+        "reference-count": 0,
+        "publisher": "MDPI AG",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  5,
+                  22
+                ]
+              ],
+              "date-time": "2026-05-22T00:00:00Z",
+              "timestamp": 1779408000000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by/4.0"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "accepted": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              19
+            ]
+          ]
+        },
+        "abstract": "<jats:p>This article is a review of developed in 2007-2025 years   Planck scale informational physical model that is based on 3 main points. First of all  on the 2007 \u201cThe Information as Absolute\u201d conception, where the  fundamental phenomena/notions  \u201cMatter\u201d,  \u201cConsciousness\u201d, \u201cSpace\u201d, \u201cTime\u201d, \u201cEnergy\u201d, \u201cInformation\u201d, which  are fundamentally transcendent in conventional philosophy and sciences, are rigorously scientifically defined.  The conception completely rigorously scientifically legitimates the outstanding C. F.   von  Weizs\u00e4cker \u201cUr hypothesis\u201d,    and  E. Fredkin \u201cDigital Philosophy/Physics\u201d,   which posit   that  Matter  is constructed from  some binary reversible  logical elements;  and on all reliable experimental data. Correspondingly in the model it is postulated that Matter\u2019s  ultimate base is the  [4+4+1]4D dense lattice of primary  [4+4+1]4D binary reversible fundamental logical elements [FLE], which is placed in the corresponding Matter\u2019s fundamentally absolute \u201cCartesian\u201d [4+4+1]4D spacetime with metrics   (c\u03c4,X,Y,Z, g,w,e,s,ct), while everything in Matter is/are  some specific disturbances in the lattice. Basing on the above in the model a number of physical problems are either solved or essentially clarified, e.g. of what is real Matter\u2019s spacetime above, what are  the physical sense of Lorentz transformations; uncertainty and  wave-particle duality in  QM; particles and antiparticles, etc. Besides  initial Planck scale models of fundamental Gravity, Electric, and Nuclear/Strong Forces are developed, where it is shown that these Forces strengths ratio is in accordance with experimental values only if the FLE size and FLE flip time are Planck length and Planck time; the model rather probably  really scientifically clarifies  some cosmological problems, including the \u201cmatter-antimatter asymmetry: one. Etc. more  of the problems see in the article.</jats:p>",
+        "DOI": "10.20944/preprints202110.0453.v7",
+        "type": "posted-content",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              25
+            ]
+          ],
+          "date-time": "2026-05-25T03:31:22Z",
+          "timestamp": 1779679882000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Planck Scale Informational Physical Model and Fundamental Problems in Physics"
+        ],
+        "prefix": "10.20944",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-3370-5536",
+            "authenticated-orcid": false,
+            "given": "Sergey V.",
+            "family": "Shevchenko",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Vladimir V.",
+            "family": "Tokarevsky",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1968",
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              21
+            ]
+          ],
+          "date-time": "2026-07-21T01:34:34Z",
+          "timestamp": 1784597674000
+        },
+        "score": 28.37308,
+        "resource": {
+          "primary": {
+            "URL": "https://www.preprints.org/manuscript/202110.0453/v7"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              22
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.20944/preprints202110.0453.v7",
+        "relation": {
+          "is-version-of": [
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v1",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v2",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v3",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v4",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v5",
+              "asserted-by": "subject"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v6",
+              "asserted-by": "subject"
+            }
+          ],
+          "has-version": [
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v5",
+              "asserted-by": "object"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v6",
+              "asserted-by": "object"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v3",
+              "asserted-by": "object"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v4",
+              "asserted-by": "object"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v8",
+              "asserted-by": "object"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v1",
+              "asserted-by": "object"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.20944/preprints202110.0453.v2",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              22
+            ]
+          ]
+        },
+        "subtype": "preprint"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              9
+            ]
+          ],
+          "date-time": "2024-09-09T13:16:05Z",
+          "timestamp": 1725887765394
+        },
+        "publisher-location": "Cham",
+        "reference-count": 0,
+        "publisher": "Springer International Publishing",
+        "isbn-type": [
+          {
+            "type": "print",
+            "value": "9783319517766"
+          },
+          {
+            "type": "electronic",
+            "value": "9783319517773"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2017,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2017-01-01T00:00:00Z",
+              "timestamp": 1483228800000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by/4.0"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-3-319-51777-3_7",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              12
+            ]
+          ],
+          "date-time": "2017-05-12T12:07:26Z",
+          "timestamp": 1494590846000
+        },
+        "page": "247-291",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Limits: Small $$\\hbar $$"
+        ],
+        "prefix": "10.1007",
+        "author": [
+          {
+            "given": "Klaas",
+            "family": "Landsman",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              13
+            ]
+          ]
+        },
+        "container-title": [
+          "Fundamental Theories of Physics",
+          "Foundations of Quantum Theory"
+        ],
+        "link": [
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/978-3-319-51777-3_7",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              12
+            ]
+          ],
+          "date-time": "2017-05-12T12:07:28Z",
+          "timestamp": 1494590848000
+        },
+        "score": 28.245224,
+        "resource": {
+          "primary": {
+            "URL": "http://link.springer.com/10.1007/978-3-319-51777-3_7"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783319517766",
+          "9783319517773"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1007/978-3-319-51777-3_7",
+        "ISSN": [
+          "0168-1222",
+          "2365-6425"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0168-1222"
+          },
+          {
+            "type": "electronic",
+            "value": "2365-6425"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              4
+            ]
+          ],
+          "date-time": "2024-09-04T07:31:41Z",
+          "timestamp": 1725435101242
+        },
+        "reference-count": 0,
+        "publisher": "WORLD SCIENTIFIC",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1995,
+              6
+            ]
+          ]
+        },
+        "DOI": "10.1142/9789814533034",
+        "type": "proceedings-article",
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              9,
+              17
+            ]
+          ],
+          "date-time": "2017-09-17T23:58:56Z",
+          "timestamp": 1505692736000
+        },
+        "page": "1-510",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Physics from Planck Scale to Electroweak Scale"
+        ],
+        "prefix": "10.1142",
+        "author": [
+          {
+            "given": "Pran",
+            "family": "Nath",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Northeastern Univ., Boston, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Tomasz",
+            "family": "Taylor",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Northeastern Univ., Boston, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Stefan",
+            "family": "Pokorski",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Warsaw Univ., Warsaw, Poland"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "219",
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              9,
+              17
+            ]
+          ]
+        },
+        "event": {
+          "name": "US\u2013Polish Workshop 1994",
+          "location": "Warsaw, Poland"
+        },
+        "container-title": [
+          "Physics From Planck Scale to Electroweak Scale"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              9,
+              17
+            ]
+          ],
+          "date-time": "2017-09-17T23:58:57Z",
+          "timestamp": 1505692737000
+        },
+        "score": 28.22105,
+        "resource": {
+          "primary": {
+            "URL": "http://www.worldscientific.com/doi/abs/10.1142/9789814533034"
+          }
+        },
+        "subtitle": [
+          "Proceedings of the US\u2013Polish Workshop"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              1995,
+              6
+            ]
+          ]
+        },
+        "references-count": 0,
+        "alternative-id": [
+          "10.1142/9789814533034",
+          "10.1142/2676"
+        ],
+        "URL": "https://doi.org/10.1142/9789814533034",
+        "published": {
+          "date-parts": [
+            [
+              1995,
+              6
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              25
+            ]
+          ],
+          "date-time": "2026-05-25T23:03:07Z",
+          "timestamp": 1779750187944,
+          "version": "3.53.1"
+        },
+        "publisher-location": "Cham",
+        "reference-count": 73,
+        "publisher": "Springer Nature Switzerland",
+        "isbn-type": [
+          {
+            "value": "9783031760655",
+            "type": "print"
+          },
+          {
+            "value": "9783031760662",
+            "type": "electronic"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2025-01-01T00:00:00Z",
+              "timestamp": 1735689600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2025-01-01T00:00:00Z",
+              "timestamp": 1735689600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-3-031-76066-2_6",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              21
+            ]
+          ],
+          "date-time": "2025-08-21T07:30:45Z",
+          "timestamp": 1755761445000
+        },
+        "page": "151-164",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Quantum Black Holes and\u00a0the\u00a0Higgs Mechanism at\u00a0the\u00a0Planck Scale"
+        ],
+        "prefix": "10.1007",
+        "author": [
+          {
+            "given": "Euro",
+            "family": "Spallucci",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Anais",
+            "family": "Smailagic",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              22
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "6_CR1",
+            "unstructured": "G.\u00a0Dvali, C.\u00a0Gomez, Self-Completeness of Einstein Gravity (2010). arXiv:1005.3497 [hep-th]"
+          },
+          {
+            "key": "6_CR2",
+            "doi-asserted-by": "publisher",
+            "first-page": "108",
+            "DOI": "10.1007/JHEP08(2011)108",
+            "volume": "1108",
+            "author": "G Dvali",
+            "year": "2011",
+            "unstructured": "G. Dvali, G.F. Giudice, C. Gomez, A. Kehagias, JHEP 1108, 108 (2011)",
+            "journal-title": "JHEP"
+          },
+          {
+            "key": "6_CR3",
+            "doi-asserted-by": "crossref",
+            "unstructured": "G.\u00a0Dvali, C.\u00a0Gomez, S.\u00a0Mukhanov, Black Hole Masses are Quantized (2011). arXiv:1106.5894 [hep-ph]",
+            "DOI": "10.1007/JHEP02(2011)012"
+          },
+          {
+            "key": "6_CR4",
+            "doi-asserted-by": "publisher",
+            "first-page": "070",
+            "DOI": "10.1007/JHEP11(2011)070",
+            "volume": "1111",
+            "author": "G Dvali",
+            "year": "2011",
+            "unstructured": "G. Dvali, C. Gomez, A. Kehagias, JHEP 1111, 070 (2011)",
+            "journal-title": "JHEP"
+          },
+          {
+            "key": "6_CR5",
+            "doi-asserted-by": "publisher",
+            "first-page": "015",
+            "DOI": "10.1088/1475-7516/2012/07/015",
+            "volume": "1207",
+            "author": "G Dvali",
+            "year": "2012",
+            "unstructured": "G. Dvali, C. Gomez, JCAP 1207, 015 (2012)",
+            "journal-title": "JCAP"
+          },
+          {
+            "key": "6_CR6",
+            "doi-asserted-by": "crossref",
+            "unstructured": "G.\u00a0Dvali, C.\u00a0Gomez, R.S.\u00a0Isermann, D.\u00a0Lust, S.\u00a0Stieberger, Nucl. Phys. B 893, 187-235 (2015)",
+            "DOI": "10.1016/j.nuclphysb.2015.02.004"
+          },
+          {
+            "key": "6_CR7",
+            "doi-asserted-by": "publisher",
+            "first-page": "742",
+            "DOI": "10.1002/prop.201300001",
+            "volume": "61",
+            "author": "G Dvali",
+            "year": "2013",
+            "unstructured": "G. Dvali, C. Gomez, Fortsch. Phys. 61, 742 (2013)",
+            "journal-title": "Fortsch. Phys."
+          },
+          {
+            "key": "6_CR8",
+            "doi-asserted-by": "publisher",
+            "first-page": "240",
+            "DOI": "10.1016/j.physletb.2012.08.019",
+            "volume": "716",
+            "author": "G Dvali",
+            "year": "2012",
+            "unstructured": "G. Dvali, C. Gomez, Phys. Lett. B 716, 240 (2012)",
+            "journal-title": "Phys. Lett. B"
+          },
+          {
+            "key": "6_CR9",
+            "doi-asserted-by": "publisher",
+            "first-page": "419",
+            "DOI": "10.1016/j.physletb.2013.01.020",
+            "volume": "719",
+            "author": "G Dvali",
+            "year": "2013",
+            "unstructured": "G. Dvali, C. Gomez, Phys. Lett. B 719, 419 (2013)",
+            "journal-title": "Phys. Lett. B"
+          },
+          {
+            "key": "6_CR10",
+            "doi-asserted-by": "publisher",
+            "first-page": "2752",
+            "DOI": "10.1140/epjc/s10052-014-2752-3",
+            "volume": "74",
+            "author": "G Dvali",
+            "year": "2014",
+            "unstructured": "G. Dvali, C. Gomez, Eur. Phys. J. C 74, 2752 (2014)",
+            "journal-title": "Eur. Phys. J. C"
+          },
+          {
+            "key": "6_CR11",
+            "doi-asserted-by": "crossref",
+            "unstructured": "G. Dvali, D. Flassig, C. Gomez, A. Pritzel, N. Wintergerst, Phys. Rev. D 88, no. 12, 124041 (2013)",
+            "DOI": "10.1103/PhysRevD.88.124041"
+          },
+          {
+            "key": "6_CR12",
+            "doi-asserted-by": "publisher",
+            "first-page": "88",
+            "DOI": "10.1016/j.physletb.2018.01.013",
+            "volume": "778",
+            "author": "P Nicolini",
+            "year": "2018",
+            "unstructured": "P. Nicolini, Phys. Lett. B 778, 88 (2018)",
+            "journal-title": "Phys. Lett. B"
+          },
+          {
+            "key": "6_CR13",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R. Casadio, F. Scardigli, Eur. Phys. J. C 74, no. 1, 2685 (2014)",
+            "DOI": "10.1140/epjc/s10052-013-2685-2"
+          },
+          {
+            "key": "6_CR14",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R. Casadio, Eur. Phys. J. C 75, no. 4, 160 (2015)",
+            "DOI": "10.1140/epjc/s10052-015-3404-y"
+          },
+          {
+            "key": "6_CR15",
+            "doi-asserted-by": "publisher",
+            "first-page": "096",
+            "DOI": "10.1007/JHEP05(2015)096",
+            "volume": "1505",
+            "author": "R Casadio",
+            "year": "2015",
+            "unstructured": "R. Casadio, O. Micu, D. Stojkovic, JHEP 1505, 096 (2015)",
+            "journal-title": "JHEP"
+          },
+          {
+            "key": "6_CR16",
+            "doi-asserted-by": "publisher",
+            "first-page": "68",
+            "DOI": "10.1016/j.physletb.2015.05.053",
+            "volume": "747",
+            "author": "R Casadio",
+            "year": "2015",
+            "unstructured": "R. Casadio, O. Micu, D. Stojkovic, Phys. Lett. B 747, 68 (2015)",
+            "journal-title": "Phys. Lett. B"
+          },
+          {
+            "key": "6_CR17",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R.\u00a0Casadio, A.\u00a0Giugno, O.\u00a0Micu, A.\u00a0Orlandi, Phys. Rev. D 90, no. 8, 084040 (2014)",
+            "DOI": "10.1103/PhysRevD.90.084040"
+          },
+          {
+            "key": "6_CR18",
+            "doi-asserted-by": "publisher",
+            "first-page": "6893",
+            "DOI": "10.3390/e17106893",
+            "volume": "17",
+            "author": "R Casadio",
+            "year": "2015",
+            "unstructured": "R. Casadio, A. Giugno, O. Micu, A. Orlandi, Entropy 17, 6893 (2015)",
+            "journal-title": "Entropy"
+          },
+          {
+            "key": "6_CR19",
+            "doi-asserted-by": "publisher",
+            "first-page": "025",
+            "DOI": "10.1007/JHEP08(2013)025",
+            "volume": "1308",
+            "author": "R Casadio",
+            "year": "2013",
+            "unstructured": "R. Casadio, A. Orlandi, JHEP 1308, 025 (2013)",
+            "journal-title": "JHEP"
+          },
+          {
+            "key": "6_CR20",
+            "doi-asserted-by": "publisher",
+            "first-page": "105",
+            "DOI": "10.1016/j.physletb.2014.03.037",
+            "volume": "732",
+            "author": "R Casadio",
+            "year": "2014",
+            "unstructured": "R. Casadio, O. Micu, F. Scardigli, Phys. Lett. B 732, 105 (2014)",
+            "journal-title": "Phys. Lett. B"
+          },
+          {
+            "key": "6_CR21",
+            "unstructured": "E.\u00a0Spallucci, A.\u00a0Smailagic, in Advances in Black Hole Research, ed. by A. Barton (Nova Science Pub, Inc., New York, USA, 2015), pp. 1\u201326"
+          },
+          {
+            "key": "6_CR22",
+            "doi-asserted-by": "publisher",
+            "first-page": "472",
+            "DOI": "10.1016/j.physletb.2015.03.004",
+            "volume": "743",
+            "author": "E Spallucci",
+            "year": "2015",
+            "unstructured": "E. Spallucci, A. Smailagic, Phys. Lett. B 743, 472 (2015)",
+            "journal-title": "Phys. Lett. B"
+          },
+          {
+            "key": "6_CR23",
+            "unstructured": "E.\u00a0Spallucci, A.\u00a0Smailagic, in Quantum Gravity: Theory and Research, ed. by B. Mitchell (Nova Science Pub. Inc.,New York, USA, 2017)"
+          },
+          {
+            "key": "6_CR24",
+            "doi-asserted-by": "crossref",
+            "unstructured": "E. Spallucci, A. Smailagic, Int. J. Mod. Phys. D 26, no. 07, 1730013 (2017)",
+            "DOI": "10.1142/S0218271817300130"
+          },
+          {
+            "key": "6_CR25",
+            "doi-asserted-by": "publisher",
+            "first-page": "337",
+            "DOI": "10.1016/j.physletb.2016.10.058",
+            "volume": "763",
+            "author": "R Casadio",
+            "year": "2016",
+            "unstructured": "R. Casadio, A. Giugno, A. Giusti, Phys. Lett. B 763, 337 (2016)",
+            "journal-title": "Phys. Lett. B"
+          },
+          {
+            "key": "6_CR26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R.\u00a0Casadio, A.\u00a0Giugno, A.\u00a0Giusti, O.\u00a0Micu, Eur. Phys. J. C 77, no. 5, 322 (2017)",
+            "DOI": "10.1140/epjc/s10052-017-4882-x"
+          },
+          {
+            "key": "6_CR27",
+            "doi-asserted-by": "crossref",
+            "unstructured": "B. J. W. van Tent, J. Smit, A. Tranberg, JCAP 0407, 003 (2004)",
+            "DOI": "10.1088/1475-7516/2004/07/003"
+          },
+          {
+            "key": "6_CR28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1103/PhysRevD.78.043527",
+            "volume": "78",
+            "author": "N Kaloper",
+            "year": "2008",
+            "unstructured": "N. Kaloper, L. Sorbo, J. Yokoyama, Phys. Rev. D 78, 043527 (2008)",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "6_CR29",
+            "doi-asserted-by": "crossref",
+            "unstructured": "F. L. Bezrukov, A. Magnin, M. Shaposhnikov, Phys. Lett. B 675, 88 (2009)",
+            "DOI": "10.1016/j.physletb.2009.03.035"
+          },
+          {
+            "key": "6_CR30",
+            "doi-asserted-by": "crossref",
+            "unstructured": "J. L. F. Barbon, J. R. Espinosa, Phys. Rev. D 79, 081302 (2009)",
+            "DOI": "10.1103/PhysRevD.79.081302"
+          },
+          {
+            "key": "6_CR31",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A. O. Barvinsky, A. Y. Kamenshchik, C. Kiefer, C. F. Steinwachs, Phys. Rev. D 81, 043530 (2010)",
+            "DOI": "10.1103/PhysRevD.81.043530"
+          },
+          {
+            "key": "6_CR32",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R. N. Lerner, J. McDonald, JCAP 1004, 015 (2010)",
+            "DOI": "10.1088/1475-7516/2010/04/015"
+          },
+          {
+            "key": "6_CR33",
+            "doi-asserted-by": "crossref",
+            "unstructured": "C.\u00a0Germani, A.\u00a0Kehagias, JCAP 1005, 019 (2010)",
+            "DOI": "10.1088/1475-7516/2010/05/019"
+          },
+          {
+            "key": "6_CR34",
+            "doi-asserted-by": "crossref",
+            "unstructured": "R. N. Lerner, J. McDonald, Phys. Rev. D 82, 103525 (2010)",
+            "DOI": "10.1103/PhysRevD.82.103525"
+          },
+          {
+            "key": "6_CR35",
+            "doi-asserted-by": "publisher",
+            "first-page": "010",
+            "DOI": "10.1088/1475-7516/2011/02/010",
+            "volume": "1102",
+            "author": "K Nakayama",
+            "year": "2011",
+            "unstructured": "K. Nakayama, F. Takahashi, JCAP 1102, 010 (2011)",
+            "journal-title": "JCAP"
+          },
+          {
+            "key": "6_CR36",
+            "doi-asserted-by": "publisher",
+            "first-page": "016",
+            "DOI": "10.1007/JHEP01(2011)016",
+            "volume": "1101",
+            "author": "F Bezrukov",
+            "year": "2011",
+            "unstructured": "F. Bezrukov, A. Magnin, M. Shaposhnikov, S. Sibiryakov, JHEP 1101, 016 (2011)",
+            "journal-title": "JHEP"
+          },
+          {
+            "key": "6_CR37",
+            "doi-asserted-by": "crossref",
+            "unstructured": "G. F. Giudice, H. M. Lee, Phys. Lett. B 694, 294 (2011)",
+            "DOI": "10.1016/j.physletb.2010.10.035"
+          },
+          {
+            "key": "6_CR38",
+            "doi-asserted-by": "crossref",
+            "unstructured": "S. R. Coleman, E. J. Weinberg, Phys. Rev. D 7, 1888 (1973)",
+            "DOI": "10.1103/PhysRevD.7.1888"
+          },
+          {
+            "key": "6_CR39",
+            "doi-asserted-by": "crossref",
+            "unstructured": "J. S. Kang, Phys. Rev. D 10, 3455 (1974)",
+            "DOI": "10.1103/PhysRevD.10.3455"
+          },
+          {
+            "key": "6_CR40",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A. J. Paterson, Nucl. Phys. B 190, 188 (1981)",
+            "DOI": "10.1016/0550-3213(81)90489-2"
+          },
+          {
+            "key": "6_CR41",
+            "doi-asserted-by": "crossref",
+            "unstructured": "M. A. Sher, Nucl. Phys. B 183, 77 (1981)",
+            "DOI": "10.1016/0550-3213(81)90547-2"
+          },
+          {
+            "key": "6_CR42",
+            "doi-asserted-by": "crossref",
+            "unstructured": "L. F. Abbott, Nucl. Phys. B 185, 233 (1981)",
+            "DOI": "10.1016/0550-3213(81)90374-6"
+          },
+          {
+            "key": "6_CR43",
+            "doi-asserted-by": "publisher",
+            "first-page": "329",
+            "DOI": "10.1016/0550-3213(82)90090-6",
+            "volume": "200",
+            "author": "A Billoire",
+            "year": "1982",
+            "unstructured": "A. Billoire, K. Tamvakis, Nucl. Phys. B 200, 329 (1982)",
+            "journal-title": "Nucl. Phys. B"
+          },
+          {
+            "key": "6_CR44",
+            "doi-asserted-by": "crossref",
+            "unstructured": "M. D. Pollock, M. Calvani, Phys. Lett. B 117, 392 (1982)",
+            "DOI": "10.1016/0370-2693(82)90566-4"
+          },
+          {
+            "key": "6_CR45",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A. D. Linde, Phys. Lett. B 114, 431 (1982)",
+            "DOI": "10.1016/0370-2693(82)90086-7"
+          },
+          {
+            "key": "6_CR46",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A. D. Linde, Phys. Lett. B 116, 340 (1982)",
+            "DOI": "10.1016/0370-2693(82)90294-5"
+          },
+          {
+            "key": "6_CR47",
+            "doi-asserted-by": "crossref",
+            "unstructured": "H. Kleinert, Phys. Lett. B 128, 69 (1983)",
+            "DOI": "10.1016/0370-2693(83)90075-8"
+          },
+          {
+            "key": "6_CR48",
+            "doi-asserted-by": "publisher",
+            "first-page": "1763",
+            "DOI": "10.1103/PhysRevD.29.1763",
+            "volume": "29",
+            "author": "H Aoyama",
+            "year": "1984",
+            "unstructured": "H. Aoyama, Phys. Rev. D 29, 1763 (1984)",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "6_CR49",
+            "doi-asserted-by": "crossref",
+            "unstructured": "J. Okada, Phys. Lett. B 144, 183 (1984)",
+            "DOI": "10.1016/0370-2693(84)91799-4"
+          },
+          {
+            "key": "6_CR50",
+            "doi-asserted-by": "crossref",
+            "unstructured": "P. F. Gonzalez-Diaz, Phys. Lett. B 141, 314 (1984)",
+            "DOI": "10.1016/0370-2693(84)90252-1"
+          },
+          {
+            "key": "6_CR51",
+            "doi-asserted-by": "publisher",
+            "first-page": "2783",
+            "DOI": "10.1103/PhysRevD.29.2783",
+            "volume": "29",
+            "author": "T Futamase",
+            "year": "1984",
+            "unstructured": "T. Futamase, Phys. Rev. D 29, 2783 (1984)",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "6_CR52",
+            "doi-asserted-by": "publisher",
+            "first-page": "35",
+            "DOI": "10.1007/BF02902562",
+            "volume": "83",
+            "author": "G Denardo",
+            "year": "1984",
+            "unstructured": "G. Denardo, E. Spallucci, Nuovo Cim. A 83, 35 (1984)",
+            "journal-title": "Nuovo Cim. A"
+          },
+          {
+            "key": "6_CR53",
+            "doi-asserted-by": "publisher",
+            "first-page": "1238",
+            "DOI": "10.1103/PhysRevD.30.1238",
+            "volume": "30",
+            "author": "Y Hosotani",
+            "year": "1984",
+            "unstructured": "Y. Hosotani, Phys. Rev. D 30, 1238 (1984)",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "6_CR54",
+            "doi-asserted-by": "crossref",
+            "unstructured": "F.\u00a0Cooper, R. W.\u00a0Haymaker, T.\u00a0Matsuki, S.W.\u00a0Wang, Phys. Rev. D 32, 2049 (1985)",
+            "DOI": "10.1103/PhysRevD.32.2049"
+          },
+          {
+            "key": "6_CR55",
+            "doi-asserted-by": "crossref",
+            "unstructured": "L. P. Chimento, A. S. Jakubi, J. Pullin, Class. Quant. Grav. 6, L45 (1989)",
+            "DOI": "10.1088/0264-9381/6/3/002"
+          },
+          {
+            "key": "6_CR56",
+            "doi-asserted-by": "publisher",
+            "first-page": "L193",
+            "DOI": "10.1088/0264-9381/8/9/001",
+            "volume": "8",
+            "author": "R Floreanini",
+            "year": "1991",
+            "unstructured": "R. Floreanini, R. Percacci, E. Spallucci, Class. Quant. Grav. 8, L193 (1991)",
+            "journal-title": "Class. Quant. Grav."
+          },
+          {
+            "key": "6_CR57",
+            "doi-asserted-by": "crossref",
+            "unstructured": "W. H. Huang, Class. Quant. Grav. 8, 83 (1991)",
+            "DOI": "10.1088/0264-9381/8/1/012"
+          },
+          {
+            "key": "6_CR58",
+            "doi-asserted-by": "crossref",
+            "unstructured": "N. Arkani-Hamed, S. Dimopoulos, G. R. Dvali, Phys. Rev. D 59, 086004 (1999)",
+            "DOI": "10.1103/PhysRevD.59.086004"
+          },
+          {
+            "key": "6_CR59",
+            "doi-asserted-by": "crossref",
+            "unstructured": "T. G. Rizzo, JHEP 0609, 021 (2006)",
+            "DOI": "10.1088/1126-6708/2006/09/021"
+          },
+          {
+            "key": "6_CR60",
+            "doi-asserted-by": "publisher",
+            "first-page": "1229",
+            "DOI": "10.1142/S0217751X09043353",
+            "volume": "24",
+            "author": "P Nicolini",
+            "year": "2009",
+            "unstructured": "P. Nicolini, Int. J. Mod. Phys. A 24, 1229 (2009)",
+            "journal-title": "Int. J. Mod. Phys. A"
+          },
+          {
+            "key": "6_CR61",
+            "doi-asserted-by": "publisher",
+            "first-page": "072",
+            "DOI": "10.1088/1126-6708/2008/11/072",
+            "volume": "0811",
+            "author": "R Casadio",
+            "year": "2008",
+            "unstructured": "R. Casadio, P. Nicolini, JHEP 0811, 072 (2008)",
+            "journal-title": "JHEP"
+          },
+          {
+            "key": "6_CR62",
+            "unstructured": "M. Bleicher, P. Nicolini, in Proceedings of the 14th International Symposium Symmetries in Science, Bregenz, Austria, July 19-24, 2009, ed. by D. Schuch, M. Ramek. J. Phys. Conf. Ser. 237, 012008 (2010)"
+          },
+          {
+            "key": "6_CR63",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1103/PhysRevD.85.106007",
+            "volume": "85",
+            "author": "J Mureika",
+            "year": "2012",
+            "unstructured": "J. Mureika, P. Nicolini, E. Spallucci, Phys. Rev. D 85, 106007 (2012)",
+            "journal-title": "Phys. Rev. D"
+          },
+          {
+            "key": "6_CR64",
+            "doi-asserted-by": "publisher",
+            "first-page": "266",
+            "DOI": "10.1016/j.physletb.2012.02.023",
+            "volume": "709",
+            "author": "E Spallucci",
+            "year": "2012",
+            "unstructured": "E. Spallucci, A. Smailagic, Phys. Lett. B 709, 266 (2012)",
+            "journal-title": "Phys. Lett. B"
+          },
+          {
+            "key": "6_CR65",
+            "unstructured": "P.\u00a0Nicolini, J.\u00a0Mureika, E.\u00a0Spallucci, E.\u00a0Winstanley, M.\u00a0Bleicher, in Proceedings of the 13th Marcel Grossmann Meeting on Recent Developments in Theoretical and Experimental General Relativity, Astrophysics, and Relativistic Field Theories (MG13), ed. by R. Ruffini, R. Jantzen, K. Rosquist (Stockholm, Sweden, 2012). arXiv:1302.2640 [hep-th]"
+          },
+          {
+            "key": "6_CR66",
+            "doi-asserted-by": "publisher",
+            "first-page": "293",
+            "DOI": "10.1007/978-3-319-10852-0_10",
+            "volume": "178",
+            "author": "R Casadio",
+            "year": "2015",
+            "unstructured": "R. Casadio, O. Micu, P. Nicolini, Fundam. Theor. Phys. 178, 293 (2015)",
+            "journal-title": "Fundam. Theor. Phys."
+          },
+          {
+            "key": "6_CR67",
+            "unstructured": "M. A.\u00a0Markov, Sov. Phys. JETP 24, no. 3, 584 (1967)"
+          },
+          {
+            "key": "6_CR68",
+            "doi-asserted-by": "crossref",
+            "unstructured": "M. A. Markov, V.P. Frolov, Teor. Mat. Fiz. 13, 41 (1972)",
+            "DOI": "10.1007/BF01035415"
+          },
+          {
+            "key": "6_CR69",
+            "doi-asserted-by": "crossref",
+            "unstructured": "X. Calmet, Mod. Phys. Lett. A 29, no. 38, 1450204 (2014)",
+            "DOI": "10.1142/S0217732314502046"
+          },
+          {
+            "key": "6_CR70",
+            "doi-asserted-by": "crossref",
+            "unstructured": "X. Calmet, R. Casadio, Eur. Phys. J. C 75, no. 9, 445 (2015)",
+            "DOI": "10.1140/epjc/s10052-015-3668-2"
+          },
+          {
+            "key": "6_CR71",
+            "doi-asserted-by": "publisher",
+            "first-page": "3207",
+            "DOI": "10.1088/0264-9381/19/12/307",
+            "volume": "19",
+            "author": "A Aurilia",
+            "year": "2002",
+            "unstructured": "A. Aurilia, S. Ansoldi, E. Spallucci, Class. Quant. Grav. 19, 3207 (2002)",
+            "journal-title": "Class. Quant. Grav."
+          },
+          {
+            "key": "6_CR72",
+            "unstructured": "P. S. Laplace, Exposition du syst\u00e8me du monde (Cambridge University Press, UK, 1827)"
+          },
+          {
+            "key": "6_CR73",
+            "doi-asserted-by": "crossref",
+            "unstructured": "J. Michell, Phil. Trans. Roy. Sov. 74, 35\u201357 (1784)",
+            "DOI": "10.1098/rstl.1784.0008"
+          }
+        ],
+        "container-title": [
+          "Fundamental Theories of Physics",
+          "Touring the Planck Scale"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-3-031-76066-2_6",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              25
+            ]
+          ],
+          "date-time": "2026-05-25T22:26:46Z",
+          "timestamp": 1779748006000
+        },
+        "score": 27.828419,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/978-3-031-76066-2_6"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783031760655",
+          "9783031760662"
+        ],
+        "references-count": 73,
+        "URL": "https://doi.org/10.1007/978-3-031-76066-2_6",
+        "ISSN": [
+          "0168-1222",
+          "2365-6425"
+        ],
+        "issn-type": [
+          {
+            "value": "0168-1222",
+            "type": "print"
+          },
+          {
+            "value": "2365-6425",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "22 August 2025",
+            "order": 1,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ChapterHistory",
+              "label": "Chapter History"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              6
+            ]
+          ],
+          "date-time": "2024-09-06T05:47:53Z",
+          "timestamp": 1725601673555
+        },
+        "publisher-location": "Basel",
+        "reference-count": 27,
+        "publisher": "Birkh\u00e4user Basel",
+        "isbn-type": [
+          {
+            "type": "print",
+            "value": "9783034896184"
+          },
+          {
+            "type": "electronic",
+            "value": "9783034879071"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2003
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-3-0348-7907-1_3",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2011,
+              8,
+              22
+            ]
+          ],
+          "date-time": "2011-08-22T00:25:51Z",
+          "timestamp": 1313972751000
+        },
+        "page": "15-30",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Probing Physics at the Planck Scale"
+        ],
+        "prefix": "10.1007",
+        "author": [
+          {
+            "given": "G. G.",
+            "family": "Ross",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "reference": [
+          {
+            "unstructured": "For introductory reviews of the Standard Model see: M. Veltman, \u201cGauge Theories,\u201d In Fraser, G. (ed.): The particle century, Bristol, UK: IOP (1998) 46\u201356; G. Altarelli, \u201cHow The Standard Model Works,\u201d In Fraser, G. (ed.): The particle century, Bristol, UK: IOP (1998) 127\u2013141.",
+            "key": "3_CR1"
+          },
+          {
+            "key": "3_CR2",
+            "first-page": "155",
+            "volume-title": "The particle century, Bristol",
+            "author": "G Ross",
+            "year": "1998",
+            "unstructured": "G. Ross, \u201cThe Standard Model and Beyond,\u201d In Fraser, G. (ed.): The particle century, Bristol, UK: IOP (1998) 155\u2013168."
+          },
+          {
+            "key": "3_CR3",
+            "first-page": "196",
+            "volume-title": "The particle century, Bristol",
+            "author": "C Rubbia",
+            "year": "1998",
+            "unstructured": "C. Rubbia, \u201cHunting the carriers of the weak force,\u201d In Fraser, G. (ed.): The particle century, Bristol, UK: IOP (1998) 196\u2013104."
+          },
+          {
+            "key": "3_CR4",
+            "first-page": "116",
+            "volume-title": "The particle century, Bristol",
+            "author": "SL Wu",
+            "year": "1998",
+            "unstructured": "S.L. Wu, \u201cQuark Glue,\u201d In Fraser, G. (ed.): The particle century, Bristol, UK: IOP (1998) 116\u2013126."
+          },
+          {
+            "doi-asserted-by": "crossref",
+            "unstructured": "G. AltarelliAnn. Rev. Nuc. Part. Sci.39(1989);",
+            "key": "#cr-split#-3_CR5.1",
+            "DOI": "10.1146/annurev.ns.39.120189.002041"
+          },
+          {
+            "unstructured": "S. BethkeJ. Phys. G 26(2000).",
+            "key": "#cr-split#-3_CR5.2"
+          },
+          {
+            "unstructured": "H. Georgi and S.L. GlashowPhys. Rev. Lett.32438 (1974);",
+            "key": "#cr-split#-3_CR6.1"
+          },
+          {
+            "unstructured": "Nucl. Phys. B 193150 (1981).",
+            "key": "#cr-split#-3_CR6.2"
+          },
+          {
+            "unstructured": "For general reviews of GUTs see: P. LangackerPhysics Reports 72185 (1981);",
+            "key": "#cr-split#-3_CR7.1"
+          },
+          {
+            "unstructured": "G.G. Ross, Grand Unified Theories, Benjamin/Cummings (1984);",
+            "key": "#cr-split#-3_CR7.2"
+          },
+          {
+            "doi-asserted-by": "crossref",
+            "unstructured": "R.N. Mohapatra, Unification and Supersymmetry, Springer-Verlag, (1992).",
+            "key": "#cr-split#-3_CR7.3",
+            "DOI": "10.1007/978-1-4757-4373-9"
+          },
+          {
+            "unstructured": "For reviews see: J. Wess and J. Bagger, Supersymmetry and Supergravity (Princeton University Press, 1993); H.-P. NillesPhys. Rep.1101 (1984);",
+            "key": "#cr-split#-3_CR8.1"
+          },
+          {
+            "unstructured": "H.E. Haber and G.L. KanePhys. Rep.11775 (1985).",
+            "key": "#cr-split#-3_CR8.2"
+          },
+          {
+            "key": "3_CR9",
+            "doi-asserted-by": "publisher",
+            "first-page": "451",
+            "DOI": "10.1103/PhysRevLett.33.451",
+            "volume": "33",
+            "author": "H Georgi",
+            "year": "1974",
+            "unstructured": "H. Georgi, H.R. Quinn, S. WeinbergPhys. Rev. Lett.33451 (1974).",
+            "journal-title": "Phys. Rev. Lett."
+          },
+          {
+            "unstructured": "S. Dimopoulos, S. Raby and F. WilczekPhys. Rev. D 241681 (1981);",
+            "key": "#cr-split#-3_CR10.1"
+          },
+          {
+            "unstructured": "L.E. Ibanez and G.G. RossPhys. Lett.105B439 (1982);",
+            "key": "#cr-split#-3_CR10.2"
+          },
+          {
+            "unstructured": "M. Einhorn and D.R.T. JonesNucl. Phys. B 196475 (1982).",
+            "key": "#cr-split#-3_CR10.3"
+          },
+          {
+            "key": "3_CR11",
+            "doi-asserted-by": "publisher",
+            "first-page": "165",
+            "DOI": "10.1016/S0370-2693(98)01212-X",
+            "volume": "442",
+            "author": "D Ghilencea",
+            "year": "1998",
+            "unstructured": "D. Ghilencea and G. G. RossPhys. Lett. B 442165 (1998) [arXiv:hepph/9809217].",
+            "journal-title": "Phys. Lett. B"
+          },
+          {
+            "unstructured": "For a general review of string theories see M.B. Green, J.H. Schwarz, and E. Witten\u201cSuperstring Theory\u201dCambridge University Press, 1988; J. Polchinski, \u201cString Theory\u201d, Cambridge, UK: Univ. Pr. (1998).",
+            "key": "3_CR12"
+          },
+          {
+            "key": "3_CR13",
+            "doi-asserted-by": "publisher",
+            "first-page": "109",
+            "DOI": "10.1016/0550-3213(94)00559-W",
+            "volume": "438",
+            "author": "CM Hull",
+            "year": "1995",
+            "unstructured": "C. M. Hull and P. K. TownsendNucl. Phys. B438, 109 (1995) [hepth/9410167].",
+            "journal-title": "Nucl. Phys"
+          },
+          {
+            "key": "3_CR14",
+            "doi-asserted-by": "publisher",
+            "first-page": "85",
+            "DOI": "10.1016/0550-3213(95)00158-O",
+            "volume": "B443",
+            "author": "E Witten",
+            "year": "1995",
+            "unstructured": "E. WittenNucl. Phys.B44385 (1995) [hep-th/9503124].",
+            "journal-title": "Nucl. Phys."
+          },
+          {
+            "unstructured": "P. Horava and E. WittenNucl. Phys. B 47594 (1995);",
+            "key": "#cr-split#-3_CR15.1"
+          },
+          {
+            "unstructured": "P. HoravaPhys. Rev. D 547561 (1996).",
+            "key": "#cr-split#-3_CR15.2"
+          },
+          {
+            "key": "3_CR16",
+            "doi-asserted-by": "publisher",
+            "first-page": "135",
+            "DOI": "10.1016/0550-3213(96)00190-3",
+            "volume": "471",
+            "author": "E Witten",
+            "year": "1996",
+            "unstructured": "E. WittenNucl. Phys. B 471135 (1996).",
+            "journal-title": "Nucl. Phys. B"
+          },
+          {
+            "unstructured": "N. Arkani-Hamed, S. Dimopoulos and G. DvaliPhys. Lett. B 429263 (1998);",
+            "key": "#cr-split#-3_CR17.1"
+          },
+          {
+            "unstructured": "Phys. Rev. D 59086004 (1999).;",
+            "key": "#cr-split#-3_CR17.2"
+          },
+          {
+            "unstructured": "I. Antoniadis, N. Arkani-Hamed, S. Dimopoulos and G. DvaliPhys. Lett B 426257 (1998).",
+            "key": "#cr-split#-3_CR17.3"
+          }
+        ],
+        "container-title": [
+          "International Conference on Theoretical Physics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/978-3-0348-7907-1_3",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              6,
+              14
+            ]
+          ],
+          "date-time": "2019-06-14T06:53:01Z",
+          "timestamp": 1560495181000
+        },
+        "score": 27.679132,
+        "resource": {
+          "primary": {
+            "URL": "http://link.springer.com/10.1007/978-3-0348-7907-1_3"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2003
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783034896184",
+          "9783034879071"
+        ],
+        "references-count": 27,
+        "URL": "https://doi.org/10.1007/978-3-0348-7907-1_3",
+        "published": {
+          "date-parts": [
+            [
+              2003
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              5
+            ]
+          ],
+          "date-time": "2024-09-05T02:37:21Z",
+          "timestamp": 1725503841104
+        },
+        "reference-count": 0,
+        "publisher": "WORLD SCIENTIFIC",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1993,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.1142/9789814536653",
+        "type": "proceedings-article",
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              12,
+              18
+            ]
+          ],
+          "date-time": "2017-12-18T08:25:20Z",
+          "timestamp": 1513585520000
+        },
+        "page": "1-604",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "String Quantum Gravity and Physics at the Planck Energy Scale"
+        ],
+        "prefix": "10.1142",
+        "author": [
+          {
+            "given": "N.",
+            "family": "Sanchez",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Observatoire de Paris, Section d'Astrophysique de Meudon, DEMIRM, 92195 Meudon Principal Cedex, France"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "219",
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              12,
+              18
+            ]
+          ]
+        },
+        "event": {
+          "name": "International Workshop on Theoretical Physics",
+          "location": "Erice, Italy"
+        },
+        "container-title": [
+          "String Quantum Gravity and Physics at the Planck Energy Scale"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              19
+            ]
+          ],
+          "date-time": "2018-11-19T08:04:18Z",
+          "timestamp": 1542614658000
+        },
+        "score": 27.363523,
+        "resource": {
+          "primary": {
+            "URL": "https://www.worldscientific.com/doi/abs/10.1142/9789814536653"
+          }
+        },
+        "subtitle": [
+          "International Workshop on Theoretical Physics"
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              1993,
+              8
+            ]
+          ]
+        },
+        "references-count": 0,
+        "alternative-id": [
+          "10.1142/9789814536653",
+          "10.1142/1830"
+        ],
+        "URL": "https://doi.org/10.1142/9789814536653",
+        "published": {
+          "date-parts": [
+            [
+              1993,
+              8
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              25
+            ]
+          ],
+          "date-time": "2026-05-25T23:03:10Z",
+          "timestamp": 1779750190155,
+          "version": "3.53.1"
+        },
+        "publisher-location": "Cham",
+        "reference-count": 0,
+        "publisher": "Springer Nature Switzerland",
+        "isbn-type": [
+          {
+            "value": "9783031760655",
+            "type": "print"
+          },
+          {
+            "value": "9783031760662",
+            "type": "electronic"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2025-01-01T00:00:00Z",
+              "timestamp": 1735689600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2025-01-01T00:00:00Z",
+              "timestamp": 1735689600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-3-031-76066-2",
+        "type": "book",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              21
+            ]
+          ],
+          "date-time": "2025-08-21T07:30:30Z",
+          "timestamp": 1755761430000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Touring the Planck Scale"
+        ],
+        "prefix": "10.1007",
+        "member": "297",
+        "container-title": [
+          "Fundamental Theories of Physics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-3-031-76066-2.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-3-031-76066-2",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              25
+            ]
+          ],
+          "date-time": "2026-05-25T22:25:43Z",
+          "timestamp": 1779747943000
+        },
+        "score": 27.236034,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/978-3-031-76066-2"
+          }
+        },
+        "subtitle": [
+          "Antonio Aurilia Memorial Volume"
+        ],
+        "editor": [
+          {
+            "given": "Piero",
+            "family": "Nicolini",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "editor"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783031760655",
+          "9783031760662"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1007/978-3-031-76066-2",
+        "ISSN": [
+          "0168-1222",
+          "2365-6425"
+        ],
+        "issn-type": [
+          {
+            "value": "0168-1222",
+            "type": "print"
+          },
+          {
+            "value": "2365-6425",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 10,
+    "query": {
+      "start-index": 0,
+      "search-terms": "hbar=c=G=k_B=1 Planck scale fundamental physics"
+    }
+  }
+}

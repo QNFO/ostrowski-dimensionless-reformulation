@@ -1,0 +1,1424 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 10481601,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2026-08-01T18:46:48Z",
+          "timestamp": 1785610008056,
+          "version": "3.56.0"
+        },
+        "reference-count": 0,
+        "publisher": "American Association of Physics Teachers (AAPT)",
+        "issue": "12",
+        "content-domain": {
+          "domain": [
+            "pubs.aip.org"
+          ],
+          "crossmark-restriction": true
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1972,
+              12,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Working from a simple example of a dimensional transformation, the essential elements are identified, and an abstract prototype transformation is defined. With the aid of careful definitions and a geometric interpretation of what happens in a dimensional transformation the Buckingham pi theorem is written down but not proved. The application of this theorem to the heat equation in spherical coordinates and one dimensional gas motion without boundary conditions serve to illustrate the usefulness of the theorem in physics.</jats:p>",
+        "DOI": "10.1119/1.1987069",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2005,
+              8,
+              22
+            ]
+          ],
+          "date-time": "2005-08-22T18:01:09Z",
+          "timestamp": 1124733669000
+        },
+        "page": "1815-1822",
+        "update-policy": "https://doi.org/10.1063/aip-crossmark-policy-page",
+        "source": "Crossref",
+        "is-referenced-by-count": 96,
+        "title": [
+          "Dimensional Analysis and the Buckingham Pi Theorem"
+        ],
+        "prefix": "10.1119",
+        "volume": "40",
+        "author": [
+          {
+            "given": "John H.",
+            "family": "Evans",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Department of Physics and Astronomy, University of Wisconsin, Oshkosh, Wisconsin 54901"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "3",
+        "published-online": {
+          "date-parts": [
+            [
+              2005,
+              7,
+              7
+            ]
+          ]
+        },
+        "container-title": [
+          "American Journal of Physics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://pubs.aip.org/aapt/ajp/article-pdf/40/12/1815/11505368/1815_1_online.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          },
+          {
+            "URL": "https://pubs.aip.org/aapt/ajp/article-pdf/40/12/1815/11505368/1815_1_online.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              7,
+              12
+            ]
+          ],
+          "date-time": "2023-07-12T21:34:48Z",
+          "timestamp": 1689197688000
+        },
+        "score": 43.911076,
+        "resource": {
+          "primary": {
+            "URL": "https://pubs.aip.org/ajp/article/40/12/1815/527532/Dimensional-Analysis-and-the-Buckingham-Pi-Theorem"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1972,
+              12,
+              1
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "12",
+          "published-online": {
+            "date-parts": [
+              [
+                2005,
+                7,
+                7
+              ]
+            ]
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                1972,
+                12,
+                1
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1119/1.1987069",
+        "ISSN": [
+          "0002-9505",
+          "1943-2909"
+        ],
+        "issn-type": [
+          {
+            "value": "0002-9505",
+            "type": "print"
+          },
+          {
+            "value": "1943-2909",
+            "type": "electronic"
+          }
+        ],
+        "published-other": {
+          "date-parts": [
+            [
+              1972,
+              12
+            ]
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              1972,
+              12,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              21
+            ]
+          ],
+          "date-time": "2026-05-21T17:29:32Z",
+          "timestamp": 1779384572346,
+          "version": "3.53.1"
+        },
+        "reference-count": 0,
+        "publisher": "Wiley",
+        "content-domain": {
+          "domain": []
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              24
+            ]
+          ]
+        },
+        "DOI": "10.1002/cjce.70017/v1/review1",
+        "type": "peer-review",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2025-09-30T23:12:26Z",
+          "timestamp": 1759273946000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Review for \"Introducing a mathematical workflow for scaling\u2010up the cyclic solvent injection process: Experimental studies and dimensional analysis utilizing Buckingham pi theorem\""
+        ],
+        "prefix": "10.1002",
+        "member": "311",
+        "review": {
+          "type": "referee-report",
+          "running-number": "PR1V1",
+          "revision-round": "1",
+          "stage": "pre-publication"
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2025-09-30T23:12:27Z",
+          "timestamp": 1759273947000
+        },
+        "score": 39.370853,
+        "resource": {
+          "primary": {
+            "URL": "https://www.webofscience.com/api/gateway/wos/peer-review/10.1002/CJCE.70017"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              24
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1002/cjce.70017/v1/review1",
+        "relation": {
+          "is-review-of": [
+            {
+              "id-type": "doi",
+              "id": "10.1002/CJCE.70017",
+              "asserted-by": "subject"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              24
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              21
+            ]
+          ],
+          "date-time": "2026-05-21T20:52:41Z",
+          "timestamp": 1779396761495,
+          "version": "3.53.1"
+        },
+        "reference-count": 0,
+        "publisher": "Wiley",
+        "content-domain": {
+          "domain": []
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              19
+            ]
+          ]
+        },
+        "DOI": "10.1002/cjce.70017/v1/review2",
+        "type": "peer-review",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2025-09-30T23:12:26Z",
+          "timestamp": 1759273946000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Review for \"Introducing a mathematical workflow for scaling\u2010up the cyclic solvent injection process: Experimental studies and dimensional analysis utilizing Buckingham pi theorem\""
+        ],
+        "prefix": "10.1002",
+        "member": "311",
+        "review": {
+          "type": "referee-report",
+          "running-number": "PR2V1",
+          "revision-round": "1",
+          "stage": "pre-publication"
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2025-09-30T23:12:27Z",
+          "timestamp": 1759273947000
+        },
+        "score": 39.2651,
+        "resource": {
+          "primary": {
+            "URL": "https://www.webofscience.com/api/gateway/wos/peer-review/10.1002/CJCE.70017"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              19
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1002/cjce.70017/v1/review2",
+        "relation": {
+          "is-review-of": [
+            {
+              "id-type": "doi",
+              "id": "10.1002/CJCE.70017",
+              "asserted-by": "subject"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              19
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              21
+            ]
+          ],
+          "date-time": "2026-05-21T17:49:05Z",
+          "timestamp": 1779385745759,
+          "version": "3.53.1"
+        },
+        "reference-count": 0,
+        "publisher": "Wiley",
+        "content-domain": {
+          "domain": []
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              30
+            ]
+          ]
+        },
+        "DOI": "10.1002/cjce.70017/v2/review1",
+        "type": "peer-review",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2025-09-30T23:12:26Z",
+          "timestamp": 1759273946000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Review for \"Introducing a mathematical workflow for scaling\u2010up the cyclic solvent injection process: Experimental studies and dimensional analysis utilizing Buckingham pi theorem\""
+        ],
+        "prefix": "10.1002",
+        "member": "311",
+        "review": {
+          "type": "referee-report",
+          "running-number": "PR3V2",
+          "revision-round": "2",
+          "stage": "pre-publication"
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2025-09-30T23:12:26Z",
+          "timestamp": 1759273946000
+        },
+        "score": 39.142693,
+        "resource": {
+          "primary": {
+            "URL": "https://www.webofscience.com/api/gateway/wos/peer-review/10.1002/CJCE.70017"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              30
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1002/cjce.70017/v2/review1",
+        "relation": {
+          "is-review-of": [
+            {
+              "id-type": "doi",
+              "id": "10.1002/CJCE.70017",
+              "asserted-by": "subject"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              21
+            ]
+          ],
+          "date-time": "2026-05-21T19:07:58Z",
+          "timestamp": 1779390478725,
+          "version": "3.53.1"
+        },
+        "reference-count": 0,
+        "publisher": "Wiley",
+        "content-domain": {
+          "domain": []
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              30
+            ]
+          ]
+        },
+        "DOI": "10.1002/cjce.70017/v2/review2",
+        "type": "peer-review",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2025-09-30T23:12:26Z",
+          "timestamp": 1759273946000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Review for \"Introducing a mathematical workflow for scaling\u2010up the cyclic solvent injection process: Experimental studies and dimensional analysis utilizing Buckingham pi theorem\""
+        ],
+        "prefix": "10.1002",
+        "member": "311",
+        "review": {
+          "type": "referee-report",
+          "running-number": "PR4V2",
+          "revision-round": "2",
+          "stage": "pre-publication"
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2025-09-30T23:12:26Z",
+          "timestamp": 1759273946000
+        },
+        "score": 39.112648,
+        "resource": {
+          "primary": {
+            "URL": "https://www.webofscience.com/api/gateway/wos/peer-review/10.1002/CJCE.70017"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              30
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1002/cjce.70017/v2/review2",
+        "relation": {
+          "is-review-of": [
+            {
+              "id-type": "doi",
+              "id": "10.1002/CJCE.70017",
+              "asserted-by": "subject"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              21
+            ]
+          ],
+          "date-time": "2026-05-21T20:36:49Z",
+          "timestamp": 1779395809779,
+          "version": "3.53.1"
+        },
+        "reference-count": 0,
+        "publisher": "Wiley",
+        "content-domain": {
+          "domain": []
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1002/cjce.70017/v2/decision1",
+        "type": "peer-review",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2025-09-30T23:12:26Z",
+          "timestamp": 1759273946000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Decision letter for \"Introducing a mathematical workflow for scaling\u2010up the cyclic solvent injection process: Experimental studies and dimensional analysis utilizing Buckingham pi theorem\""
+        ],
+        "prefix": "10.1002",
+        "member": "311",
+        "review": {
+          "type": "editor-report",
+          "running-number": "E1V2",
+          "revision-round": "2",
+          "stage": "pre-publication"
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2025-09-30T23:12:26Z",
+          "timestamp": 1759273946000
+        },
+        "score": 36.944386,
+        "resource": {
+          "primary": {
+            "URL": "https://www.webofscience.com/api/gateway/wos/peer-review/10.1002/CJCE.70017"
+          }
+        },
+        "editor": [
+          {
+            "family": "Thomas A. Adams II",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "editor"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              31
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1002/cjce.70017/v2/decision1",
+        "relation": {
+          "is-review-of": [
+            {
+              "id-type": "doi",
+              "id": "10.1002/CJCE.70017",
+              "asserted-by": "subject"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              21
+            ]
+          ],
+          "date-time": "2026-05-21T20:28:00Z",
+          "timestamp": 1779395280302,
+          "version": "3.53.1"
+        },
+        "reference-count": 0,
+        "publisher": "Wiley",
+        "content-domain": {
+          "domain": []
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1002/cjce.70017/v1/decision1",
+        "type": "peer-review",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2025-09-30T23:12:26Z",
+          "timestamp": 1759273946000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Decision letter for \"Introducing a mathematical workflow for scaling\u2010up the cyclic solvent injection process: Experimental studies and dimensional analysis utilizing Buckingham pi theorem\""
+        ],
+        "prefix": "10.1002",
+        "member": "311",
+        "review": {
+          "type": "editor-report",
+          "running-number": "E1V1",
+          "revision-round": "1",
+          "stage": "pre-publication"
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2025-09-30T23:12:27Z",
+          "timestamp": 1759273947000
+        },
+        "score": 36.79746,
+        "resource": {
+          "primary": {
+            "URL": "https://www.webofscience.com/api/gateway/wos/peer-review/10.1002/CJCE.70017"
+          }
+        },
+        "editor": [
+          {
+            "family": "Thomas A. Adams II",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "editor"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              31
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1002/cjce.70017/v1/decision1",
+        "relation": {
+          "is-review-of": [
+            {
+              "id-type": "doi",
+              "id": "10.1002/CJCE.70017",
+              "asserted-by": "subject"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              8
+            ]
+          ],
+          "date-time": "2026-05-08T05:30:49Z",
+          "timestamp": 1778218249681,
+          "version": "3.51.4"
+        },
+        "reference-count": 13,
+        "publisher": "Elsevier BV",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2014,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2014-01-01T00:00:00Z",
+              "timestamp": 1388534400000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2014,
+                  12,
+                  30
+                ]
+              ],
+              "date-time": "2014-12-30T00:00:00Z",
+              "timestamp": 1419897600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 363,
+            "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "elsevier.com",
+            "sciencedirect.com"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "Procedia Engineering"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.proeng.2014.12.410",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              30
+            ]
+          ],
+          "date-time": "2014-12-30T14:30:16Z",
+          "timestamp": 1419949816000
+        },
+        "page": "1305-1311",
+        "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 34,
+        "special_numbering": "C",
+        "title": [
+          "Theoretical Investigations on Dimensional Analysis of Ball Bearing Parameters by Using Buckingham Pi-Theorem"
+        ],
+        "prefix": "10.1016",
+        "volume": "97",
+        "author": [
+          {
+            "given": "G. Maheedhara",
+            "family": "Reddy",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "V. Diwakar",
+            "family": "Reddy",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "key": "10.1016/j.proeng.2014.12.410_bib0005",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Josef Kunes, Similarity and modelling in science and Engineering, Springer, Cambridge International Science Publishing, 2012.",
+            "DOI": "10.1007/978-1-907343-78-0"
+          },
+          {
+            "key": "10.1016/j.proeng.2014.12.410_bib0010",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Oscar Pinkus, The Reynolds Centennial: A Brief History of the Theory of Hydrodynamic Lubrication, ASME Trans., Vol. 109, PP. 2-20, Jan. 1987.",
+            "DOI": "10.1115/1.3261322"
+          },
+          {
+            "key": "10.1016/j.proeng.2014.12.410_bib0015",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Cameron, A., and Wood, L., The Full Journal Bearing, Proceedings of Institution of Mechanical Engineers (London), Vol. 161, pp. 59, 1949.",
+            "DOI": "10.1243/PIME_PROC_1949_161_010_02"
+          },
+          {
+            "key": "10.1016/j.proeng.2014.12.410_bib0020",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wilcock, D.F. and Pinkus, O., Effect of Turbulence and Viscosity Variation on Dynamic Coefficients of Fluid Film Journal Bearings, ASME Transactions, Jl. of Tribology, Vol. 107, pp. 256-262, 1985.",
+            "DOI": "10.1115/1.3261038"
+          },
+          {
+            "key": "10.1016/j.proeng.2014.12.410_bib0025",
+            "unstructured": "Petrusevich A.I. \u2018Fundamental conclusions from the contact-hydrodynamic theoryof lubrication.\u2019 Izv. Akad. Nauk. SSSR (OTN), Vol 2, p. 209, 1951."
+          },
+          {
+            "key": "10.1016/j.proeng.2014.12.410_bib0030",
+            "unstructured": "Ocvirk, F.W., Short Bearing Approximation for Full Journal Bearings, NACA, TN - 2808, 1952."
+          },
+          {
+            "key": "10.1016/j.proeng.2014.12.410_bib0035",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Oliver, D.R., Load Enhancement Effects due to Polymer Thickening in a Short Model Journal Bearing, Journal of Non-Newtonian Fluid Mechanics, Vol. 30, pp.185-196, 1988.",
+            "DOI": "10.1016/0377-0257(88)85024-9"
+          },
+          {
+            "key": "10.1016/j.proeng.2014.12.410_bib0040",
+            "unstructured": "Sommerfeld, A., Z. Math. Phy.,Gaussian algorithm for solving finite difference equations of Reynolds equation. Vol. 50, pp. 77-155, 1904."
+          },
+          {
+            "key": "10.1016/j.proeng.2014.12.410_bib0045",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wilcock, D.F. and Pinkus, O., Effect of Turbulence and Viscosity Variation on Dynamic Coefficients of Fluid Film Journal Bearings, ASME Transactions, Jl. of Tribology, Vol. 107, pp. 256-262, 1985.",
+            "DOI": "10.1115/1.3261038"
+          },
+          {
+            "key": "10.1016/j.proeng.2014.12.410_bib0050",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Raimondi, A.A. and Boyd, J., A Solution for the Finite Journal Bearing and Its Application to Analysis and Design-III, ASLE Transactions, Vol. 1, No. 1, 1958.",
+            "DOI": "10.1080/05698195808972330"
+          },
+          {
+            "key": "10.1016/j.proeng.2014.12.410_bib0055",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Goneka, P.K. and Booker, J.F., Spherical Bearings: Static and Dynamic Analysis via Finite Element Method, ASME Jl. of Lubrication Technology, Vol. 102, pp. 308-319, 1980.",
+            "DOI": "10.1115/1.3251522"
+          },
+          {
+            "key": "10.1016/j.proeng.2014.12.410_bib0060",
+            "unstructured": "Ng, C.W. and Pan, C.H. T., A Linearised Turbulent Lubrication Theory, ASME Journal of Basic Engineering, pp. 625-688, Sep. 1965."
+          },
+          {
+            "key": "10.1016/j.proeng.2014.12.410_bib0065",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lund, J.W., The Stability of an Elastic Rotor in Journal Bearing with Flexible Damped Supports, ASME Journal of Applied Mechanics, pp. 911-92, Dec. 1965.",
+            "DOI": "10.1115/1.3627335"
+          }
+        ],
+        "container-title": [
+          "Procedia Engineering"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S187770581403478X?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S187770581403478X?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              8,
+              19
+            ]
+          ],
+          "date-time": "2019-08-19T02:48:58Z",
+          "timestamp": 1566182938000
+        },
+        "score": 35.553635,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S187770581403478X"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "references-count": 13,
+        "alternative-id": [
+          "S187770581403478X"
+        ],
+        "URL": "https://doi.org/10.1016/j.proeng.2014.12.410",
+        "ISSN": [
+          "1877-7058"
+        ],
+        "issn-type": [
+          {
+            "value": "1877-7058",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+          },
+          {
+            "value": "Theoretical Investigations on Dimensional Analysis of Ball Bearing Parameters by Using Buckingham Pi-Theorem",
+            "name": "articletitle",
+            "label": "Article Title"
+          },
+          {
+            "value": "Procedia Engineering",
+            "name": "journaltitle",
+            "label": "Journal Title"
+          },
+          {
+            "value": "https://doi.org/10.1016/j.proeng.2014.12.410",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+          },
+          {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+          },
+          {
+            "value": "Copyright \u00a9 2014 Published by Elsevier Ltd.",
+            "name": "copyright",
+            "label": "Copyright"
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              21
+            ]
+          ],
+          "date-time": "2026-05-21T20:23:55Z",
+          "timestamp": 1779395035171,
+          "version": "3.53.1"
+        },
+        "reference-count": 0,
+        "publisher": "Wiley",
+        "content-domain": {
+          "domain": []
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              24
+            ]
+          ]
+        },
+        "DOI": "10.1002/cjce.70017/v2/response1",
+        "type": "peer-review",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2025-09-30T23:12:26Z",
+          "timestamp": 1759273946000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Author response for \"Introducing a mathematical workflow for scaling\u2010up the cyclic solvent injection process: Experimental studies and dimensional analysis utilizing Buckingham pi theorem\""
+        ],
+        "prefix": "10.1002",
+        "author": [
+          {
+            "family": "Ali Cheperli",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "family": "Farshid Torabi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "family": "Morteza Sabeti",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "family": "Yousef Shafiei",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "311",
+        "review": {
+          "type": "author-comment",
+          "running-number": "A1V2",
+          "revision-round": "2",
+          "stage": "pre-publication"
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2025-09-30T23:12:27Z",
+          "timestamp": 1759273947000
+        },
+        "score": 35.125103,
+        "resource": {
+          "primary": {
+            "URL": "https://www.webofscience.com/api/gateway/wos/peer-review/10.1002/CJCE.70017"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              24
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1002/cjce.70017/v2/response1",
+        "relation": {
+          "is-review-of": [
+            {
+              "id-type": "doi",
+              "id": "10.1002/CJCE.70017",
+              "asserted-by": "subject"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              24
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              27
+            ]
+          ],
+          "date-time": "2025-03-27T10:28:48Z",
+          "timestamp": 1743071328699,
+          "version": "3.40.3"
+        },
+        "publisher-location": "Cham",
+        "reference-count": 0,
+        "publisher": "Springer International Publishing",
+        "isbn-type": [
+          {
+            "type": "print",
+            "value": "9783031796968"
+          },
+          {
+            "type": "electronic",
+            "value": "9783031796975"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2021-01-01T00:00:00Z",
+              "timestamp": 1609459200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springer.com/tdm"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2021-01-01T00:00:00Z",
+              "timestamp": 1609459200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springer.com/tdm"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-3-031-79697-5_11",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              5
+            ]
+          ],
+          "date-time": "2022-06-05T23:09:03Z",
+          "timestamp": 1654470543000
+        },
+        "page": "39-41",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Topic FM-11: Dimensional Analysis and Buckingham Pi Theorem"
+        ],
+        "prefix": "10.1007",
+        "author": [
+          {
+            "given": "Sayavur I.",
+            "family": "Bakhtiyarov",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "container-title": [
+          "Synthesis Lectures on Mechanical Engineering",
+          "Solving Practical Engineering Mechanics Problems: Fluid Mechanics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-3-031-79697-5_11",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              10,
+              3
+            ]
+          ],
+          "date-time": "2022-10-03T21:09:08Z",
+          "timestamp": 1664831348000
+        },
+        "score": 34.724014,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/978-3-031-79697-5_11"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783031796968",
+          "9783031796975"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1007/978-3-031-79697-5_11",
+        "ISSN": [
+          "2573-3168",
+          "2573-3176"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "2573-3168"
+          },
+          {
+            "type": "electronic",
+            "value": "2573-3176"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2021
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 10,
+    "query": {
+      "start-index": 0,
+      "search-terms": "dimensional analysis Buckingham Pi theorem physics reformulation"
+    }
+  }
+}

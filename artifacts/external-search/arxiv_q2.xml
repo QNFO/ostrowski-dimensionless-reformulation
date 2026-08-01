@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/9ylZ7/5u7q0XJpfokJvBKOBai0o</id>
+  <title>arXiv Query: search_query=ti:natural AND ti:units AND ti:fundamental&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-08-01T21:54:17Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:natural+AND+(ti:units+AND+ti:fundamental)&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/1112.6332v1</id>
+    <title>The physical basis of natural units and truly fundamental constants</title>
+    <updated>2011-12-19T18:07:37Z</updated>
+    <link href="https://arxiv.org/abs/1112.6332v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1112.6332v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The natural unit system, in which the value of fundamental constants such as c and h are set equal to one and all quantities are expressed in terms of a single unit, is usually introduced as a calculational convenience. However, we demonstrate that this system of natural units has a physical justification as well. We discuss and review the natural units, including definitions for each of the seven base units in the International System of Units (SI) in terms of a single unit. We also review the fundamental constants, which can be classified as units-dependent or units-independent. Units-independent constants, whose values are not determined by human conventions of units, may be interpreted as inherent constants of nature.</summary>
+    <category term="physics.pop-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ed-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2011-12-19T18:07:37Z</published>
+    <arxiv:comment>17 pages, to be published in European Physical Journal-Plus, The final publication is available at www.epj.org</arxiv:comment>
+    <arxiv:primary_category term="physics.pop-ph"/>
+    <arxiv:journal_ref>Eur. Phys. J. Plus (2012) 127:11</arxiv:journal_ref>
+    <author>
+      <name>Leonardo Hsu</name>
+    </author>
+    <author>
+      <name>Jong-Ping Hsu</name>
+    </author>
+    <arxiv:doi>10.1140/epjp/i2012-12011-5</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1140/epjp/i2012-12011-5" title="doi"/>
+  </entry>
+</feed>

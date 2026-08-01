@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/L4H9IJgu43TOY+jUxZiYIPQDlCk</id>
+  <title>arXiv Query: search_query=abs:Ostrowski AND abs:physics&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-08-01T21:54:24Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=abs:Ostrowski+AND+abs:physics&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>3</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/math/0605430v3</id>
+    <title>Analytical and differential - algebraic properties of Gamma function</title>
+    <updated>2008-04-15T08:50:20Z</updated>
+    <link href="https://arxiv.org/abs/math/0605430v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/math/0605430v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  In this paper we consider some analytical relations between gamma function $Γ(z)$ and related functions such as the Kurepa's function $K(z)$ and alternating Kurepa's function $A(z)$. It is well-known in the physics that the Casimir energy is defined by the principal part of the Riemann function $ζ(z)$ (Blau, Visser, Wipf; Elizalde). Analogously, we consider the principal parts for functions $Γ(z)$, $K(z)$, $A(z)$ and we also define and consider the principal part for arbitrary meromorphic functions. Next, in this paper we consider some differential-algebraic $($d.a.$)$ properties of functions $Γ(z)$, $ζ(z)$, $K(z)$, $A(z)$. As it is well-known (H\" older; Ostrowski) $Γ(z)$ is not a solution of any d.a. equation. It appears that this property of $Γ(z)$ is universal. Namely, a large class of solutions of functional differential equations also has that property. Proof of these facts is reduced, by the use of the theory of differential algebraic fields (Ritt; Kaplansky; Kolchin), to the d.a. transcendency of $Γ(z)$.</summary>
+    <category term="math.GM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2006-05-16T11:53:46Z</published>
+    <arxiv:comment>Paper by invitation for The Special Volume dedicated to the Tricentennial Birthday Anniversary of L. Euler, 2007</arxiv:comment>
+    <arxiv:primary_category term="math.GM"/>
+    <arxiv:journal_ref>International Journal of Applied Mathematics &amp; Statistics, Vol.11, No. 7, November 2007, 118-129</arxiv:journal_ref>
+    <author>
+      <name>Zarko Mijajlovic</name>
+    </author>
+    <author>
+      <name>Branko Malesevic</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2501.10603v1</id>
+    <title>Matrix Ordering through Spectral and Nilpotent Structures in Totally Ordered Complex Number Fields</title>
+    <updated>2025-01-17T23:34:17Z</updated>
+    <link href="https://arxiv.org/abs/2501.10603v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2501.10603v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Matrix inequalities play a pivotal role in mathematics, generalizing scalar inequalities and providing insights into linear operator structures. However, the widely used Löwner ordering, which relies on real-valued eigenvalues, is limited to Hermitian matrices, restricting its applicability to non-Hermitian systems increasingly relevant in fields like non-Hermitian physics. To overcome this, we develop a total ordering relation for complex numbers, enabling comparisons of the spectral components of general matrices with complex eigenvalues. Building on this, we introduce the Spectral and Nilpotent Ordering (SNO), a partial order for arbitrary matrices of the same dimensions. We further establish a theoretical framework for majorization ordering with complex-valued functions, which aids in refining SNO and analyzing spectral components. An additional result is the extension of the Schur--Ostrowski criterion to the complex domain. Moreover, we characterize Jordan blocks of matrix functions using a generalized dominance order for nilpotent components, facilitating systematic analysis of non-diagonalizable matrices. Finally, we derive monotonicity and convexity conditions for functions under the SNO framework, laying a new mathematical foundation for advancing matrix analysis.</summary>
+    <category term="math.FA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.OA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-01-17T23:34:17Z</published>
+    <arxiv:primary_category term="math.FA"/>
+    <author>
+      <name>Shih-Yu Chang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1705.06484v2</id>
+    <title>A temporal Central Limit Theorem for real-valued cocycles over rotations</title>
+    <updated>2017-05-22T08:37:43Z</updated>
+    <link href="https://arxiv.org/abs/1705.06484v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1705.06484v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We consider deterministic random walks on the real line driven by irrational rotations, or equivalently, skew product extensions of a rotation by $α$ where the skewing cocycle is a piecewise constant mean zero function with a jump by one at a point $β$. When $α$ is badly approximable and $β$ is badly approximable with respect to $α$, we prove a Temporal Central Limit theorem (in the terminology recently introduced by D.Dolgopyat and O.Sarig), namely we show that for any fixed initial point, the occupancy random variables, suitably rescaled, converge to a Gaussian random variable. This result generalizes and extends a theorem by J. Beck for the special case when $α$ is quadratic irrational, $β$ is rational and the initial point is the origin, recently reproved and then generalized to cover any initial point using geometric renormalization arguments by Avila-Dolgopyat-Duryev-Sarig (Israel J., 2015) and Dolgopyat-Sarig (J. Stat. Physics, 2016). We also use renormalization, but in order to treat irrational values of $β$, instead of geometric arguments, we use the renormalization associated to the continued fraction algorithm and dynamical Ostrowski expansions. This yields a suitable symbolic coding framework which allows us to reduce the main result to a CLT for non homogeneous Markov chains.</summary>
+    <category term="math.DS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2017-05-18T09:07:00Z</published>
+    <arxiv:comment>a few typos corrected, 28 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="math.DS"/>
+    <author>
+      <name>Michael Bromberg</name>
+    </author>
+    <author>
+      <name>Corinna Ulcigrai</name>
+    </author>
+  </entry>
+</feed>

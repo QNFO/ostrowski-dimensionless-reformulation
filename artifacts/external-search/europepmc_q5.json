@@ -1,0 +1,86 @@
+{
+  "version": "6.9",
+  "hitCount": 2,
+  "request": {
+    "queryString": "dimensional analysis Buckingham Pi theorem physics reformulation",
+    "resultType": "lite",
+    "cursorMark": "*",
+    "pageSize": 10,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "37963286",
+        "source": "MED",
+        "pmid": "37963286",
+        "pmcid": "PMC10722469",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC10722469"
+          ]
+        },
+        "doi": "10.1021/acs.chemrev.3c00489",
+        "title": "Melting Is Well-Known, but Is It Also Well-Understood?",
+        "authorString": "de With G.",
+        "journalTitle": "Chem Rev",
+        "issue": "23",
+        "journalVolume": "123",
+        "pubYear": "2023",
+        "journalIssn": "0009-2665; 1520-6890; ",
+        "pageInfo": "13713-13795",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 14,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2023-11-14",
+        "firstPublicationDate": "2023-11-14"
+      },
+      {
+        "id": "19444816",
+        "source": "MED",
+        "pmid": "19444816",
+        "pmcid": "PMC2810661",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC2810661"
+          ]
+        },
+        "doi": "10.1002/jcc.21287",
+        "title": "CHARMM: the biomolecular simulation program.",
+        "authorString": "Brooks BR, Brooks CL, Mackerell AD, Nilsson L, Petrella RJ, Roux B, Won Y, Archontis G, Bartels C, Boresch S, Caflisch A, Caves L, Cui Q, Dinner AR, Feig M, Fischer S, Gao J, Hodoscek M, Im W, Kuczera K, Lazaridis T, Ma J, Ovchinnikov V, Paci E, Pastor RW, Post CB, Pu JZ, Schaefer M, Tidor B, Venable RM, Woodcock HL, Wu X, Yang W, York DM, Karplus M.",
+        "journalTitle": "J Comput Chem",
+        "issue": "10",
+        "journalVolume": "30",
+        "pubYear": "2009",
+        "journalIssn": "0192-8651; 1096-987x; ",
+        "pageInfo": "1545-1614",
+        "pubType": "research support, n.i.h., intramural; research support, non-u.s. gov't; research-article; review; research support, u.s. gov't, non-p.h.s.; journal article; research support, n.i.h., extramural",
+        "isOpenAccess": "N",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "citedByCount": 6491,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2010-09-25",
+        "firstPublicationDate": "2009-07-01"
+      }
+    ]
+  }
+}

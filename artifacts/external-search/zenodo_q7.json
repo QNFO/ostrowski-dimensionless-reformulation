@@ -1,0 +1,1851 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2021-07-09T15:16:29.848339+00:00",
+        "modified": "2024-07-18T22:37:12.979845+00:00",
+        "id": 5085981,
+        "conceptrecid": "5085980",
+        "doi": "10.29019/enfoqueute.745",
+        "doi_url": "https://doi.org/10.29019/enfoqueute.745",
+        "metadata": {
+          "title": "Dimensional analysis applied to jacketed shell and tube heat exchangers modeling",
+          "doi": "10.29019/enfoqueute.745",
+          "publication_date": "2021-07-01",
+          "description": "<p>Dimensional analysis was utilized on this research to establish a shortcut model for predicting hydrogen sulphide gas discharge temperature in jacketed shell and tube heat exchangers. Since the equipment belongs to an online industrial facility, the passive experimental method was applied. Selection of the heat transfer process parameters was followed by application of the Buckingham Pi-theorem and the repeating-variables technique. After formulation of the dimensionless groups, approximation of the explicit model equation was carried out through a least-squares multivariate linear regression. The model predictive ability performance was appraised by comparing predictions versus measured discharge temperatures, hence attaining a Pearson correlation of<br>\n97.5 %, a mean absolute error of 2.1 K, and 1.7 % maximum deviations. The explicit equation that was obtained is pertinent to studied heat exchangers, when 0.55 &le; \u1e41<sub>1</sub>&nbsp;&le; 0.60, 1.06 &le; \u1e41<sub>2</sub>&nbsp;&le; 1.09, and 0.22 &le; \u1e41<sub>3</sub>&nbsp;&le; 0.24 (fluids flowrate, kg/s). It can be used as an alternative calculation method for quick anticipation of the equipment performance, which overcomes computation of the overall heat transfer coefficients.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Andres Adrian S\u00e1nchez-Escalona",
+              "affiliation": "Universidad de Moa",
+              "orcid": "0000-0002-9770-210X"
+            },
+            {
+              "name": "Yan\u00e1n Camaraza-Medina",
+              "affiliation": "Universidad de Matanzas",
+              "orcid": "0000-0003-2287-7519"
+            },
+            {
+              "name": "Yoalbys Retirado-Mediaceja",
+              "affiliation": "Universidad de Moa",
+              "orcid": "0000-0002-5098-5675"
+            },
+            {
+              "name": "Ever G\u00f3ngora-Leyva",
+              "affiliation": "Universidad de Moa",
+              "orcid": "0000-0001-5418-5512"
+            },
+            {
+              "name": "Manuel Vega-Almaguer",
+              "affiliation": "Universidade Mandume Ya Ndemufayo",
+              "orcid": "0000-0002-8083-4106"
+            }
+          ],
+          "keywords": [
+            "Buckingham Pi-theorem, heat transfer, hydrogen sulphide, modeling, simulation"
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "journal": {
+            "issue": "3",
+            "pages": "pp. 36 - 50",
+            "title": "Enfoque UTE",
+            "volume": "12"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "5085980"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Dimensional analysis applied to jacketed shell and tube heat exchangers modeling",
+        "links": {
+          "self": "https://zenodo.org/api/records/5085981",
+          "self_html": "https://zenodo.org/records/5085981",
+          "preview_html": "https://zenodo.org/records/5085981?preview=1",
+          "doi": "https://doi.org/10.29019/enfoqueute.745",
+          "self_doi": "https://doi.org/10.29019/enfoqueute.745",
+          "self_doi_html": "https://zenodo.org/doi/10.29019/enfoqueute.745",
+          "reserve_doi": "https://zenodo.org/api/records/5085981/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/5085980",
+          "parent_html": "https://zenodo.org/records/5085980",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:5085981/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:5085981/sequence/default",
+          "files": "https://zenodo.org/api/records/5085981/files",
+          "media_files": "https://zenodo.org/api/records/5085981/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:5085981:4.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:5085981:4.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:5085981:4.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:5085981:4.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:5085981:4.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:5085981:4.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/5085981/files-archive",
+          "archive_media": "https://zenodo.org/api/records/5085981/media-files-archive",
+          "latest": "https://zenodo.org/api/records/5085981/versions/latest",
+          "latest_html": "https://zenodo.org/records/5085981/latest",
+          "versions": "https://zenodo.org/api/records/5085981/versions",
+          "draft": "https://zenodo.org/api/records/5085981/draft",
+          "access_links": "https://zenodo.org/api/records/5085981/access/links",
+          "access_grants": "https://zenodo.org/api/records/5085981/access/grants",
+          "access_users": "https://zenodo.org/api/records/5085981/access/users",
+          "access_request": "https://zenodo.org/api/records/5085981/access/request",
+          "access": "https://zenodo.org/api/records/5085981/access",
+          "communities": "https://zenodo.org/api/records/5085981/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/5085981/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/5085981/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/5085981/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/5085981/quota-increase",
+          "requests": "https://zenodo.org/api/records/5085981/requests"
+        },
+        "updated": "2024-07-18T22:37:12.979845+00:00",
+        "recid": "5085981",
+        "revision": 5,
+        "files": [
+          {
+            "id": "87fbfa51-5f8d-4e61-8f6c-73af94824d51",
+            "key": "4.pdf",
+            "size": 624869,
+            "checksum": "md5:c4431224ed91fc9aac69994e11e43e1b",
+            "links": {
+              "self": "https://zenodo.org/api/records/5085981/files/4.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "60174"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 84,
+          "unique_downloads": 83,
+          "views": 97,
+          "unique_views": 96,
+          "version_downloads": 84,
+          "version_unique_downloads": 83,
+          "version_unique_views": 96,
+          "version_views": 97
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2022-06-24T15:30:57.667106+00:00",
+        "modified": "2024-07-16T13:25:57.153869+00:00",
+        "id": 6726300,
+        "conceptrecid": "6726299",
+        "doi": "10.5281/zenodo.6726300",
+        "conceptdoi": "10.5281/zenodo.6726299",
+        "doi_url": "https://doi.org/10.5281/zenodo.6726300",
+        "metadata": {
+          "title": "Mathematical Modeling of Tractor Fuel Consumption for Ridging Operation in Sandy Loamy Soil",
+          "doi": "10.5281/zenodo.6726300",
+          "publication_date": "2022-06-30",
+          "description": "<p><em>The need to use selected soil-implement-machine parameters as factors affecting fuel consumption is essential. A mathematical model for predicting tractor fuel consumption per working area for ridging operation has been developed using Buckingham&rsquo;s pi theorem in dimensional analysis. Generalized reduced gradient (GRG), a nonlinear method of Excel solver was used for the establishment of the model&rsquo;s constant. The model was validated by simulating the experimental results using the equation, graphical comparison, and assessing the coefficient determination (r<sup>2</sup>), root mean square error, and paired t-Test. The field experiment was performed at Rivers Institute of Agricultural Research and Training (RIART) Farm in Rivers State University, Port Harcourt, Nigeria. The group balanced block design (GBBD) was adopted. The design consisted of 9 experimental treatments with three replicates. The experimental fuel consumption per working area was determined by quantity of fuel used per working area with the aid of fuel flow meter.&nbsp; The field test parameters (speed, height, forward speed, cone index, bulk density) were measured accordingly with their specific standards procedures. The field test parameters (speed, height, forward speed, cone index, bulk density) results were simulated with fuel consumption to obtain the constant in the predictive mathematical model. The developed model displayed good agreement between measured and predicted results with high coefficient of determination and low root mean square error. The paired t-Test results also showed no significant difference at 95 and 99 % confidence levels. It is thus, suggested that the model be used for predicting tractor fuel consumption during ridging operation</em><em>.</em></p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Ekemube, R.A.",
+              "affiliation": null
+            },
+            {
+              "name": "Atta, A.T.",
+              "affiliation": null
+            },
+            {
+              "name": "Nkakini, S.O.",
+              "affiliation": null
+            },
+            {
+              "name": "Amgbara, T.O.",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "Buckingham Pi theorem",
+            "Fuel consumption",
+            "Mathematical model",
+            "Ridging",
+            "Soil-machine-implement parameters"
+          ],
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "journal": {
+            "issue": "1",
+            "pages": "309-318",
+            "title": "Nigerian Research Journal of Engineering and Environmental Sciences",
+            "volume": "7"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "6726299"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Mathematical Modeling of Tractor Fuel Consumption for Ridging Operation in Sandy Loamy Soil",
+        "links": {
+          "self": "https://zenodo.org/api/records/6726300",
+          "self_html": "https://zenodo.org/records/6726300",
+          "preview_html": "https://zenodo.org/records/6726300?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.6726300",
+          "self_doi": "https://doi.org/10.5281/zenodo.6726300",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6726300",
+          "reserve_doi": "https://zenodo.org/api/records/6726300/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/6726299",
+          "parent_html": "https://zenodo.org/records/6726299",
+          "parent_doi": "https://doi.org/10.5281/zenodo.6726299",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.6726299",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:6726300/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:6726300/sequence/default",
+          "files": "https://zenodo.org/api/records/6726300/files",
+          "media_files": "https://zenodo.org/api/records/6726300/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:6726300:V07-N01-309-318.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:6726300:V07-N01-309-318.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:6726300:V07-N01-309-318.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:6726300:V07-N01-309-318.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:6726300:V07-N01-309-318.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:6726300:V07-N01-309-318.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/6726300/files-archive",
+          "archive_media": "https://zenodo.org/api/records/6726300/media-files-archive",
+          "latest": "https://zenodo.org/api/records/6726300/versions/latest",
+          "latest_html": "https://zenodo.org/records/6726300/latest",
+          "versions": "https://zenodo.org/api/records/6726300/versions",
+          "draft": "https://zenodo.org/api/records/6726300/draft",
+          "access_links": "https://zenodo.org/api/records/6726300/access/links",
+          "access_grants": "https://zenodo.org/api/records/6726300/access/grants",
+          "access_users": "https://zenodo.org/api/records/6726300/access/users",
+          "access_request": "https://zenodo.org/api/records/6726300/access/request",
+          "access": "https://zenodo.org/api/records/6726300/access",
+          "communities": "https://zenodo.org/api/records/6726300/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/6726300/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/6726300/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/6726300/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/6726300/quota-increase",
+          "requests": "https://zenodo.org/api/records/6726300/requests"
+        },
+        "updated": "2024-07-16T13:25:57.153869+00:00",
+        "recid": "6726300",
+        "revision": 6,
+        "files": [
+          {
+            "id": "c4ccfd54-fe6c-4ad0-b646-37ef2a2e8c83",
+            "key": "V07-N01-309-318.pdf",
+            "size": 689027,
+            "checksum": "md5:a5f29628b68b7b9085db433c98f68949",
+            "links": {
+              "self": "https://zenodo.org/api/records/6726300/files/V07-N01-309-318.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "139108"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 108,
+          "unique_downloads": 102,
+          "views": 170,
+          "unique_views": 169,
+          "version_downloads": 108,
+          "version_unique_downloads": 102,
+          "version_unique_views": 169,
+          "version_views": 170
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2024-07-29T21:05:12.507205+00:00",
+        "modified": "2024-07-29T21:05:12.715866+00:00",
+        "id": 13128409,
+        "conceptrecid": "13128408",
+        "doi": "10.5281/zenodo.13128409",
+        "conceptdoi": "10.5281/zenodo.13128408",
+        "doi_url": "https://doi.org/10.5281/zenodo.13128409",
+        "metadata": {
+          "title": "APPLICATION OF BUCKINGHAM PI THEOREM IN DEVELOPMENT OF TRACTOR FUEL CONSUMPTION MODEL FOR PLOUGHING OPERATION",
+          "doi": "10.5281/zenodo.13128409",
+          "publication_date": "2023-06-30",
+          "description": "<p>The estimation of tractor fuel consumption during ploughing operation has been consistently<br>receiving attention as a result of diverse nature, varieties and development in prime movers<br>and dynamic response of soil to tillage operation treatment. The need to use selected soilimplement-machine parameters as factors affecting fuel consumption is necessary. Fuel&nbsp;consumption model for estimating tractor fuel consumption per working area for ploughing&nbsp;operation has been developed using Buckingham&rsquo;s pi theorem. Generalized reduced gradient<br>(GRG), a nonlinear method of Excel solver was used for the establishment of the model&rsquo;s<br>constant. The model was validated by simulating the experimental results into the equation,<br>coefficient determination (r2), graphical comparison, root mean square error, and paired tTest. The field experiment was performed at Rivers Institute of Agricultural Research and<br>Training (RIART) Farm in Rivers State University, Port Harcourt. Port Harcourt lies on the<br>latitude of 4&deg; 49&prime; 27&Prime; N, and longitude of 7&deg; 2&prime; 1&Prime; E; with an altitude of 274mm above mean<br>sea level; and average annual rainfall depth of 2310.9 mm The experimental land area was<br>138 m by 50 m (6900 m2) which was divided into three blocks of 9 plots each. Each plot was<br>marked out 50 m by 2 m each along with the paths dimension of 1 m between each plot was<br>provided for different treatment options and with a space of 2 m between each block and 1 m<br>at the sides of the of the outer blocks. The group balanced block design (GBBD) was<br>adopted. The design consisted of 9 experimental treatments with three replicates. The<br>experimental fuel consumption per working area was determined by quantity of fuel used per<br>working area with the aid of fuel flow meter. The field test parameters (speed, depth, forward<br>speed, cone index, bulk density) were measured accordingly with their specific standards<br>procedures. The field test parameters (speed, depth, forward speed, cone index, bulk density)<br>results were simulated with fuel consumption to obtain the constants in the estimation model.<br>The developed model displayed good agreement between measured and estimated results<br>with high coefficient of determination (r2) of 0.9974, and low root mean square error of 0.74.<br>The paired t-Test results also showed no significant difference at 95 and 99 % confidence<br>levels. It is as a result, recommended that the model be used for estimating tractor fuel<br>consumption during ploughing operation.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Ekemube, Raymond Alex",
+              "affiliation": null
+            },
+            {
+              "name": "Atta, Adekunle Temidayo",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "Buckingham Pi Theorem, fuel consumption, model, soil-machine-implement parameters"
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "journal": {
+            "pages": "57-70",
+            "title": "Journal of Agricultural Mechanization",
+            "volume": "3"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "13128408"
+                }
+              }
+            ]
+          }
+        },
+        "title": "APPLICATION OF BUCKINGHAM PI THEOREM IN DEVELOPMENT OF TRACTOR FUEL CONSUMPTION MODEL FOR PLOUGHING OPERATION",
+        "links": {
+          "self": "https://zenodo.org/api/records/13128409",
+          "self_html": "https://zenodo.org/records/13128409",
+          "preview_html": "https://zenodo.org/records/13128409?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.13128409",
+          "self_doi": "https://doi.org/10.5281/zenodo.13128409",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.13128409",
+          "reserve_doi": "https://zenodo.org/api/records/13128409/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/13128408",
+          "parent_html": "https://zenodo.org/records/13128408",
+          "parent_doi": "https://doi.org/10.5281/zenodo.13128408",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.13128408",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:13128409/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:13128409/sequence/default",
+          "files": "https://zenodo.org/api/records/13128409/files",
+          "media_files": "https://zenodo.org/api/records/13128409/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:13128409:APPLICATION%20OF%20BUCKINGHAM%20PI%20THEOREM%20IN%20DEVELOPMENT%20OF%20TRACTOR%20FUEL%20CONSUMPTION%20MODEL%20FOR%20PLOUGHING%20OPERATION-Ekemube%2063-76.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:13128409:APPLICATION%20OF%20BUCKINGHAM%20PI%20THEOREM%20IN%20DEVELOPMENT%20OF%20TRACTOR%20FUEL%20CONSUMPTION%20MODEL%20FOR%20PLOUGHING%20OPERATION-Ekemube%2063-76.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:13128409:APPLICATION%20OF%20BUCKINGHAM%20PI%20THEOREM%20IN%20DEVELOPMENT%20OF%20TRACTOR%20FUEL%20CONSUMPTION%20MODEL%20FOR%20PLOUGHING%20OPERATION-Ekemube%2063-76.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:13128409:APPLICATION%20OF%20BUCKINGHAM%20PI%20THEOREM%20IN%20DEVELOPMENT%20OF%20TRACTOR%20FUEL%20CONSUMPTION%20MODEL%20FOR%20PLOUGHING%20OPERATION-Ekemube%2063-76.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:13128409:APPLICATION%20OF%20BUCKINGHAM%20PI%20THEOREM%20IN%20DEVELOPMENT%20OF%20TRACTOR%20FUEL%20CONSUMPTION%20MODEL%20FOR%20PLOUGHING%20OPERATION-Ekemube%2063-76.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:13128409:APPLICATION%20OF%20BUCKINGHAM%20PI%20THEOREM%20IN%20DEVELOPMENT%20OF%20TRACTOR%20FUEL%20CONSUMPTION%20MODEL%20FOR%20PLOUGHING%20OPERATION-Ekemube%2063-76.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/13128409/files-archive",
+          "archive_media": "https://zenodo.org/api/records/13128409/media-files-archive",
+          "latest": "https://zenodo.org/api/records/13128409/versions/latest",
+          "latest_html": "https://zenodo.org/records/13128409/latest",
+          "versions": "https://zenodo.org/api/records/13128409/versions",
+          "draft": "https://zenodo.org/api/records/13128409/draft",
+          "access_links": "https://zenodo.org/api/records/13128409/access/links",
+          "access_grants": "https://zenodo.org/api/records/13128409/access/grants",
+          "access_users": "https://zenodo.org/api/records/13128409/access/users",
+          "access_request": "https://zenodo.org/api/records/13128409/access/request",
+          "access": "https://zenodo.org/api/records/13128409/access",
+          "communities": "https://zenodo.org/api/records/13128409/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/13128409/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/13128409/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/13128409/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/13128409/quota-increase",
+          "requests": "https://zenodo.org/api/records/13128409/requests"
+        },
+        "updated": "2024-07-29T21:05:12.715866+00:00",
+        "recid": "13128409",
+        "revision": 4,
+        "files": [
+          {
+            "id": "74353e66-9896-4594-b8c3-0b6203776d68",
+            "key": "APPLICATION OF BUCKINGHAM PI THEOREM IN DEVELOPMENT OF TRACTOR FUEL CONSUMPTION MODEL FOR PLOUGHING OPERATION-Ekemube 63-76.pdf",
+            "size": 870546,
+            "checksum": "md5:7a33882311d2608286b09d0a900474a5",
+            "links": {
+              "self": "https://zenodo.org/api/records/13128409/files/APPLICATION%20OF%20BUCKINGHAM%20PI%20THEOREM%20IN%20DEVELOPMENT%20OF%20TRACTOR%20FUEL%20CONSUMPTION%20MODEL%20FOR%20PLOUGHING%20OPERATION-Ekemube%2063-76.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1168403"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 99,
+          "unique_downloads": 76,
+          "views": 147,
+          "unique_views": 124,
+          "version_downloads": 99,
+          "version_unique_downloads": 76,
+          "version_unique_views": 124,
+          "version_views": 147
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2022-01-24T22:02:41.270259+00:00",
+        "modified": "2024-07-17T10:50:47.601996+00:00",
+        "id": 5899514,
+        "conceptrecid": "5899513",
+        "doi": "10.5281/zenodo.5899514",
+        "conceptdoi": "10.5281/zenodo.5899513",
+        "doi_url": "https://doi.org/10.5281/zenodo.5899514",
+        "metadata": {
+          "title": "The early history of dimensional analysis: I. Foncenex and the composition of forces",
+          "doi": "10.5281/zenodo.5899514",
+          "publication_date": "2021-12-21",
+          "description": "<p><strong>Abstract</strong>: This paper describes a forgotten episode of the history of dimensional analysis. An article published in 1761 by Fran&ccedil;ois Daviet de Foncenex contains the first known attempt to derive a physical law &ndash; the parallelogram rule of forces &ndash; using the principle of homogeneity. The motivation of that work was the wish to provide an <em>a priori </em>proof of the basic laws of mechanics. The context and consequences of the paper are described. It is shown that this attempt was not grounded upon clear and solid assumptions and that its basic ideas were implicitly in conflict with the conceptions of that time.</p>\n\n<p><strong>Keywords</strong>: dimensional analysis; parallelogram of forces; laws of mechanics; a priori proof; Foncenex, Fran&ccedil;ois Daviet de</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Martins, Roberto de Andrade",
+              "affiliation": null,
+              "orcid": "0000-0003-0989-7945"
+            }
+          ],
+          "keywords": [
+            "history of physics"
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Book chapter",
+            "type": "publication",
+            "subtype": "section"
+          },
+          "imprint": {
+            "place": "Extrema, Brazil",
+            "isbn": "978-65-996890-1-7"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "5899513"
+                }
+              }
+            ]
+          }
+        },
+        "title": "The early history of dimensional analysis: I. Foncenex and the composition of forces",
+        "links": {
+          "self": "https://zenodo.org/api/records/5899514",
+          "self_html": "https://zenodo.org/records/5899514",
+          "preview_html": "https://zenodo.org/records/5899514?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.5899514",
+          "self_doi": "https://doi.org/10.5281/zenodo.5899514",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.5899514",
+          "reserve_doi": "https://zenodo.org/api/records/5899514/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/5899513",
+          "parent_html": "https://zenodo.org/records/5899513",
+          "parent_doi": "https://doi.org/10.5281/zenodo.5899513",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.5899513",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:5899514/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:5899514/sequence/default",
+          "files": "https://zenodo.org/api/records/5899514/files",
+          "media_files": "https://zenodo.org/api/records/5899514/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:5899514:Studia-1-1-web.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:5899514:Studia-1-1-web.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:5899514:Studia-1-1-web.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:5899514:Studia-1-1-web.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:5899514:Studia-1-1-web.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:5899514:Studia-1-1-web.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/5899514/files-archive",
+          "archive_media": "https://zenodo.org/api/records/5899514/media-files-archive",
+          "latest": "https://zenodo.org/api/records/5899514/versions/latest",
+          "latest_html": "https://zenodo.org/records/5899514/latest",
+          "versions": "https://zenodo.org/api/records/5899514/versions",
+          "draft": "https://zenodo.org/api/records/5899514/draft",
+          "access_links": "https://zenodo.org/api/records/5899514/access/links",
+          "access_grants": "https://zenodo.org/api/records/5899514/access/grants",
+          "access_users": "https://zenodo.org/api/records/5899514/access/users",
+          "access_request": "https://zenodo.org/api/records/5899514/access/request",
+          "access": "https://zenodo.org/api/records/5899514/access",
+          "communities": "https://zenodo.org/api/records/5899514/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/5899514/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/5899514/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/5899514/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/5899514/quota-increase",
+          "requests": "https://zenodo.org/api/records/5899514/requests"
+        },
+        "updated": "2024-07-17T10:50:47.601996+00:00",
+        "recid": "5899514",
+        "revision": 5,
+        "files": [
+          {
+            "id": "25d13eb9-c68f-4d67-9451-e9af9378fa2d",
+            "key": "Studia-1-1-web.pdf",
+            "size": 452773,
+            "checksum": "md5:9fcd799edd8b9db30456f1c9cf778002",
+            "links": {
+              "self": "https://zenodo.org/api/records/5899514/files/Studia-1-1-web.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "293615"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 112,
+          "unique_downloads": 109,
+          "views": 162,
+          "unique_views": 159,
+          "version_downloads": 112,
+          "version_unique_downloads": 109,
+          "version_unique_views": 155,
+          "version_views": 158
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-03-28T05:45:08.426670+00:00",
+        "modified": "2025-03-28T05:46:39.158251+00:00",
+        "id": 15099382,
+        "conceptrecid": "15099381",
+        "doi": "10.5281/zenodo.15099382",
+        "conceptdoi": "10.5281/zenodo.15099381",
+        "doi_url": "https://doi.org/10.5281/zenodo.15099382",
+        "metadata": {
+          "title": "Fluid Mechanics and Machinery",
+          "doi": "10.5281/zenodo.15099382",
+          "publication_date": "2025-03-15",
+          "description": "<p>\"Fluid Mechanics and Machinery\" is a comprehensive guide designed for students, engineers, and professionals in mechanical and civil engineering. The book covers fundamental and advanced concepts in fluid mechanics, including fluid properties, flow dynamics, and machinery applications.</p>\n<p>The initial chapters introduce fluid properties, including viscosity, surface tension, and compressibility. It explains key principles such as Pascal&rsquo;s Law, Archimedes' Principle, and Bernoulli&rsquo;s Theorem, providing a strong theoretical foundation.</p>\n<p>This section delves into hydrostatics and hydrodynamics, covering pressure measurement, buoyancy, and stability of floating bodies. It includes discussions on the continuity equation, momentum equation, and energy equation, illustrating fluid behavior in static and dynamic conditions.</p>\n<p>The book explores different types of fluid flow, including laminar and turbulent flow, and methods for measuring flow rate. Instruments such as Venturimeters, orifice meters, and Pitot tubes are detailed with their working principles and applications.</p>\n<p>A dedicated chapter focuses on dimensional analysis, Buckingham &pi; theorem, and similitude principles. These concepts are essential in designing and testing fluid systems using scaled models.</p>\n<p>The behavior of fluid near solid boundaries is explained through boundary layer theory. It discusses concepts such as boundary layer separation, drag, and lift, which are crucial for aerodynamics and hydrodynamics.</p>\n<p>This section covers flow through pipes, Darcy-Weisbach equation, head losses due to friction, and methods for flow improvement. It also explains pipe network analysis, essential for hydraulic engineering applications.</p>\n<p>A significant portion of the book is dedicated to hydraulic machinery, including pumps, turbines, and compressors. It explains their working principles, classifications, performance characteristics, and efficiency calculations.</p>\n<p>The book provides in-depth insights into hydraulic turbines like Pelton, Francis, and Kaplan, along with centrifugal and reciprocating pumps. Performance testing and design aspects are also discussed.</p>\n<p>Real-world applications of fluid mechanics are highlighted in automotive, aerospace, marine, and environmental engineering. Practical case studies illustrate how theoretical principles are applied in industry.</p>\n<p>\"Fluid Mechanics and Machinery\" serves as an essential reference for mastering fluid dynamics and machinery operations. With theoretical explanations, solved examples, and practical applications, it is an indispensable resource for engineering students and professionals.</p>",
+          "access_right": "restricted",
+          "creators": [
+            {
+              "name": "Dr. G. Karthikeyan",
+              "affiliation": "University College of Engineering, BIT Campus"
+            },
+            {
+              "name": "Mr. Kiran CH",
+              "affiliation": "Alva's Institute of Engineering and Technology"
+            },
+            {
+              "name": "Dr. S.Vijayan",
+              "affiliation": "Velammal Institute of Technology"
+            },
+            {
+              "name": "Mr. G. Kasirajan",
+              "affiliation": "St. Joseph's College of Engineering"
+            }
+          ],
+          "keywords": [
+            "Machinery"
+          ],
+          "dates": [
+            {
+              "type": "copyrighted",
+              "description": "Copyrighted at Dr. G. Karthikeyan, Mr. Kiran CH, Dr. S. Vijayan, Mr. G. Kasirajan"
+            }
+          ],
+          "version": "First",
+          "language": "eng",
+          "resource_type": {
+            "title": "Book",
+            "type": "publication",
+            "subtype": "book"
+          },
+          "imprint": {
+            "place": "India",
+            "isbn": "978-93-6786-985-7"
+          },
+          "alternate_identifiers": [
+            {
+              "identifier": "978-93-6786-985-7"
+            }
+          ],
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "15099381"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Fluid Mechanics and Machinery",
+        "links": {
+          "self": "https://zenodo.org/api/records/15099382",
+          "self_html": "https://zenodo.org/records/15099382",
+          "preview_html": "https://zenodo.org/records/15099382?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.15099382",
+          "self_doi": "https://doi.org/10.5281/zenodo.15099382",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15099382",
+          "reserve_doi": "https://zenodo.org/api/records/15099382/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/15099381",
+          "parent_html": "https://zenodo.org/records/15099381",
+          "parent_doi": "https://doi.org/10.5281/zenodo.15099381",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15099381",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:15099382/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:15099382/sequence/default",
+          "files": "https://zenodo.org/api/records/15099382/files",
+          "media_files": "https://zenodo.org/api/records/15099382/media-files",
+          "archive": "https://zenodo.org/api/records/15099382/files-archive",
+          "archive_media": "https://zenodo.org/api/records/15099382/media-files-archive",
+          "latest": "https://zenodo.org/api/records/15099382/versions/latest",
+          "latest_html": "https://zenodo.org/records/15099382/latest",
+          "versions": "https://zenodo.org/api/records/15099382/versions",
+          "draft": "https://zenodo.org/api/records/15099382/draft",
+          "access_links": "https://zenodo.org/api/records/15099382/access/links",
+          "access_grants": "https://zenodo.org/api/records/15099382/access/grants",
+          "access_users": "https://zenodo.org/api/records/15099382/access/users",
+          "access_request": "https://zenodo.org/api/records/15099382/access/request",
+          "access": "https://zenodo.org/api/records/15099382/access",
+          "communities": "https://zenodo.org/api/records/15099382/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/15099382/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/15099382/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/15099382/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/15099382/quota-increase",
+          "requests": "https://zenodo.org/api/records/15099382/requests"
+        },
+        "updated": "2025-03-28T05:46:39.158251+00:00",
+        "recid": "15099382",
+        "revision": 6,
+        "files": [],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1200983"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 5,
+          "unique_downloads": 4,
+          "views": 72,
+          "unique_views": 67,
+          "version_downloads": 5,
+          "version_unique_downloads": 4,
+          "version_unique_views": 67,
+          "version_views": 72
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-02-19T06:55:48.001472+00:00",
+        "modified": "2025-02-19T06:55:48.279782+00:00",
+        "id": 14891029,
+        "conceptrecid": "14891028",
+        "doi": "10.5281/zenodo.14891029",
+        "conceptdoi": "10.5281/zenodo.14891028",
+        "doi_url": "https://doi.org/10.5281/zenodo.14891029",
+        "metadata": {
+          "title": "A Unified Framework of Dimensions  Time  Space  and Stability",
+          "doi": "10.5281/zenodo.14891029",
+          "publication_date": "2024-12-04",
+          "description": "<p>This paper introduces a unified framework that redefines the relationship between time, space, and stability in the formation and evolution of the universe. By expanding beyond conventional four-dimensional spacetime, this work explores how time particles, dimensional interactions, and stability forces shape the emergence of structures across multiple scales.</p>\n<p>The framework proposes a<strong> </strong>hierarchical model of dimensions:</p>\n<ul>\n<li><strong>1D Infinite Time Loops &ndash; The foundational layer, where time particles oscillate, creating fluctuations that seed higher-dimensional interactions.</strong></li>\n<li><strong>2D Time Clustering &ndash; Time begins to accumulate, forming dense clusters that generate stable patterns in energetic fields.</strong></li>\n<li><strong>3D Spatial Formation &ndash; Space emerges as a stabilization of time clusters, defining the structure of matter and gravitational wells.</strong></li>\n<li><strong>4D Spacetime Integration &ndash; The known physical reality, where motion, relativity, and quantum interactions occur in a dynamic equilibrium.</strong></li>\n</ul>\n<p>This framework introduces the concept of time as a stabilizing force, proposing that dark matter and dark energy may be emergent properties of time&rsquo;s interaction with space rather than independent substances. It also reinterprets the cosmic web, gravitational dynamics, and quantum entanglement through a multi-dimensional time-space continuum.</p>\n<h3><strong>Key Contributions:</strong></h3>\n<ul>\n<li><strong>Mathematical modeling of time clusters influencing large-scale structure formation.</strong></li>\n<li><strong>Alternative explanation for dark matter as a byproduct of time-space interactions.</strong></li>\n<li><strong>Unified stability equation bridging quantum mechanics and relativity.</strong></li>\n<li><strong>Interdimensional feedback loops driving the periodicity of cosmic expansion and contraction.</strong></li>\n<li><strong>Testable predictions for cosmic structure evolution based on time-matter interaction</strong>.</li>\n</ul>\n<p>This research challenges traditional physics paradigms, offering a new approach to understanding time not as a passive dimension but as an active force shaping the stability and evolution of the universe.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Hall, Matthew",
+              "affiliation": "Toilet Accessories Llc.",
+              "orcid": "0009-0001-7066-2558"
+            }
+          ],
+          "keywords": [
+            "Time as a dynamic force",
+            "Time particles",
+            "Dimensional interactions",
+            "1D infinite time loops",
+            "2D time clustering",
+            "3D space formation",
+            "4D spacetime integration",
+            "Stability in the universe",
+            "Gravitational wells",
+            "Cosmic structure formation",
+            "Interdimensional feedback",
+            "Quantum mechanics and relativity",
+            "Dark matter and dark energy",
+            "Cosmic web dynamics",
+            "Periodicity in the universe",
+            "Time as a stabilizing agent",
+            "Evolution of spacetime",
+            "Unified physics framework",
+            "Entanglement and time dynamics",
+            "Expansion of the universe"
+          ],
+          "version": "V1.1",
+          "references": [
+            "Penrose, R. (2004). The Road to Reality: A Complete Guide to the Laws of the Universe. Vintage Books; Witten, E. (1996). String Theory and Dimensional Analysis. Physics Today; Einstein, A. (1916). Relativity: The Special and the General Theory; Minkowski, H. (1908). Space and Time. Address at the 80th Assembly of German Natural Scientists and Physicians."
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "14891028"
+                }
+              }
+            ]
+          }
+        },
+        "title": "A Unified Framework of Dimensions  Time  Space  and Stability",
+        "links": {
+          "self": "https://zenodo.org/api/records/14891029",
+          "self_html": "https://zenodo.org/records/14891029",
+          "preview_html": "https://zenodo.org/records/14891029?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.14891029",
+          "self_doi": "https://doi.org/10.5281/zenodo.14891029",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14891029",
+          "reserve_doi": "https://zenodo.org/api/records/14891029/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/14891028",
+          "parent_html": "https://zenodo.org/records/14891028",
+          "parent_doi": "https://doi.org/10.5281/zenodo.14891028",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14891028",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14891029/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14891029/sequence/default",
+          "files": "https://zenodo.org/api/records/14891029/files",
+          "media_files": "https://zenodo.org/api/records/14891029/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:14891029:A_Unified_Framework_of_Dimensions__Time__Space__and_Stability.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:14891029:A_Unified_Framework_of_Dimensions__Time__Space__and_Stability.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:14891029:A_Unified_Framework_of_Dimensions__Time__Space__and_Stability.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:14891029:A_Unified_Framework_of_Dimensions__Time__Space__and_Stability.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:14891029:A_Unified_Framework_of_Dimensions__Time__Space__and_Stability.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:14891029:A_Unified_Framework_of_Dimensions__Time__Space__and_Stability.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/14891029/files-archive",
+          "archive_media": "https://zenodo.org/api/records/14891029/media-files-archive",
+          "latest": "https://zenodo.org/api/records/14891029/versions/latest",
+          "latest_html": "https://zenodo.org/records/14891029/latest",
+          "versions": "https://zenodo.org/api/records/14891029/versions",
+          "draft": "https://zenodo.org/api/records/14891029/draft",
+          "access_links": "https://zenodo.org/api/records/14891029/access/links",
+          "access_grants": "https://zenodo.org/api/records/14891029/access/grants",
+          "access_users": "https://zenodo.org/api/records/14891029/access/users",
+          "access_request": "https://zenodo.org/api/records/14891029/access/request",
+          "access": "https://zenodo.org/api/records/14891029/access",
+          "communities": "https://zenodo.org/api/records/14891029/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/14891029/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/14891029/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/14891029/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/14891029/quota-increase",
+          "requests": "https://zenodo.org/api/records/14891029/requests"
+        },
+        "updated": "2025-02-19T06:55:48.279782+00:00",
+        "recid": "14891029",
+        "revision": 3,
+        "files": [
+          {
+            "id": "e9db8fc8-a4e1-4293-964e-a367a26bd362",
+            "key": "A_Unified_Framework_of_Dimensions__Time__Space__and_Stability.pdf",
+            "size": 1604356,
+            "checksum": "md5:e2ab3af870b8a25a381c9f11173f2952",
+            "links": {
+              "self": "https://zenodo.org/api/records/14891029/files/A_Unified_Framework_of_Dimensions__Time__Space__and_Stability.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1264473"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 118,
+          "unique_downloads": 104,
+          "views": 136,
+          "unique_views": 130,
+          "version_downloads": 118,
+          "version_unique_downloads": 104,
+          "version_unique_views": 130,
+          "version_views": 136
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-09-16T01:19:09.599221+00:00",
+        "modified": "2025-09-16T01:19:09.764790+00:00",
+        "id": 17128218,
+        "conceptrecid": "17128217",
+        "doi": "10.5281/zenodo.17128218",
+        "conceptdoi": "10.5281/zenodo.17128217",
+        "doi_url": "https://doi.org/10.5281/zenodo.17128218",
+        "metadata": {
+          "title": "Solved Equation: Unified Relativistic and Quantum Physics",
+          "doi": "10.5281/zenodo.17128218",
+          "publication_date": "2025-09-16",
+          "description": "<p>Short abstract:</p>\n<p>We show that by discretizing time into Planck frames, the unity between relativity and quantum mechanics emerges naturally. This derivation resolves apparent paradoxes such as the uncertainty principle and the origin of , providing a simple yet powerful foundation for physics.</p>\n<p>&nbsp;</p>\n<p>Full description:</p>\n<p>This work presents a complete step-by-step derivation where continuous time is replaced by discrete Planck frames. From this approach, the fundamental relation arises naturally, linking relativistic and quantum principles without additional assumptions. Each step is shown in detail, including algebraic manipulations, dimensional analysis, and illustrative examples, so that the reasoning can be followed transparently. The method also provides insight into the uncertainty principle and demonstrates how apparent contradictions between relativity and quantum mechanics can be resolved. This unified framework opens new possibilities for understanding the deep structure of physical laws.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "CARRASQUEIRA, IGOR",
+              "affiliation": "University of Sao Paulo",
+              "orcid": "0000-0001-8887-7218"
+            },
+            {
+              "name": "ChatGPT, Open AI",
+              "affiliation": null
+            }
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "17128217"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Solved Equation: Unified Relativistic and Quantum Physics",
+        "links": {
+          "self": "https://zenodo.org/api/records/17128218",
+          "self_html": "https://zenodo.org/records/17128218",
+          "preview_html": "https://zenodo.org/records/17128218?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.17128218",
+          "self_doi": "https://doi.org/10.5281/zenodo.17128218",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17128218",
+          "reserve_doi": "https://zenodo.org/api/records/17128218/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/17128217",
+          "parent_html": "https://zenodo.org/records/17128217",
+          "parent_doi": "https://doi.org/10.5281/zenodo.17128217",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17128217",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17128218/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17128218/sequence/default",
+          "files": "https://zenodo.org/api/records/17128218/files",
+          "media_files": "https://zenodo.org/api/records/17128218/media-files",
+          "archive": "https://zenodo.org/api/records/17128218/files-archive",
+          "archive_media": "https://zenodo.org/api/records/17128218/media-files-archive",
+          "latest": "https://zenodo.org/api/records/17128218/versions/latest",
+          "latest_html": "https://zenodo.org/records/17128218/latest",
+          "versions": "https://zenodo.org/api/records/17128218/versions",
+          "draft": "https://zenodo.org/api/records/17128218/draft",
+          "access_links": "https://zenodo.org/api/records/17128218/access/links",
+          "access_grants": "https://zenodo.org/api/records/17128218/access/grants",
+          "access_users": "https://zenodo.org/api/records/17128218/access/users",
+          "access_request": "https://zenodo.org/api/records/17128218/access/request",
+          "access": "https://zenodo.org/api/records/17128218/access",
+          "communities": "https://zenodo.org/api/records/17128218/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/17128218/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/17128218/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/17128218/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/17128218/quota-increase",
+          "requests": "https://zenodo.org/api/records/17128218/requests"
+        },
+        "updated": "2025-09-16T01:19:09.764790+00:00",
+        "recid": "17128218",
+        "revision": 4,
+        "files": [
+          {
+            "id": "0c4f7698-b722-4262-89c2-ed3aa12d8a21",
+            "key": "Igor Planck_Frame.docx",
+            "size": 40067,
+            "checksum": "md5:a50de2cab46dfbc55a26a0a1fbc305aa",
+            "links": {
+              "self": "https://zenodo.org/api/records/17128218/files/Igor%20Planck_Frame.docx/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1411482"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 69,
+          "unique_downloads": 65,
+          "views": 160,
+          "unique_views": 117,
+          "version_downloads": 68,
+          "version_unique_downloads": 64,
+          "version_unique_views": 117,
+          "version_views": 160
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2023-09-17T18:58:41.728220+00:00",
+        "modified": "2024-07-11T07:06:24.244294+00:00",
+        "id": 8353463,
+        "conceptrecid": "8286482",
+        "doi": "10.5281/zenodo.8353463",
+        "conceptdoi": "10.5281/zenodo.8286482",
+        "doi_url": "https://doi.org/10.5281/zenodo.8353463",
+        "metadata": {
+          "title": "1. An\u00e1lise Dimensional SET 2023",
+          "doi": "10.5281/zenodo.8353463",
+          "publication_date": "2023-09-17",
+          "description": "<p>Chapter 1 of&nbsp; Course on Veterinary Biophysics</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Almeida, Jose",
+              "affiliation": "UTAD",
+              "orcid": "0000-0003-3810-5943"
+            },
+            {
+              "name": "Marinho, Francisco",
+              "affiliation": "UTAD",
+              "orcid": "0000-0002-5617-1218"
+            }
+          ],
+          "keywords": [
+            "Dimensional analysis"
+          ],
+          "version": "1",
+          "language": "por",
+          "resource_type": {
+            "title": "Lesson",
+            "type": "lesson"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 2,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "8286482"
+                }
+              }
+            ]
+          },
+          "notes": "Dimensional analysis Veterinary Biophysics class notes"
+        },
+        "title": "1. An\u00e1lise Dimensional SET 2023",
+        "links": {
+          "self": "https://zenodo.org/api/records/8353463",
+          "self_html": "https://zenodo.org/records/8353463",
+          "preview_html": "https://zenodo.org/records/8353463?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.8353463",
+          "self_doi": "https://doi.org/10.5281/zenodo.8353463",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.8353463",
+          "reserve_doi": "https://zenodo.org/api/records/8353463/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/8286482",
+          "parent_html": "https://zenodo.org/records/8286482",
+          "parent_doi": "https://doi.org/10.5281/zenodo.8286482",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.8286482",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:8353463/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:8353463/sequence/default",
+          "files": "https://zenodo.org/api/records/8353463/files",
+          "media_files": "https://zenodo.org/api/records/8353463/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:8353463:1.%20An%C3%A1lise%20Dimensional%20SET%202023%20V3.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:8353463:1.%20An%C3%A1lise%20Dimensional%20SET%202023%20V3.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:8353463:1.%20An%C3%A1lise%20Dimensional%20SET%202023%20V3.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:8353463:1.%20An%C3%A1lise%20Dimensional%20SET%202023%20V3.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:8353463:1.%20An%C3%A1lise%20Dimensional%20SET%202023%20V3.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:8353463:1.%20An%C3%A1lise%20Dimensional%20SET%202023%20V3.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/8353463/files-archive",
+          "archive_media": "https://zenodo.org/api/records/8353463/media-files-archive",
+          "latest": "https://zenodo.org/api/records/8353463/versions/latest",
+          "latest_html": "https://zenodo.org/records/8353463/latest",
+          "versions": "https://zenodo.org/api/records/8353463/versions",
+          "draft": "https://zenodo.org/api/records/8353463/draft",
+          "access_links": "https://zenodo.org/api/records/8353463/access/links",
+          "access_grants": "https://zenodo.org/api/records/8353463/access/grants",
+          "access_users": "https://zenodo.org/api/records/8353463/access/users",
+          "access_request": "https://zenodo.org/api/records/8353463/access/request",
+          "access": "https://zenodo.org/api/records/8353463/access",
+          "communities": "https://zenodo.org/api/records/8353463/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/8353463/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/8353463/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/8353463/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/8353463/quota-increase",
+          "requests": "https://zenodo.org/api/records/8353463/requests"
+        },
+        "updated": "2024-07-11T07:06:24.244294+00:00",
+        "recid": "8353463",
+        "revision": 4,
+        "files": [
+          {
+            "id": "ad232a7f-066c-418c-9b88-074c1e8c44d1",
+            "key": "1. An\u00e1lise Dimensional SET 2023 V3.pdf",
+            "size": 1416323,
+            "checksum": "md5:2f5d8d9c134282614130e542edda6052",
+            "links": {
+              "self": "https://zenodo.org/api/records/8353463/files/1.%20An%C3%A1lise%20Dimensional%20SET%202023%20V3.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "602405"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 543,
+          "unique_downloads": 451,
+          "views": 747,
+          "unique_views": 693,
+          "version_downloads": 403,
+          "version_unique_downloads": 334,
+          "version_unique_views": 480,
+          "version_views": 509
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-07-15T12:28:49.282436+00:00",
+        "modified": "2026-07-15T12:28:49.389739+00:00",
+        "id": 21376699,
+        "conceptrecid": "21376698",
+        "doi": "10.5281/zenodo.21376699",
+        "conceptdoi": "10.5281/zenodo.21376698",
+        "doi_url": "https://doi.org/10.5281/zenodo.21376699",
+        "metadata": {
+          "title": "the theory of the path of light: the truth of light",
+          "doi": "10.5281/zenodo.21376699",
+          "publication_date": "2026-07-15",
+          "description": "<div>\n<p class=\"MsoNormal\">For over a century, modern physics has rested upon Albert Einstein&rsquo;s assertion that light is composed of photons&mdash;massless particles traveling through a vacuum at the constant speed C. This foundation is mathematically anchored by his iconic energy formula, E = mC&sup2;. However, a rigorous geometric and dimensional analysis reveals that this classical framework contains critical contradictions. By re-evaluating light not as a stream of two-dimensional particle surfaces, but as an evolving three-dimensional geometric volume, we unlock a truer description of the cosmos and a mathematical pathway to relativistic propulsion...</p>\n</div>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "khanif, kaoutar",
+              "affiliation": null,
+              "orcid": "0009-0006-6265-9056"
+            }
+          ],
+          "keywords": [
+            "truth of light",
+            "photon",
+            "truth of photons",
+            "light speed",
+            "C\u00b2 energy",
+            "travel at light speed",
+            "travel at light speed is possible",
+            "light as a volume",
+            "the geometric interpretation of light",
+            "FTL travel",
+            "light frequency",
+            "travel to Mars",
+            "travel to planets in the solar system",
+            "intersteller travel",
+            "light as a frequency",
+            "photons traces on matter"
+          ],
+          "resource_type": {
+            "title": "Video/Audio",
+            "type": "video"
+          },
+          "imprint": {
+            "place": "Amazon.com"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "21376698"
+                }
+              }
+            ]
+          }
+        },
+        "title": "the theory of the path of light: the truth of light",
+        "links": {
+          "self": "https://zenodo.org/api/records/21376699",
+          "self_html": "https://zenodo.org/records/21376699",
+          "preview_html": "https://zenodo.org/records/21376699?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.21376699",
+          "self_doi": "https://doi.org/10.5281/zenodo.21376699",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21376699",
+          "reserve_doi": "https://zenodo.org/api/records/21376699/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/21376698",
+          "parent_html": "https://zenodo.org/records/21376698",
+          "parent_doi": "https://doi.org/10.5281/zenodo.21376698",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.21376698",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:21376699/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:21376699/sequence/default",
+          "files": "https://zenodo.org/api/records/21376699/files",
+          "media_files": "https://zenodo.org/api/records/21376699/media-files",
+          "archive": "https://zenodo.org/api/records/21376699/files-archive",
+          "archive_media": "https://zenodo.org/api/records/21376699/media-files-archive",
+          "latest": "https://zenodo.org/api/records/21376699/versions/latest",
+          "latest_html": "https://zenodo.org/records/21376699/latest",
+          "versions": "https://zenodo.org/api/records/21376699/versions",
+          "draft": "https://zenodo.org/api/records/21376699/draft",
+          "access_links": "https://zenodo.org/api/records/21376699/access/links",
+          "access_grants": "https://zenodo.org/api/records/21376699/access/grants",
+          "access_users": "https://zenodo.org/api/records/21376699/access/users",
+          "access_request": "https://zenodo.org/api/records/21376699/access/request",
+          "access": "https://zenodo.org/api/records/21376699/access",
+          "communities": "https://zenodo.org/api/records/21376699/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/21376699/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/21376699/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/21376699/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/21376699/quota-increase",
+          "requests": "https://zenodo.org/api/records/21376699/requests"
+        },
+        "updated": "2026-07-15T12:28:49.389739+00:00",
+        "recid": "21376699",
+        "revision": 4,
+        "files": [
+          {
+            "id": "7bb9931b-9e65-4166-83f0-403684d867da",
+            "key": "The Path of Light (Part 1).mp4",
+            "size": 15260678,
+            "checksum": "md5:bccd12beabe6593bb15dbc9db0b13347",
+            "links": {
+              "self": "https://zenodo.org/api/records/21376699/files/The%20Path%20of%20Light%20(Part%201).mp4/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1642872"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 2,
+          "unique_downloads": 2,
+          "views": 7,
+          "unique_views": 5,
+          "version_downloads": 2,
+          "version_unique_downloads": 2,
+          "version_unique_views": 5,
+          "version_views": 7
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-10-25T16:32:26.169116+00:00",
+        "modified": "2025-10-25T16:32:27.541491+00:00",
+        "id": 17443597,
+        "conceptrecid": "17443596",
+        "doi": "10.5281/zenodo.17443597",
+        "conceptdoi": "10.5281/zenodo.17443596",
+        "doi_url": "https://doi.org/10.5281/zenodo.17443597",
+        "metadata": {
+          "title": "TTC:Unified and Falsifiable Theoretical Framework",
+          "doi": "10.5281/zenodo.17443597",
+          "publication_date": "2025-10-25",
+          "description": "<p>&nbsp;</p>\n<p>A complete and mathematically consistent formulation of the Finite and Consumable Time Theory (FCT/TTC) is presented, establishing time as an emergent property of material systems undergoing irreversible transformation. The theory integrates principles from</p>\n<p>general relativity, non-equilibrium thermodynamics, and quantum mechanics through dimensionally correct, covariant, and falsifiable equations. The fundamental formalism T = &kappa;</p>\n<p>R kBT</p>\n<p>\u210fS</p>\n<p>d&tau; is introduced with</p>\n<p>rigorous dimensional analysis, and specific, experimentally verifiable</p>\n<p>predictions are derived in cosmology, black hole physics, and quantum</p>\n<p>systems. The theory satisfies Popperian falsifiability criteria through</p>\n<p>proposed crucial experiments.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Sanchez, Rogelio",
+              "affiliation": null
+            }
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "17443596"
+                }
+              }
+            ]
+          }
+        },
+        "title": "TTC:Unified and Falsifiable Theoretical Framework",
+        "links": {
+          "self": "https://zenodo.org/api/records/17443597",
+          "self_html": "https://zenodo.org/records/17443597",
+          "preview_html": "https://zenodo.org/records/17443597?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.17443597",
+          "self_doi": "https://doi.org/10.5281/zenodo.17443597",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17443597",
+          "reserve_doi": "https://zenodo.org/api/records/17443597/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/17443596",
+          "parent_html": "https://zenodo.org/records/17443596",
+          "parent_doi": "https://doi.org/10.5281/zenodo.17443596",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17443596",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17443597/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17443597/sequence/default",
+          "files": "https://zenodo.org/api/records/17443597/files",
+          "media_files": "https://zenodo.org/api/records/17443597/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:17443597:Finite%20and%20Consumable%20Time%20Theory.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:17443597:Finite%20and%20Consumable%20Time%20Theory.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:17443597:Finite%20and%20Consumable%20Time%20Theory.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:17443597:Finite%20and%20Consumable%20Time%20Theory.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:17443597:Finite%20and%20Consumable%20Time%20Theory.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:17443597:Finite%20and%20Consumable%20Time%20Theory.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/17443597/files-archive",
+          "archive_media": "https://zenodo.org/api/records/17443597/media-files-archive",
+          "latest": "https://zenodo.org/api/records/17443597/versions/latest",
+          "latest_html": "https://zenodo.org/records/17443597/latest",
+          "versions": "https://zenodo.org/api/records/17443597/versions",
+          "draft": "https://zenodo.org/api/records/17443597/draft",
+          "access_links": "https://zenodo.org/api/records/17443597/access/links",
+          "access_grants": "https://zenodo.org/api/records/17443597/access/grants",
+          "access_users": "https://zenodo.org/api/records/17443597/access/users",
+          "access_request": "https://zenodo.org/api/records/17443597/access/request",
+          "access": "https://zenodo.org/api/records/17443597/access",
+          "communities": "https://zenodo.org/api/records/17443597/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/17443597/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/17443597/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/17443597/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/17443597/quota-increase",
+          "requests": "https://zenodo.org/api/records/17443597/requests"
+        },
+        "updated": "2025-10-25T16:32:27.541491+00:00",
+        "recid": "17443597",
+        "revision": 4,
+        "files": [
+          {
+            "id": "6e5b5828-c7a9-4f8d-a390-870b4c34a7d6",
+            "key": "Finite and Consumable Time Theory.pdf",
+            "size": 252790,
+            "checksum": "md5:125eca7c8ce5daa76058dc64b039a4f2",
+            "links": {
+              "self": "https://zenodo.org/api/records/17443597/files/Finite%20and%20Consumable%20Time%20Theory.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1438825"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 28,
+          "unique_downloads": 27,
+          "views": 21,
+          "unique_views": 20,
+          "version_downloads": 28,
+          "version_unique_downloads": 27,
+          "version_unique_views": 20,
+          "version_views": 21
+        },
+        "state": "done",
+        "submitted": true
+      }
+    ],
+    "total": 111383
+  },
+  "aggregations": {
+    "publication_date": {
+      "buckets": [
+        {
+          "key": "2000",
+          "doc_count": 41,
+          "label": "2000",
+          "is_selected": false
+        },
+        {
+          "key": "2001",
+          "doc_count": 36,
+          "label": "2001",
+          "is_selected": false
+        },
+        {
+          "key": "2002",
+          "doc_count": 50,
+          "label": "2002",
+          "is_selected": false
+        },
+        {
+          "key": "2003",
+          "doc_count": 34,
+          "label": "2003",
+          "is_selected": false
+        },
+        {
+          "key": "2004",
+          "doc_count": 53,
+          "label": "2004",
+          "is_selected": false
+        },
+        {
+          "key": "2005",
+          "doc_count": 63,
+          "label": "2005",
+          "is_selected": false
+        },
+        {
+          "key": "2006",
+          "doc_count": 101,
+          "label": "2006",
+          "is_selected": false
+        },
+        {
+          "key": "2007",
+          "doc_count": 148,
+          "label": "2007",
+          "is_selected": false
+        },
+        {
+          "key": "2008",
+          "doc_count": 230,
+          "label": "2008",
+          "is_selected": false
+        },
+        {
+          "key": "2009",
+          "doc_count": 201,
+          "label": "2009",
+          "is_selected": false
+        },
+        {
+          "key": "2010",
+          "doc_count": 294,
+          "label": "2010",
+          "is_selected": false
+        },
+        {
+          "key": "2011",
+          "doc_count": 370,
+          "label": "2011",
+          "is_selected": false
+        },
+        {
+          "key": "2012",
+          "doc_count": 402,
+          "label": "2012",
+          "is_selected": false
+        },
+        {
+          "key": "2013",
+          "doc_count": 525,
+          "label": "2013",
+          "is_selected": false
+        },
+        {
+          "key": "2014",
+          "doc_count": 648,
+          "label": "2014",
+          "is_selected": false
+        },
+        {
+          "key": "2015",
+          "doc_count": 759,
+          "label": "2015",
+          "is_selected": false
+        },
+        {
+          "key": "2016",
+          "doc_count": 1004,
+          "label": "2016",
+          "is_selected": false
+        },
+        {
+          "key": "2017",
+          "doc_count": 1321,
+          "label": "2017",
+          "is_selected": false
+        },
+        {
+          "key": "2018",
+          "doc_count": 2061,
+          "label": "2018",
+          "is_selected": false
+        },
+        {
+          "key": "2019",
+          "doc_count": 2471,
+          "label": "2019",
+          "is_selected": false
+        },
+        {
+          "key": "2020",
+          "doc_count": 2701,
+          "label": "2020",
+          "is_selected": false
+        },
+        {
+          "key": "2021",
+          "doc_count": 3854,
+          "label": "2021",
+          "is_selected": false
+        },
+        {
+          "key": "2022",
+          "doc_count": 4638,
+          "label": "2022",
+          "is_selected": false
+        },
+        {
+          "key": "2023",
+          "doc_count": 5112,
+          "label": "2023",
+          "is_selected": false
+        },
+        {
+          "key": "2024",
+          "doc_count": 6255,
+          "label": "2024",
+          "is_selected": false
+        },
+        {
+          "key": "2025",
+          "doc_count": 29981,
+          "label": "2025",
+          "is_selected": false
+        },
+        {
+          "key": "2026",
+          "doc_count": 47336,
+          "label": "2026",
+          "is_selected": false
+        }
+      ],
+      "label": "Publication date"
+    },
+    "access_status": {
+      "buckets": [
+        {
+          "key": "open",
+          "doc_count": 106044,
+          "label": "Open",
+          "is_selected": false
+        },
+        {
+          "key": "restricted",
+          "doc_count": 4843,
+          "label": "Restricted",
+          "is_selected": false
+        },
+        {
+          "key": "embargoed",
+          "doc_count": 496,
+          "label": "Embargoed",
+          "is_selected": false
+        }
+      ],
+      "label": "Access status"
+    },
+    "resource_type": {
+      "buckets": [
+        {
+          "key": "publication",
+          "doc_count": 85864,
+          "label": "Publication",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "publication-preprint",
+                "doc_count": 35118,
+                "label": "Preprint",
+                "is_selected": false
+              },
+              {
+                "key": "publication-article",
+                "doc_count": 22707,
+                "label": "Journal article",
+                "is_selected": false
+              },
+              {
+                "key": "publication-report",
+                "doc_count": 2503,
+                "label": "Report",
+                "is_selected": false
+              },
+              {
+                "key": "publication-conferencepaper",
+                "doc_count": 2428,
+                "label": "Conference paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-dissertation",
+                "doc_count": 1906,
+                "label": "Thesis",
+                "is_selected": false
+              },
+              {
+                "key": "publication-book",
+                "doc_count": 1814,
+                "label": "Book",
+                "is_selected": false
+              },
+              {
+                "key": "publication-workingpaper",
+                "doc_count": 1738,
+                "label": "Working paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-other",
+                "doc_count": 1092,
+                "label": "Other",
+                "is_selected": false
+              },
+              {
+                "key": "publication-journal",
+                "doc_count": 843,
+                "label": "Journal",
+                "is_selected": false
+              },
+              {
+                "key": "publication-section",
+                "doc_count": 728,
+                "label": "Book chapter",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "dataset",
+          "doc_count": 11462,
+          "label": "Dataset",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "software",
+          "doc_count": 4787,
+          "label": "Software",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "software-computationalnotebook",
+                "doc_count": 268,
+                "label": "Computational notebook",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "presentation",
+          "doc_count": 3023,
+          "label": "Presentation",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "poster",
+          "doc_count": 1773,
+          "label": "Poster",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "other",
+          "doc_count": 1401,
+          "label": "Other",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "image",
+          "doc_count": 1366,
+          "label": "Image",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "image-figure",
+                "doc_count": 822,
+                "label": "Figure",
+                "is_selected": false
+              },
+              {
+                "key": "image-diagram",
+                "doc_count": 102,
+                "label": "Diagram",
+                "is_selected": false
+              },
+              {
+                "key": "image-drawing",
+                "doc_count": 50,
+                "label": "Drawing",
+                "is_selected": false
+              },
+              {
+                "key": "image-plot",
+                "doc_count": 46,
+                "label": "Plot",
+                "is_selected": false
+              },
+              {
+                "key": "image-other",
+                "doc_count": 42,
+                "label": "Other",
+                "is_selected": false
+              },
+              {
+                "key": "image-photo",
+                "doc_count": 32,
+                "label": "Photo",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "model",
+          "doc_count": 624,
+          "label": "Model",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "lesson",
+          "doc_count": 508,
+          "label": "Lesson",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "video",
+          "doc_count": 272,
+          "label": "Video/Audio",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        }
+      ],
+      "label": "Resource types"
+    },
+    "subject": {
+      "buckets": [
+        {
+          "key": "Quantum physics",
+          "doc_count": 5287,
+          "label": "Quantum physics",
+          "is_selected": false
+        },
+        {
+          "key": "Physics",
+          "doc_count": 4325,
+          "label": "Physics",
+          "is_selected": false
+        },
+        {
+          "key": "Theoretical physics",
+          "doc_count": 4088,
+          "label": "Theoretical physics",
+          "is_selected": false
+        },
+        {
+          "key": "Mathematical physics",
+          "doc_count": 3574,
+          "label": "Mathematical physics",
+          "is_selected": false
+        },
+        {
+          "key": "Particle physics",
+          "doc_count": 2089,
+          "label": "Particle physics",
+          "is_selected": false
+        },
+        {
+          "key": "Physical cosmology",
+          "doc_count": 1903,
+          "label": "Physical cosmology",
+          "is_selected": false
+        },
+        {
+          "key": "Cosmology",
+          "doc_count": 1614,
+          "label": "Cosmology",
+          "is_selected": false
+        },
+        {
+          "key": "Quantum Theory",
+          "doc_count": 1494,
+          "label": "Quantum Theory",
+          "is_selected": false
+        },
+        {
+          "key": "Theoretical Physics",
+          "doc_count": 1491,
+          "label": "Theoretical Physics",
+          "is_selected": false
+        },
+        {
+          "key": "Nuclear physics",
+          "doc_count": 1427,
+          "label": "Nuclear physics",
+          "is_selected": false
+        }
+      ],
+      "label": "Subjects"
+    },
+    "file_type": {
+      "buckets": [
+        {
+          "key": "pdf",
+          "doc_count": 83429,
+          "label": "PDF",
+          "is_selected": false
+        },
+        {
+          "key": "zip",
+          "doc_count": 12589,
+          "label": "ZIP",
+          "is_selected": false
+        },
+        {
+          "key": "docx",
+          "doc_count": 3834,
+          "label": "DOCX",
+          "is_selected": false
+        },
+        {
+          "key": "txt",
+          "doc_count": 3573,
+          "label": "TXT",
+          "is_selected": false
+        },
+        {
+          "key": "png",
+          "doc_count": 2802,
+          "label": "PNG",
+          "is_selected": false
+        },
+        {
+          "key": "md",
+          "doc_count": 2657,
+          "label": "MD",
+          "is_selected": false
+        },
+        {
+          "key": "tex",
+          "doc_count": 2193,
+          "label": "TEX",
+          "is_selected": false
+        },
+        {
+          "key": "py",
+          "doc_count": 1824,
+          "label": "PY",
+          "is_selected": false
+        },
+        {
+          "key": "jpg",
+          "doc_count": 1575,
+          "label": "JPG",
+          "is_selected": false
+        },
+        {
+          "key": "bin",
+          "doc_count": 1428,
+          "label": "BIN",
+          "is_selected": false
+        }
+      ],
+      "label": "File type"
+    }
+  },
+  "links": {
+    "self": "https://zenodo.org/api/records?page=1&q=%22dimensional+analysis%22+%22Buckingham+Pi%22+physics&size=10&sort=bestmatch",
+    "next": "https://zenodo.org/api/records?page=2&q=%22dimensional+analysis%22+%22Buckingham+Pi%22+physics&size=10&sort=bestmatch"
+  }
+}

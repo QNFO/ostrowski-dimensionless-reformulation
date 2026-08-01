@@ -1,0 +1,2175 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-05-25T06:38:39.732701+00:00",
+        "modified": "2026-05-25T06:38:41.253414+00:00",
+        "id": 20372735,
+        "conceptrecid": "20372734",
+        "doi": "10.5281/zenodo.20372735",
+        "conceptdoi": "10.5281/zenodo.20372734",
+        "doi_url": "https://doi.org/10.5281/zenodo.20372735",
+        "metadata": {
+          "title": "Numerical data for the paper \"Nonlinear physics of axion inflation\"",
+          "doi": "10.5281/zenodo.20372735",
+          "publication_date": "2026-05-25",
+          "description": "<p>Data files containing numerical results illustrating the fundings of the paper \"Nonlinear physics of axion inflation\" https://arxiv.org/abs/2603.02570</p>\n<p><strong>%---------------------------------------------------------------------------------------------------------------------------------------%<br>Relation to figures in the paper.<br>%---------------------------------------------------------------------------------------------------------------------------------------%<br></strong></p>\n<p>Figures 1 and 7:<br>- background color --&gt; file \"Re-zeta.dat\"<br>- red solid line --&gt; file \"SR-UB-boundary.dat\"<br>- red dashed line --&gt; file \"SB-UB-boundary.dat\"</p>\n<p>Figures 2 and 3:<br>- red solid line --&gt; file \"SR-UB-boundary.dat\"<br>- red dashed line --&gt; file \"SB-UB-boundary.dat\"<br>- blue solid line --&gt; file \"delta-KG-criterion.dat\"</p>\n<p>Figure 4:<br>- panel (a): green dashed line, red dots --&gt;&nbsp; file \"bifurcation.dat\"<br>- panel (a): green solid and dashed lines --&gt; solution \\xi=\\xi(b) to Eq. (3.7) for fixed v=200; function \\bar{g}_0(\\xi) tabulated in file \"g0.dat\"<br>- panle (b) --&gt; file \"phase-space-xi2.89-b0.10853.dat\"<br>- panel (c) --&gt; file \"phase-space-xi2.977-b0.16972.dat\"</p>\n<p>Figure 5:<br>- panels (a1) and (b1) --&gt; file \"phase-space-v3.6e7-b1.4e-6.dat\"<br>- panel (c1) --&gt; file \"Fourier-v3.6e7-b1.4e-6.dat\"&nbsp;<br>- panels (a2) and (b2) --&gt; file \"phase-space-v3.6e7-b1.9e-6.dat\"<br>- panel (c2) --&gt; file \"Fourier-v3.6e7-b1.9e-6.dat\"&nbsp;<br>- panels (a3) and (b3) --&gt; file \"phase-space-v3.6e7-b3.3e-6.dat\"<br>- panel (c3) --&gt; file \"Fourier-v3.6e7-b3.3e-6.dat\"&nbsp;<br>- panels (a4) and (b4) --&gt; file \"phase-space-v3.6e7-b2.4e-5.dat\"<br>- panel (c4) --&gt; file \"Fourier-v3.6e7-b2.4e-5.dat\"&nbsp;</p>\n<p>Figure 6 (a):<br>- background color --&gt; solution of Eq. (4.3) w.r.t. \\beta, where v^{new}_{thr} is tabulated in file \"SR-UB-boundary.dat\"<br>- white contour lines --&gt; Eq. (4.3) for fixed values of \\beta, where v^{new}_{thr} is tabulated in file \"SR-UB-boundary.dat\"<br>- yellow [cyan] solid and dashed lines --&gt; parametric curves given by Eq. (4.4) with potential in Eq. (4.1) [Eq. (4.2)]</p>\n<p>Figure 6 (b):<br>- yellow solid curve --&gt; file \"m2-b20_gef.dat\"<br>- yellow dashed curve --&gt; file \"m2-b20_inf.dat\"<br>- cyan solid curve --&gt; file \"tanh-b60_gef.dat\"<br>- cyan dashed curve --&gt; file \"tanh-b60_inf.dat\"</p>\n<p>Figure 6(c):<br>- yellow solid curve --&gt; files \"m2-b20_gef.dat\" and \"m2-b20_inf.dat\"<br>- cyan solid curve --&gt; files \"tanh-b60_gef.dat\" and&nbsp;\"tanh-b60_inf.dat\"</p>\n<p><strong>%---------------------------------------------------------------------------------------------------------------------------------------%<br></strong><strong>Contents of each file.<br>%---------------------------------------------------------------------------------------------------------------------------------------%</strong></p>\n<p>File \"g0.dat\":<br>- 1 column --&gt; values of \\xi [dimensionless]<br>- 2 column --&gt; values of log_10(g_0(\\xi)) [dimensionless]</p>\n<p>Files \"SR-UB-boundary.dat\",&nbsp; \"SB-UB-boundary.dat\", and \"delta-KG-criterion.dat\":<br>- 1 column --&gt; values of log_10(v) [dimensionless]<br>- 2 column --&gt; values of log_10(b) [dimensionless]<br>- 3 column --&gt; values of \\xi [dimensionless]</p>\n<p>File \"Re-zeta.dat\":<br>- 1 column --&gt; values of log_10(v) [dimensionless]<br>- 2 column --&gt; values of log_10(b) [dimensionless]<br>- 3 column --&gt; values of Re(\\zeta_1) [dimensionless]</p>\n<p>File \"bifurcation.dat\":<br>- 1 column --&gt; values of b [dimensionless]<br>- 2 column --&gt; values of \\overline(\\xi) [dimensionless]<br>- 3 column --&gt; values of \\xi_{min} [dimensionless]<br>- 4 column --&gt; values of \\xi_{max} [dimensionless]</p>\n<p>Files \"phase-space-xi2.89-b0.10853.dat\" and \"phase-space-xi2.977-b0.16972.dat\":<br>- 1 column --&gt; values of \\xi [dimensionless]<br>- 2 column --&gt; values of d\\xi/dN [dimensionless]<br>- 3 column --&gt; values of \\rho_E/\\rho_{E,0}-1 [dimensionless]</p>\n<p>Files \"phase-space-v3.6e7-b1.4e-6.dat\", \"phase-space-v3.6e7-b1.9e-6.dat\", \"phase-space-v3.6e7-b3.3e-6.dat\", and \"phase-space-v3.6e7-b2.4e-5.dat\":<br>- 1 column --&gt; values of \\Delta N (number of e-folds) [dimensionless]<br>- 2 column --&gt; values of \\xi [dimensionless]<br>- 3 column --&gt; values of d\\xi/dN [dimensionless]<br>- 4 column --&gt; values of \\rho_E/\\rho_{E,0} [dimensionless]</p>\n<p>Files \"Fourier-v3.6e7-b1.4e-6.dat\", \"Fourier-v3.6e7-b1.9e-6.dat\", \"Fourier-v3.6e7-b3.3e-6.dat\", and \"Fourier-v3.6e7-b2.4e-5.dat\":<br>- 1 column --&gt; values of Fourier frequencies \\omega_n (w.r.t. number of e-folds as a time variable) [dimensionless]<br>- 2 column --&gt; values of Fourier coefficients A_n [dimensionless]<br>- 3 column --&gt; values of Fourier coefficients B_n [dimensionless]<br>- 4 column --&gt; values of Fourier coefficients D_n [dimensionless]</p>\n<p>Files \"m2-b20_gef.dat\" and \"tanh-b60_gef.dat\":<br>- 1 column --&gt; time t [reduced Planck units, M_P^-1]<br>- 2 column --&gt; number of e-folds N [dimensionless]<br>- 3 column --&gt; inflaton field \\phi [reduced Planck units, M_P]<br>- 4 column --&gt; inflaton velocity \\dot\\phi [reduced Planck units, M_P^2]<br>- 5 column --&gt; inflaton acceleration \\ddot\\phi [reduced Planck units, M_P^3]<br>- 6 column --&gt; Hubble rate H [reduced Planck units, M_P]<br>- 7 column --&gt; instability variable \\xi [dimensionless]<br>- 8 column --&gt; mean value of elecric field squared &lt;E^2&gt; [reducel Planck units, M_P^4]<br>- 9 column --&gt; mean value of magnetic field squared &lt;B^2&gt; [reducel Planck units, M_P^4]<br>- 10 column --&gt; mean value of Chern-Pontryagin density &lt;E.B&gt; [reducel Planck units, M_P^4]<br>- 11 column --&gt; instability threshold momentum k_h [reduced Planck units, M_P]</p>\n<p>&nbsp;Files \"m2-b20_inf.dat\" and \"tanh-b60_inf.dat\":<br>- 1 column --&gt; time t [reduced Planck units, M_P^-1]<br>- 2 column --&gt; number of e-folds N [dimensionless]<br>- 3 column --&gt; inflaton field \\phi [reduced Planck units, M_P]<br>- 4 column --&gt; inflaton velocity \\dot\\phi [reduced Planck units, M_P^2]<br>- 5 column --&gt; inflaton acceleration \\ddot\\phi [reduced Planck units, M_P^3]<br>- 6 column --&gt; Hubble rate H [reduced Planck units, M_P]</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Sobol, Oleksandr O.",
+              "affiliation": "Taras Shevchenko National University of Kyiv",
+              "orcid": "0000-0002-6300-3079"
+            },
+            {
+              "name": "von Eckardstein, Richard",
+              "affiliation": "University of M\u00fcnster",
+              "orcid": "0009-0006-9176-2343"
+            },
+            {
+              "name": "Schmitz, Kai",
+              "affiliation": "University of M\u00fcnster",
+              "orcid": "0000-0003-2807-6472"
+            },
+            {
+              "name": "Koch, Elias R.",
+              "affiliation": "University of M\u00fcnster",
+              "orcid": "0000-0003-1430-4331"
+            },
+            {
+              "name": "Thiele, Uwe",
+              "affiliation": "University of M\u00fcnster",
+              "orcid": "0000-0001-7989-9271"
+            },
+            {
+              "name": "Gurevich, Svetlana V.",
+              "affiliation": "University of M\u00fcnster",
+              "orcid": "0000-0002-5101-4686"
+            }
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "arXiv:2603.02570",
+              "relation": "isSourceOf",
+              "resource_type": "publication-preprint",
+              "scheme": "arxiv"
+            }
+          ],
+          "language": "eng",
+          "custom": {
+            "code:codeRepository": "https://github.com/richard-von-eckardstein/GEFF",
+            "code:programmingLanguage": [
+              {
+                "id": "python",
+                "title": {
+                  "en": "Python"
+                }
+              }
+            ],
+            "code:developmentStatus": {
+              "id": "active",
+              "title": {
+                "en": "Active"
+              }
+            }
+          },
+          "resource_type": {
+            "title": "Dataset",
+            "type": "dataset"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "gef-inflation"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20372734"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Numerical data for the paper \"Nonlinear physics of axion inflation\"",
+        "links": {
+          "self": "https://zenodo.org/api/records/20372735",
+          "self_html": "https://zenodo.org/records/20372735",
+          "preview_html": "https://zenodo.org/records/20372735?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20372735",
+          "self_doi": "https://doi.org/10.5281/zenodo.20372735",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20372735",
+          "reserve_doi": "https://zenodo.org/api/records/20372735/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20372734",
+          "parent_html": "https://zenodo.org/records/20372734",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20372734",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20372734",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20372735/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20372735/sequence/default",
+          "files": "https://zenodo.org/api/records/20372735/files",
+          "media_files": "https://zenodo.org/api/records/20372735/media-files",
+          "archive": "https://zenodo.org/api/records/20372735/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20372735/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20372735/versions/latest",
+          "latest_html": "https://zenodo.org/records/20372735/latest",
+          "versions": "https://zenodo.org/api/records/20372735/versions",
+          "draft": "https://zenodo.org/api/records/20372735/draft",
+          "access_links": "https://zenodo.org/api/records/20372735/access/links",
+          "access_grants": "https://zenodo.org/api/records/20372735/access/grants",
+          "access_users": "https://zenodo.org/api/records/20372735/access/users",
+          "access_request": "https://zenodo.org/api/records/20372735/access/request",
+          "access": "https://zenodo.org/api/records/20372735/access",
+          "communities": "https://zenodo.org/api/records/20372735/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20372735/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20372735/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20372735/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20372735/quota-increase",
+          "requests": "https://zenodo.org/api/records/20372735/requests"
+        },
+        "updated": "2026-05-25T06:38:41.253414+00:00",
+        "recid": "20372735",
+        "revision": 4,
+        "files": [
+          {
+            "id": "0151398a-d5d9-4402-8aa2-084fc06f5d15",
+            "key": "Fourier-v3.6e7-b2.4e-5.dat",
+            "size": 2752,
+            "checksum": "md5:b515bc2446820d3d232ae50953920646",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/Fourier-v3.6e7-b2.4e-5.dat/content"
+            }
+          },
+          {
+            "id": "ea70b902-894b-41c1-aa26-23f8270a313c",
+            "key": "phase-space-v3.6e7-b1.9e-6.dat",
+            "size": 7635,
+            "checksum": "md5:898e94290610ce7041db77023a97704a",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/phase-space-v3.6e7-b1.9e-6.dat/content"
+            }
+          },
+          {
+            "id": "8fbe7745-e9f8-4eaf-8078-fd5a178ec049",
+            "key": "phase-space-v3.6e7-b2.4e-5.dat",
+            "size": 7700,
+            "checksum": "md5:336130fd7975093930253b9b84e6bff6",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/phase-space-v3.6e7-b2.4e-5.dat/content"
+            }
+          },
+          {
+            "id": "73baea0f-9bea-4d85-9bb5-0f829715329b",
+            "key": "Fourier-v3.6e7-b1.9e-6.dat",
+            "size": 2926,
+            "checksum": "md5:86d3eb34cff67a9b9381eb050f1a4ea9",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/Fourier-v3.6e7-b1.9e-6.dat/content"
+            }
+          },
+          {
+            "id": "8a32d14c-f503-4379-ac83-bad113a60416",
+            "key": "delta-KG-criterion.dat",
+            "size": 42351,
+            "checksum": "md5:2bd9c24207ce93175549be5d49b2630c",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/delta-KG-criterion.dat/content"
+            }
+          },
+          {
+            "id": "653de6ff-6aba-4114-be74-6aae460c8078",
+            "key": "Fourier-v3.6e7-b1.4e-6.dat",
+            "size": 3062,
+            "checksum": "md5:402afad417c82987a6f21f226b360980",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/Fourier-v3.6e7-b1.4e-6.dat/content"
+            }
+          },
+          {
+            "id": "4cdc8338-39e2-4857-b8bd-0a16fa80b5e2",
+            "key": "Re-zeta.dat",
+            "size": 419667,
+            "checksum": "md5:7d119c101b2553a1b36eba0c54c31c66",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/Re-zeta.dat/content"
+            }
+          },
+          {
+            "id": "5a31228a-a7e4-4b18-ae81-ee7f07681876",
+            "key": "SR-UB-boundary.dat",
+            "size": 53942,
+            "checksum": "md5:410185811a751e8e56b1eac074a417c3",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/SR-UB-boundary.dat/content"
+            }
+          },
+          {
+            "id": "0a7e8d3a-bcf1-4dd2-972b-2208c36b606a",
+            "key": "phase-space-xi2.89-b0.10853.dat",
+            "size": 26479,
+            "checksum": "md5:4b25ac70acfb9d566854d3a4d1a94187",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/phase-space-xi2.89-b0.10853.dat/content"
+            }
+          },
+          {
+            "id": "7dff352c-6127-42ff-a4d0-11d5c7bc26de",
+            "key": "phase-space-v3.6e7-b3.3e-6.dat",
+            "size": 7665,
+            "checksum": "md5:a0f5843c42ea646c817aaa46791c7688",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/phase-space-v3.6e7-b3.3e-6.dat/content"
+            }
+          },
+          {
+            "id": "4b5b0793-c0d0-4493-b5bc-3e09869ba371",
+            "key": "SB-UB-boundary.dat",
+            "size": 53819,
+            "checksum": "md5:21ac311dbc2ea7219b9a86fca03da29e",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/SB-UB-boundary.dat/content"
+            }
+          },
+          {
+            "id": "47c1684b-4ba7-486c-a210-29dbdc8a949e",
+            "key": "tanh-b60_gef.dat",
+            "size": 123987,
+            "checksum": "md5:04e40a921d18ec14cade344b33997b4b",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/tanh-b60_gef.dat/content"
+            }
+          },
+          {
+            "id": "0657bc7e-1fc2-43b0-9cb2-b6f444209d9a",
+            "key": "Fourier-v3.6e7-b3.3e-6.dat",
+            "size": 2843,
+            "checksum": "md5:5ee463302c119ccff82ecb58d508a3d1",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/Fourier-v3.6e7-b3.3e-6.dat/content"
+            }
+          },
+          {
+            "id": "3d04f588-5279-4fd1-9150-c8f425a7fdf4",
+            "key": "bifurcation.dat",
+            "size": 1121,
+            "checksum": "md5:b7ac16a26b24810f986b699f587ab729",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/bifurcation.dat/content"
+            }
+          },
+          {
+            "id": "4a0a1ffa-9888-4891-9915-37bbbae09f65",
+            "key": "phase-space-v3.6e7-b1.4e-6.dat",
+            "size": 7673,
+            "checksum": "md5:f9e73faa62d5a04dcefb139b5cf6617a",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/phase-space-v3.6e7-b1.4e-6.dat/content"
+            }
+          },
+          {
+            "id": "a38f957c-e6e9-4ccc-b634-0d75c5594bc0",
+            "key": "phase-space-xi2.977-b0.16972.dat",
+            "size": 42810,
+            "checksum": "md5:c556ed62587ceaa3c9d19b36583cc773",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/phase-space-xi2.977-b0.16972.dat/content"
+            }
+          },
+          {
+            "id": "56fc9819-9268-454a-86ab-17400272dcfa",
+            "key": "g0.dat",
+            "size": 1114,
+            "checksum": "md5:93548bcb96302ae5e5d004b00d046bdc",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/g0.dat/content"
+            }
+          },
+          {
+            "id": "58b1d343-b576-45d8-b13e-7ca75e7cf901",
+            "key": "m2-b20_gef.dat",
+            "size": 403379,
+            "checksum": "md5:91232724f5dd27c3a35f978fa5e32173",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/m2-b20_gef.dat/content"
+            }
+          },
+          {
+            "id": "b67e1e3d-3918-4ac1-a023-76420e934f72",
+            "key": "m2-b20_inf.dat",
+            "size": 173558,
+            "checksum": "md5:4ae02b724f62b70d7f1f5c32d604f563",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/m2-b20_inf.dat/content"
+            }
+          },
+          {
+            "id": "9bded7e7-4737-40df-990e-c27bb5664e05",
+            "key": "tanh-b60_inf.dat",
+            "size": 30506,
+            "checksum": "md5:2baddb61bcb3b01ceefc86c83e3fd921",
+            "links": {
+              "self": "https://zenodo.org/api/records/20372735/files/tanh-b60_inf.dat/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1554822"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 685,
+          "unique_downloads": 684,
+          "views": 116,
+          "unique_views": 113,
+          "version_downloads": 685,
+          "version_unique_downloads": 684,
+          "version_unique_views": 113,
+          "version_views": 116
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-05-13T03:35:48.764083+00:00",
+        "modified": "2026-05-13T03:35:48.966388+00:00",
+        "id": 20149860,
+        "conceptrecid": "20149859",
+        "doi": "10.5281/zenodo.20149860",
+        "conceptdoi": "10.5281/zenodo.20149859",
+        "doi_url": "https://doi.org/10.5281/zenodo.20149860",
+        "metadata": {
+          "title": "Faster-than-Light Phase Propagation, the Fate of a Cyclic Universe, and the Emergent Luminal Boundary in Extended Classical Mechanics",
+          "doi": "10.5281/zenodo.20149860",
+          "publication_date": "2026-05-13",
+          "description": "<p>This work develops a unified cosmological and dynamical extension of Extended Classical Mechanics (ECM), demonstrating that the conventional speed of light (c) emerges not as an absolute universal limit, but as a stable manifestation boundary associated with the Planck-scale wavelength constraint (&lambda; &ge; \u2113\u1d18) within the manifested physical regime.</p>\n<p>Within this framework, the luminal limit remains preserved under ordinary gravitationally bound conditions, where manifested matter mass dominates negative apparent mass. However, when the system transitions into a phase-dominated anti-gravitational regime, characterized by |M\u1d43\u1d56\u1d56| \u226b M\u1d0d, the manifestation boundary weakens, permitting sub-Planckian wavelength contraction (&lambda; &lt; \u2113\u1d18) and enabling superluminal phase propagation (v\u209a\u2095\u2090\u209b\u2091 &gt; c). This superluminality is interpreted not as a violation of known physics, but as a natural consequence of transition into an un-manifest phase regime where ordinary spacetime ceases to remain fundamental.</p>\n<p>The same formalism is shown to govern temporal emergence. Time is reinterpreted in ECM as an emergent consequence of phase-frequency transformation, distinguishing idealized clock time, event-driven cosmic time, and entropy-induced temporal distortion. This leads to a generalized concept of time distortion distinct from conventional relativistic time dilation.</p>\n<p>When extended cosmologically, ECM predicts a cyclic universe in which terminal cosmic evolution proceeds toward phase-dominated un-manifestation rather than thermal termination or infinite wavelength expansion. In this limit, the universe undergoes frequency-state reorganization, enabling re-manifestation and thereby providing a natural cyclic cosmology.</p>\n<p>This yields a structurally comparable but physically distinct alternative to Conformal Cyclic Cosmology (CCC), replacing conformal geometric continuity with phase-frequency continuity. ECM therefore provides a unified framework linking superluminal phase behavior, emergent time, and the cyclic fate of the universe within a single physical formalism.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Thakur, Soumendra Nath",
+              "affiliation": "Tagore's Electronic Lab",
+              "orcid": "0000-0003-1871-7803"
+            }
+          ],
+          "keywords": [
+            "Extended Classical Mechanics (ECM)",
+            "Superluminal Phase Propagation",
+            "Faster-than-Light Physics",
+            "Emergent Speed of Light",
+            "Sub-Planckian Wavelength",
+            "Entropic Time Distortion",
+            "Cosmic Time",
+            "Phase Transition Cosmology",
+            "Cyclic Universe",
+            "Conformal Cyclic Cosmology (CCC)"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.18825894",
+              "relation": "describes",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.18644389",
+              "relation": "describes",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.13140/RG.2.2.29063.46240",
+              "relation": "describes",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.18916393",
+              "relation": "describes",
+              "resource_type": "publication-other",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.2139/ssrn.5494689",
+              "relation": "describes",
+              "resource_type": "publication-other",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.13140/RG.2.2.12275.18721",
+              "relation": "describes",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.18292707",
+              "relation": "describes",
+              "resource_type": "publication-other",
+              "scheme": "doi"
+            }
+          ],
+          "version": "1",
+          "references": [
+            "Planck, M. (1901). On the Law of Distribution of Energy in the Normal Spectrum. Annalen der Physik, 4(553), 1\u201311",
+            "Planck, M. (1899). \u00dcber irreversible Strahlungsvorg\u00e4nge. Sitzungsberichte der K\u00f6niglich Preu\u00dfischen Akademie der Wissenschaften zu Berlin, 5, 440\u2013480.",
+            "Bureau International des Poids et Mesures (BIPM). SI Brochure: The International System of Units (SI).",
+            "Planck Collaboration. (2018). Planck 2018 Results: Cosmological Parameters.",
+            "Chernin, A. D., Bisnovatyi-Kogan, G. S., Teerikorpi, P., Valtonen, M. J., Byrd, G. G., & Merafina, M. (2013). Dark energy and the structure of the Coma cluster of galaxies. Astronomy & Astrophysics, 553, A101. https://doi.org/10.1051/0004-6361/201220781",
+            "Humpherys, D. (2024). Understanding the natural units and their hidden role in the laws of physics. European Journal of Physics, 45(5), 055802. https://doi.org/10.1088/1361-6404/ad61d3"
+          ],
+          "language": "eng",
+          "custom": {
+            "code:codeRepository": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6755798"
+          },
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "meeting": {
+            "url": "http://www.telitnetwork.itgo.com/ECM-Faster-than-Light-Phase.html"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20149859"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Faster-than-Light Phase Propagation, the Fate of a Cyclic Universe, and the Emergent Luminal Boundary in Extended Classical Mechanics",
+        "links": {
+          "self": "https://zenodo.org/api/records/20149860",
+          "self_html": "https://zenodo.org/records/20149860",
+          "preview_html": "https://zenodo.org/records/20149860?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20149860",
+          "self_doi": "https://doi.org/10.5281/zenodo.20149860",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20149860",
+          "reserve_doi": "https://zenodo.org/api/records/20149860/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20149859",
+          "parent_html": "https://zenodo.org/records/20149859",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20149859",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20149859",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20149860/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20149860/sequence/default",
+          "files": "https://zenodo.org/api/records/20149860/files",
+          "media_files": "https://zenodo.org/api/records/20149860/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:20149860:Manuscript%20-%20Faster-than-Light%20Phase%20Propagation%20in%20ECM_v1.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:20149860:Manuscript%20-%20Faster-than-Light%20Phase%20Propagation%20in%20ECM_v1.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:20149860:Manuscript%20-%20Faster-than-Light%20Phase%20Propagation%20in%20ECM_v1.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:20149860:Manuscript%20-%20Faster-than-Light%20Phase%20Propagation%20in%20ECM_v1.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:20149860:Manuscript%20-%20Faster-than-Light%20Phase%20Propagation%20in%20ECM_v1.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:20149860:Manuscript%20-%20Faster-than-Light%20Phase%20Propagation%20in%20ECM_v1.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/20149860/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20149860/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20149860/versions/latest",
+          "latest_html": "https://zenodo.org/records/20149860/latest",
+          "versions": "https://zenodo.org/api/records/20149860/versions",
+          "draft": "https://zenodo.org/api/records/20149860/draft",
+          "access_links": "https://zenodo.org/api/records/20149860/access/links",
+          "access_grants": "https://zenodo.org/api/records/20149860/access/grants",
+          "access_users": "https://zenodo.org/api/records/20149860/access/users",
+          "access_request": "https://zenodo.org/api/records/20149860/access/request",
+          "access": "https://zenodo.org/api/records/20149860/access",
+          "communities": "https://zenodo.org/api/records/20149860/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20149860/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20149860/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20149860/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20149860/quota-increase",
+          "requests": "https://zenodo.org/api/records/20149860/requests"
+        },
+        "updated": "2026-05-13T03:35:48.966388+00:00",
+        "recid": "20149860",
+        "revision": 4,
+        "files": [
+          {
+            "id": "b2216bf8-1279-4ad2-a013-50516ffa05d4",
+            "key": "Manuscript - Faster-than-Light Phase Propagation in ECM_v1.pdf",
+            "size": 566102,
+            "checksum": "md5:7caa8378aa8118596ee13edf3e3ec679",
+            "links": {
+              "self": "https://zenodo.org/api/records/20149860/files/Manuscript%20-%20Faster-than-Light%20Phase%20Propagation%20in%20ECM_v1.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1420393"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 23,
+          "unique_downloads": 20,
+          "views": 42,
+          "unique_views": 40,
+          "version_downloads": 23,
+          "version_unique_downloads": 20,
+          "version_unique_views": 40,
+          "version_views": 42
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-02-20T06:06:47.968358+00:00",
+        "modified": "2026-02-20T06:06:48.363525+00:00",
+        "id": 18708049,
+        "conceptrecid": "17058692",
+        "doi": "10.5281/zenodo.18708049",
+        "conceptdoi": "10.5281/zenodo.17058692",
+        "doi_url": "https://doi.org/10.5281/zenodo.18708049",
+        "metadata": {
+          "title": "The Oscillation Principle",
+          "doi": "10.5281/zenodo.18708049",
+          "publication_date": "2026-02-19",
+          "description": "<p>Entanglement Compression Theory (ECT) derives probability, deterministic quantum dynamics, and spacetime curvature from a single structural requirement: existence must persist as motion, and the simplest persistent motion is oscillation. From this requirement, probability, geometry, and general relativity arise as deterministic consequences rather than independent postulates.</p>\n<p>This paper introduces the Oscillation Principle: static states are physically untenable, and oscillation is the only realizable form of existence. Energy, motion, and wave behavior are not distinct categories but different descriptions of a single oscillatory act, expressed concisely as waves = motion = energy. From this premise, entanglement, compression, and probabilistic structure follow as necessary consequences.</p>\n<p>Planck units, historically treated as dimensional cutoffs, are reinterpreted as descriptors of the minimal oscillatory event: \u2113\u209a as spatial span, t\u209a as temporal recurrence, and E\u209a as causal amplitude. These quantities describe the first physically meaningful wavelength, period, and amplitude from which dimensional extension emerges. Curvature appears when compression reaches its entropy boundary, linking oscillatory structure to geometric response.</p>\n<p>Within ECT, the local speed of light arises from compression through c(x)&sup2; = T(x)/C(x), where T(x) denotes tension and C(x) compression. Probability emerges through deterministic energy partition, and curvature arises from compression gradients. The Oscillation Principle unifies these relations and provides a geometric interpretation of \u2113\u209a, t\u209a, and E\u209a as properties of a primordial oscillatory event.</p>\n<p>This paper serves as the conceptual foundation of Entanglement Compression Theory. Readers seeking formal derivations, operator structure, and falsifiability protocols should consult Theory of Derived Probability and Entanglement Compression (DOI: 10.5281/zenodo.15786696) and its Mathematical Foundations companion.</p>\n<p>For a visual demonstration of deterministic structure emergence under the Primordial Wave Equation (PWE) and its prediction of dark-matter-like halos, see:<br><a href=\"https://compressiontheoryinstitute.org\" target=\"_new\" rel=\"noopener\">https://compressiontheoryinstitute.org</a></p>\n\n\n<p>Version 5 (February 2026).<br>Refined conceptual language to align fully with the Oscillation Principle, clarifying the non-static ontology and the interpretation of Planck units as descriptors of minimal oscillatory structure. No formal equations, claims, or empirical predictions were altered.</p>\n<p>Version 4 (February 9, 2026).<br>Replaced incorrect DOI in header.</p>\n<p>Version 3 (January 2026).<br>Introduced a constraint-based structural justification of the Oscillation Principle, clarifying why persistent motion necessarily takes oscillatory form. No physical claims, formal results, or conclusions were altered.</p>\n<p>Version 2 (January 2026).<br>Minor editorial alignment to clarify axiomatic classification, canonical ordering within Entanglement Compression Theory, and language consistency with later foundational papers. No substantive claims, derivations, or conclusions were altered from the original 2025 release.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Lawrence, William Andrew",
+              "affiliation": "Compression Theory Institute",
+              "orcid": "0009-0003-8018-4013"
+            }
+          ],
+          "keywords": [
+            "(EuroSciVoc) Physical cosmology",
+            "(EuroSciVoc) Theoretical physics",
+            "(EuroSciVoc) Quantum field theory",
+            "(MeSH) Probability",
+            "(EuroSciVoc) Mathematical physics",
+            "(EuroSciVoc) Astrophysics",
+            "oscillation principle",
+            "primordial wave equation",
+            "existence equals motion",
+            "amplitude oscillation",
+            "ontological mechanics",
+            "dynamic equilibrium",
+            "causal oscillation law",
+            "Entanglement Compression Theory (ECT)",
+            "Derived Probability",
+            "Primordial oscillation",
+            "Quantum gravity",
+            "Curvature and compression",
+            "Spacetime emergence",
+            "Foundations of physics",
+            "Quantum foundations",
+            "Probability derivation",
+            "Compression scalars",
+            "Causation",
+            "Dimensionality",
+            "Wave mechanics",
+            "Unified physics",
+            "LUWF (Lawrence Universal Wave Function)",
+            "Lawrence Amplitude Functional Framework (LaFF)",
+            "Lawrence Compression Singularity Root (LCSR)",
+            "Primordial Wave Equation (PWE)",
+            "Theoretical physics",
+            "Quantum mechanics",
+            "General relativity",
+            "Cosmology",
+            "Particle physics",
+            "High-energy physics",
+            "Quantum foundations",
+            "Field theory",
+            "Pre-geometric physics",
+            "Deterministic physics",
+            "Planck-scale physics",
+            "Emergent spacetime",
+            "pre-spacetime physics",
+            "origin of spacetime",
+            "physical compression mechanisms",
+            "compression in fundamental physics",
+            "compression physics",
+            "wave compression",
+            "collapse-free quantum mechanics",
+            "foundations of quantum mechanics",
+            "foundations of gravity"
+          ],
+          "dates": [
+            {
+              "type": "created"
+            }
+          ],
+          "references": [
+            "Lawrence, W. A., Theory of Derived Probability and Entanglement Compression (v4), Zenodo (2025). DOI: 10.5281/zenodo.15786696. https://doi.org/10.5281/zenodo.15786696",
+            "Planck, M., \"\u00dcber irreversible Strahlungsvorg\u00e4nge,\" Sitzungsberichte der K\u00f6niglich Preu\u00dfischen Akademie der Wissenschaften zu Berlin (1899).",
+            "Kiefer, C., Quantum Gravity, 3rd ed., Oxford University Press, Oxford (2012).",
+            "Donoghue, J. F., \"General Relativity as an Effective Field Theory: The Leading Quantum Corrections,\" Physical Review D 50, 3874\u20133888 (1994). doi:10.1103/PhysRevD.50.3874",
+            "Rovelli, C., Quantum Gravity, Cambridge University Press, Cambridge (2004).",
+            "Padmanabhan, T., \"Emergence and Expansion of Cosmic Space as due to the Quest for Holographic Equipartition,\" arXiv preprint arXiv:1206.4916 (2012).",
+            "Carlip, S., \"Spontaneous Dimensional Reduction in Quantum Gravity,\" Classical and Quantum Gravity 34, 193001 (2017). doi:10.1088/1361-6382/aa8535",
+            "Nicolai, H., Peeters, K., and Zamaklar, M., \"Loop Quantum Gravity: An Outside View,\" Classical and Quantum Gravity 22, R193\u2013R247 (2005). doi:10.1088/0264-9381/22/19/R01"
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "ai-physics-review"
+            },
+            {
+              "id": "entanglement-compression-theory"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 4,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "17058692"
+                }
+              }
+            ]
+          }
+        },
+        "title": "The Oscillation Principle",
+        "links": {
+          "self": "https://zenodo.org/api/records/18708049",
+          "self_html": "https://zenodo.org/records/18708049",
+          "preview_html": "https://zenodo.org/records/18708049?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.18708049",
+          "self_doi": "https://doi.org/10.5281/zenodo.18708049",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18708049",
+          "reserve_doi": "https://zenodo.org/api/records/18708049/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/17058692",
+          "parent_html": "https://zenodo.org/records/17058692",
+          "parent_doi": "https://doi.org/10.5281/zenodo.17058692",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17058692",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18708049/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18708049/sequence/default",
+          "files": "https://zenodo.org/api/records/18708049/files",
+          "media_files": "https://zenodo.org/api/records/18708049/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:18708049:20260219_v5_The_Oscillation_Principle.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:18708049:20260219_v5_The_Oscillation_Principle.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:18708049:20260219_v5_The_Oscillation_Principle.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:18708049:20260219_v5_The_Oscillation_Principle.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:18708049:20260219_v5_The_Oscillation_Principle.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:18708049:20260219_v5_The_Oscillation_Principle.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/18708049/files-archive",
+          "archive_media": "https://zenodo.org/api/records/18708049/media-files-archive",
+          "latest": "https://zenodo.org/api/records/18708049/versions/latest",
+          "latest_html": "https://zenodo.org/records/18708049/latest",
+          "versions": "https://zenodo.org/api/records/18708049/versions",
+          "draft": "https://zenodo.org/api/records/18708049/draft",
+          "access_links": "https://zenodo.org/api/records/18708049/access/links",
+          "access_grants": "https://zenodo.org/api/records/18708049/access/grants",
+          "access_users": "https://zenodo.org/api/records/18708049/access/users",
+          "access_request": "https://zenodo.org/api/records/18708049/access/request",
+          "access": "https://zenodo.org/api/records/18708049/access",
+          "communities": "https://zenodo.org/api/records/18708049/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/18708049/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/18708049/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/18708049/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/18708049/quota-increase",
+          "requests": "https://zenodo.org/api/records/18708049/requests"
+        },
+        "updated": "2026-02-20T06:06:48.363525+00:00",
+        "recid": "18708049",
+        "revision": 3,
+        "files": [
+          {
+            "id": "807befaa-2e30-4c2a-81c8-b7123c873909",
+            "key": "20260219_v5_The_Oscillation_Principle.pdf",
+            "size": 262465,
+            "checksum": "md5:1ab26fff0e0447b4dfa3742c057d95c2",
+            "links": {
+              "self": "https://zenodo.org/api/records/18708049/files/20260219_v5_The_Oscillation_Principle.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1348185"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 520,
+          "unique_downloads": 426,
+          "views": 588,
+          "unique_views": 530,
+          "version_downloads": 117,
+          "version_unique_downloads": 106,
+          "version_unique_views": 132,
+          "version_views": 136
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2018-12-04T04:53:54.702879+00:00",
+        "modified": "2024-08-01T13:40:06.010635+00:00",
+        "id": 1909715,
+        "conceptrecid": "1909714",
+        "doi": "10.1002/andp.18882700509",
+        "doi_url": "https://doi.org/10.1002/andp.18882700509",
+        "metadata": {
+          "title": "Das chemische Gleichgewicht in verd\u00fcnnten L\u00f6sungen",
+          "doi": "10.1002/andp.18882700509",
+          "publication_date": "1888-01-01",
+          "description": "n/a",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Planck, Max",
+              "affiliation": null
+            }
+          ],
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "license": {
+            "id": "cc-zero"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "1909714"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Das chemische Gleichgewicht in verd\u00fcnnten L\u00f6sungen",
+        "links": {
+          "self": "https://zenodo.org/api/records/1909715",
+          "self_html": "https://zenodo.org/records/1909715",
+          "preview_html": "https://zenodo.org/records/1909715?preview=1",
+          "doi": "https://doi.org/10.1002/andp.18882700509",
+          "self_doi": "https://doi.org/10.1002/andp.18882700509",
+          "self_doi_html": "https://zenodo.org/doi/10.1002/andp.18882700509",
+          "reserve_doi": "https://zenodo.org/api/records/1909715/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/1909714",
+          "parent_html": "https://zenodo.org/records/1909714",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:1909715/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:1909715/sequence/default",
+          "files": "https://zenodo.org/api/records/1909715/files",
+          "media_files": "https://zenodo.org/api/records/1909715/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:1909715:article.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:1909715:article.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:1909715:article.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:1909715:article.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:1909715:article.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:1909715:article.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/1909715/files-archive",
+          "archive_media": "https://zenodo.org/api/records/1909715/media-files-archive",
+          "latest": "https://zenodo.org/api/records/1909715/versions/latest",
+          "latest_html": "https://zenodo.org/records/1909715/latest",
+          "versions": "https://zenodo.org/api/records/1909715/versions",
+          "draft": "https://zenodo.org/api/records/1909715/draft",
+          "access_links": "https://zenodo.org/api/records/1909715/access/links",
+          "access_grants": "https://zenodo.org/api/records/1909715/access/grants",
+          "access_users": "https://zenodo.org/api/records/1909715/access/users",
+          "access_request": "https://zenodo.org/api/records/1909715/access/request",
+          "access": "https://zenodo.org/api/records/1909715/access",
+          "communities": "https://zenodo.org/api/records/1909715/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/1909715/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/1909715/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/1909715/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/1909715/quota-increase",
+          "requests": "https://zenodo.org/api/records/1909715/requests"
+        },
+        "updated": "2024-08-01T13:40:06.010635+00:00",
+        "recid": "1909715",
+        "revision": 13,
+        "files": [
+          {
+            "id": "8567e8b7-7300-4ea6-ac0a-6d429652835a",
+            "key": "article.pdf",
+            "size": 796130,
+            "checksum": "md5:17e36d74d0bd788d1e0b35c208cd1ac4",
+            "links": {
+              "self": "https://zenodo.org/api/records/1909715/files/article.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "13380"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 160,
+          "unique_downloads": 159,
+          "views": 55,
+          "unique_views": 55,
+          "version_downloads": 160,
+          "version_unique_downloads": 159,
+          "version_unique_views": 55,
+          "version_views": 55
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2018-12-09T16:39:23.613325+00:00",
+        "modified": "2024-07-26T06:35:52.233663+00:00",
+        "id": 2109908,
+        "conceptrecid": "2109907",
+        "doi": "10.1002/andp.18972991357",
+        "doi_url": "https://doi.org/10.1002/andp.18972991357",
+        "metadata": {
+          "title": "Notiz zur Theorie der D\u00e4mpfung electrischer Schwingungen",
+          "doi": "10.1002/andp.18972991357",
+          "publication_date": "1897-01-01",
+          "description": "n/a",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Planck, Max",
+              "affiliation": null
+            }
+          ],
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "license": {
+            "id": "cc-zero"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "2109907"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Notiz zur Theorie der D\u00e4mpfung electrischer Schwingungen",
+        "links": {
+          "self": "https://zenodo.org/api/records/2109908",
+          "self_html": "https://zenodo.org/records/2109908",
+          "preview_html": "https://zenodo.org/records/2109908?preview=1",
+          "doi": "https://doi.org/10.1002/andp.18972991357",
+          "self_doi": "https://doi.org/10.1002/andp.18972991357",
+          "self_doi_html": "https://zenodo.org/doi/10.1002/andp.18972991357",
+          "reserve_doi": "https://zenodo.org/api/records/2109908/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/2109907",
+          "parent_html": "https://zenodo.org/records/2109907",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:2109908/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:2109908/sequence/default",
+          "files": "https://zenodo.org/api/records/2109908/files",
+          "media_files": "https://zenodo.org/api/records/2109908/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:2109908:article.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:2109908:article.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:2109908:article.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:2109908:article.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:2109908:article.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:2109908:article.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/2109908/files-archive",
+          "archive_media": "https://zenodo.org/api/records/2109908/media-files-archive",
+          "latest": "https://zenodo.org/api/records/2109908/versions/latest",
+          "latest_html": "https://zenodo.org/records/2109908/latest",
+          "versions": "https://zenodo.org/api/records/2109908/versions",
+          "draft": "https://zenodo.org/api/records/2109908/draft",
+          "access_links": "https://zenodo.org/api/records/2109908/access/links",
+          "access_grants": "https://zenodo.org/api/records/2109908/access/grants",
+          "access_users": "https://zenodo.org/api/records/2109908/access/users",
+          "access_request": "https://zenodo.org/api/records/2109908/access/request",
+          "access": "https://zenodo.org/api/records/2109908/access",
+          "communities": "https://zenodo.org/api/records/2109908/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/2109908/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/2109908/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/2109908/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/2109908/quota-increase",
+          "requests": "https://zenodo.org/api/records/2109908/requests"
+        },
+        "updated": "2024-07-26T06:35:52.233663+00:00",
+        "recid": "2109908",
+        "revision": 8,
+        "files": [
+          {
+            "id": "4599b382-d297-4ac7-9b63-8f56336c86d1",
+            "key": "article.pdf",
+            "size": 150315,
+            "checksum": "md5:e251d9ed674e07ad6e35972ed350b4c5",
+            "links": {
+              "self": "https://zenodo.org/api/records/2109908/files/article.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "13380"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 140,
+          "unique_downloads": 136,
+          "views": 80,
+          "unique_views": 79,
+          "version_downloads": 139,
+          "version_unique_downloads": 135,
+          "version_unique_views": 79,
+          "version_views": 80
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2018-12-04T10:47:31.901298+00:00",
+        "modified": "2024-08-01T13:18:49.157370+00:00",
+        "id": 1922233,
+        "conceptrecid": "1922232",
+        "doi": "10.1002/andp.19003081215",
+        "doi_url": "https://doi.org/10.1002/andp.19003081215",
+        "metadata": {
+          "title": "Kritik zweier S\u00e4tze des Hrn. W. Wien",
+          "doi": "10.1002/andp.19003081215",
+          "publication_date": "1900-01-01",
+          "description": "n/a",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Planck, Max",
+              "affiliation": null
+            }
+          ],
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "license": {
+            "id": "cc-zero"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "1922232"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Kritik zweier S\u00e4tze des Hrn. W. Wien",
+        "links": {
+          "self": "https://zenodo.org/api/records/1922233",
+          "self_html": "https://zenodo.org/records/1922233",
+          "preview_html": "https://zenodo.org/records/1922233?preview=1",
+          "doi": "https://doi.org/10.1002/andp.19003081215",
+          "self_doi": "https://doi.org/10.1002/andp.19003081215",
+          "self_doi_html": "https://zenodo.org/doi/10.1002/andp.19003081215",
+          "reserve_doi": "https://zenodo.org/api/records/1922233/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/1922232",
+          "parent_html": "https://zenodo.org/records/1922232",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:1922233/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:1922233/sequence/default",
+          "files": "https://zenodo.org/api/records/1922233/files",
+          "media_files": "https://zenodo.org/api/records/1922233/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:1922233:article.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:1922233:article.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:1922233:article.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:1922233:article.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:1922233:article.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:1922233:article.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/1922233/files-archive",
+          "archive_media": "https://zenodo.org/api/records/1922233/media-files-archive",
+          "latest": "https://zenodo.org/api/records/1922233/versions/latest",
+          "latest_html": "https://zenodo.org/records/1922233/latest",
+          "versions": "https://zenodo.org/api/records/1922233/versions",
+          "draft": "https://zenodo.org/api/records/1922233/draft",
+          "access_links": "https://zenodo.org/api/records/1922233/access/links",
+          "access_grants": "https://zenodo.org/api/records/1922233/access/grants",
+          "access_users": "https://zenodo.org/api/records/1922233/access/users",
+          "access_request": "https://zenodo.org/api/records/1922233/access/request",
+          "access": "https://zenodo.org/api/records/1922233/access",
+          "communities": "https://zenodo.org/api/records/1922233/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/1922233/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/1922233/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/1922233/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/1922233/quota-increase",
+          "requests": "https://zenodo.org/api/records/1922233/requests"
+        },
+        "updated": "2024-08-01T13:18:49.157370+00:00",
+        "recid": "1922233",
+        "revision": 12,
+        "files": [
+          {
+            "id": "46d0136c-6ef1-4054-9b51-17d27ee36400",
+            "key": "article.pdf",
+            "size": 131470,
+            "checksum": "md5:e75b036b9c0ca54b7ef620e9ac518998",
+            "links": {
+              "self": "https://zenodo.org/api/records/1922233/files/article.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "13380"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 166,
+          "unique_downloads": 164,
+          "views": 100,
+          "unique_views": 99,
+          "version_downloads": 164,
+          "version_unique_downloads": 162,
+          "version_unique_views": 99,
+          "version_views": 100
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2018-09-21T13:11:21.956491+00:00",
+        "modified": "2024-08-02T03:48:38.196586+00:00",
+        "id": 1423979,
+        "conceptrecid": "1423978",
+        "doi": "10.1002/andp.19003060410",
+        "doi_url": "https://doi.org/10.1002/andp.19003060410",
+        "metadata": {
+          "title": "Entropie und Temperatur strahlender W\u00e4rme",
+          "doi": "10.1002/andp.19003060410",
+          "publication_date": "1900-01-01",
+          "description": "n/a",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Planck, Max",
+              "affiliation": null
+            }
+          ],
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "license": {
+            "id": "cc-zero"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "1423978"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Entropie und Temperatur strahlender W\u00e4rme",
+        "links": {
+          "self": "https://zenodo.org/api/records/1423979",
+          "self_html": "https://zenodo.org/records/1423979",
+          "preview_html": "https://zenodo.org/records/1423979?preview=1",
+          "doi": "https://doi.org/10.1002/andp.19003060410",
+          "self_doi": "https://doi.org/10.1002/andp.19003060410",
+          "self_doi_html": "https://zenodo.org/doi/10.1002/andp.19003060410",
+          "reserve_doi": "https://zenodo.org/api/records/1423979/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/1423978",
+          "parent_html": "https://zenodo.org/records/1423978",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:1423979/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:1423979/sequence/default",
+          "files": "https://zenodo.org/api/records/1423979/files",
+          "media_files": "https://zenodo.org/api/records/1423979/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:1423979:article.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:1423979:article.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:1423979:article.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:1423979:article.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:1423979:article.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:1423979:article.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/1423979/files-archive",
+          "archive_media": "https://zenodo.org/api/records/1423979/media-files-archive",
+          "latest": "https://zenodo.org/api/records/1423979/versions/latest",
+          "latest_html": "https://zenodo.org/records/1423979/latest",
+          "versions": "https://zenodo.org/api/records/1423979/versions",
+          "draft": "https://zenodo.org/api/records/1423979/draft",
+          "access_links": "https://zenodo.org/api/records/1423979/access/links",
+          "access_grants": "https://zenodo.org/api/records/1423979/access/grants",
+          "access_users": "https://zenodo.org/api/records/1423979/access/users",
+          "access_request": "https://zenodo.org/api/records/1423979/access/request",
+          "access": "https://zenodo.org/api/records/1423979/access",
+          "communities": "https://zenodo.org/api/records/1423979/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/1423979/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/1423979/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/1423979/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/1423979/quota-increase",
+          "requests": "https://zenodo.org/api/records/1423979/requests"
+        },
+        "updated": "2024-08-02T03:48:38.196586+00:00",
+        "recid": "1423979",
+        "revision": 32,
+        "files": [
+          {
+            "id": "917749d9-553f-4f5a-ac18-3f1f378d18d7",
+            "key": "article.pdf",
+            "size": 871616,
+            "checksum": "md5:8867a86592d88d410e985fc469eb849c",
+            "links": {
+              "self": "https://zenodo.org/api/records/1423979/files/article.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "13380"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 1713,
+          "unique_downloads": 1543,
+          "views": 2774,
+          "unique_views": 2669,
+          "version_downloads": 1705,
+          "version_unique_downloads": 1535,
+          "version_unique_views": 2654,
+          "version_views": 2759
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2018-12-01T14:44:01.841162+00:00",
+        "modified": "2024-08-01T16:44:29.634127+00:00",
+        "id": 1801326,
+        "conceptrecid": "1801325",
+        "doi": "10.1002/andp.18892720303",
+        "doi_url": "https://doi.org/10.1002/andp.18892720303",
+        "metadata": {
+          "title": "Zur Theorie der Thermoelectricit\u00e4t in metallischen Leitern",
+          "doi": "10.1002/andp.18892720303",
+          "publication_date": "1889-01-01",
+          "description": "n/a",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Planck, Max",
+              "affiliation": null
+            }
+          ],
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "license": {
+            "id": "cc-zero"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "1801325"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Zur Theorie der Thermoelectricit\u00e4t in metallischen Leitern",
+        "links": {
+          "self": "https://zenodo.org/api/records/1801326",
+          "self_html": "https://zenodo.org/records/1801326",
+          "preview_html": "https://zenodo.org/records/1801326?preview=1",
+          "doi": "https://doi.org/10.1002/andp.18892720303",
+          "self_doi": "https://doi.org/10.1002/andp.18892720303",
+          "self_doi_html": "https://zenodo.org/doi/10.1002/andp.18892720303",
+          "reserve_doi": "https://zenodo.org/api/records/1801326/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/1801325",
+          "parent_html": "https://zenodo.org/records/1801325",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:1801326/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:1801326/sequence/default",
+          "files": "https://zenodo.org/api/records/1801326/files",
+          "media_files": "https://zenodo.org/api/records/1801326/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:1801326:article.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:1801326:article.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:1801326:article.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:1801326:article.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:1801326:article.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:1801326:article.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/1801326/files-archive",
+          "archive_media": "https://zenodo.org/api/records/1801326/media-files-archive",
+          "latest": "https://zenodo.org/api/records/1801326/versions/latest",
+          "latest_html": "https://zenodo.org/records/1801326/latest",
+          "versions": "https://zenodo.org/api/records/1801326/versions",
+          "draft": "https://zenodo.org/api/records/1801326/draft",
+          "access_links": "https://zenodo.org/api/records/1801326/access/links",
+          "access_grants": "https://zenodo.org/api/records/1801326/access/grants",
+          "access_users": "https://zenodo.org/api/records/1801326/access/users",
+          "access_request": "https://zenodo.org/api/records/1801326/access/request",
+          "access": "https://zenodo.org/api/records/1801326/access",
+          "communities": "https://zenodo.org/api/records/1801326/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/1801326/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/1801326/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/1801326/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/1801326/quota-increase",
+          "requests": "https://zenodo.org/api/records/1801326/requests"
+        },
+        "updated": "2024-08-01T16:44:29.634127+00:00",
+        "recid": "1801326",
+        "revision": 8,
+        "files": [
+          {
+            "id": "6baaf70d-aee2-4aaa-a578-f3ac2d4cdec1",
+            "key": "article.pdf",
+            "size": 1063642,
+            "checksum": "md5:da2b89b32745ca02b6fe89f940a6fc41",
+            "links": {
+              "self": "https://zenodo.org/api/records/1801326/files/article.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "13380"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 160,
+          "unique_downloads": 156,
+          "views": 57,
+          "unique_views": 57,
+          "version_downloads": 160,
+          "version_unique_downloads": 156,
+          "version_unique_views": 57,
+          "version_views": 57
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2018-09-21T13:12:16.598261+00:00",
+        "modified": "2024-08-02T03:48:35.548346+00:00",
+        "id": 1423997,
+        "conceptrecid": "1423996",
+        "doi": "10.1002/andp.19013090311",
+        "doi_url": "https://doi.org/10.1002/andp.19013090311",
+        "metadata": {
+          "title": "Ueber die Elementarquanta der Materie und der Elektricit\u00e4t",
+          "doi": "10.1002/andp.19013090311",
+          "publication_date": "1901-01-01",
+          "description": "n/a",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Planck, Max",
+              "affiliation": null
+            }
+          ],
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "license": {
+            "id": "cc-zero"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "1423996"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Ueber die Elementarquanta der Materie und der Elektricit\u00e4t",
+        "links": {
+          "self": "https://zenodo.org/api/records/1423997",
+          "self_html": "https://zenodo.org/records/1423997",
+          "preview_html": "https://zenodo.org/records/1423997?preview=1",
+          "doi": "https://doi.org/10.1002/andp.19013090311",
+          "self_doi": "https://doi.org/10.1002/andp.19013090311",
+          "self_doi_html": "https://zenodo.org/doi/10.1002/andp.19013090311",
+          "reserve_doi": "https://zenodo.org/api/records/1423997/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/1423996",
+          "parent_html": "https://zenodo.org/records/1423996",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:1423997/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:1423997/sequence/default",
+          "files": "https://zenodo.org/api/records/1423997/files",
+          "media_files": "https://zenodo.org/api/records/1423997/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:1423997:article.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:1423997:article.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:1423997:article.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:1423997:article.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:1423997:article.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:1423997:article.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/1423997/files-archive",
+          "archive_media": "https://zenodo.org/api/records/1423997/media-files-archive",
+          "latest": "https://zenodo.org/api/records/1423997/versions/latest",
+          "latest_html": "https://zenodo.org/records/1423997/latest",
+          "versions": "https://zenodo.org/api/records/1423997/versions",
+          "draft": "https://zenodo.org/api/records/1423997/draft",
+          "access_links": "https://zenodo.org/api/records/1423997/access/links",
+          "access_grants": "https://zenodo.org/api/records/1423997/access/grants",
+          "access_users": "https://zenodo.org/api/records/1423997/access/users",
+          "access_request": "https://zenodo.org/api/records/1423997/access/request",
+          "access": "https://zenodo.org/api/records/1423997/access",
+          "communities": "https://zenodo.org/api/records/1423997/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/1423997/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/1423997/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/1423997/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/1423997/quota-increase",
+          "requests": "https://zenodo.org/api/records/1423997/requests"
+        },
+        "updated": "2024-08-02T03:48:35.548346+00:00",
+        "recid": "1423997",
+        "revision": 33,
+        "files": [
+          {
+            "id": "375eb4e1-86c5-466f-8e74-4c620c48fb89",
+            "key": "article.pdf",
+            "size": 83141,
+            "checksum": "md5:d24ecd0e370a4669589196c9eac74504",
+            "links": {
+              "self": "https://zenodo.org/api/records/1423997/files/article.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "13380"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 1559,
+          "unique_downloads": 1472,
+          "views": 1705,
+          "unique_views": 1686,
+          "version_downloads": 1554,
+          "version_unique_downloads": 1467,
+          "version_unique_views": 1684,
+          "version_views": 1703
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-05-17T23:11:39.442914+00:00",
+        "modified": "2026-05-17T23:11:39.758414+00:00",
+        "id": 20262186,
+        "conceptrecid": "20262185",
+        "doi": "10.5281/zenodo.20262186",
+        "conceptdoi": "10.5281/zenodo.20262185",
+        "doi_url": "https://doi.org/10.5281/zenodo.20262186",
+        "metadata": {
+          "title": "On the Physical Inadequacy of Singularities and the Unified Frequency-Governed Framework of Extended Classical Mechanics (ECM)",
+          "doi": "10.5281/zenodo.20262186",
+          "publication_date": "2026-05-17",
+          "description": "<div class=\"section\">\n<p><strong>Version 1.1 Note:</strong>&nbsp;</p>\n<p>This revision refines the conceptual framework by incorporating <em>Mass Definition Mapping in ECM vs. Classical and Relativistic Mechanics</em>&nbsp;and the&nbsp;<em>Ethical Publication Statement</em>, strengthening the formal interpretive clarity and publication ethics alignment of the work.</p>\n</div>\n\n\n<div class=\"section\">\n<p><strong>Description:</strong></p>\n<p>The classical black-hole singularity remains one of the most mathematically accepted yet physically unresolved constructs in modern theoretical physics. Within General Relativity (GR), the internal core of a black hole is formally represented by the limiting condition&nbsp;<em>r = 0</em>, implying&nbsp;<em>L = 0</em>,&nbsp;<em>d = 0</em>, and therefore&nbsp;<em>V = 0</em>. This raises a foundational physical contradiction: if a black hole is claimed to obey the relativistic mass&ndash;energy relation&nbsp;<em>E = Mc&sup2;</em>, then the associated mass (<em>M</em>) must remain physically meaningful, which ordinarily requires nonzero spatial support.</p>\n<p>This paper argues that a strictly zero-dimensional singular core cannot be regarded as a legitimate physical object because it forfeits both spatial existence and localized mass meaning. Once the Planck boundary (<em>\u2113<sub>P</sub>&nbsp;= &radic;(\u210fG/c&sup3;)</em>) is recognized as the lower limit of reliable physical interpretation, the singularity must be understood not as a real object, but as a signal of formal breakdown in the classical geometric framework.</p>\n<p>To address this inadequacy, the paper introduces an alternative interpretation through&nbsp;<strong>Extended Classical Mechanics (ECM)</strong>. In ECM, sub-Planck collapse does not terminate in geometric divergence, but transforms through a deterministic, frequency-governed energetic transition:</p>\n<p class=\"equation\">&Delta;PE<sub>ECM</sub>&nbsp;&harr; M<sup>app</sup>&nbsp;&harr; &Delta;M<sub>M</sub>&nbsp;&harr; &Delta;KE<sub>ECM</sub></p>\n<p>governed by the intrinsic frequency relation:</p>\n<p class=\"equation\">f<sub>source</sub>&nbsp;= f<sub>observed</sub>&nbsp;+ &Delta;f<sub>source</sub></p>\n<p>Under this framework, the black hole is reinterpreted not as an inaccessible zero-volume paradox, but as a dynamic energetic transformer whose internal frequency evolution continuously maps to its external gravitational footprint. ECM therefore restores physical continuity, preserves spatial interpretability, and offers a conceptually unified alternative to classical singularity-based black-hole ontology.</p>\n</div>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Thakur, Soumendra Nath",
+              "affiliation": "Tagore's Electronic Lab",
+              "orcid": "0000-0003-1871-7803"
+            }
+          ],
+          "contributors": [
+            {
+              "name": "Thakur, Soumendra Nath",
+              "affiliation": "Tagore's Electronic Lab",
+              "type": "Researcher",
+              "orcid": "0000-0003-1871-7803"
+            }
+          ],
+          "keywords": [
+            "Black Hole",
+            "Singularity",
+            "General Relativity",
+            "Schwarzschild Solution",
+            "Planck Length",
+            "Spatial Admissibility",
+            "Physical Observability",
+            "Extended Classical Mechanics (ECM)",
+            "Frequency-Governed Physics",
+            "Energetic Manifestation",
+            "\u0394PE\u1d07\u1d04\u1d0d",
+            "M\u1d43\u1d56\u1d56",
+            "\u0394M\u1d0d",
+            "\u0394KE\u1d07\u1d04\u1d0d",
+            "Gravitational Emergence",
+            "Sub-Planck Physics"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.2139/ssrn.6755798",
+              "relation": "describes",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.18825894",
+              "relation": "describes",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.18644389",
+              "relation": "describes",
+              "resource_type": "publication-other",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.13140/RG.2.2.29063.46240",
+              "relation": "describes",
+              "resource_type": "publication-datapaper",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.18916393",
+              "relation": "describes",
+              "resource_type": "publication-other",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.2139/ssrn.5494689",
+              "relation": "describes",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.13140/RG.2.2.12275.18721",
+              "relation": "describes",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.20192480",
+              "relation": "describes",
+              "resource_type": "publication-other",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.18292707",
+              "relation": "describes",
+              "resource_type": "publication-article",
+              "scheme": "doi"
+            }
+          ],
+          "version": "1.1",
+          "references": [
+            "Einstein, A. (1915). Die Feldgleichungen der Gravitation. Sitzungsberichte der K\u00f6niglich Preu\u00dfischen Akademie der Wissenschaften (Berlin), 844\u2013847.",
+            "Schwarzschild, K. (1916). \u00dcber das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie. Sitzungsberichte der K\u00f6niglich Preu\u00dfischen Akademie der Wissenschaften (Berlin), 189\u2013196.",
+            "Planck, M. (1901). On the Law of Distribution of Energy in the Normal Spectrum. Annalen der Physik, 4(553), 1\u201311.",
+            "Planck, M. (1899). \u00dcber irreversible Strahlungsvorg\u00e4nge. Sitzungsberichte der K\u00f6niglich Preu\u00dfischen Akademie der Wissenschaften zu Berlin, 5, 440\u2013480.",
+            "Bureau International des Poids et Mesures (BIPM). SI Brochure: The International System of Units (SI).",
+            "Planck Collaboration. (2018). Planck 2018 Results: Cosmological Parameters. Astronomy & Astrophysics, 641, A6.",
+            "Chernin, A. D., Bisnovatyi-Kogan, G. S., Teerikorpi, P., Valtonen, M. J., Byrd, G. G., & Merafina, M. (2013). Dark energy and the structure of the Coma cluster of galaxies. Astronomy & Astrophysics, 553, A101. https://doi.org/10.1051/0004-6361/201220781",
+            "Humpherys, D. (2024). Understanding the natural units and their hidden role in the laws of physics. European Journal of Physics, 45(5), 055802. https://doi.org/10.1088/1361-6404/ad61d3"
+          ],
+          "language": "eng",
+          "custom": {
+            "code:codeRepository": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6783578"
+          },
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "meeting": {
+            "url": "http://www.telitnetwork.itgo.com/Physical-Inadequacy-of-Singularities.html"
+          },
+          "alternate_identifiers": [
+            {
+              "identifier": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6783578"
+            },
+            {
+              "identifier": "https://doi.org/10.5281/zenodo.20249678"
+            }
+          ],
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20262185"
+                }
+              }
+            ]
+          }
+        },
+        "title": "On the Physical Inadequacy of Singularities and the Unified Frequency-Governed Framework of Extended Classical Mechanics (ECM)",
+        "links": {
+          "self": "https://zenodo.org/api/records/20262186",
+          "self_html": "https://zenodo.org/records/20262186",
+          "preview_html": "https://zenodo.org/records/20262186?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20262186",
+          "self_doi": "https://doi.org/10.5281/zenodo.20262186",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20262186",
+          "reserve_doi": "https://zenodo.org/api/records/20262186/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20262185",
+          "parent_html": "https://zenodo.org/records/20262185",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20262185",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20262185",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20262186/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20262186/sequence/default",
+          "files": "https://zenodo.org/api/records/20262186/files",
+          "media_files": "https://zenodo.org/api/records/20262186/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:20262186:On%20the%20Physical%20Inadequacy%20of%20Singularities_v1.1.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:20262186:On%20the%20Physical%20Inadequacy%20of%20Singularities_v1.1.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:20262186:On%20the%20Physical%20Inadequacy%20of%20Singularities_v1.1.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:20262186:On%20the%20Physical%20Inadequacy%20of%20Singularities_v1.1.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:20262186:On%20the%20Physical%20Inadequacy%20of%20Singularities_v1.1.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:20262186:On%20the%20Physical%20Inadequacy%20of%20Singularities_v1.1.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/20262186/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20262186/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20262186/versions/latest",
+          "latest_html": "https://zenodo.org/records/20262186/latest",
+          "versions": "https://zenodo.org/api/records/20262186/versions",
+          "draft": "https://zenodo.org/api/records/20262186/draft",
+          "access_links": "https://zenodo.org/api/records/20262186/access/links",
+          "access_grants": "https://zenodo.org/api/records/20262186/access/grants",
+          "access_users": "https://zenodo.org/api/records/20262186/access/users",
+          "access_request": "https://zenodo.org/api/records/20262186/access/request",
+          "access": "https://zenodo.org/api/records/20262186/access",
+          "communities": "https://zenodo.org/api/records/20262186/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20262186/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20262186/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20262186/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20262186/quota-increase",
+          "requests": "https://zenodo.org/api/records/20262186/requests"
+        },
+        "updated": "2026-05-17T23:11:39.758414+00:00",
+        "recid": "20262186",
+        "revision": 4,
+        "files": [
+          {
+            "id": "da68fe21-3f36-4656-8917-69392198e3c9",
+            "key": "On the Physical Inadequacy of Singularities_v1.1.pdf",
+            "size": 293864,
+            "checksum": "md5:555d54fe72c834f46aea62b71c4c29f3",
+            "links": {
+              "self": "https://zenodo.org/api/records/20262186/files/On%20the%20Physical%20Inadequacy%20of%20Singularities_v1.1.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1420393"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 33,
+          "unique_downloads": 28,
+          "views": 43,
+          "unique_views": 42,
+          "version_downloads": 33,
+          "version_unique_downloads": 28,
+          "version_unique_views": 42,
+          "version_views": 43
+        },
+        "state": "done",
+        "submitted": true
+      }
+    ],
+    "total": 62334
+  },
+  "aggregations": {
+    "publication_date": {
+      "buckets": [
+        {
+          "key": "2000",
+          "doc_count": 47,
+          "label": "2000",
+          "is_selected": false
+        },
+        {
+          "key": "2001",
+          "doc_count": 61,
+          "label": "2001",
+          "is_selected": false
+        },
+        {
+          "key": "2002",
+          "doc_count": 71,
+          "label": "2002",
+          "is_selected": false
+        },
+        {
+          "key": "2003",
+          "doc_count": 92,
+          "label": "2003",
+          "is_selected": false
+        },
+        {
+          "key": "2004",
+          "doc_count": 100,
+          "label": "2004",
+          "is_selected": false
+        },
+        {
+          "key": "2005",
+          "doc_count": 135,
+          "label": "2005",
+          "is_selected": false
+        },
+        {
+          "key": "2006",
+          "doc_count": 126,
+          "label": "2006",
+          "is_selected": false
+        },
+        {
+          "key": "2007",
+          "doc_count": 192,
+          "label": "2007",
+          "is_selected": false
+        },
+        {
+          "key": "2008",
+          "doc_count": 245,
+          "label": "2008",
+          "is_selected": false
+        },
+        {
+          "key": "2009",
+          "doc_count": 242,
+          "label": "2009",
+          "is_selected": false
+        },
+        {
+          "key": "2010",
+          "doc_count": 287,
+          "label": "2010",
+          "is_selected": false
+        },
+        {
+          "key": "2011",
+          "doc_count": 404,
+          "label": "2011",
+          "is_selected": false
+        },
+        {
+          "key": "2012",
+          "doc_count": 405,
+          "label": "2012",
+          "is_selected": false
+        },
+        {
+          "key": "2013",
+          "doc_count": 604,
+          "label": "2013",
+          "is_selected": false
+        },
+        {
+          "key": "2014",
+          "doc_count": 765,
+          "label": "2014",
+          "is_selected": false
+        },
+        {
+          "key": "2015",
+          "doc_count": 883,
+          "label": "2015",
+          "is_selected": false
+        },
+        {
+          "key": "2016",
+          "doc_count": 1066,
+          "label": "2016",
+          "is_selected": false
+        },
+        {
+          "key": "2017",
+          "doc_count": 1350,
+          "label": "2017",
+          "is_selected": false
+        },
+        {
+          "key": "2018",
+          "doc_count": 1834,
+          "label": "2018",
+          "is_selected": false
+        },
+        {
+          "key": "2019",
+          "doc_count": 2219,
+          "label": "2019",
+          "is_selected": false
+        },
+        {
+          "key": "2020",
+          "doc_count": 2541,
+          "label": "2020",
+          "is_selected": false
+        },
+        {
+          "key": "2021",
+          "doc_count": 3456,
+          "label": "2021",
+          "is_selected": false
+        },
+        {
+          "key": "2022",
+          "doc_count": 3943,
+          "label": "2022",
+          "is_selected": false
+        },
+        {
+          "key": "2023",
+          "doc_count": 4857,
+          "label": "2023",
+          "is_selected": false
+        },
+        {
+          "key": "2024",
+          "doc_count": 5358,
+          "label": "2024",
+          "is_selected": false
+        },
+        {
+          "key": "2025",
+          "doc_count": 11849,
+          "label": "2025",
+          "is_selected": false
+        },
+        {
+          "key": "2026",
+          "doc_count": 18930,
+          "label": "2026",
+          "is_selected": false
+        }
+      ],
+      "label": "Publication date"
+    },
+    "access_status": {
+      "buckets": [
+        {
+          "key": "open",
+          "doc_count": 59623,
+          "label": "Open",
+          "is_selected": false
+        },
+        {
+          "key": "restricted",
+          "doc_count": 2554,
+          "label": "Restricted",
+          "is_selected": false
+        },
+        {
+          "key": "embargoed",
+          "doc_count": 157,
+          "label": "Embargoed",
+          "is_selected": false
+        }
+      ],
+      "label": "Access status"
+    },
+    "resource_type": {
+      "buckets": [
+        {
+          "key": "publication",
+          "doc_count": 42072,
+          "label": "Publication",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "publication-article",
+                "doc_count": 18630,
+                "label": "Journal article",
+                "is_selected": false
+              },
+              {
+                "key": "publication-preprint",
+                "doc_count": 9342,
+                "label": "Preprint",
+                "is_selected": false
+              },
+              {
+                "key": "publication-conferencepaper",
+                "doc_count": 2030,
+                "label": "Conference paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-taxonomictreatment",
+                "doc_count": 1446,
+                "label": "Taxonomic treatment",
+                "is_selected": false
+              },
+              {
+                "key": "publication-report",
+                "doc_count": 1151,
+                "label": "Report",
+                "is_selected": false
+              },
+              {
+                "key": "publication-dissertation",
+                "doc_count": 710,
+                "label": "Thesis",
+                "is_selected": false
+              },
+              {
+                "key": "publication-datapaper",
+                "doc_count": 617,
+                "label": "Data paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-workingpaper",
+                "doc_count": 616,
+                "label": "Working paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-book",
+                "doc_count": 564,
+                "label": "Book",
+                "is_selected": false
+              },
+              {
+                "key": "publication-other",
+                "doc_count": 485,
+                "label": "Other",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "dataset",
+          "doc_count": 11738,
+          "label": "Dataset",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "software",
+          "doc_count": 2968,
+          "label": "Software",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "software-computationalnotebook",
+                "doc_count": 122,
+                "label": "Computational notebook",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "image",
+          "doc_count": 2659,
+          "label": "Image",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "image-figure",
+                "doc_count": 2464,
+                "label": "Figure",
+                "is_selected": false
+              },
+              {
+                "key": "image-diagram",
+                "doc_count": 33,
+                "label": "Diagram",
+                "is_selected": false
+              },
+              {
+                "key": "image-other",
+                "doc_count": 24,
+                "label": "Other",
+                "is_selected": false
+              },
+              {
+                "key": "image-plot",
+                "doc_count": 18,
+                "label": "Plot",
+                "is_selected": false
+              },
+              {
+                "key": "image-photo",
+                "doc_count": 14,
+                "label": "Photo",
+                "is_selected": false
+              },
+              {
+                "key": "image-drawing",
+                "doc_count": 9,
+                "label": "Drawing",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "presentation",
+          "doc_count": 1002,
+          "label": "Presentation",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "other",
+          "doc_count": 682,
+          "label": "Other",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "poster",
+          "doc_count": 504,
+          "label": "Poster",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "model",
+          "doc_count": 253,
+          "label": "Model",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "lesson",
+          "doc_count": 150,
+          "label": "Lesson",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "video",
+          "doc_count": 150,
+          "label": "Video/Audio",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        }
+      ],
+      "label": "Resource types"
+    },
+    "subject": {
+      "buckets": [
+        {
+          "key": "Biodiversity",
+          "doc_count": 5351,
+          "label": "Biodiversity",
+          "is_selected": false
+        },
+        {
+          "key": "Taxonomy",
+          "doc_count": 5089,
+          "label": "Taxonomy",
+          "is_selected": false
+        },
+        {
+          "key": "Animalia",
+          "doc_count": 2913,
+          "label": "Animalia",
+          "is_selected": false
+        },
+        {
+          "key": "Chordata",
+          "doc_count": 1092,
+          "label": "Chordata",
+          "is_selected": false
+        },
+        {
+          "key": "Arthropoda",
+          "doc_count": 787,
+          "label": "Arthropoda",
+          "is_selected": false
+        },
+        {
+          "key": "Mollusca",
+          "doc_count": 710,
+          "label": "Mollusca",
+          "is_selected": false
+        },
+        {
+          "key": "Plantae",
+          "doc_count": 579,
+          "label": "Plantae",
+          "is_selected": false
+        },
+        {
+          "key": "Quantum physics",
+          "doc_count": 570,
+          "label": "Quantum physics",
+          "is_selected": false
+        },
+        {
+          "key": "Tracheophyta",
+          "doc_count": 560,
+          "label": "Tracheophyta",
+          "is_selected": false
+        },
+        {
+          "key": "Cephalopoda",
+          "doc_count": 521,
+          "label": "Cephalopoda",
+          "is_selected": false
+        }
+      ],
+      "label": "Subjects"
+    },
+    "file_type": {
+      "buckets": [
+        {
+          "key": "pdf",
+          "doc_count": 39992,
+          "label": "PDF",
+          "is_selected": false
+        },
+        {
+          "key": "zip",
+          "doc_count": 8082,
+          "label": "ZIP",
+          "is_selected": false
+        },
+        {
+          "key": "png",
+          "doc_count": 3316,
+          "label": "PNG",
+          "is_selected": false
+        },
+        {
+          "key": "html",
+          "doc_count": 2978,
+          "label": "HTML",
+          "is_selected": false
+        },
+        {
+          "key": "csv",
+          "doc_count": 2808,
+          "label": "CSV",
+          "is_selected": false
+        },
+        {
+          "key": "txt",
+          "doc_count": 2790,
+          "label": "TXT",
+          "is_selected": false
+        },
+        {
+          "key": "docx",
+          "doc_count": 2075,
+          "label": "DOCX",
+          "is_selected": false
+        },
+        {
+          "key": "xlsx",
+          "doc_count": 1953,
+          "label": "XLSX",
+          "is_selected": false
+        },
+        {
+          "key": "md",
+          "doc_count": 1925,
+          "label": "MD",
+          "is_selected": false
+        },
+        {
+          "key": "bin",
+          "doc_count": 1607,
+          "label": "BIN",
+          "is_selected": false
+        }
+      ],
+      "label": "File type"
+    }
+  },
+  "links": {
+    "self": "https://zenodo.org/api/records?page=1&q=%22dimensionless+physics%22+Planck+units&size=10&sort=bestmatch",
+    "next": "https://zenodo.org/api/records?page=2&q=%22dimensionless+physics%22+Planck+units&size=10&sort=bestmatch"
+  }
+}

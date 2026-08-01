@@ -1,0 +1,44 @@
+{
+  "version": "6.9",
+  "hitCount": 1,
+  "request": {
+    "queryString": "hbar=c=G=k_B=1 Planck scale fundamental physics",
+    "resultType": "lite",
+    "cursorMark": "*",
+    "pageSize": 10,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "PPR1282484",
+        "source": "PPR",
+        "doi": "10.20944/preprints202606.0967.v4",
+        "title": "A First-Principles Axiomatization of Physics\u2014The Cosmic Continuum Component Model with Its Scale Topos and Braided Tensor Category Realization",
+        "authorString": "Wang X.",
+        "pubYear": "2026",
+        "pubType": "preprint",
+        "bookOrReportDetails": {
+          "publisher": "Preprints.org",
+          "yearOfPublication": 2026
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "N",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "versionNumber": 4,
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2026-07-22",
+        "firstPublicationDate": "2026-07-16"
+      }
+    ]
+  }
+}

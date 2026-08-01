@@ -1,0 +1,1960 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-05-31T08:41:58.300117+00:00",
+        "modified": "2026-05-31T08:41:58.675670+00:00",
+        "id": 20467913,
+        "conceptrecid": "19410615",
+        "doi": "10.5281/zenodo.20467913",
+        "conceptdoi": "10.5281/zenodo.19410615",
+        "doi_url": "https://doi.org/10.5281/zenodo.20467913",
+        "metadata": {
+          "title": "La physique sans le temps - Reformulation spatiale de la physique classique et relativiste",
+          "doi": "10.5281/zenodo.20467913",
+          "publication_date": "2026-05-31",
+          "description": "<p>Ce travail propose une reformulation compl&egrave;te de la m&eacute;canique classique et de la relativit&eacute; restreinte dans un cadre purement spatial, sans variable temporelle. La variable t est syst&eacute;matiquement remplac&eacute;e par la distance de r&eacute;f&eacute;rence lumineuse&nbsp;<strong><em>L = N&lambda;</em></strong>, o&ugrave; <strong><em>N</em></strong> est le nombre de cycles &eacute;lectromagn&eacute;tiques et <strong><em>&lambda;</em></strong> la longueur d'onde du rayonnement de r&eacute;f&eacute;rence. Tout le cadre d&eacute;coule d'une seule propri&eacute;t&eacute; fondamentale : l'isotropie de la propagation lumineuse dans l'espace euclidien homog&egrave;ne &mdash; fait exp&eacute;rimental confirm&eacute; par l'exp&eacute;rience de Michelson-Morley.</p>\n<p>Cette substitution entra&icirc;ne une restructuration profonde du syst&egrave;me d'unit&eacute;s des grandeurs physiques. La vitesse devient un nombre sans dimension &mdash; le coefficient de mouvement <strong><em>&beta; = ds/dL</em></strong>. La masse, la quantit&eacute; de mouvement et l'&eacute;nergie convergent vers la m&ecirc;me unit&eacute; (le kilogramme), r&eacute;v&eacute;lant qu'elles ne sont pas des grandeurs ind&eacute;pendantes mais trois manifestations d'une m&ecirc;me propri&eacute;t&eacute; fondamentale : l'inertie. Les facteurs <strong><em>c</em></strong> et <strong><em>c&sup2;</em></strong> qui jalonnent les relations de la physique standard se r&eacute;duisent &agrave; de simples conversions entre unit&eacute;s naturelles et unit&eacute;s SI &mdash; vestiges de la fragmentation introduite par la seconde dans le syst&egrave;me de mesure. Les sept unit&eacute;s de base du SI se r&eacute;duisent &agrave; trois unit&eacute;s fondamentales &mdash; &nbsp;<strong>le m&egrave;tre, le kilogramme et le coulomb &mdash; </strong>auxquelles s'ajoute, non comme une unit&eacute; mais comme facteur de conversion irr&eacute;ductible entre niveaux microscopique et macroscopique de description, la constante de Boltzmann <strong><em>k</em><em><sub>B </sub></em></strong>.&nbsp;&nbsp;<em><strong> </strong></em><strong><em><sub>&nbsp;</sub></em></strong></p>\n<p>Cette simplification dimensionnelle n'est pas un artifice formel : elle clarifie la compr&eacute;hension des mod&egrave;les physiques et des ph&eacute;nom&egrave;nes qu'ils d&eacute;crivent. La relation <strong><em>E&sup2; = m&sup2; + p&sup2;</em></strong> d&eacute;coule du th&eacute;or&egrave;me de Pythagore dans l'espace euclidien, accessible d&egrave;s la m&eacute;canique classique. La transition classique-relativiste se r&eacute;duit &agrave; une inversion du r&ocirc;le de <strong><em>L</em></strong> dans le triangle fondamental &mdash; cath&egrave;te (<strong><em>d&sup2; = L&sup2; + s&sup2;</em></strong>) puis hypot&eacute;nuse (<strong><em>L&sup2; = d\u2080&sup2; + s&sup2;</em></strong>) &mdash; et &agrave; une seule question : le terme<em><strong> Nd&lambda;</strong></em> dans l'&eacute;l&eacute;ment diff&eacute;rentiel <strong><em>dL&nbsp;= &lambda;dN + Nd&lambda;</em></strong> &nbsp;est-il n&eacute;gligeable ou non ? Le facteur <strong><em>&gamma;</em></strong> devient un rapport de distances, la &laquo; dilatation du temps &raquo; et la &laquo; contraction des longueurs &raquo; se r&eacute;v&egrave;lent &ecirc;tre deux manifestations d'un m&ecirc;me ph&eacute;nom&egrave;ne &mdash; la modification de la longueur d'onde de la r&eacute;f&eacute;rence lumineuse par effet Doppler &mdash; et la limite <strong><em>&beta; &lt; 1</em></strong> pour la mati&egrave;re est une exclusion logique inh&eacute;rente &agrave; la nature de la mesure et de l'information dans l'espace euclidien.</p>\n<p>Toutes les pr&eacute;dictions num&eacute;riques de la physique &eacute;tablie sont int&eacute;gralement conserv&eacute;es. Ce qui change, c'est la lisibilit&eacute; : une description purement g&eacute;om&eacute;trique, dans l'espace euclidien &agrave; trois dimensions, o&ugrave; la structure des ph&eacute;nom&egrave;nes physiques appara&icirc;t plus directement que dans un formalisme &agrave; quatre dimensions m&ecirc;lant espace et temps.<br><br>v2.2 &mdash; Mai 2026 : ajout d'un traitement d&eacute;di&eacute; du kelvin et de la constante de Boltzmann dans la conclusion g&eacute;n&eacute;rale ; tableau r&eacute;capitulatif simplifi&eacute; &agrave; six colonnes (m&egrave;tre-lumi&egrave;re abandonn&eacute; comme unit&eacute; op&eacute;rationnelle, conserv&eacute; uniquement &agrave; titre p&eacute;dagogique) ; section sur les fondements retravaill&eacute;e autour de l'homog&eacute;n&eacute;it&eacute; et de l'isotropie de l'espace euclidien ; pr&eacute;cision que les r&eacute;f&eacute;rentiels de la Partie III sont galil&eacute;ens (inertiels) ; terminologie unifi&eacute;e (cadre : spatial / temporel ; r&eacute;gime : classique / relativiste) ; corrections typographiques et d'&eacute;quations mineures.<br><strong><br>Abstract</strong></p>\n<div>\n<div>\n<div>\n<p>This work proposes a complete reformulation of classical mechanics and special relativity within a purely spatial framework, without any temporal variable. The variable t is systematically replaced by the light reference distance <em><strong>L = N&lambda;</strong></em>, where <em><strong>N</strong></em> is the number of electromagnetic cycles and <em><strong>&lambda;</strong></em> the wavelength of the reference radiation. The entire framework rests on a single fundamental property: the isotropy of light propagation in homogeneous Euclidean space &mdash; an experimental fact confirmed by the Michelson-Morley experiment.<br><br>This substitution leads to a deep restructuring of the unit system of physical quantities. Velocity becomes a dimensionless number &mdash; the motion coefficient <em><strong>&beta; = ds/dL</strong></em>. Mass, momentum and energy converge to the same unit (the kilogram), revealing that they are not independent quantities but three manifestations of a single fundamental property: inertia. The factors <em><strong>c</strong></em> and <em><strong>c&sup2;</strong></em> that pervade standard physics reduce to simple conversions between natural units and SI units &mdash; vestiges of the fragmentation introduced by the second into the measurement system. The seven SI base units reduce to three fundamental ones&nbsp;&mdash; <strong>the meter, the kilogram and the coulomb&nbsp;&mdash; </strong>to which is added, not as a unit but as an irreducible scale-conversion factor between the microscopic and macroscopic levels of description, the Boltzmann constant <strong><em>k</em><em><sub>B </sub></em></strong>.&nbsp;<br><br>This dimensional simplification is not a formal artifice: it clarifies the understanding of physical models and the phenomena they describe. The relation <em><strong>E&sup2; = m&sup2; + p&sup2;</strong></em> follows from the Pythagorean theorem in Euclidean space, accessible from classical mechanics onward. The classical-to-relativistic transition reduces to an inversion of the role of L in the fundamental triangle &mdash; leg (<em><strong>d&sup2; = L&sup2; + s&sup2;</strong></em>) then hypotenuse (<em><strong>L&sup2; = d\u2080&sup2; + s&sup2;</strong></em>) &mdash; and to a single question: is the term <em><strong>Nd&lambda;</strong></em> in the differential element <em><strong>dL = &lambda;dN + Nd&lambda;</strong></em> negligible or not? The factor <em><strong>&gamma;</strong></em> becomes a ratio of distances, \"time dilation\" and \"length contraction\" turn out to be two manifestations of a single phenomenon &mdash; the modification of the reference light wavelength by the Doppler effect &mdash; and the limit<em><strong> &beta; &lt; 1</strong></em> for matter is a logical exclusion inherent to the nature of measurement and information in Euclidean space.<br><br>All numerical predictions of established physics are fully preserved. What changes is readability: a purely geometric description, in three-dimensional Euclidean space, where the structure of physical phenomena appears more directly than in a four-dimensional formalism mixing space and time.</p>\n</div>\n</div>\n</div>\n<p>v2.2 &mdash; May 2026: added a dedicated treatment of the kelvin and the Boltzmann constant in the general conclusion; summary table simplified to six columns (the light-meter dropped as an operational unit, retained only as a pedagogical point); foundational section reworked around the homogeneity and isotropy of Euclidean space; clarification that the reference frames of Part III are Galilean (inertial); terminology standardized throughout (framework: spatial vs. temporal; regime: classical vs. relativistic); minor typographical and equation corrections.</p>\n<div>\n<div>\n<h4>Mots cl&eacute;s&nbsp;</h4>\n<div>\n<ul>\n<li><a href=\"https://hal.science/search/index/q/*/keyword_t/special%20relativity\" rel=\"nofollow noopener\">special relativity</a></li>\n<li>&nbsp;</li>\n<li><a href=\"https://hal.science/search/index/q/*/keyword_t/spatial%20reformulation\" rel=\"nofollow noopener\">spatial reformulation</a></li>\n<li>&nbsp;</li>\n<li><a href=\"https://hal.science/search/index/q/*/keyword_t/temporal%20variable\" rel=\"nofollow noopener\">temporal variable</a></li>\n<li>&nbsp;</li>\n<li><a href=\"https://hal.science/search/index/q/*/keyword_t/light%20isotropy\" rel=\"nofollow noopener\">light isotropy</a></li>\n<li>&nbsp;</li>\n<li><a href=\"https://hal.science/search/index/q/*/keyword_t/dimensional%20convergence\" rel=\"nofollow noopener\">dimensional convergence</a></li>\n<li>&nbsp;</li>\n<li><a href=\"https://hal.science/search/index/q/*/keyword_t/dimensional%20convergence\" rel=\"nofollow noopener\">Boltzmann constant</a></li>\n<li>&nbsp;</li>\n<li><a href=\"https://hal.science/search/index/q/*/keyword_t/Euclidean%20space\" rel=\"nofollow noopener\">Euclidean space</a></li>\n</ul>\n</div>\n</div>\n<div>\n<h4>Domaines</h4>\n<ul>\n<li><a href=\"https://hal.science/search/index/q/*/level0_domain_s/phys\" rel=\"nofollow noopener\">Physique [physics]</a></li>\n<li>&nbsp;</li>\n<li><a href=\"https://hal.science/search/index/q/*/level0_domain_s/phys\" rel=\"nofollow noopener\">Physique [physics]</a></li>\n</ul>\n</div>\n</div>\n<div>\n<div>\n<div>&nbsp;</div>\n</div>\n</div>\n<p><strong>Mots-cl&eacute;s :</strong> relativit&eacute; restreinte, reformulation spatiale, variable temporelle, isotropie lumineuse, convergence dimensionnelle, constante de Boltzmann, espace euclidien</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Zaccaria, Antonino",
+              "affiliation": "Independent researcher"
+            }
+          ],
+          "keywords": [
+            "special relativity, spatial reformulation, temporal variable, light isotropy, dimensional convergence, Boltzmann constant, Euclidean space"
+          ],
+          "version": "v2.2",
+          "language": "fra",
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 4,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "19410615"
+                }
+              }
+            ]
+          }
+        },
+        "title": "La physique sans le temps - Reformulation spatiale de la physique classique et relativiste",
+        "links": {
+          "self": "https://zenodo.org/api/records/20467913",
+          "self_html": "https://zenodo.org/records/20467913",
+          "preview_html": "https://zenodo.org/records/20467913?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20467913",
+          "self_doi": "https://doi.org/10.5281/zenodo.20467913",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20467913",
+          "reserve_doi": "https://zenodo.org/api/records/20467913/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/19410615",
+          "parent_html": "https://zenodo.org/records/19410615",
+          "parent_doi": "https://doi.org/10.5281/zenodo.19410615",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19410615",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20467913/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20467913/sequence/default",
+          "files": "https://zenodo.org/api/records/20467913/files",
+          "media_files": "https://zenodo.org/api/records/20467913/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:20467913:la_physique_sans_le_temps_v22_fr.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:20467913:la_physique_sans_le_temps_v22_fr.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:20467913:la_physique_sans_le_temps_v22_fr.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:20467913:la_physique_sans_le_temps_v22_fr.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:20467913:la_physique_sans_le_temps_v22_fr.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:20467913:la_physique_sans_le_temps_v22_fr.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/20467913/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20467913/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20467913/versions/latest",
+          "latest_html": "https://zenodo.org/records/20467913/latest",
+          "versions": "https://zenodo.org/api/records/20467913/versions",
+          "draft": "https://zenodo.org/api/records/20467913/draft",
+          "access_links": "https://zenodo.org/api/records/20467913/access/links",
+          "access_grants": "https://zenodo.org/api/records/20467913/access/grants",
+          "access_users": "https://zenodo.org/api/records/20467913/access/users",
+          "access_request": "https://zenodo.org/api/records/20467913/access/request",
+          "access": "https://zenodo.org/api/records/20467913/access",
+          "communities": "https://zenodo.org/api/records/20467913/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20467913/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20467913/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20467913/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20467913/quota-increase",
+          "requests": "https://zenodo.org/api/records/20467913/requests"
+        },
+        "updated": "2026-05-31T08:41:58.675670+00:00",
+        "recid": "20467913",
+        "revision": 4,
+        "files": [
+          {
+            "id": "70456334-c40f-4dd2-9fa0-70e38c8d70e0",
+            "key": "la_physique_sans_le_temps_v22_fr.pdf",
+            "size": 1952653,
+            "checksum": "md5:914b5054483d6f32429e0896fb088b03",
+            "links": {
+              "self": "https://zenodo.org/api/records/20467913/files/la_physique_sans_le_temps_v22_fr.pdf/content"
+            }
+          },
+          {
+            "id": "6288a05b-8cfd-48ff-9ac9-54423e00a241",
+            "key": "physics_without_time_v22_en.pdf",
+            "size": 2012503,
+            "checksum": "md5:3d19e1f42d7d172decfd5ee37681e65a",
+            "links": {
+              "self": "https://zenodo.org/api/records/20467913/files/physics_without_time_v22_en.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1598030"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 1007,
+          "unique_downloads": 691,
+          "views": 984,
+          "unique_views": 762,
+          "version_downloads": 159,
+          "version_unique_downloads": 106,
+          "version_unique_views": 186,
+          "version_views": 228
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-02-21T16:11:47.171684+00:00",
+        "modified": "2026-04-14T20:57:51.675230+00:00",
+        "id": 18725041,
+        "conceptrecid": "18725040",
+        "doi": "10.5281/zenodo.18725041",
+        "conceptdoi": "10.5281/zenodo.18725040",
+        "doi_url": "https://doi.org/10.5281/zenodo.18725041",
+        "metadata": {
+          "title": "Planck Epoch Through the Phase-Indexed Velocity Stabilization Lens of Extended Classical Mechanics (ECM)",
+          "doi": "10.5281/zenodo.18725041",
+          "publication_date": "2026-02-21",
+          "description": "<p>This work presents a methodological reformulation of the Planck epoch within the framework of Extended Classical Mechanics (ECM). Rather than treating the Planck regime as a singular explosive origin, the study introduces a structured phase-indexed transformation model in which primordial dynamics are governed by regulated frequency&ndash;mass evolution.</p>\n<p>The central methodological construct is Phase-Indexed Velocity Stabilization (PIVS), a formalism in which velocity emerges from an initially superluminal manifestation regime and asymptotically stabilizes at v = c at a terminal phase index of 360&deg;. Within this framework, light-speed invariance is not assumed but derived as a phase-locked stabilization condition.</p>\n<p>The Planck regime is modeled as a NAM-dominant (Negative Apparent Mass) gradient state, where M\u1d43\u1d56\u1d56 &equiv; &minus;&Delta;PE\u1d07\u1d04\u1d0d governs redistribution into manifested matter (&Delta;M\u1d0d) and kinetic manifestation (&Delta;KE\u1d07\u1d04\u1d0d). This method treats the early universe as a gradient relaxation process, providing a unified analytical structure for the emergence of time, velocity invariance, matter differentiation, and gravitational structure.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Thakur, Soumendra Nath",
+              "affiliation": "Tagore's Electronic Lab",
+              "orcid": "0000-0003-1871-7803"
+            }
+          ],
+          "keywords": [
+            "Planck Epoch",
+            "Extended Classical Mechanics",
+            "Method Development",
+            "Phase-Indexed Velocity Stabilization (PIVS)",
+            "Negative Apparent Mass (NAM)",
+            "M\u1d43\u1d56\u1d56",
+            "\u0394PE\u1d07\u1d04\u1d0d",
+            "Emergent Spacetime",
+            "Frequency\u2013Mass Transformation",
+            "Light-Speed Stabilization"
+          ],
+          "dates": [
+            {
+              "type": "available"
+            }
+          ],
+          "version": "Version 1",
+          "references": [
+            "Planck, M. (1899). \u00dcber irreversible Strahlungsvorg\u00e4nge. Sitzungsberichte der K\u00f6niglich Preu\u00dfischen Akademie der Wissenschaften zu Berlin, 5, 440\u2013480.",
+            "Noether, E. (1918). Invariante Variationsprobleme. Nachrichten von der Gesellschaft der Wissenschaften zu G\u00f6ttingen, 235\u2013257.",
+            "Humpherys, D. (2024). Understanding the natural units and their hidden role in the laws of physics. European Journal of Physics, 45(5), 055802. https://doi.org/10.1088/1361-6404/ad61d3",
+            "Thakur, S. N. (2025). A nuanced perspective on dark energy: Extended Classical Mechanics. Zenodo. https://doi.org/10.5281/zenodo.18292707",
+            "Thakur, S. N. (2026). The ECM Master Phase Transition: Super-Luminal Origin Dynamics, Emergent Spacetime, and the Deterministic Evolution of Cosmic Expansion. Zenodo. https://doi.org/10.5281/zenodo.18644389",
+            "Thakur, S. N. (2025). A Unified Framework Linking Entropy, Time Distortion, Gravitational Dynamics, and Cyclic Cosmology through Extended Classical Mechanics. SSRN. https://doi.org/10.2139/ssrn.5494689"
+          ],
+          "language": "eng",
+          "custom": {
+            "code:codeRepository": "https://doi.org/10.2139/ssrn.6281778",
+            "code:developmentStatus": {
+              "id": "active",
+              "title": {
+                "en": "Active"
+              }
+            }
+          },
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "meeting": {
+            "url": "http://www.telitnetwork.itgo.com/Planck-Epoch-Lens-of-ECM.html"
+          },
+          "alternate_identifiers": [
+            {
+              "identifier": "10.2139/ssrn.6281778"
+            }
+          ],
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "18725040"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Planck Epoch Through the Phase-Indexed Velocity Stabilization Lens of Extended Classical Mechanics (ECM)",
+        "links": {
+          "self": "https://zenodo.org/api/records/18725041",
+          "self_html": "https://zenodo.org/records/18725041",
+          "preview_html": "https://zenodo.org/records/18725041?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.18725041",
+          "self_doi": "https://doi.org/10.5281/zenodo.18725041",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18725041",
+          "reserve_doi": "https://zenodo.org/api/records/18725041/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/18725040",
+          "parent_html": "https://zenodo.org/records/18725040",
+          "parent_doi": "https://doi.org/10.5281/zenodo.18725040",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18725040",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18725041/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18725041/sequence/default",
+          "files": "https://zenodo.org/api/records/18725041/files",
+          "media_files": "https://zenodo.org/api/records/18725041/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:18725041:Planck%20Epoch%20Through%20the%20Phase-Indexed%20Velocity%20Stabilization%20Lens%20of%20ECM_v1.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:18725041:Planck%20Epoch%20Through%20the%20Phase-Indexed%20Velocity%20Stabilization%20Lens%20of%20ECM_v1.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:18725041:Planck%20Epoch%20Through%20the%20Phase-Indexed%20Velocity%20Stabilization%20Lens%20of%20ECM_v1.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:18725041:Planck%20Epoch%20Through%20the%20Phase-Indexed%20Velocity%20Stabilization%20Lens%20of%20ECM_v1.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:18725041:Planck%20Epoch%20Through%20the%20Phase-Indexed%20Velocity%20Stabilization%20Lens%20of%20ECM_v1.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:18725041:Planck%20Epoch%20Through%20the%20Phase-Indexed%20Velocity%20Stabilization%20Lens%20of%20ECM_v1.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/18725041/files-archive",
+          "archive_media": "https://zenodo.org/api/records/18725041/media-files-archive",
+          "latest": "https://zenodo.org/api/records/18725041/versions/latest",
+          "latest_html": "https://zenodo.org/records/18725041/latest",
+          "versions": "https://zenodo.org/api/records/18725041/versions",
+          "draft": "https://zenodo.org/api/records/18725041/draft",
+          "access_links": "https://zenodo.org/api/records/18725041/access/links",
+          "access_grants": "https://zenodo.org/api/records/18725041/access/grants",
+          "access_users": "https://zenodo.org/api/records/18725041/access/users",
+          "access_request": "https://zenodo.org/api/records/18725041/access/request",
+          "access": "https://zenodo.org/api/records/18725041/access",
+          "communities": "https://zenodo.org/api/records/18725041/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/18725041/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/18725041/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/18725041/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/18725041/quota-increase",
+          "requests": "https://zenodo.org/api/records/18725041/requests"
+        },
+        "updated": "2026-04-14T20:57:51.675230+00:00",
+        "recid": "18725041",
+        "revision": 6,
+        "files": [
+          {
+            "id": "94178f53-c356-440f-aa1d-79693f292ce2",
+            "key": "Planck Epoch Through the Phase-Indexed Velocity Stabilization Lens of ECM_v1.pdf",
+            "size": 278031,
+            "checksum": "md5:7b5b2ccd7dee005dc67fb4aa090b335a",
+            "links": {
+              "self": "https://zenodo.org/api/records/18725041/files/Planck%20Epoch%20Through%20the%20Phase-Indexed%20Velocity%20Stabilization%20Lens%20of%20ECM_v1.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1420393"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 39,
+          "unique_downloads": 32,
+          "views": 71,
+          "unique_views": 65,
+          "version_downloads": 39,
+          "version_unique_downloads": 32,
+          "version_unique_views": 65,
+          "version_views": 71
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-09-08T17:56:12.767509+00:00",
+        "modified": "2025-09-08T17:56:13.132981+00:00",
+        "id": 17080555,
+        "conceptrecid": "17080554",
+        "doi": "10.5281/zenodo.17080555",
+        "conceptdoi": "10.5281/zenodo.17080554",
+        "doi_url": "https://doi.org/10.5281/zenodo.17080555",
+        "metadata": {
+          "title": "Physics Without Time A 3D Relational Reformulation of the Universe",
+          "doi": "10.5281/zenodo.17080555",
+          "publication_date": "2025-09-08",
+          "description": "<p>We present a theoretical framework in which the universe is reformulated as a purely three-dimensional entity, rejecting the<br>conventional treatment of time as a fundamental fourth dimension. In contrast to the Minkowski model of spacetime, this<br>approach posits that time is not an ontological coordinate of the universe, but rather an emergent variable<br>employed by observers to parameterize change in spatial configurations.<br>The model is grounded on the principle that cosmic objects&mdash;stars, galaxies, black holes&mdash;are free-will-less systems that<br>evolve strictly in accordance with natural laws. Consequently, the notions of &ldquo;past,&rdquo; &ldquo;present,&rdquo; and &ldquo;future&rdquo; have no physical<br>substrate at the universal scale; they arise only from the human imposition of a temporal variable to track state-to-state<br>transitions.<br>Within this reformulation, relativistic and thermodynamic phenomena are preserved through reinterpretation. Relativistic<br>effects, such as time dilation and simultaneity, are recast as differences in rates of change across reference frames rather<br>than as distortions of a temporal axis. Causality is maintained via consistent ordering of spatial states without requiring<br>a temporal dimension. The thermodynamic arrow of time emerges statistically from entropy asymmetry in configuration<br>space, rather than from an intrinsic flow of time.<br>This framework challenges the foundational assumption that time must constitute a dimension of the universe. Instead, it<br>advances the hypothesis that the universe is fundamentally timeless: a self-evolving three-dimensional geometry,<br>governed by deterministic laws, where time is a derived and non-fundamental construct.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Rhythm",
+              "affiliation": "kushtia zilla school",
+              "orcid": "0009-0003-8610-7254"
+            }
+          ],
+          "resource_type": {
+            "title": "Other",
+            "type": "other"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "17080554"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Physics Without Time A 3D Relational Reformulation of the Universe",
+        "links": {
+          "self": "https://zenodo.org/api/records/17080555",
+          "self_html": "https://zenodo.org/records/17080555",
+          "preview_html": "https://zenodo.org/records/17080555?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.17080555",
+          "self_doi": "https://doi.org/10.5281/zenodo.17080555",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17080555",
+          "reserve_doi": "https://zenodo.org/api/records/17080555/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/17080554",
+          "parent_html": "https://zenodo.org/records/17080554",
+          "parent_doi": "https://doi.org/10.5281/zenodo.17080554",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17080554",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:17080555/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:17080555/sequence/default",
+          "files": "https://zenodo.org/api/records/17080555/files",
+          "media_files": "https://zenodo.org/api/records/17080555/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:17080555:Physics%20Without%20Time%20A%203D%20Relational%20Reformulation%20of%20the%20Universe.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:17080555:Physics%20Without%20Time%20A%203D%20Relational%20Reformulation%20of%20the%20Universe.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:17080555:Physics%20Without%20Time%20A%203D%20Relational%20Reformulation%20of%20the%20Universe.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:17080555:Physics%20Without%20Time%20A%203D%20Relational%20Reformulation%20of%20the%20Universe.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:17080555:Physics%20Without%20Time%20A%203D%20Relational%20Reformulation%20of%20the%20Universe.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:17080555:Physics%20Without%20Time%20A%203D%20Relational%20Reformulation%20of%20the%20Universe.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/17080555/files-archive",
+          "archive_media": "https://zenodo.org/api/records/17080555/media-files-archive",
+          "latest": "https://zenodo.org/api/records/17080555/versions/latest",
+          "latest_html": "https://zenodo.org/records/17080555/latest",
+          "versions": "https://zenodo.org/api/records/17080555/versions",
+          "draft": "https://zenodo.org/api/records/17080555/draft",
+          "access_links": "https://zenodo.org/api/records/17080555/access/links",
+          "access_grants": "https://zenodo.org/api/records/17080555/access/grants",
+          "access_users": "https://zenodo.org/api/records/17080555/access/users",
+          "access_request": "https://zenodo.org/api/records/17080555/access/request",
+          "access": "https://zenodo.org/api/records/17080555/access",
+          "communities": "https://zenodo.org/api/records/17080555/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/17080555/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/17080555/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/17080555/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/17080555/quota-increase",
+          "requests": "https://zenodo.org/api/records/17080555/requests"
+        },
+        "updated": "2025-09-08T17:56:13.132981+00:00",
+        "recid": "17080555",
+        "revision": 3,
+        "files": [
+          {
+            "id": "b14bfe1d-206d-4c52-8d77-1ac3dbf2a291",
+            "key": "Physics Without Time A 3D Relational Reformulation of the Universe.pdf",
+            "size": 404288,
+            "checksum": "md5:b80caf51790fb71601a9b24ce63b09e1",
+            "links": {
+              "self": "https://zenodo.org/api/records/17080555/files/Physics%20Without%20Time%20A%203D%20Relational%20Reformulation%20of%20the%20Universe.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1367222"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 27,
+          "unique_downloads": 26,
+          "views": 21,
+          "unique_views": 21,
+          "version_downloads": 27,
+          "version_unique_downloads": 26,
+          "version_unique_views": 21,
+          "version_views": 21
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-05-04T04:43:21.222847+00:00",
+        "modified": "2025-11-20T22:44:56.087887+00:00",
+        "id": 15335239,
+        "conceptrecid": "15335238",
+        "doi": "10.5281/zenodo.15335239",
+        "conceptdoi": "10.5281/zenodo.15335238",
+        "doi_url": "https://doi.org/10.5281/zenodo.15335239",
+        "metadata": {
+          "title": "Towards a New Standard Model Without Dark Matter and Dark Energy: A Higgs-Emergent Gravity and Palindromic Spectrum Approach",
+          "doi": "10.5281/zenodo.15335239",
+          "publication_date": "2025-05-04",
+          "description": "<p>This article proposes a reformulation of the Standard Model of particle physics by<br>eliminating the need for dark matter and dark energy, and grounding gravity in the<br>Higgs field within flat spacetime. Furthermore, it incorporates the hypothesis of black<br>as a palindromic fractal structure across the electromagnetic spectrum. Combining<br>insights from the Kemet Gravity Theory (KGT), the Kemta Atomic and Antiatomic<br>Models, and the GEBNUT model of symbiotic black field transduction, we develop<br>a unified theoretical framework capable of explaining mass, gravity, radiation, and<br>perception without invoking hidden mass-energy components.</p>",
+          "access_right": "restricted",
+          "creators": [
+            {
+              "name": "Fuertes Oliva, Mart\u00edn",
+              "affiliation": "National University of Distance Education",
+              "orcid": "0009-0002-5683-1383"
+            }
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "15335238"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Towards a New Standard Model Without Dark Matter and Dark Energy: A Higgs-Emergent Gravity and Palindromic Spectrum Approach",
+        "links": {
+          "self": "https://zenodo.org/api/records/15335239",
+          "self_html": "https://zenodo.org/records/15335239",
+          "preview_html": "https://zenodo.org/records/15335239?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.15335239",
+          "self_doi": "https://doi.org/10.5281/zenodo.15335239",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15335239",
+          "reserve_doi": "https://zenodo.org/api/records/15335239/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/15335238",
+          "parent_html": "https://zenodo.org/records/15335238",
+          "parent_doi": "https://doi.org/10.5281/zenodo.15335238",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15335238",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:15335239/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:15335239/sequence/default",
+          "files": "https://zenodo.org/api/records/15335239/files",
+          "media_files": "https://zenodo.org/api/records/15335239/media-files",
+          "archive": "https://zenodo.org/api/records/15335239/files-archive",
+          "archive_media": "https://zenodo.org/api/records/15335239/media-files-archive",
+          "latest": "https://zenodo.org/api/records/15335239/versions/latest",
+          "latest_html": "https://zenodo.org/records/15335239/latest",
+          "versions": "https://zenodo.org/api/records/15335239/versions",
+          "draft": "https://zenodo.org/api/records/15335239/draft",
+          "access_links": "https://zenodo.org/api/records/15335239/access/links",
+          "access_grants": "https://zenodo.org/api/records/15335239/access/grants",
+          "access_users": "https://zenodo.org/api/records/15335239/access/users",
+          "access_request": "https://zenodo.org/api/records/15335239/access/request",
+          "access": "https://zenodo.org/api/records/15335239/access",
+          "communities": "https://zenodo.org/api/records/15335239/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/15335239/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/15335239/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/15335239/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/15335239/quota-increase",
+          "requests": "https://zenodo.org/api/records/15335239/requests"
+        },
+        "updated": "2025-11-20T22:44:56.087887+00:00",
+        "recid": "15335239",
+        "revision": 6,
+        "files": [],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1176155"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 28,
+          "unique_downloads": 24,
+          "views": 41,
+          "unique_views": 40,
+          "version_downloads": 28,
+          "version_unique_downloads": 24,
+          "version_unique_views": 40,
+          "version_views": 41
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-02-18T20:58:43.951533+00:00",
+        "modified": "2026-07-29T14:26:13.732557+00:00",
+        "id": 18676407,
+        "conceptrecid": "18676406",
+        "doi": "10.5281/zenodo.18676407",
+        "conceptdoi": "10.5281/zenodo.18676406",
+        "doi_url": "https://doi.org/10.5281/zenodo.18676407",
+        "metadata": {
+          "title": "Phase-Indexed Frequency Manifestation in Extended Classical Mechanics: Emergence of Time, Energy, Mass, Gravity, and Velocity Stabilization",
+          "doi": "10.5281/zenodo.18676407",
+          "publication_date": "2026-02-18",
+          "description": "<p>Extended Classical Mechanics (ECM) reformulates physical reality as a discrete phase-indexed manifestation of primordial frequency potential. Rather than assuming spacetime, relativistic mass&ndash;energy equivalence, or predefined propagation limits, ECM derives time, space, energy, matter, gravitation, and velocity stabilization from a single unified manifestation cascade.</p>\n<p>Physical time emerges directly from fractional phase realization of stabilized frequency, while potential energy forms as stored manifested frequency. Dynamic conversion of this potential produces kinetic energy and matter (&Delta;M\u1d0d), whereas the unmanifested residual acts as effective gravitational mass (M\u1d49\u1da0\u1da0 = M\u0262). Dark components arise naturally as manifestation deficits without invoking exotic substances.</p>\n<p>The propagation velocity follows directly from phase-indexed wavelength and emergent time, yielding a natural super-phase regime at early manifestation and deterministic convergence toward the equilibrium constant c = \u2113\u1d18 f\u1d18 without postulation. This mechanism predicts early superluminal expansion as a manifestation process rather than spacetime inflation.</p>\n<p>Continued manifestation depletes the gravitational potential reservoir, producing a finite termination scale r\u2098\u2090\u2093 beyond which bound structures cannot persist, corresponding observationally to the zero-gravity radius of galaxy systems.</p>\n<p>ECM therefore provides a singularity-free, conservation-governed foundation in which time, mass, gravity, cosmic expansion, and velocity limits emerge coherently from phase-indexed frequency manifestation.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Thakur, Soumendra Nath",
+              "affiliation": "Tagore's Electronic Lab",
+              "orcid": "0000-0003-1871-7803"
+            }
+          ],
+          "keywords": [
+            "Extended Classical Mechanics",
+            "phase-indexed manifestation",
+            "emergent time",
+            "frequency-to-energy transformation",
+            "matter formation",
+            "gravitational reservoir",
+            "velocity stabilization",
+            "Superluminal pre-physical regime",
+            "r\u2098\u2090\u2093 gravitational termination",
+            "dark energy emergence",
+            "unified conservation dynamics"
+          ],
+          "dates": [
+            {
+              "type": "available"
+            }
+          ],
+          "version": "1",
+          "references": [
+            "Planck, M. (1899). \u00dcber irreversible Strahlungsvorg\u00e4nge. Sitzungsberichte der K\u00f6niglich Preu\u00dfischen Akademie der Wissenschaften zu Berlin, 5, 440\u2013480.",
+            "Chernin, A. D., Bisnovatyi-Kogan, G. S., Teerikorpi, P., Valtonen, M. J., Byrd, G. G., & Merafina, M. (2013). Dark energy and the structure of the Coma cluster of galaxies. Astronomy & Astrophysics, 553, A101. https://doi.org/10.1051/0004-6361/201220781",
+            "Humpherys, D. (2024). Understanding the natural units and their hidden role in the laws of physics. European Journal of Physics, 45(5), 055802. https://doi.org/10.1088/1361-6404/ad61d3",
+            "Thakur, S. N. (2025). A nuanced perspective on dark energy: Extended Classical Mechanics. Zenodo (CERN). https://doi.org/10.5281/zenodo.18292707",
+            "Thakur, S. N., & Bhattacharjee, D. (2023). Phase shift and infinitesimal wave energy loss equations. Journal of Physical Chemistry & Biophysics, 13(6), 1000365. https://doi.org/10.5281/zenodo.14603601"
+          ],
+          "language": "eng",
+          "custom": {
+            "code:codeRepository": "https://doi.org/10.2139/ssrn.6258918",
+            "code:developmentStatus": {
+              "id": "active",
+              "title": {
+                "en": "Active"
+              }
+            }
+          },
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "18676406"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Phase-Indexed Frequency Manifestation in Extended Classical Mechanics: Emergence of Time, Energy, Mass, Gravity, and Velocity Stabilization",
+        "links": {
+          "self": "https://zenodo.org/api/records/18676407",
+          "self_html": "https://zenodo.org/records/18676407",
+          "preview_html": "https://zenodo.org/records/18676407?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.18676407",
+          "self_doi": "https://doi.org/10.5281/zenodo.18676407",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18676407",
+          "reserve_doi": "https://zenodo.org/api/records/18676407/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/18676406",
+          "parent_html": "https://zenodo.org/records/18676406",
+          "parent_doi": "https://doi.org/10.5281/zenodo.18676406",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18676406",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18676407/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18676407/sequence/default",
+          "files": "https://zenodo.org/api/records/18676407/files",
+          "media_files": "https://zenodo.org/api/records/18676407/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:18676407:Manuscript-Phase-Indexed%20Frequency%20Manifestation%20in%20Extended%20Classical%20Mechanics_%20v1.1.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:18676407:Manuscript-Phase-Indexed%20Frequency%20Manifestation%20in%20Extended%20Classical%20Mechanics_%20v1.1.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:18676407:Manuscript-Phase-Indexed%20Frequency%20Manifestation%20in%20Extended%20Classical%20Mechanics_%20v1.1.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:18676407:Manuscript-Phase-Indexed%20Frequency%20Manifestation%20in%20Extended%20Classical%20Mechanics_%20v1.1.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:18676407:Manuscript-Phase-Indexed%20Frequency%20Manifestation%20in%20Extended%20Classical%20Mechanics_%20v1.1.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:18676407:Manuscript-Phase-Indexed%20Frequency%20Manifestation%20in%20Extended%20Classical%20Mechanics_%20v1.1.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/18676407/files-archive",
+          "archive_media": "https://zenodo.org/api/records/18676407/media-files-archive",
+          "latest": "https://zenodo.org/api/records/18676407/versions/latest",
+          "latest_html": "https://zenodo.org/records/18676407/latest",
+          "versions": "https://zenodo.org/api/records/18676407/versions",
+          "draft": "https://zenodo.org/api/records/18676407/draft",
+          "access_links": "https://zenodo.org/api/records/18676407/access/links",
+          "access_grants": "https://zenodo.org/api/records/18676407/access/grants",
+          "access_users": "https://zenodo.org/api/records/18676407/access/users",
+          "access_request": "https://zenodo.org/api/records/18676407/access/request",
+          "access": "https://zenodo.org/api/records/18676407/access",
+          "communities": "https://zenodo.org/api/records/18676407/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/18676407/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/18676407/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/18676407/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/18676407/quota-increase",
+          "requests": "https://zenodo.org/api/records/18676407/requests"
+        },
+        "updated": "2026-07-29T14:26:13.732557+00:00",
+        "recid": "18676407",
+        "revision": 10,
+        "files": [
+          {
+            "id": "43125f13-b2ab-4774-9ef8-2c332768ff9e",
+            "key": "Manuscript-Phase-Indexed Frequency Manifestation in Extended Classical Mechanics_ v1.1.pdf",
+            "size": 410861,
+            "checksum": "md5:4210044b383f508efed4bd6fd3b02191",
+            "links": {
+              "self": "https://zenodo.org/api/records/18676407/files/Manuscript-Phase-Indexed%20Frequency%20Manifestation%20in%20Extended%20Classical%20Mechanics_%20v1.1.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1420393"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 69,
+          "unique_downloads": 57,
+          "views": 92,
+          "unique_views": 86,
+          "version_downloads": 69,
+          "version_unique_downloads": 57,
+          "version_unique_views": 86,
+          "version_views": 92
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-05-13T03:35:48.764083+00:00",
+        "modified": "2026-05-13T03:35:48.966388+00:00",
+        "id": 20149860,
+        "conceptrecid": "20149859",
+        "doi": "10.5281/zenodo.20149860",
+        "conceptdoi": "10.5281/zenodo.20149859",
+        "doi_url": "https://doi.org/10.5281/zenodo.20149860",
+        "metadata": {
+          "title": "Faster-than-Light Phase Propagation, the Fate of a Cyclic Universe, and the Emergent Luminal Boundary in Extended Classical Mechanics",
+          "doi": "10.5281/zenodo.20149860",
+          "publication_date": "2026-05-13",
+          "description": "<p>This work develops a unified cosmological and dynamical extension of Extended Classical Mechanics (ECM), demonstrating that the conventional speed of light (c) emerges not as an absolute universal limit, but as a stable manifestation boundary associated with the Planck-scale wavelength constraint (&lambda; &ge; \u2113\u1d18) within the manifested physical regime.</p>\n<p>Within this framework, the luminal limit remains preserved under ordinary gravitationally bound conditions, where manifested matter mass dominates negative apparent mass. However, when the system transitions into a phase-dominated anti-gravitational regime, characterized by |M\u1d43\u1d56\u1d56| \u226b M\u1d0d, the manifestation boundary weakens, permitting sub-Planckian wavelength contraction (&lambda; &lt; \u2113\u1d18) and enabling superluminal phase propagation (v\u209a\u2095\u2090\u209b\u2091 &gt; c). This superluminality is interpreted not as a violation of known physics, but as a natural consequence of transition into an un-manifest phase regime where ordinary spacetime ceases to remain fundamental.</p>\n<p>The same formalism is shown to govern temporal emergence. Time is reinterpreted in ECM as an emergent consequence of phase-frequency transformation, distinguishing idealized clock time, event-driven cosmic time, and entropy-induced temporal distortion. This leads to a generalized concept of time distortion distinct from conventional relativistic time dilation.</p>\n<p>When extended cosmologically, ECM predicts a cyclic universe in which terminal cosmic evolution proceeds toward phase-dominated un-manifestation rather than thermal termination or infinite wavelength expansion. In this limit, the universe undergoes frequency-state reorganization, enabling re-manifestation and thereby providing a natural cyclic cosmology.</p>\n<p>This yields a structurally comparable but physically distinct alternative to Conformal Cyclic Cosmology (CCC), replacing conformal geometric continuity with phase-frequency continuity. ECM therefore provides a unified framework linking superluminal phase behavior, emergent time, and the cyclic fate of the universe within a single physical formalism.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Thakur, Soumendra Nath",
+              "affiliation": "Tagore's Electronic Lab",
+              "orcid": "0000-0003-1871-7803"
+            }
+          ],
+          "keywords": [
+            "Extended Classical Mechanics (ECM)",
+            "Superluminal Phase Propagation",
+            "Faster-than-Light Physics",
+            "Emergent Speed of Light",
+            "Sub-Planckian Wavelength",
+            "Entropic Time Distortion",
+            "Cosmic Time",
+            "Phase Transition Cosmology",
+            "Cyclic Universe",
+            "Conformal Cyclic Cosmology (CCC)"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.18825894",
+              "relation": "describes",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.18644389",
+              "relation": "describes",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.13140/RG.2.2.29063.46240",
+              "relation": "describes",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.18916393",
+              "relation": "describes",
+              "resource_type": "publication-other",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.2139/ssrn.5494689",
+              "relation": "describes",
+              "resource_type": "publication-other",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.13140/RG.2.2.12275.18721",
+              "relation": "describes",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.18292707",
+              "relation": "describes",
+              "resource_type": "publication-other",
+              "scheme": "doi"
+            }
+          ],
+          "version": "1",
+          "references": [
+            "Planck, M. (1901). On the Law of Distribution of Energy in the Normal Spectrum. Annalen der Physik, 4(553), 1\u201311",
+            "Planck, M. (1899). \u00dcber irreversible Strahlungsvorg\u00e4nge. Sitzungsberichte der K\u00f6niglich Preu\u00dfischen Akademie der Wissenschaften zu Berlin, 5, 440\u2013480.",
+            "Bureau International des Poids et Mesures (BIPM). SI Brochure: The International System of Units (SI).",
+            "Planck Collaboration. (2018). Planck 2018 Results: Cosmological Parameters.",
+            "Chernin, A. D., Bisnovatyi-Kogan, G. S., Teerikorpi, P., Valtonen, M. J., Byrd, G. G., & Merafina, M. (2013). Dark energy and the structure of the Coma cluster of galaxies. Astronomy & Astrophysics, 553, A101. https://doi.org/10.1051/0004-6361/201220781",
+            "Humpherys, D. (2024). Understanding the natural units and their hidden role in the laws of physics. European Journal of Physics, 45(5), 055802. https://doi.org/10.1088/1361-6404/ad61d3"
+          ],
+          "language": "eng",
+          "custom": {
+            "code:codeRepository": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6755798"
+          },
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "meeting": {
+            "url": "http://www.telitnetwork.itgo.com/ECM-Faster-than-Light-Phase.html"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20149859"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Faster-than-Light Phase Propagation, the Fate of a Cyclic Universe, and the Emergent Luminal Boundary in Extended Classical Mechanics",
+        "links": {
+          "self": "https://zenodo.org/api/records/20149860",
+          "self_html": "https://zenodo.org/records/20149860",
+          "preview_html": "https://zenodo.org/records/20149860?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20149860",
+          "self_doi": "https://doi.org/10.5281/zenodo.20149860",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20149860",
+          "reserve_doi": "https://zenodo.org/api/records/20149860/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20149859",
+          "parent_html": "https://zenodo.org/records/20149859",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20149859",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20149859",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20149860/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20149860/sequence/default",
+          "files": "https://zenodo.org/api/records/20149860/files",
+          "media_files": "https://zenodo.org/api/records/20149860/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:20149860:Manuscript%20-%20Faster-than-Light%20Phase%20Propagation%20in%20ECM_v1.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:20149860:Manuscript%20-%20Faster-than-Light%20Phase%20Propagation%20in%20ECM_v1.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:20149860:Manuscript%20-%20Faster-than-Light%20Phase%20Propagation%20in%20ECM_v1.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:20149860:Manuscript%20-%20Faster-than-Light%20Phase%20Propagation%20in%20ECM_v1.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:20149860:Manuscript%20-%20Faster-than-Light%20Phase%20Propagation%20in%20ECM_v1.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:20149860:Manuscript%20-%20Faster-than-Light%20Phase%20Propagation%20in%20ECM_v1.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/20149860/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20149860/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20149860/versions/latest",
+          "latest_html": "https://zenodo.org/records/20149860/latest",
+          "versions": "https://zenodo.org/api/records/20149860/versions",
+          "draft": "https://zenodo.org/api/records/20149860/draft",
+          "access_links": "https://zenodo.org/api/records/20149860/access/links",
+          "access_grants": "https://zenodo.org/api/records/20149860/access/grants",
+          "access_users": "https://zenodo.org/api/records/20149860/access/users",
+          "access_request": "https://zenodo.org/api/records/20149860/access/request",
+          "access": "https://zenodo.org/api/records/20149860/access",
+          "communities": "https://zenodo.org/api/records/20149860/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20149860/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20149860/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20149860/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20149860/quota-increase",
+          "requests": "https://zenodo.org/api/records/20149860/requests"
+        },
+        "updated": "2026-05-13T03:35:48.966388+00:00",
+        "recid": "20149860",
+        "revision": 4,
+        "files": [
+          {
+            "id": "b2216bf8-1279-4ad2-a013-50516ffa05d4",
+            "key": "Manuscript - Faster-than-Light Phase Propagation in ECM_v1.pdf",
+            "size": 566102,
+            "checksum": "md5:7caa8378aa8118596ee13edf3e3ec679",
+            "links": {
+              "self": "https://zenodo.org/api/records/20149860/files/Manuscript%20-%20Faster-than-Light%20Phase%20Propagation%20in%20ECM_v1.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1420393"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 23,
+          "unique_downloads": 20,
+          "views": 42,
+          "unique_views": 40,
+          "version_downloads": 23,
+          "version_unique_downloads": 20,
+          "version_unique_views": 40,
+          "version_views": 42
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2024-09-13T15:49:22.144776+00:00",
+        "modified": "2024-09-13T15:49:22.383967+00:00",
+        "id": 13760187,
+        "conceptrecid": "13760186",
+        "doi": "10.5281/zenodo.13760187",
+        "conceptdoi": "10.5281/zenodo.13760186",
+        "doi_url": "https://doi.org/10.5281/zenodo.13760187",
+        "metadata": {
+          "title": "Theoretical Structures as Networks from the Perspective of Automated Creation and Proving of Theorems",
+          "doi": "10.5281/zenodo.13760187",
+          "publication_date": "2024-09-10",
+          "description": "<p>We envisage theoretical structures (especially in pure mathematics and theoretical physics) as networks made of elementary propositions (representing nodes) interconnected through deductive relationships (representing throats). This vision can be exploited as a basis for employing traditional network modeling techniques in the automated search for new theorems as well as for automated proving of proposed theorems and conjectures. This deductive, deterministic and intuitive approach can replace some of the conventional approaches (which are generally more sophisticated and elaborate and hence they are more expensive) in certain areas of automated and assisted theorem proving in addition to its benefit in the automated search for novel theorems. However, we admit that it has a number of limitations and shortcomings although this similarly applies to other methods in this field; moreover some of these limitations and shortcomings can be overcome by the reformulation of certain theoretical structures where we rely for the viability of this reformulation on our perception of theoretical structures as elaborate high-level linguistic systems.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Sochi, Taha",
+              "affiliation": "University College London",
+              "orcid": "0000-0002-2067-5908"
+            }
+          ],
+          "keywords": [
+            "Automated theorem proving",
+            "automated theorem creation",
+            "automated search for novel theorems",
+            "theoretical structures",
+            "mathematical structures",
+            "axiomatic structures",
+            "pure mathematics",
+            "theoretical physics",
+            "traditional network modeling"
+          ],
+          "language": "eng",
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "13760186"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Theoretical Structures as Networks from the Perspective of Automated Creation and Proving of Theorems",
+        "links": {
+          "self": "https://zenodo.org/api/records/13760187",
+          "self_html": "https://zenodo.org/records/13760187",
+          "preview_html": "https://zenodo.org/records/13760187?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.13760187",
+          "self_doi": "https://doi.org/10.5281/zenodo.13760187",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.13760187",
+          "reserve_doi": "https://zenodo.org/api/records/13760187/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/13760186",
+          "parent_html": "https://zenodo.org/records/13760186",
+          "parent_doi": "https://doi.org/10.5281/zenodo.13760186",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.13760186",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:13760187/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:13760187/sequence/default",
+          "files": "https://zenodo.org/api/records/13760187/files",
+          "media_files": "https://zenodo.org/api/records/13760187/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:13760187:Main.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:13760187:Main.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:13760187:Main.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:13760187:Main.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:13760187:Main.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:13760187:Main.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/13760187/files-archive",
+          "archive_media": "https://zenodo.org/api/records/13760187/media-files-archive",
+          "latest": "https://zenodo.org/api/records/13760187/versions/latest",
+          "latest_html": "https://zenodo.org/records/13760187/latest",
+          "versions": "https://zenodo.org/api/records/13760187/versions",
+          "draft": "https://zenodo.org/api/records/13760187/draft",
+          "access_links": "https://zenodo.org/api/records/13760187/access/links",
+          "access_grants": "https://zenodo.org/api/records/13760187/access/grants",
+          "access_users": "https://zenodo.org/api/records/13760187/access/users",
+          "access_request": "https://zenodo.org/api/records/13760187/access/request",
+          "access": "https://zenodo.org/api/records/13760187/access",
+          "communities": "https://zenodo.org/api/records/13760187/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/13760187/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/13760187/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/13760187/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/13760187/quota-increase",
+          "requests": "https://zenodo.org/api/records/13760187/requests"
+        },
+        "updated": "2024-09-13T15:49:22.383967+00:00",
+        "recid": "13760187",
+        "revision": 4,
+        "files": [
+          {
+            "id": "8c0ab0e9-783a-4f52-9d4e-8ddc18f37a0e",
+            "key": "Main.pdf",
+            "size": 214984,
+            "checksum": "md5:c9ca8cce2376e88499750a2eb74732a3",
+            "links": {
+              "self": "https://zenodo.org/api/records/13760187/files/Main.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1188238"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 35,
+          "unique_downloads": 31,
+          "views": 84,
+          "unique_views": 81,
+          "version_downloads": 35,
+          "version_unique_downloads": 31,
+          "version_unique_views": 81,
+          "version_views": 84
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-08-27T09:54:33.638360+00:00",
+        "modified": "2025-08-27T09:54:33.832126+00:00",
+        "id": 16962638,
+        "conceptrecid": "15626536",
+        "doi": "10.5281/zenodo.16962638",
+        "conceptdoi": "10.5281/zenodo.15626536",
+        "doi_url": "https://doi.org/10.5281/zenodo.16962638",
+        "metadata": {
+          "title": "Rewriting Scientific Ontology: Constraint Regimes, Structural Mediation, and the Dynamics of Actualization",
+          "doi": "10.5281/zenodo.16962638",
+          "publication_date": "2025-05-28",
+          "description": "<p dir=\"ltr\">This article proposes a dynamic reformulation of scientific ontology grounded in the modal stability of constraint regimes rather than representational accuracy. Drawing on ontic structural realism, category theory, and case studies from physics, it defines being as the persistence of structures under constraint-compatible transformations. Ontological significance arises from structural mediation across epistemic, syntactic, and ontic filters. This framework reconciles contextuality with realism and interprets mathematics as a constraint-preserving operator, enabling a new metaphysical articulation: existence as stabilized functionality. The result is a unified, non-speculative criterion for scientific ontology, with applicability across theoretical domains.</p>",
+          "access_right": "restricted",
+          "creators": [
+            {
+              "name": "LE NEPVOU, Alexandre",
+              "affiliation": "Paris Cit\u00e9 Universit\u00e9",
+              "orcid": "0009-0006-9308-4806"
+            }
+          ],
+          "keywords": [
+            "Structural realism",
+            "Scientific ontology",
+            "Constraint regimes",
+            "Structural mediation",
+            "Quantum field theory",
+            "Measurement theory",
+            "General relativity",
+            "Dynamic realism",
+            "Category theory",
+            "Modal invariance",
+            "Philosophy of Science",
+            "Scientific Realism",
+            "Metaphysics",
+            "Ontology",
+            "Epistemology",
+            "Structural Models of Knowledge",
+            "Mathematics",
+            "Category Theory and Foundations"
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 1,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "15626536"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Rewriting Scientific Ontology: Constraint Regimes, Structural Mediation, and the Dynamics of Actualization",
+        "links": {
+          "self": "https://zenodo.org/api/records/16962638",
+          "self_html": "https://zenodo.org/records/16962638",
+          "preview_html": "https://zenodo.org/records/16962638?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.16962638",
+          "self_doi": "https://doi.org/10.5281/zenodo.16962638",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.16962638",
+          "reserve_doi": "https://zenodo.org/api/records/16962638/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/15626536",
+          "parent_html": "https://zenodo.org/records/15626536",
+          "parent_doi": "https://doi.org/10.5281/zenodo.15626536",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15626536",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:16962638/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:16962638/sequence/default",
+          "files": "https://zenodo.org/api/records/16962638/files",
+          "media_files": "https://zenodo.org/api/records/16962638/media-files",
+          "archive": "https://zenodo.org/api/records/16962638/files-archive",
+          "archive_media": "https://zenodo.org/api/records/16962638/media-files-archive",
+          "latest": "https://zenodo.org/api/records/16962638/versions/latest",
+          "latest_html": "https://zenodo.org/records/16962638/latest",
+          "versions": "https://zenodo.org/api/records/16962638/versions",
+          "draft": "https://zenodo.org/api/records/16962638/draft",
+          "access_links": "https://zenodo.org/api/records/16962638/access/links",
+          "access_grants": "https://zenodo.org/api/records/16962638/access/grants",
+          "access_users": "https://zenodo.org/api/records/16962638/access/users",
+          "access_request": "https://zenodo.org/api/records/16962638/access/request",
+          "access": "https://zenodo.org/api/records/16962638/access",
+          "communities": "https://zenodo.org/api/records/16962638/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/16962638/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/16962638/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/16962638/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/16962638/quota-increase",
+          "requests": "https://zenodo.org/api/records/16962638/requests"
+        },
+        "updated": "2025-08-27T09:54:33.832126+00:00",
+        "recid": "16962638",
+        "revision": 4,
+        "files": [],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1329789"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 19,
+          "unique_downloads": 17,
+          "views": 91,
+          "unique_views": 90,
+          "version_downloads": 1,
+          "version_unique_downloads": 1,
+          "version_unique_views": 32,
+          "version_views": 32
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2020-11-05T01:11:09.700487+00:00",
+        "modified": "2024-07-19T14:14:38.672680+00:00",
+        "id": 4245572,
+        "conceptrecid": "4245571",
+        "doi": "10.5281/zenodo.4245572",
+        "conceptdoi": "10.5281/zenodo.4245571",
+        "doi_url": "https://doi.org/10.5281/zenodo.4245572",
+        "metadata": {
+          "title": "Mode classification and natural units in plainchant",
+          "doi": "10.5281/zenodo.4245572",
+          "publication_date": "2020-10-11",
+          "description": "Many musics across the world are structured around multiple modes, which hold a middle ground between scales and melodies. We study whether we can classify mode in a corpus of 20,865 medieval plainchant melodies from the Cantus database. We revisit the traditional 'textbook' classification approach (using the final, the range and initial note) as well as the only prior computational study we are aware of, which uses pitch profiles. Both approaches work well, but largely reduce modes to scales and ignore their melodic character. Our main contribution is a model that reaches 93\u201395% F1 score on mode classification, compared to 86\u201390% using traditional pitch-based musicological methods. Importantly, it reaches 81\u201383% even when we discard all absolute pitch information and reduce a melody to its contour. The model uses tf\u2013idf vectors and strongly depends on the choice of units: i.e., how the melody is segmented. If we borrow the syllable or word structure from the lyrics, the model outperforms all of our baselines. This suggests that, like language, music is made up of 'natural' units, in our case between the level of notes and complete phrases, a finding that may well be useful in other musics.",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Bas Cornelissen",
+              "affiliation": null
+            },
+            {
+              "name": "Willem Zuidema",
+              "affiliation": null
+            },
+            {
+              "name": "John Ashley Burgoyne",
+              "affiliation": null
+            }
+          ],
+          "resource_type": {
+            "title": "Conference paper",
+            "type": "publication",
+            "subtype": "conferencepaper"
+          },
+          "meeting": {
+            "title": "International Society for Music Information Retrieval Conference",
+            "acronym": "ISMIR 2020",
+            "dates": "October 11-16, 2020",
+            "place": "Montreal, Canada",
+            "url": "https://www.ismir2020.net/"
+          },
+          "imprint": {
+            "place": "Montreal, Canada"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "ismir"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "4245571"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Mode classification and natural units in plainchant",
+        "links": {
+          "self": "https://zenodo.org/api/records/4245572",
+          "self_html": "https://zenodo.org/records/4245572",
+          "preview_html": "https://zenodo.org/records/4245572?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.4245572",
+          "self_doi": "https://doi.org/10.5281/zenodo.4245572",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.4245572",
+          "reserve_doi": "https://zenodo.org/api/records/4245572/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/4245571",
+          "parent_html": "https://zenodo.org/records/4245571",
+          "parent_doi": "https://doi.org/10.5281/zenodo.4245571",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.4245571",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:4245572/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:4245572/sequence/default",
+          "files": "https://zenodo.org/api/records/4245572/files",
+          "media_files": "https://zenodo.org/api/records/4245572/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:4245572:232.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:4245572:232.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:4245572:232.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:4245572:232.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:4245572:232.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:4245572:232.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/4245572/files-archive",
+          "archive_media": "https://zenodo.org/api/records/4245572/media-files-archive",
+          "latest": "https://zenodo.org/api/records/4245572/versions/latest",
+          "latest_html": "https://zenodo.org/records/4245572/latest",
+          "versions": "https://zenodo.org/api/records/4245572/versions",
+          "draft": "https://zenodo.org/api/records/4245572/draft",
+          "access_links": "https://zenodo.org/api/records/4245572/access/links",
+          "access_grants": "https://zenodo.org/api/records/4245572/access/grants",
+          "access_users": "https://zenodo.org/api/records/4245572/access/users",
+          "access_request": "https://zenodo.org/api/records/4245572/access/request",
+          "access": "https://zenodo.org/api/records/4245572/access",
+          "communities": "https://zenodo.org/api/records/4245572/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/4245572/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/4245572/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/4245572/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/4245572/quota-increase",
+          "requests": "https://zenodo.org/api/records/4245572/requests"
+        },
+        "updated": "2024-07-19T14:14:38.672680+00:00",
+        "recid": "4245572",
+        "revision": 6,
+        "files": [
+          {
+            "id": "d407935d-0cca-40c5-9a9d-75e5cffe70f3",
+            "key": "232.pdf",
+            "size": 705595,
+            "checksum": "md5:1a1a837c92cc4d55479d598e8806f366",
+            "links": {
+              "self": "https://zenodo.org/api/records/4245572/files/232.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "148939"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 203,
+          "unique_downloads": 190,
+          "views": 381,
+          "unique_views": 370,
+          "version_downloads": 202,
+          "version_unique_downloads": 189,
+          "version_unique_views": 369,
+          "version_views": 380
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-05-17T04:06:42.078048+00:00",
+        "modified": "2026-05-17T04:06:42.605630+00:00",
+        "id": 20249678,
+        "conceptrecid": "20249677",
+        "doi": "10.5281/zenodo.20249678",
+        "conceptdoi": "10.5281/zenodo.20249677",
+        "doi_url": "https://doi.org/10.5281/zenodo.20249678",
+        "metadata": {
+          "title": "On the Physical Inadequacy of Singularities and the Unified Frequency-Governed Framework of Extended Classical Mechanics (ECM)",
+          "doi": "10.5281/zenodo.20249678",
+          "publication_date": "2026-05-17",
+          "description": "<p>The classical black-hole singularity remains one of the most mathematically accepted yet physically unresolved constructs in modern theoretical physics. Within General Relativity (GR), the internal core of a black hole is formally represented by the limiting condition&nbsp;<em>r = 0</em>, implying&nbsp;<em>L = 0</em>,&nbsp;<em>d = 0</em>, and therefore&nbsp;<em>V = 0</em>. This raises a foundational physical contradiction: if a black hole is claimed to obey the relativistic mass&ndash;energy relation&nbsp;<em>E = Mc&sup2;</em>, then the associated mass (<em>M</em>) must remain physically meaningful, which ordinarily requires nonzero spatial support.</p>\n<p>This paper argues that a strictly zero-dimensional singular core cannot be regarded as a legitimate physical object because it forfeits both spatial existence and localized mass meaning. Once the Planck boundary (<em>\u2113<sub>P</sub>&nbsp;= &radic;(\u210fG/c&sup3;)</em>) is recognized as the lower limit of reliable physical interpretation, the singularity must be understood not as a real object, but as a signal of formal breakdown in the classical geometric framework.</p>\n<p>To address this inadequacy, the paper introduces an alternative interpretation through&nbsp;<strong>Extended Classical Mechanics (ECM)</strong>. In ECM, sub-Planck collapse does not terminate in geometric divergence, but transforms through a deterministic, frequency-governed energetic transition:</p>\n<p class=\"equation\">&Delta;PE<sub>ECM</sub>&nbsp;&harr; M<sup>app</sup>&nbsp;&harr; &Delta;M<sub>M</sub>&nbsp;&harr; &Delta;KE<sub>ECM</sub></p>\n<p>governed by the intrinsic frequency relation:</p>\n<p class=\"equation\">f<sub>source</sub>&nbsp;= f<sub>observed</sub>&nbsp;+ &Delta;f<sub>source</sub></p>\n<p>Under this framework, the black hole is reinterpreted not as an inaccessible zero-volume paradox, but as a dynamic energetic transformer whose internal frequency evolution continuously maps to its external gravitational footprint. ECM therefore restores physical continuity, preserves spatial interpretability, and offers a conceptually unified alternative to classical singularity-based black-hole ontology.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Thakur, Soumendra Nath",
+              "affiliation": "Tagore's Electronic Lab",
+              "orcid": "0000-0003-1871-7803"
+            }
+          ],
+          "keywords": [
+            "Black Hole",
+            "Singularity",
+            "General Relativity",
+            "Schwarzschild Solution",
+            "Planck Length",
+            "Spatial Admissibility",
+            "Physical Observability",
+            "Extended Classical Mechanics (ECM)",
+            "Frequency-Governed Physics",
+            "Energetic Manifestation",
+            "\u0394PEECM",
+            "Mapp",
+            "\u0394MM",
+            "\u0394KEECM",
+            "Gravitational Emergence;",
+            "Sub-Planck Physics"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.2139/ssrn.6755798",
+              "relation": "describes",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.18825894",
+              "relation": "describes",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.18916393",
+              "relation": "describes",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            }
+          ],
+          "version": "1",
+          "references": [
+            "Einstein, A. (1915). Die Feldgleichungen der Gravitation. Sitzungsberichte der K\u00f6niglich Preu\u00dfischen Akademie der Wissenschaften (Berlin), 844\u2013847. (",
+            "Schwarzschild, K. (1916). \u00dcber das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie. Sitzungsberichte der K\u00f6niglich Preu\u00dfischen Akademie der Wissenschaften (Berlin), 189\u2013196.",
+            "Planck, M. (1901). On the Law of Distribution of Energy in the Normal Spectrum. Annalen der Physik, 4(553), 1\u201311.",
+            "Planck, M. (1899). \u00dcber irreversible Strahlungsvorg\u00e4nge. Sitzungsberichte der K\u00f6niglich Preu\u00dfischen Akademie der Wissenschaften zu Berlin, 5, 440\u2013480.",
+            "Planck Collaboration. (2018). Planck 2018 Results: Cosmological Parameters. Astronomy & Astrophysics, 641, A6.",
+            "Chernin, A. D., Bisnovatyi-Kogan, G. S., Teerikorpi, P., Valtonen, M. J., Byrd, G. G., & Merafina, M. (2013). Dark energy and the structure of the Coma cluster of galaxies. Astronomy & Astrophysics, 553, A101. https://doi.org/10.1051/0004-6361/201220781",
+            "Humpherys, D. (2024). Understanding the natural units and their hidden role in the laws of physics. European Journal of Physics, 45(5), 055802. https://doi.org/10.1088/1361-6404/ad61d3"
+          ],
+          "language": "eng",
+          "custom": {
+            "code:codeRepository": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6779678"
+          },
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "meeting": {
+            "url": "http://www.telitnetwork.itgo.com/Physical-Inadequacy-of-Singularities.html"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20249677"
+                }
+              }
+            ]
+          }
+        },
+        "title": "On the Physical Inadequacy of Singularities and the Unified Frequency-Governed Framework of Extended Classical Mechanics (ECM)",
+        "links": {
+          "self": "https://zenodo.org/api/records/20249678",
+          "self_html": "https://zenodo.org/records/20249678",
+          "preview_html": "https://zenodo.org/records/20249678?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20249678",
+          "self_doi": "https://doi.org/10.5281/zenodo.20249678",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20249678",
+          "reserve_doi": "https://zenodo.org/api/records/20249678/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20249677",
+          "parent_html": "https://zenodo.org/records/20249677",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20249677",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20249677",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20249678/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20249678/sequence/default",
+          "files": "https://zenodo.org/api/records/20249678/files",
+          "media_files": "https://zenodo.org/api/records/20249678/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:20249678:On%20the%20Physical%20Inadequacy%20of%20Singularities_v1.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:20249678:On%20the%20Physical%20Inadequacy%20of%20Singularities_v1.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:20249678:On%20the%20Physical%20Inadequacy%20of%20Singularities_v1.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:20249678:On%20the%20Physical%20Inadequacy%20of%20Singularities_v1.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:20249678:On%20the%20Physical%20Inadequacy%20of%20Singularities_v1.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:20249678:On%20the%20Physical%20Inadequacy%20of%20Singularities_v1.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/20249678/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20249678/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20249678/versions/latest",
+          "latest_html": "https://zenodo.org/records/20249678/latest",
+          "versions": "https://zenodo.org/api/records/20249678/versions",
+          "draft": "https://zenodo.org/api/records/20249678/draft",
+          "access_links": "https://zenodo.org/api/records/20249678/access/links",
+          "access_grants": "https://zenodo.org/api/records/20249678/access/grants",
+          "access_users": "https://zenodo.org/api/records/20249678/access/users",
+          "access_request": "https://zenodo.org/api/records/20249678/access/request",
+          "access": "https://zenodo.org/api/records/20249678/access",
+          "communities": "https://zenodo.org/api/records/20249678/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20249678/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20249678/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20249678/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20249678/quota-increase",
+          "requests": "https://zenodo.org/api/records/20249678/requests"
+        },
+        "updated": "2026-05-17T04:06:42.605630+00:00",
+        "recid": "20249678",
+        "revision": 4,
+        "files": [
+          {
+            "id": "44eb041b-1e0a-47df-b20d-8a1d3c472f9e",
+            "key": "On the Physical Inadequacy of Singularities_v1.pdf",
+            "size": 273347,
+            "checksum": "md5:cc553a5e93a25f243ff930f17e7c1031",
+            "links": {
+              "self": "https://zenodo.org/api/records/20249678/files/On%20the%20Physical%20Inadequacy%20of%20Singularities_v1.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1420393"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 37,
+          "unique_downloads": 34,
+          "views": 58,
+          "unique_views": 57,
+          "version_downloads": 37,
+          "version_unique_downloads": 34,
+          "version_unique_views": 57,
+          "version_views": 58
+        },
+        "state": "done",
+        "submitted": true
+      }
+    ],
+    "total": 112595
+  },
+  "aggregations": {
+    "publication_date": {
+      "buckets": [
+        {
+          "key": "2000",
+          "doc_count": 42,
+          "label": "2000",
+          "is_selected": false
+        },
+        {
+          "key": "2001",
+          "doc_count": 35,
+          "label": "2001",
+          "is_selected": false
+        },
+        {
+          "key": "2002",
+          "doc_count": 52,
+          "label": "2002",
+          "is_selected": false
+        },
+        {
+          "key": "2003",
+          "doc_count": 35,
+          "label": "2003",
+          "is_selected": false
+        },
+        {
+          "key": "2004",
+          "doc_count": 53,
+          "label": "2004",
+          "is_selected": false
+        },
+        {
+          "key": "2005",
+          "doc_count": 66,
+          "label": "2005",
+          "is_selected": false
+        },
+        {
+          "key": "2006",
+          "doc_count": 104,
+          "label": "2006",
+          "is_selected": false
+        },
+        {
+          "key": "2007",
+          "doc_count": 145,
+          "label": "2007",
+          "is_selected": false
+        },
+        {
+          "key": "2008",
+          "doc_count": 231,
+          "label": "2008",
+          "is_selected": false
+        },
+        {
+          "key": "2009",
+          "doc_count": 202,
+          "label": "2009",
+          "is_selected": false
+        },
+        {
+          "key": "2010",
+          "doc_count": 293,
+          "label": "2010",
+          "is_selected": false
+        },
+        {
+          "key": "2011",
+          "doc_count": 367,
+          "label": "2011",
+          "is_selected": false
+        },
+        {
+          "key": "2012",
+          "doc_count": 409,
+          "label": "2012",
+          "is_selected": false
+        },
+        {
+          "key": "2013",
+          "doc_count": 532,
+          "label": "2013",
+          "is_selected": false
+        },
+        {
+          "key": "2014",
+          "doc_count": 646,
+          "label": "2014",
+          "is_selected": false
+        },
+        {
+          "key": "2015",
+          "doc_count": 762,
+          "label": "2015",
+          "is_selected": false
+        },
+        {
+          "key": "2016",
+          "doc_count": 1002,
+          "label": "2016",
+          "is_selected": false
+        },
+        {
+          "key": "2017",
+          "doc_count": 1322,
+          "label": "2017",
+          "is_selected": false
+        },
+        {
+          "key": "2018",
+          "doc_count": 2053,
+          "label": "2018",
+          "is_selected": false
+        },
+        {
+          "key": "2019",
+          "doc_count": 2486,
+          "label": "2019",
+          "is_selected": false
+        },
+        {
+          "key": "2020",
+          "doc_count": 2707,
+          "label": "2020",
+          "is_selected": false
+        },
+        {
+          "key": "2021",
+          "doc_count": 3883,
+          "label": "2021",
+          "is_selected": false
+        },
+        {
+          "key": "2022",
+          "doc_count": 4646,
+          "label": "2022",
+          "is_selected": false
+        },
+        {
+          "key": "2023",
+          "doc_count": 5141,
+          "label": "2023",
+          "is_selected": false
+        },
+        {
+          "key": "2024",
+          "doc_count": 6297,
+          "label": "2024",
+          "is_selected": false
+        },
+        {
+          "key": "2025",
+          "doc_count": 30323,
+          "label": "2025",
+          "is_selected": false
+        },
+        {
+          "key": "2026",
+          "doc_count": 48094,
+          "label": "2026",
+          "is_selected": false
+        }
+      ],
+      "label": "Publication date"
+    },
+    "access_status": {
+      "buckets": [
+        {
+          "key": "open",
+          "doc_count": 107194,
+          "label": "Open",
+          "is_selected": false
+        },
+        {
+          "key": "restricted",
+          "doc_count": 4904,
+          "label": "Restricted",
+          "is_selected": false
+        },
+        {
+          "key": "embargoed",
+          "doc_count": 497,
+          "label": "Embargoed",
+          "is_selected": false
+        }
+      ],
+      "label": "Access status"
+    },
+    "resource_type": {
+      "buckets": [
+        {
+          "key": "publication",
+          "doc_count": 86929,
+          "label": "Publication",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "publication-preprint",
+                "doc_count": 35682,
+                "label": "Preprint",
+                "is_selected": false
+              },
+              {
+                "key": "publication-article",
+                "doc_count": 22810,
+                "label": "Journal article",
+                "is_selected": false
+              },
+              {
+                "key": "publication-report",
+                "doc_count": 2535,
+                "label": "Report",
+                "is_selected": false
+              },
+              {
+                "key": "publication-conferencepaper",
+                "doc_count": 2453,
+                "label": "Conference paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-dissertation",
+                "doc_count": 1927,
+                "label": "Thesis",
+                "is_selected": false
+              },
+              {
+                "key": "publication-book",
+                "doc_count": 1822,
+                "label": "Book",
+                "is_selected": false
+              },
+              {
+                "key": "publication-workingpaper",
+                "doc_count": 1784,
+                "label": "Working paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-other",
+                "doc_count": 1106,
+                "label": "Other",
+                "is_selected": false
+              },
+              {
+                "key": "publication-journal",
+                "doc_count": 847,
+                "label": "Journal",
+                "is_selected": false
+              },
+              {
+                "key": "publication-section",
+                "doc_count": 747,
+                "label": "Book chapter",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "dataset",
+          "doc_count": 11490,
+          "label": "Dataset",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "software",
+          "doc_count": 4807,
+          "label": "Software",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "software-computationalnotebook",
+                "doc_count": 270,
+                "label": "Computational notebook",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "presentation",
+          "doc_count": 3033,
+          "label": "Presentation",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "poster",
+          "doc_count": 1777,
+          "label": "Poster",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "other",
+          "doc_count": 1415,
+          "label": "Other",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "image",
+          "doc_count": 1361,
+          "label": "Image",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "image-figure",
+                "doc_count": 819,
+                "label": "Figure",
+                "is_selected": false
+              },
+              {
+                "key": "image-diagram",
+                "doc_count": 101,
+                "label": "Diagram",
+                "is_selected": false
+              },
+              {
+                "key": "image-drawing",
+                "doc_count": 50,
+                "label": "Drawing",
+                "is_selected": false
+              },
+              {
+                "key": "image-plot",
+                "doc_count": 44,
+                "label": "Plot",
+                "is_selected": false
+              },
+              {
+                "key": "image-other",
+                "doc_count": 42,
+                "label": "Other",
+                "is_selected": false
+              },
+              {
+                "key": "image-photo",
+                "doc_count": 32,
+                "label": "Photo",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "model",
+          "doc_count": 626,
+          "label": "Model",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "lesson",
+          "doc_count": 511,
+          "label": "Lesson",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "video",
+          "doc_count": 272,
+          "label": "Video/Audio",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        }
+      ],
+      "label": "Resource types"
+    },
+    "subject": {
+      "buckets": [
+        {
+          "key": "Quantum physics",
+          "doc_count": 5287,
+          "label": "Quantum physics",
+          "is_selected": false
+        },
+        {
+          "key": "Physics",
+          "doc_count": 4325,
+          "label": "Physics",
+          "is_selected": false
+        },
+        {
+          "key": "Theoretical physics",
+          "doc_count": 4088,
+          "label": "Theoretical physics",
+          "is_selected": false
+        },
+        {
+          "key": "Mathematical physics",
+          "doc_count": 3574,
+          "label": "Mathematical physics",
+          "is_selected": false
+        },
+        {
+          "key": "Particle physics",
+          "doc_count": 2089,
+          "label": "Particle physics",
+          "is_selected": false
+        },
+        {
+          "key": "Physical cosmology",
+          "doc_count": 1908,
+          "label": "Physical cosmology",
+          "is_selected": false
+        },
+        {
+          "key": "Cosmology",
+          "doc_count": 1619,
+          "label": "Cosmology",
+          "is_selected": false
+        },
+        {
+          "key": "Quantum Theory",
+          "doc_count": 1499,
+          "label": "Quantum Theory",
+          "is_selected": false
+        },
+        {
+          "key": "Theoretical Physics",
+          "doc_count": 1491,
+          "label": "Theoretical Physics",
+          "is_selected": false
+        },
+        {
+          "key": "Nuclear physics",
+          "doc_count": 1427,
+          "label": "Nuclear physics",
+          "is_selected": false
+        }
+      ],
+      "label": "Subjects"
+    },
+    "file_type": {
+      "buckets": [
+        {
+          "key": "pdf",
+          "doc_count": 84426,
+          "label": "PDF",
+          "is_selected": false
+        },
+        {
+          "key": "zip",
+          "doc_count": 12650,
+          "label": "ZIP",
+          "is_selected": false
+        },
+        {
+          "key": "docx",
+          "doc_count": 3871,
+          "label": "DOCX",
+          "is_selected": false
+        },
+        {
+          "key": "txt",
+          "doc_count": 3587,
+          "label": "TXT",
+          "is_selected": false
+        },
+        {
+          "key": "png",
+          "doc_count": 2853,
+          "label": "PNG",
+          "is_selected": false
+        },
+        {
+          "key": "md",
+          "doc_count": 2692,
+          "label": "MD",
+          "is_selected": false
+        },
+        {
+          "key": "tex",
+          "doc_count": 2240,
+          "label": "TEX",
+          "is_selected": false
+        },
+        {
+          "key": "py",
+          "doc_count": 1839,
+          "label": "PY",
+          "is_selected": false
+        },
+        {
+          "key": "jpg",
+          "doc_count": 1623,
+          "label": "JPG",
+          "is_selected": false
+        },
+        {
+          "key": "bin",
+          "doc_count": 1433,
+          "label": "BIN",
+          "is_selected": false
+        }
+      ],
+      "label": "File type"
+    }
+  },
+  "links": {
+    "self": "https://zenodo.org/api/records?page=1&q=%22natural+units%22+reformulation+physics&size=10&sort=bestmatch",
+    "next": "https://zenodo.org/api/records?page=2&q=%22natural+units%22+reformulation+physics&size=10&sort=bestmatch"
+  }
+}

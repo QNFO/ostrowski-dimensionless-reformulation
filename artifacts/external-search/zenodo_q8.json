@@ -1,0 +1,1987 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "created": "2026-03-11T09:04:13.821760+00:00",
+        "modified": "2026-03-18T18:17:50.209397+00:00",
+        "id": 18954054,
+        "conceptrecid": "18954053",
+        "doi": "10.5281/zenodo.18954054",
+        "conceptdoi": "10.5281/zenodo.18954053",
+        "doi_url": "https://doi.org/10.5281/zenodo.18954054",
+        "metadata": {
+          "title": "Closing the Matching Pipeline for Fundamental Constants from Quantum Coherence Dynamics",
+          "doi": "10.5281/zenodo.18954054",
+          "publication_date": "2026-03-11",
+          "description": "<p>We close the matching pipeline linking the late-time intrinsic IRB fixed point to low-energy parameters of an infrared effective description, building on the emergence modules established in Papers I-VI of this series. Microscopic kernel dependence is isolated into a finite set of dimensionless matching coefficients constrained by IRB invariance, monotonicity under coarse-graining, and compositional stability, thereby avoiding a functional \"landscape.\" We formulate four matching contracts for Lambda, G, gauge-kinetic normalizations at mu_xi = hbar*c/xi, and Yukawa structures. A principal falsifiable consequence is a correlated short-distance window: through Lambda proportional to kappa_eff * l_P^2 / xi^4, the observed Lambda implies a preferred xi window in the ~10 micrometer to 1 millimeter range unless the dimensionless vacuum prefactor is exponentially large or small (e.g., kappa_eff in [10^(-4), 10^4]). This window is testable - and increasingly constrained - by short-range gravity and Casimir probes. As correlated target modules, we discuss (i) residual-coherence excitations as an ultralight scalar dark-matter component whose non-gravitational portals are suppressed by the same intrinsic deficits that control the vacuum sector, leading to correlated fifth-force targets, and (ii) a baryogenesis interface driven by CP-odd intrinsic coherences during the coherence-relaxation epoch.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Gil, Jos\u00e9 J.",
+              "affiliation": "Independent Researcher, 29690 Casares Costa, Spain",
+              "orcid": "0000-0003-1740-2244"
+            }
+          ],
+          "keywords": [
+            "fundamental constants",
+            "infrared matching",
+            "effective field theory",
+            "quantum coherence dynamics",
+            "cosmological constant",
+            "Newton constant",
+            "gauge-kinetic normalization",
+            "Yukawa structures",
+            "short-range gravity",
+            "Casimir constraints"
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "18954053"
+                }
+              }
+            ]
+          },
+          "notes": "<p>Related record.</p>\n<p>This deposit contains an individual component of the broader research program &ldquo;Quantum Information Foundations of Fundamental Physics&rdquo;. For the current unified reference article that integrates the main results into a single self-contained work, see:</p>\n<p>DOI 10.5281/zenodo.19062431</p>\n<p>This individual paper should therefore be read as a related or supporting contribution within the broader framework.</p>"
+        },
+        "title": "Closing the Matching Pipeline for Fundamental Constants from Quantum Coherence Dynamics",
+        "links": {
+          "self": "https://zenodo.org/api/records/18954054",
+          "self_html": "https://zenodo.org/records/18954054",
+          "preview_html": "https://zenodo.org/records/18954054?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.18954054",
+          "self_doi": "https://doi.org/10.5281/zenodo.18954054",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18954054",
+          "reserve_doi": "https://zenodo.org/api/records/18954054/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/18954053",
+          "parent_html": "https://zenodo.org/records/18954053",
+          "parent_doi": "https://doi.org/10.5281/zenodo.18954053",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18954053",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18954054/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18954054/sequence/default",
+          "files": "https://zenodo.org/api/records/18954054/files",
+          "media_files": "https://zenodo.org/api/records/18954054/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:18954054:Closing%20the%20Matching%20Pipeline%20for%20Fundamental%20Constants%20from%20Quantum%20Coherence%20Dynamics.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:18954054:Closing%20the%20Matching%20Pipeline%20for%20Fundamental%20Constants%20from%20Quantum%20Coherence%20Dynamics.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:18954054:Closing%20the%20Matching%20Pipeline%20for%20Fundamental%20Constants%20from%20Quantum%20Coherence%20Dynamics.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:18954054:Closing%20the%20Matching%20Pipeline%20for%20Fundamental%20Constants%20from%20Quantum%20Coherence%20Dynamics.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:18954054:Closing%20the%20Matching%20Pipeline%20for%20Fundamental%20Constants%20from%20Quantum%20Coherence%20Dynamics.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:18954054:Closing%20the%20Matching%20Pipeline%20for%20Fundamental%20Constants%20from%20Quantum%20Coherence%20Dynamics.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/18954054/files-archive",
+          "archive_media": "https://zenodo.org/api/records/18954054/media-files-archive",
+          "latest": "https://zenodo.org/api/records/18954054/versions/latest",
+          "latest_html": "https://zenodo.org/records/18954054/latest",
+          "versions": "https://zenodo.org/api/records/18954054/versions",
+          "draft": "https://zenodo.org/api/records/18954054/draft",
+          "access_links": "https://zenodo.org/api/records/18954054/access/links",
+          "access_grants": "https://zenodo.org/api/records/18954054/access/grants",
+          "access_users": "https://zenodo.org/api/records/18954054/access/users",
+          "access_request": "https://zenodo.org/api/records/18954054/access/request",
+          "access": "https://zenodo.org/api/records/18954054/access",
+          "communities": "https://zenodo.org/api/records/18954054/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/18954054/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/18954054/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/18954054/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/18954054/quota-increase",
+          "requests": "https://zenodo.org/api/records/18954054/requests"
+        },
+        "updated": "2026-03-18T18:17:50.209397+00:00",
+        "recid": "18954054",
+        "revision": 6,
+        "files": [
+          {
+            "id": "2949b21b-2036-4e83-9784-ea8d805a8f47",
+            "key": "Closing the Matching Pipeline for Fundamental Constants from Quantum Coherence Dynamics.pdf",
+            "size": 482481,
+            "checksum": "md5:fb7f081f35441b68807d419419b01e78",
+            "links": {
+              "self": "https://zenodo.org/api/records/18954054/files/Closing%20the%20Matching%20Pipeline%20for%20Fundamental%20Constants%20from%20Quantum%20Coherence%20Dynamics.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "569375"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 31,
+          "unique_downloads": 26,
+          "views": 46,
+          "unique_views": 45,
+          "version_downloads": 31,
+          "version_unique_downloads": 26,
+          "version_unique_views": 45,
+          "version_views": 46
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-04-02T17:57:54.029405+00:00",
+        "modified": "2025-12-07T18:13:16.331121+00:00",
+        "id": 15126962,
+        "conceptrecid": "15126961",
+        "doi": "10.5281/zenodo.15126962",
+        "conceptdoi": "10.5281/zenodo.15126961",
+        "doi_url": "https://doi.org/10.5281/zenodo.15126962",
+        "metadata": {
+          "title": "[Exploratory Version] Pure Time Theory: Dynamical Derivation and Cosmological Stabilization of the Fundamental Constants [Exploratory Version]",
+          "doi": "10.5281/zenodo.15126962",
+          "publication_date": "2025-04-02",
+          "description": "<p>This paper presents a comprehensive <strong>derivation of the five fundamental physical constant</strong>s &mdash; <strong>c, G, h-bar, alpha, and k_B</strong> &mdash; within the framework of the Pure Time Theory (<strong>PTT</strong>), a novel paradigm where spacetime, matter, and <strong>all physical interactions emerge from a single scalar temporal field</strong>, <strong>T_relax</strong>. Through a logically sequenced approach, these constants arise dynamically from the structure and local gradients of T_relax, without assuming any pre-existing geometry, quantum structure, or arbitrary parameters.</p>\n<p>The central field equation, &nabla;&sup2; T_relax = beta &times; sqrt(rho), links time relaxation with energy density via a single dimensionless constant beta. Each physical constant is derived through a successive stabilization process, from wavefront propagation and curvature emergence to charge quantization and thermal fluctuations, forming a logically unified chain.</p>\n<p>The article also introduces a Lagrangian formulation of the theory, a preliminary quantization of the temporal field, and presents numerical predictions that can be tested through cold atom interferometry and cosmic data. A topological vortex-based mechanism for electric charge is validated through lattice simulations, suggesting robust stability under perturbations.</p>\n<p>By rooting all derivations in a single scalar field, PTT offers a new framework that unifies classical and quantum physics, gravity, and thermodynamics. <strong>The theory aligns with the Principle of Logical Unicity (PLU), offering a conceptually complete alternative to current models of unification.</strong></p>",
+          "access_right": "restricted",
+          "creators": [
+            {
+              "name": "Allou, Essam",
+              "affiliation": null,
+              "orcid": "0009-0000-1658-7182"
+            }
+          ],
+          "keywords": [
+            "Pure Time Theory",
+            "PTT",
+            "Fundamental Constants",
+            "Emergent Spacetime",
+            "Temporal Field",
+            "Quantum Gravity",
+            "Unified Field Theory",
+            "Logical Unicity",
+            "Scalar Field Quantization",
+            "Variation of Constants",
+            "Fine-Structure Constant",
+            "Topological Charge",
+            "Temporal Field Dynamics",
+            "Cosmological Unification",
+            "Quantum-Classical Bridge",
+            "Gravitational Wave Spectra",
+            "Modified Einstein Equations",
+            "Planck-Scale Fluctuations",
+            "Fractal Dimension of Space-Time",
+            "Big Bang Singularity Resolution",
+            "Cosmic Expansion Without Dark Energy",
+            "Hubble Tension Reduction",
+            "CMB Anisotropies",
+            "Quantum Decoherence",
+            "Lindblad Operators",
+            "Wave-Function",
+            "Time-Generated Matter Hierarchy",
+            "Tawhid",
+            "Scientific Unity",
+            "Science-Faith Dialogue",
+            "Interpretation of Physical Constants",
+            "Emergent Spacetime Geometry",
+            "Universe as Finite System",
+            "Paradigm Shift in Cosmology",
+            "physical unification",
+            "geometric emergence",
+            "cosmological stabilization",
+            "Principle of Logical Unicity",
+            "PLU"
+          ],
+          "resource_type": {
+            "title": "Publication",
+            "type": "publication"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "15126961"
+                }
+              }
+            ]
+          }
+        },
+        "title": "[Exploratory Version] Pure Time Theory: Dynamical Derivation and Cosmological Stabilization of the Fundamental Constants [Exploratory Version]",
+        "links": {
+          "self": "https://zenodo.org/api/records/15126962",
+          "self_html": "https://zenodo.org/records/15126962",
+          "preview_html": "https://zenodo.org/records/15126962?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.15126962",
+          "self_doi": "https://doi.org/10.5281/zenodo.15126962",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15126962",
+          "reserve_doi": "https://zenodo.org/api/records/15126962/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/15126961",
+          "parent_html": "https://zenodo.org/records/15126961",
+          "parent_doi": "https://doi.org/10.5281/zenodo.15126961",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15126961",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:15126962/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:15126962/sequence/default",
+          "files": "https://zenodo.org/api/records/15126962/files",
+          "media_files": "https://zenodo.org/api/records/15126962/media-files",
+          "archive": "https://zenodo.org/api/records/15126962/files-archive",
+          "archive_media": "https://zenodo.org/api/records/15126962/media-files-archive",
+          "latest": "https://zenodo.org/api/records/15126962/versions/latest",
+          "latest_html": "https://zenodo.org/records/15126962/latest",
+          "versions": "https://zenodo.org/api/records/15126962/versions",
+          "draft": "https://zenodo.org/api/records/15126962/draft",
+          "access_links": "https://zenodo.org/api/records/15126962/access/links",
+          "access_grants": "https://zenodo.org/api/records/15126962/access/grants",
+          "access_users": "https://zenodo.org/api/records/15126962/access/users",
+          "access_request": "https://zenodo.org/api/records/15126962/access/request",
+          "access": "https://zenodo.org/api/records/15126962/access",
+          "communities": "https://zenodo.org/api/records/15126962/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/15126962/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/15126962/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/15126962/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/15126962/quota-increase",
+          "requests": "https://zenodo.org/api/records/15126962/requests"
+        },
+        "updated": "2025-12-07T18:13:16.331121+00:00",
+        "recid": "15126962",
+        "revision": 8,
+        "files": [],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1248682"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 157,
+          "unique_downloads": 108,
+          "views": 159,
+          "unique_views": 122,
+          "version_downloads": 157,
+          "version_unique_downloads": 108,
+          "version_unique_views": 122,
+          "version_views": 159
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-01-20T14:52:00.478230+00:00",
+        "modified": "2026-01-26T21:07:46.900852+00:00",
+        "id": 18315054,
+        "conceptrecid": "18315053",
+        "doi": "10.5281/zenodo.18315054",
+        "conceptdoi": "10.5281/zenodo.18315053",
+        "doi_url": "https://doi.org/10.5281/zenodo.18315054",
+        "metadata": {
+          "title": "A Precise Geometric Derivation of the Proton\u2013Electron Mass Ratio from Closure Constraints in Space\u2013Change Geometry, without Free Parameters",
+          "doi": "10.5281/zenodo.18315054",
+          "publication_date": "2026-01-20",
+          "description": "<p>Why is the proton approximately 1836.15 times more massive than the electron? Despite extraordinary experimental precision, this dimensionless ratio has no accepted theoretical explanation. This paper derives the proton&ndash;electron mass ratio directly, with relative agreement to the CODATA 2022 value at the 10^-11 level. The derivation arises from geometric closure constraints as formulated in Space&ndash;Change Geometry, without introducing free parameters or fitted coefficients.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Rasky, Thomas Zigmond",
+              "affiliation": null,
+              "orcid": "0009-0009-5191-9483"
+            }
+          ],
+          "keywords": [
+            "proton\u2013electron mass ratio",
+            "fundamental constants",
+            "geometric origin of mass",
+            "quantum geometry",
+            "holonomy",
+            "Space\u2013Change Geometry",
+            "SCG",
+            "1836.15"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.18314789",
+              "relation": "isDerivedFrom",
+              "resource_type": "publication",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.18380979",
+              "relation": "isSupplementedBy",
+              "resource_type": "publication",
+              "scheme": "doi"
+            }
+          ],
+          "resource_type": {
+            "title": "Publication",
+            "type": "publication"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "18315053"
+                }
+              }
+            ]
+          }
+        },
+        "title": "A Precise Geometric Derivation of the Proton\u2013Electron Mass Ratio from Closure Constraints in Space\u2013Change Geometry, without Free Parameters",
+        "links": {
+          "self": "https://zenodo.org/api/records/18315054",
+          "self_html": "https://zenodo.org/records/18315054",
+          "preview_html": "https://zenodo.org/records/18315054?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.18315054",
+          "self_doi": "https://doi.org/10.5281/zenodo.18315054",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18315054",
+          "reserve_doi": "https://zenodo.org/api/records/18315054/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/18315053",
+          "parent_html": "https://zenodo.org/records/18315053",
+          "parent_doi": "https://doi.org/10.5281/zenodo.18315053",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18315053",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18315054/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18315054/sequence/default",
+          "files": "https://zenodo.org/api/records/18315054/files",
+          "media_files": "https://zenodo.org/api/records/18315054/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:18315054:2026-01-20%20%20Proton%20to%20Electron%20Mass.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:18315054:2026-01-20%20%20Proton%20to%20Electron%20Mass.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:18315054:2026-01-20%20%20Proton%20to%20Electron%20Mass.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:18315054:2026-01-20%20%20Proton%20to%20Electron%20Mass.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:18315054:2026-01-20%20%20Proton%20to%20Electron%20Mass.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:18315054:2026-01-20%20%20Proton%20to%20Electron%20Mass.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/18315054/files-archive",
+          "archive_media": "https://zenodo.org/api/records/18315054/media-files-archive",
+          "latest": "https://zenodo.org/api/records/18315054/versions/latest",
+          "latest_html": "https://zenodo.org/records/18315054/latest",
+          "versions": "https://zenodo.org/api/records/18315054/versions",
+          "draft": "https://zenodo.org/api/records/18315054/draft",
+          "access_links": "https://zenodo.org/api/records/18315054/access/links",
+          "access_grants": "https://zenodo.org/api/records/18315054/access/grants",
+          "access_users": "https://zenodo.org/api/records/18315054/access/users",
+          "access_request": "https://zenodo.org/api/records/18315054/access/request",
+          "access": "https://zenodo.org/api/records/18315054/access",
+          "communities": "https://zenodo.org/api/records/18315054/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/18315054/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/18315054/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/18315054/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/18315054/quota-increase",
+          "requests": "https://zenodo.org/api/records/18315054/requests"
+        },
+        "updated": "2026-01-26T21:07:46.900852+00:00",
+        "recid": "18315054",
+        "revision": 16,
+        "files": [
+          {
+            "id": "30713630-b203-4430-a655-b7adb8d02b12",
+            "key": "2026-01-20  Proton to Electron Mass.pdf",
+            "size": 141100,
+            "checksum": "md5:1ae8c39d32dc559b4804d0530d72d449",
+            "links": {
+              "self": "https://zenodo.org/api/records/18315054/files/2026-01-20%20%20Proton%20to%20Electron%20Mass.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1478032"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 530,
+          "unique_downloads": 395,
+          "views": 634,
+          "unique_views": 503,
+          "version_downloads": 530,
+          "version_unique_downloads": 395,
+          "version_unique_views": 503,
+          "version_views": 634
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-05-08T01:49:11.325867+00:00",
+        "modified": "2026-05-08T01:49:11.735722+00:00",
+        "id": 20077307,
+        "conceptrecid": "19986153",
+        "doi": "10.5281/zenodo.20077307",
+        "conceptdoi": "10.5281/zenodo.19986153",
+        "doi_url": "https://doi.org/10.5281/zenodo.20077307",
+        "metadata": {
+          "title": "The Configurable Universe: Fundamental Constants as Chamber Invariants in Twistor Configuration Geometry",
+          "doi": "10.5281/zenodo.20077307",
+          "publication_date": "2026-05-07",
+          "description": "<p>The fundamental constants of nature are usually treated as free parameters: numbers that could have been anything, were set somehow, and are found by observation. We argue for an alternative reading. The constants are structural invariants of a chamber within a configuration-space construction, in the same sense that the dimension of a vector space is an invariant of the space's structure rather than a parameter of it. We call this the configurable-universe view. In this picture the framework does not require a physically realized multiverse: there is one configuration space, one chamber, no probability distribution over alternative universes; and the constants are determined by the chamber's structure rather than by anthropic selection or accident.</p>\n<p>The view is concretely realized by Twistor Configuration Geometry (TCG) (Zhang 2026, DOI:10.5281/zenodo.20076012, v3; Zhang 2026, DOI:10.5281/zenodo.19984246), in which nine numerical relations among fundamental constants admit a coordinated reading as invariants of a stratified space \u2294_{n=1}^{3} CP^n &times; K_{r_n}(I), where K_r(I) is the chamberwise Fulton&ndash;MacPherson/Axelrod&ndash;Singer compactification of r labeled points on an oriented interval.</p>\n<p>We articulate the configurable-universe thesis, distinguish it from anthropic and landscape responses to the fine-tuning problem, locate it relative to existing relational programs (Penrose, Smolin, Rovelli), state its empirical content (no tunable knobs, no temporal variation in fundamental constants, presence of structural relations among observables), and offer a critical self-assessment of the position's bite versus its risk of being a relabeling exercise.</p>\n<p>The configurable universe is offered as a research program, not a settled theory; its strongest empirical evidence is the existence of non-random algebraic patterns among nine measured dimensionless relations across electromagnetic, weak, lepton, hadronic, gravitational, and cosmological sectors, which a free-parameter ontology does not predict.</p>\n<p>The paper accompanies the TCG framework reference (Zhang 2026, DOI:10.5281/zenodo.20076012, v3), the DAEDALUS Review of empirical content (Zhang 2026, DOI:10.5281/zenodo.19984246), the Electroweak Boundary note (Zhang 2026, DOI:10.5281/zenodo.20075926), the Predictions/No-Go ledger (Zhang 2026, DOI:10.5281/zenodo.20076966, v2), and the Methodology paper with its multi-relation look-elsewhere audit (Zhang 2026, DOI:10.5281/zenodo.20062462, v2).</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Zhang, Qingchun",
+              "affiliation": "Independent Researcher",
+              "orcid": "0009-0008-0389-1474"
+            }
+          ],
+          "keywords": [
+            "configurable universe, fundamental constants, structural   invariants, configuration space, Twistor Configuration   Geometry, fine-tuning, ontic structural realism, multiverse,   philosophy of physics"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.20076012",
+              "relation": "cites",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.19984246",
+              "relation": "cites",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.20075926",
+              "relation": "cites",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.20076966",
+              "relation": "cites",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.20062462",
+              "relation": "cites",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.19978197",
+              "relation": "cites",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.19978310",
+              "relation": "cites",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.19986153",
+              "relation": "cites",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            }
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "imprint": {
+            "place": "Hobe Sound"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 1,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "19986153"
+                }
+              }
+            ]
+          }
+        },
+        "title": "The Configurable Universe: Fundamental Constants as Chamber Invariants in Twistor Configuration Geometry",
+        "links": {
+          "self": "https://zenodo.org/api/records/20077307",
+          "self_html": "https://zenodo.org/records/20077307",
+          "preview_html": "https://zenodo.org/records/20077307?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20077307",
+          "self_doi": "https://doi.org/10.5281/zenodo.20077307",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20077307",
+          "reserve_doi": "https://zenodo.org/api/records/20077307/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/19986153",
+          "parent_html": "https://zenodo.org/records/19986153",
+          "parent_doi": "https://doi.org/10.5281/zenodo.19986153",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19986153",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20077307/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20077307/sequence/default",
+          "files": "https://zenodo.org/api/records/20077307/files",
+          "media_files": "https://zenodo.org/api/records/20077307/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:20077307:configurable_universe.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:20077307:configurable_universe.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:20077307:configurable_universe.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:20077307:configurable_universe.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:20077307:configurable_universe.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:20077307:configurable_universe.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/20077307/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20077307/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20077307/versions/latest",
+          "latest_html": "https://zenodo.org/records/20077307/latest",
+          "versions": "https://zenodo.org/api/records/20077307/versions",
+          "draft": "https://zenodo.org/api/records/20077307/draft",
+          "access_links": "https://zenodo.org/api/records/20077307/access/links",
+          "access_grants": "https://zenodo.org/api/records/20077307/access/grants",
+          "access_users": "https://zenodo.org/api/records/20077307/access/users",
+          "access_request": "https://zenodo.org/api/records/20077307/access/request",
+          "access": "https://zenodo.org/api/records/20077307/access",
+          "communities": "https://zenodo.org/api/records/20077307/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20077307/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20077307/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20077307/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20077307/quota-increase",
+          "requests": "https://zenodo.org/api/records/20077307/requests"
+        },
+        "updated": "2026-05-08T01:49:11.735722+00:00",
+        "recid": "20077307",
+        "revision": 4,
+        "files": [
+          {
+            "id": "ecf1f820-51c0-49e5-b25a-ee27c46f052b",
+            "key": "configurable_universe.pdf",
+            "size": 278079,
+            "checksum": "md5:dc840662e5a55c367bdecd4a0a303c51",
+            "links": {
+              "self": "https://zenodo.org/api/records/20077307/files/configurable_universe.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1606733"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 25,
+          "unique_downloads": 24,
+          "views": 58,
+          "unique_views": 57,
+          "version_downloads": 13,
+          "version_unique_downloads": 13,
+          "version_unique_views": 30,
+          "version_views": 31
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2025-05-15T17:02:41.306652+00:00",
+        "modified": "2025-05-15T17:02:41.580777+00:00",
+        "id": 15426443,
+        "conceptrecid": "15426442",
+        "doi": "10.5281/zenodo.15426443",
+        "conceptdoi": "10.5281/zenodo.15426442",
+        "doi_url": "https://doi.org/10.5281/zenodo.15426443",
+        "metadata": {
+          "title": "A Closed-Form Derivation of the Fine-Structure  Constant from U(1) Configuration Space Geometry",
+          "doi": "10.5281/zenodo.15426443",
+          "publication_date": "2025-05-15",
+          "description": "<p>We present a first-principles derivation of the electromagnetic fine-structure con<br>stant, &alpha;, based solely on the intrinsic geometry of a minimal U(1) configuration space.<br>&nbsp;By computing the ratio of canonical volume to boundary measure in a five-dimensional<br>&nbsp;Euclidean ball bounded by a four-sphere, and applying a rotational normalization fac<br>tor arising from angular mode structure, we derive the expression:&nbsp;</p>\n<p>&alpha; = (1 / 4&pi;&sup2;) &times; sqrt(3&radic;&pi; / 64) &asymp;0.00729735256,<br>&nbsp;which matches the experimentally observed low-energy value of &alpha; to better than seven<br>&nbsp;decimal places:<br>&nbsp;&alpha;&minus;1 &asymp; 137.035999084.</p>\n<p>&nbsp;The derivation requires no empirical inputs, unit-dependent quantities, or free parame<br>ters. It yields a dimensionless, closed-form constant directly from geometric structure.<br>&nbsp;We interpret this result as the natural boundary condition for renormalization group<br>&nbsp;flow in quantum electrodynamics and show that it propagates through derived physical<br>&nbsp;constants, including the Bohr radius and Compton wavelength, without contradiction.<br>&nbsp;The construction is fully non-circular, dimensionally pure, and predictive. This trans<br>forms &alpha; from an empirical parameter into a geometric invariant.<br>&nbsp;Dirac argued that unexplained numerical coincidences likely signaled incomplete<br>&nbsp;theory, and that fundamental dimensionless constants should ultimately be derivable<br>&nbsp;from first principles. This work provides a resolution based entirely on configuration<br>&nbsp;geometry.<br><br><strong>Keywords:</strong><br>fine-structure constant, alpha, fundamental constants, compact geometry, U(1) symmetry, quantum electrodynamics, configuration space, geometric derivation, renormalization, structural physics, dimensionless coupling, theoretical physics, metrology, field theory, symmetry projection</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Murphy, Andrew J",
+              "affiliation": null
+            }
+          ],
+          "keywords": [
+            "alpha",
+            "fine structure constant",
+            "U(1)",
+            "fundamental constants",
+            "compact geometry",
+            "U(1) symmetry",
+            "QED",
+            "quantum electrodynamics",
+            "renormalization",
+            "renormalisation",
+            "structural physics",
+            "coupling",
+            "dimensionless coupling",
+            "quantum metrology",
+            "field theory",
+            "symmetry projection",
+            "abelian",
+            "alpha",
+            "spinor",
+            "spinor-gauge",
+            "gauge"
+          ],
+          "dates": [
+            {
+              "type": "submitted",
+              "description": "A Closed-Form Derivation of the Fine-Structure  Constant from U(1) Configuration Space Geometry v5.3"
+            }
+          ],
+          "version": "1 (Zenodo)",
+          "resource_type": {
+            "title": "Peer review",
+            "type": "publication",
+            "subtype": "peerreview"
+          },
+          "license": {
+            "id": "cc-by-sa-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "15426442"
+                }
+              }
+            ]
+          }
+        },
+        "title": "A Closed-Form Derivation of the Fine-Structure  Constant from U(1) Configuration Space Geometry",
+        "links": {
+          "self": "https://zenodo.org/api/records/15426443",
+          "self_html": "https://zenodo.org/records/15426443",
+          "preview_html": "https://zenodo.org/records/15426443?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.15426443",
+          "self_doi": "https://doi.org/10.5281/zenodo.15426443",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15426443",
+          "reserve_doi": "https://zenodo.org/api/records/15426443/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/15426442",
+          "parent_html": "https://zenodo.org/records/15426442",
+          "parent_doi": "https://doi.org/10.5281/zenodo.15426442",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.15426442",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:15426443/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:15426443/sequence/default",
+          "files": "https://zenodo.org/api/records/15426443/files",
+          "media_files": "https://zenodo.org/api/records/15426443/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:15426443:Closed-Form%20Derivation%20Fine-Structure%20Constant%20alpha%20from%20U1%20Configuration%20Space%20Geometry%20-%20A%20J%20Murphy%20v5.3%202025.05.15.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:15426443:Closed-Form%20Derivation%20Fine-Structure%20Constant%20alpha%20from%20U1%20Configuration%20Space%20Geometry%20-%20A%20J%20Murphy%20v5.3%202025.05.15.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:15426443:Closed-Form%20Derivation%20Fine-Structure%20Constant%20alpha%20from%20U1%20Configuration%20Space%20Geometry%20-%20A%20J%20Murphy%20v5.3%202025.05.15.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:15426443:Closed-Form%20Derivation%20Fine-Structure%20Constant%20alpha%20from%20U1%20Configuration%20Space%20Geometry%20-%20A%20J%20Murphy%20v5.3%202025.05.15.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:15426443:Closed-Form%20Derivation%20Fine-Structure%20Constant%20alpha%20from%20U1%20Configuration%20Space%20Geometry%20-%20A%20J%20Murphy%20v5.3%202025.05.15.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:15426443:Closed-Form%20Derivation%20Fine-Structure%20Constant%20alpha%20from%20U1%20Configuration%20Space%20Geometry%20-%20A%20J%20Murphy%20v5.3%202025.05.15.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/15426443/files-archive",
+          "archive_media": "https://zenodo.org/api/records/15426443/media-files-archive",
+          "latest": "https://zenodo.org/api/records/15426443/versions/latest",
+          "latest_html": "https://zenodo.org/records/15426443/latest",
+          "versions": "https://zenodo.org/api/records/15426443/versions",
+          "draft": "https://zenodo.org/api/records/15426443/draft",
+          "access_links": "https://zenodo.org/api/records/15426443/access/links",
+          "access_grants": "https://zenodo.org/api/records/15426443/access/grants",
+          "access_users": "https://zenodo.org/api/records/15426443/access/users",
+          "access_request": "https://zenodo.org/api/records/15426443/access/request",
+          "access": "https://zenodo.org/api/records/15426443/access",
+          "communities": "https://zenodo.org/api/records/15426443/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/15426443/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/15426443/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/15426443/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/15426443/quota-increase",
+          "requests": "https://zenodo.org/api/records/15426443/requests"
+        },
+        "updated": "2025-05-15T17:02:41.580777+00:00",
+        "recid": "15426443",
+        "revision": 4,
+        "files": [
+          {
+            "id": "3c46a6e8-d7cd-45be-b4d9-9da317927a2b",
+            "key": "Closed-Form Derivation Fine-Structure Constant alpha from U1 Configuration Space Geometry - A J Murphy v5.3 2025.05.15.pdf",
+            "size": 341731,
+            "checksum": "md5:86297322b4a74307ec0762b9c435d7cd",
+            "links": {
+              "self": "https://zenodo.org/api/records/15426443/files/Closed-Form%20Derivation%20Fine-Structure%20Constant%20alpha%20from%20U1%20Configuration%20Space%20Geometry%20-%20A%20J%20Murphy%20v5.3%202025.05.15.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1315687"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 50,
+          "unique_downloads": 41,
+          "views": 87,
+          "unique_views": 83,
+          "version_downloads": 50,
+          "version_unique_downloads": 41,
+          "version_unique_views": 83,
+          "version_views": 87
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2020-02-28T06:53:35.377489+00:00",
+        "modified": "2020-02-29T07:21:01.833593+00:00",
+        "id": 3690495,
+        "conceptrecid": "3690494",
+        "doi": "10.5281/zenodo.3690495",
+        "conceptdoi": "10.5281/zenodo.3690494",
+        "doi_url": "https://doi.org/10.5281/zenodo.3690495",
+        "metadata": {
+          "title": "SmartCom XML Scheme Definition (XSD) for a Machine-readable Communication of Fundamental Constants in Metrology",
+          "doi": "10.5281/zenodo.3690495",
+          "publication_date": "2020-02-28",
+          "description": "<p>The XSD defines a data structure for an unambiguous, easy-to-use, safe and uniform exchange of fundamental physical constants and mathematical constants in a machine-readable data format. The data elements for constants are defined in the Digital System of Units (D-SI) metadata model from the EMPIR project 17IND02 SmartCom. The development of the data structure was based on an own analysis of minimum requirement for transfering the data of fundamental physical constants &quot;as are&quot; provided by CODATA into a machine-readable form. Furthermore, the considerations for the transformation comprise traceability to the original CODATA values.</p>\n\n<p>The availability of machine-readable data of fundamental physical constants that can easy be accessed by software and that are traceable to a international accepted definition is essential for various areas of metrology where the International System of Units (SI) is of key-importance.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Hutzschenreuter, Daniel",
+              "affiliation": "Physikalisch-Technische Bundesanstalt, 38116 Braunschweig, Germany",
+              "orcid": "0000-0002-9095-0063"
+            },
+            {
+              "name": "Weber, Henrike",
+              "affiliation": "Physikalisch-Technische Bundesanstalt, 38116 Braunschweig, Germany"
+            },
+            {
+              "name": "H\u00e4rtig, Frank",
+              "affiliation": "Physikalisch-Technische Bundesanstalt, 38116 Braunschweig, Germany"
+            },
+            {
+              "name": "Wiedenh\u00f6fer, Thomas",
+              "affiliation": "Physikalisch-Technische Bundesanstalt, 38116 Braunschweig, Germany"
+            }
+          ],
+          "keywords": [
+            "Digital SI (D-SI)",
+            "IoT-communication",
+            "metrology data",
+            "SmartCom digital exchange format",
+            "XSD",
+            "IoT-networking",
+            "data communication",
+            "CODATA"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.3689263",
+              "relation": "isSupplementTo",
+              "resource_type": "other",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.3688468",
+              "relation": "isSupplementTo",
+              "resource_type": "other",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.3688428",
+              "relation": "isSupplementTo",
+              "resource_type": "publication-other",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.3366902",
+              "relation": "isPartOf",
+              "resource_type": "other",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.3522631",
+              "relation": "isDocumentedBy",
+              "resource_type": "publication-deliverable",
+              "scheme": "doi"
+            }
+          ],
+          "version": "1.0",
+          "references": [
+            "Web ressource XML scheme for fundamental constants: https://www.ptb.de/si/codata/codata.xsd"
+          ],
+          "resource_type": {
+            "title": "Dataset",
+            "type": "dataset"
+          },
+          "license": {
+            "id": "other-at"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "3690494"
+                }
+              }
+            ]
+          },
+          "notes": "The development of the unified meta data format for the exchange of measurement data in ICT applications and its implementation using XML is part of the research project EMPIR 17IND02 (title: SmartCom). This project has received funding from the EMPIR programme co-financed by the Participating States and from the European Union's Horizon 2020 research and innovation programme."
+        },
+        "title": "SmartCom XML Scheme Definition (XSD) for a Machine-readable Communication of Fundamental Constants in Metrology",
+        "links": {
+          "self": "https://zenodo.org/api/records/3690495",
+          "self_html": "https://zenodo.org/records/3690495",
+          "preview_html": "https://zenodo.org/records/3690495?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.3690495",
+          "self_doi": "https://doi.org/10.5281/zenodo.3690495",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.3690495",
+          "reserve_doi": "https://zenodo.org/api/records/3690495/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/3690494",
+          "parent_html": "https://zenodo.org/records/3690494",
+          "parent_doi": "https://doi.org/10.5281/zenodo.3690494",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.3690494",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:3690495/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:3690495/sequence/default",
+          "files": "https://zenodo.org/api/records/3690495/files",
+          "media_files": "https://zenodo.org/api/records/3690495/media-files",
+          "archive": "https://zenodo.org/api/records/3690495/files-archive",
+          "archive_media": "https://zenodo.org/api/records/3690495/media-files-archive",
+          "latest": "https://zenodo.org/api/records/3690495/versions/latest",
+          "latest_html": "https://zenodo.org/records/3690495/latest",
+          "versions": "https://zenodo.org/api/records/3690495/versions",
+          "draft": "https://zenodo.org/api/records/3690495/draft",
+          "access_links": "https://zenodo.org/api/records/3690495/access/links",
+          "access_grants": "https://zenodo.org/api/records/3690495/access/grants",
+          "access_users": "https://zenodo.org/api/records/3690495/access/users",
+          "access_request": "https://zenodo.org/api/records/3690495/access/request",
+          "access": "https://zenodo.org/api/records/3690495/access",
+          "communities": "https://zenodo.org/api/records/3690495/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/3690495/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/3690495/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/3690495/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/3690495/quota-increase",
+          "requests": "https://zenodo.org/api/records/3690495/requests"
+        },
+        "updated": "2020-02-29T07:21:01.833593+00:00",
+        "recid": "3690495",
+        "revision": 2,
+        "files": [
+          {
+            "id": "1e3cb734-20a1-4cdd-ac3a-e38a402d2d31",
+            "key": "LicenceXSD.txt",
+            "size": 2090,
+            "checksum": "md5:82e6372ac991c5288274056922ee78ff",
+            "links": {
+              "self": "https://zenodo.org/api/records/3690495/files/LicenceXSD.txt/content"
+            }
+          },
+          {
+            "id": "ca395892-0f04-45c8-8b44-1c7ef07ae0f4",
+            "key": "codata.xsd",
+            "size": 3852,
+            "checksum": "md5:9b3143948fcd678a48b875726ff497d4",
+            "links": {
+              "self": "https://zenodo.org/api/records/3690495/files/codata.xsd/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "74499"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 205,
+          "unique_downloads": 187,
+          "views": 609,
+          "unique_views": 575,
+          "version_downloads": 204,
+          "version_unique_downloads": 186,
+          "version_unique_views": 574,
+          "version_views": 608
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-06-26T22:14:46.839623+00:00",
+        "modified": "2026-06-26T22:14:47.249120+00:00",
+        "id": 20943644,
+        "conceptrecid": "19743894",
+        "doi": "10.5281/zenodo.20943644",
+        "conceptdoi": "10.5281/zenodo.19743894",
+        "doi_url": "https://doi.org/10.5281/zenodo.20943644",
+        "metadata": {
+          "title": "DAEDALUS: A Constraint-Filtered Dimensional-Analysis Engine for Discovering Relations Among Fundamental Constants",
+          "doi": "10.5281/zenodo.20943644",
+          "publication_date": "2026-06-26",
+          "description": "<p>We describe DAEDALUS (Dimensional Analysis Engine for Discovering Algebraic Links in Underlying Symmetries), a systematic computational tool for searching for polynomial relations among fundamental physical constants. The engine enumerates all dimensionless combinations of a given set of constants and tests them against a dictionary of target values. We identify a fundamental obstacle &mdash; the saturation problem &mdash; in which naive dimensional analysis produces hundreds of thousands of apparent \"coincidences\" that are statistically inevitable rather than physically meaningful. To address this, we introduce a two-level filter: (1) a numerical filter that restricts the search to physically privileged targets and limits the number of constants per relation, and (2) a structural filter that requires surviving candidates to have integer exponents, physical sign structure, and standard prefactors consistent with quantum field theory. Applied to a 17-constant database spanning electromagnetism, gravity, and particle physics, the engine produces 307,900 raw hits but only 0&ndash;3 privileged-target hits per 7-constant subset after filtering. We report the engine's track record: four published relations, six systematic null results, and a clear map of where dimensional analysis succeeds and fails. We calibrate the null-density scale of the form-specific permutation test by running an analogous (simpler) version on two textbook-accepted dimensional relations (the Rydberg constant R_&infin; = &alpha;&sup2; m_e c / (4&pi; \u210f) and the Bohr radius a_0 = \u210f/(&alpha; m_e c)), obtaining form-specific rates of 1.0% and 0.5%, comparable to the 1.0% rate found independently for the cosmological-constant formula. A direct dictionary-density estimate for (4&pi;)^q targets under a two-decade scramble gives a baseline of order 1&ndash;2%, so these controls are best read as a null-density calibration of the form-specific test rather than as independent evidential lift for any individual relation. The structural filter is specified algorithmically, but we emphasize that it encodes physical priors that are themselves choices &mdash; different priors would yield different survivors.</p>\n<p>In the previous version (May 2026), we extended the look-elsewhere analysis from the single-relation case to the multi-relation case (&sect;7), providing trial-space cardinality estimates under three formula-grammar levels, an independence reduction of the broader empirical body to ~5&ndash;6 statistically independent matches, three procedural safeguards that pre-register the strict grammar, and Bayes-factor calculations. The audit refines the program's headline claim and converts the informal look-elsewhere narrative into a formal pre-registration mechanism. In v3 (June 2026), we add &sect;5.3 calibration on accepted relations (Rydberg, Bohr, and a numerical-density check on 1/&alpha; &asymp; &pi; + &pi;&sup2; + 4&pi;&sup3;), establishing that the form-specific 1% permutation rate is consistent with a directly computed (4&pi;)^q dictionary-density baseline rather than sector-distinguished &mdash; framed as a null-density calibration that guards against overreading the rate as procedure-level distinction.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Zhang, Qingchun",
+              "affiliation": "Independent Researcher",
+              "orcid": "0009-0008-0389-1474"
+            }
+          ],
+          "keywords": [
+            "dimensional analysis, fundamental constants, numerology,   saturation problem, structural filter, look-elsewhere effect,   permutation test, false-positive rate, fine-structure constant,   cosmological constant, gravitational coupling, baryon-to-photon   ratio, electron Yukawa, computational tools,   Bayesian model comparison, pre-registration, multi-relation audit,   null-density calibration"
+          ],
+          "related_identifiers": [
+            {
+              "identifier": "10.5281/zenodo.19562043",
+              "relation": "isSupplementedBy",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.19644471",
+              "relation": "isSupplementedBy",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.19643297",
+              "relation": "isSupplementedBy",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.19665001",
+              "relation": "isSupplementedBy",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.19711054",
+              "relation": "isSupplementedBy",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.19519114",
+              "relation": "isSupplementedBy",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.19984493",
+              "relation": "isReferencedBy",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.19984246",
+              "relation": "isReferencedBy",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.19986154",
+              "relation": "isReferencedBy",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            },
+            {
+              "identifier": "10.5281/zenodo.19990779",
+              "relation": "isReferencedBy",
+              "resource_type": "publication-preprint",
+              "scheme": "doi"
+            }
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 3,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "19743894"
+                }
+              }
+            ]
+          }
+        },
+        "title": "DAEDALUS: A Constraint-Filtered Dimensional-Analysis Engine for Discovering Relations Among Fundamental Constants",
+        "links": {
+          "self": "https://zenodo.org/api/records/20943644",
+          "self_html": "https://zenodo.org/records/20943644",
+          "preview_html": "https://zenodo.org/records/20943644?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20943644",
+          "self_doi": "https://doi.org/10.5281/zenodo.20943644",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20943644",
+          "reserve_doi": "https://zenodo.org/api/records/20943644/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/19743894",
+          "parent_html": "https://zenodo.org/records/19743894",
+          "parent_doi": "https://doi.org/10.5281/zenodo.19743894",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19743894",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20943644/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20943644/sequence/default",
+          "files": "https://zenodo.org/api/records/20943644/files",
+          "media_files": "https://zenodo.org/api/records/20943644/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:20943644:daedalus_methodology.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:20943644:daedalus_methodology.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:20943644:daedalus_methodology.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:20943644:daedalus_methodology.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:20943644:daedalus_methodology.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:20943644:daedalus_methodology.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/20943644/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20943644/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20943644/versions/latest",
+          "latest_html": "https://zenodo.org/records/20943644/latest",
+          "versions": "https://zenodo.org/api/records/20943644/versions",
+          "draft": "https://zenodo.org/api/records/20943644/draft",
+          "access_links": "https://zenodo.org/api/records/20943644/access/links",
+          "access_grants": "https://zenodo.org/api/records/20943644/access/grants",
+          "access_users": "https://zenodo.org/api/records/20943644/access/users",
+          "access_request": "https://zenodo.org/api/records/20943644/access/request",
+          "access": "https://zenodo.org/api/records/20943644/access",
+          "communities": "https://zenodo.org/api/records/20943644/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20943644/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20943644/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20943644/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20943644/quota-increase",
+          "requests": "https://zenodo.org/api/records/20943644/requests"
+        },
+        "updated": "2026-06-26T22:14:47.249120+00:00",
+        "recid": "20943644",
+        "revision": 4,
+        "files": [
+          {
+            "id": "79838258-0139-4cdd-b9cb-56d75fbb4b21",
+            "key": "daedalus_methodology.pdf",
+            "size": 324741,
+            "checksum": "md5:a4c2397700f7393db3eff5712e72e9a4",
+            "links": {
+              "self": "https://zenodo.org/api/records/20943644/files/daedalus_methodology.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1606733"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 58,
+          "unique_downloads": 49,
+          "views": 98,
+          "unique_views": 91,
+          "version_downloads": 4,
+          "version_unique_downloads": 4,
+          "version_unique_views": 14,
+          "version_views": 15
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-06-24T13:16:16.157184+00:00",
+        "modified": "2026-06-24T13:16:16.542986+00:00",
+        "id": 20829803,
+        "conceptrecid": "20829802",
+        "doi": "10.5281/zenodo.20829803",
+        "conceptdoi": "10.5281/zenodo.20829802",
+        "doi_url": "https://doi.org/10.5281/zenodo.20829803",
+        "metadata": {
+          "title": "LATTICE GEOMETRY AND FUNDAMENTAL CONSTANTS",
+          "doi": "10.5281/zenodo.20829803",
+          "publication_date": "2026-06-24",
+          "description": "<p>We present a structural pattern connecting the geometry of the DSM-861 vorton latticea triangular simplicial 3-torus of N = 861 nodes (T41), anchored at the maximal<br>class-number-one Heegner discriminant D = &minus;163 with 72-fold symmetryto several fundamental constants of physics and cosmology.</p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Aksman, Michael",
+              "affiliation": null
+            }
+          ],
+          "dates": [
+            {
+              "type": "available"
+            }
+          ],
+          "resource_type": {
+            "title": "Poster",
+            "type": "poster"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "20829802"
+                }
+              }
+            ]
+          }
+        },
+        "title": "LATTICE GEOMETRY AND FUNDAMENTAL CONSTANTS",
+        "links": {
+          "self": "https://zenodo.org/api/records/20829803",
+          "self_html": "https://zenodo.org/records/20829803",
+          "preview_html": "https://zenodo.org/records/20829803?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.20829803",
+          "self_doi": "https://doi.org/10.5281/zenodo.20829803",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20829803",
+          "reserve_doi": "https://zenodo.org/api/records/20829803/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/20829802",
+          "parent_html": "https://zenodo.org/records/20829802",
+          "parent_doi": "https://doi.org/10.5281/zenodo.20829802",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.20829802",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:20829803/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:20829803/sequence/default",
+          "files": "https://zenodo.org/api/records/20829803/files",
+          "media_files": "https://zenodo.org/api/records/20829803/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:20829803:Lattice_Geometry_and_Fundamental_Constants.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:20829803:Lattice_Geometry_and_Fundamental_Constants.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:20829803:Lattice_Geometry_and_Fundamental_Constants.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:20829803:Lattice_Geometry_and_Fundamental_Constants.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:20829803:Lattice_Geometry_and_Fundamental_Constants.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:20829803:Lattice_Geometry_and_Fundamental_Constants.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/20829803/files-archive",
+          "archive_media": "https://zenodo.org/api/records/20829803/media-files-archive",
+          "latest": "https://zenodo.org/api/records/20829803/versions/latest",
+          "latest_html": "https://zenodo.org/records/20829803/latest",
+          "versions": "https://zenodo.org/api/records/20829803/versions",
+          "draft": "https://zenodo.org/api/records/20829803/draft",
+          "access_links": "https://zenodo.org/api/records/20829803/access/links",
+          "access_grants": "https://zenodo.org/api/records/20829803/access/grants",
+          "access_users": "https://zenodo.org/api/records/20829803/access/users",
+          "access_request": "https://zenodo.org/api/records/20829803/access/request",
+          "access": "https://zenodo.org/api/records/20829803/access",
+          "communities": "https://zenodo.org/api/records/20829803/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/20829803/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/20829803/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/20829803/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/20829803/quota-increase",
+          "requests": "https://zenodo.org/api/records/20829803/requests"
+        },
+        "updated": "2026-06-24T13:16:16.542986+00:00",
+        "recid": "20829803",
+        "revision": 4,
+        "files": [
+          {
+            "id": "141a41af-cb40-4ea5-9ecd-1ed33ce6394e",
+            "key": "Lattice_Geometry_and_Fundamental_Constants.pdf",
+            "size": 230732,
+            "checksum": "md5:0b2f46747162d44f1112d04e8d616ddc",
+            "links": {
+              "self": "https://zenodo.org/api/records/20829803/files/Lattice_Geometry_and_Fundamental_Constants.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "1649934"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 3,
+          "unique_downloads": 3,
+          "views": 10,
+          "unique_views": 10,
+          "version_downloads": 3,
+          "version_unique_downloads": 3,
+          "version_unique_views": 10,
+          "version_views": 10
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2018-06-04T09:20:40.558061+00:00",
+        "modified": "2024-08-02T15:29:26.758059+00:00",
+        "id": 1260637,
+        "conceptrecid": "1260636",
+        "doi": "10.1109/19.192265",
+        "doi_url": "https://doi.org/10.1109/19.192265",
+        "metadata": {
+          "title": "Basic standards and fundamental constants",
+          "doi": "10.1109/19.192265",
+          "publication_date": "1989-04-01",
+          "description": "n/a",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Taylor, B. N.",
+              "affiliation": null
+            }
+          ],
+          "resource_type": {
+            "title": "Journal article",
+            "type": "publication",
+            "subtype": "article"
+          },
+          "license": {
+            "id": "cc-zero"
+          },
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "1260636"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Basic standards and fundamental constants",
+        "links": {
+          "self": "https://zenodo.org/api/records/1260637",
+          "self_html": "https://zenodo.org/records/1260637",
+          "preview_html": "https://zenodo.org/records/1260637?preview=1",
+          "doi": "https://doi.org/10.1109/19.192265",
+          "self_doi": "https://doi.org/10.1109/19.192265",
+          "self_doi_html": "https://zenodo.org/doi/10.1109/19.192265",
+          "reserve_doi": "https://zenodo.org/api/records/1260637/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/1260636",
+          "parent_html": "https://zenodo.org/records/1260636",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:1260637/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:1260637/sequence/default",
+          "files": "https://zenodo.org/api/records/1260637/files",
+          "media_files": "https://zenodo.org/api/records/1260637/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:1260637:article.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:1260637:article.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:1260637:article.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:1260637:article.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:1260637:article.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:1260637:article.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/1260637/files-archive",
+          "archive_media": "https://zenodo.org/api/records/1260637/media-files-archive",
+          "latest": "https://zenodo.org/api/records/1260637/versions/latest",
+          "latest_html": "https://zenodo.org/records/1260637/latest",
+          "versions": "https://zenodo.org/api/records/1260637/versions",
+          "draft": "https://zenodo.org/api/records/1260637/draft",
+          "access_links": "https://zenodo.org/api/records/1260637/access/links",
+          "access_grants": "https://zenodo.org/api/records/1260637/access/grants",
+          "access_users": "https://zenodo.org/api/records/1260637/access/users",
+          "access_request": "https://zenodo.org/api/records/1260637/access/request",
+          "access": "https://zenodo.org/api/records/1260637/access",
+          "communities": "https://zenodo.org/api/records/1260637/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/1260637/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/1260637/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/1260637/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/1260637/quota-increase",
+          "requests": "https://zenodo.org/api/records/1260637/requests"
+        },
+        "updated": "2024-08-02T15:29:26.758059+00:00",
+        "recid": "1260637",
+        "revision": 9,
+        "files": [
+          {
+            "id": "2a3913f2-ceee-4cd0-94fa-03013b43aaf1",
+            "key": "article.pdf",
+            "size": 322982,
+            "checksum": "md5:a58dd5f9a2974282308343732e827e79",
+            "links": {
+              "self": "https://zenodo.org/api/records/1260637/files/article.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "13380"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 183,
+          "unique_downloads": 180,
+          "views": 133,
+          "unique_views": 132,
+          "version_downloads": 183,
+          "version_unique_downloads": 180,
+          "version_unique_views": 132,
+          "version_views": 133
+        },
+        "state": "done",
+        "submitted": true
+      },
+      {
+        "created": "2026-03-25T20:31:52.320326+00:00",
+        "modified": "2026-03-25T20:31:52.655173+00:00",
+        "id": 19225917,
+        "conceptrecid": "19225916",
+        "doi": "10.5281/zenodo.19225917",
+        "conceptdoi": "10.5281/zenodo.19225916",
+        "doi_url": "https://doi.org/10.5281/zenodo.19225917",
+        "metadata": {
+          "title": "Operator\u2013Entropic Emergence of Einstein\u2013Maxwell Dynamics and Fundamental Constants from a Diagrammatic Quantum Hilbert Space",
+          "doi": "10.5281/zenodo.19225917",
+          "publication_date": "2026-03-25",
+          "description": "<p><span lang=\"EN-AU\">We develop a mathematically structured operator&ndash;statistical framework in which spacetime geometry, gauge fields, and fundamental constants emerge from a microscopic quantum system defined on a diagrammatic Hilbert space. The fundamental structure is encoded in a complex operator&nbsp;</span><span lang=\"EN-US\"></span><span lang=\"EN-AU\">, whose Hermitian components represent mass&ndash;energy and charge degrees of freedom. Macroscopic observables arise through entropy-maximizing coarse-graining of a constrained Gibbs state. Within this framework, Einstein&rsquo;s field equations and Maxwell&rsquo;s equations are derived as emergent equations of state. Beyond reproducing classical dynamics, the theory provides a unified perspective on several outstanding problems, including black-hole information, the origin of the fine-structure constant, and the emergence of time. Hidden spectral sectors generate effective dark matter distributions, while residual entropic contributions produce a cosmological constant. The framework yields a well-defined effective field theory limit and predicts small, testable deviations arising from operator noncommutativity. This establishes a concrete route toward an emergent formulation of quantum gravity grounded in operator algebra and statistical mechanics.</span></p>",
+          "access_right": "open",
+          "creators": [
+            {
+              "name": "Arneth, Borros",
+              "affiliation": "Philipps-Universit\u00e4t Marburg"
+            }
+          ],
+          "resource_type": {
+            "title": "Preprint",
+            "type": "publication",
+            "subtype": "preprint"
+          },
+          "license": {
+            "id": "cc-by-4.0"
+          },
+          "communities": [
+            {
+              "id": "diagram-hilbert"
+            }
+          ],
+          "relations": {
+            "version": [
+              {
+                "index": 0,
+                "is_last": true,
+                "parent": {
+                  "pid_type": "recid",
+                  "pid_value": "19225916"
+                }
+              }
+            ]
+          }
+        },
+        "title": "Operator\u2013Entropic Emergence of Einstein\u2013Maxwell Dynamics and Fundamental Constants from a Diagrammatic Quantum Hilbert Space",
+        "links": {
+          "self": "https://zenodo.org/api/records/19225917",
+          "self_html": "https://zenodo.org/records/19225917",
+          "preview_html": "https://zenodo.org/records/19225917?preview=1",
+          "doi": "https://doi.org/10.5281/zenodo.19225917",
+          "self_doi": "https://doi.org/10.5281/zenodo.19225917",
+          "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19225917",
+          "reserve_doi": "https://zenodo.org/api/records/19225917/draft/pids/doi",
+          "parent": "https://zenodo.org/api/records/19225916",
+          "parent_html": "https://zenodo.org/records/19225916",
+          "parent_doi": "https://doi.org/10.5281/zenodo.19225916",
+          "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19225916",
+          "self_iiif_manifest": "https://zenodo.org/api/iiif/record:19225917/manifest",
+          "self_iiif_sequence": "https://zenodo.org/api/iiif/record:19225917/sequence/default",
+          "files": "https://zenodo.org/api/records/19225917/files",
+          "media_files": "https://zenodo.org/api/records/19225917/media-files",
+          "thumbnails": {
+            "10": "https://zenodo.org/api/iiif/record:19225917:Arneth-2-25-3-26.pdf/full/%5E10,/0/default.jpg",
+            "50": "https://zenodo.org/api/iiif/record:19225917:Arneth-2-25-3-26.pdf/full/%5E50,/0/default.jpg",
+            "100": "https://zenodo.org/api/iiif/record:19225917:Arneth-2-25-3-26.pdf/full/%5E100,/0/default.jpg",
+            "250": "https://zenodo.org/api/iiif/record:19225917:Arneth-2-25-3-26.pdf/full/%5E250,/0/default.jpg",
+            "750": "https://zenodo.org/api/iiif/record:19225917:Arneth-2-25-3-26.pdf/full/%5E750,/0/default.jpg",
+            "1200": "https://zenodo.org/api/iiif/record:19225917:Arneth-2-25-3-26.pdf/full/%5E1200,/0/default.jpg"
+          },
+          "archive": "https://zenodo.org/api/records/19225917/files-archive",
+          "archive_media": "https://zenodo.org/api/records/19225917/media-files-archive",
+          "latest": "https://zenodo.org/api/records/19225917/versions/latest",
+          "latest_html": "https://zenodo.org/records/19225917/latest",
+          "versions": "https://zenodo.org/api/records/19225917/versions",
+          "draft": "https://zenodo.org/api/records/19225917/draft",
+          "access_links": "https://zenodo.org/api/records/19225917/access/links",
+          "access_grants": "https://zenodo.org/api/records/19225917/access/grants",
+          "access_users": "https://zenodo.org/api/records/19225917/access/users",
+          "access_request": "https://zenodo.org/api/records/19225917/access/request",
+          "access": "https://zenodo.org/api/records/19225917/access",
+          "communities": "https://zenodo.org/api/records/19225917/communities",
+          "communities-suggestions": "https://zenodo.org/api/records/19225917/communities-suggestions",
+          "request_deletion": "https://zenodo.org/api/records/19225917/request-deletion",
+          "file_modification": "https://zenodo.org/api/records/19225917/file-modification",
+          "quota_increase": "https://zenodo.org/api/records/19225917/quota-increase",
+          "requests": "https://zenodo.org/api/records/19225917/requests"
+        },
+        "updated": "2026-03-25T20:31:52.655173+00:00",
+        "recid": "19225917",
+        "revision": 4,
+        "files": [
+          {
+            "id": "91c68ce8-9335-40ae-bea5-e9e89ffe76ec",
+            "key": "Arneth-2-25-3-26.pdf",
+            "size": 117568,
+            "checksum": "md5:eb5b9fe1000f3e9a375e2c417b8c026d",
+            "links": {
+              "self": "https://zenodo.org/api/records/19225917/files/Arneth-2-25-3-26.pdf/content"
+            }
+          }
+        ],
+        "swh": null,
+        "owners": [
+          {
+            "id": "551651"
+          }
+        ],
+        "status": "published",
+        "stats": {
+          "downloads": 11,
+          "unique_downloads": 10,
+          "views": 17,
+          "unique_views": 17,
+          "version_downloads": 11,
+          "version_unique_downloads": 10,
+          "version_unique_views": 17,
+          "version_views": 17
+        },
+        "state": "done",
+        "submitted": true
+      }
+    ],
+    "total": 43606
+  },
+  "aggregations": {
+    "publication_date": {
+      "buckets": [
+        {
+          "key": "2000",
+          "doc_count": 13,
+          "label": "2000",
+          "is_selected": false
+        },
+        {
+          "key": "2001",
+          "doc_count": 19,
+          "label": "2001",
+          "is_selected": false
+        },
+        {
+          "key": "2002",
+          "doc_count": 29,
+          "label": "2002",
+          "is_selected": false
+        },
+        {
+          "key": "2003",
+          "doc_count": 28,
+          "label": "2003",
+          "is_selected": false
+        },
+        {
+          "key": "2004",
+          "doc_count": 19,
+          "label": "2004",
+          "is_selected": false
+        },
+        {
+          "key": "2005",
+          "doc_count": 23,
+          "label": "2005",
+          "is_selected": false
+        },
+        {
+          "key": "2006",
+          "doc_count": 71,
+          "label": "2006",
+          "is_selected": false
+        },
+        {
+          "key": "2007",
+          "doc_count": 70,
+          "label": "2007",
+          "is_selected": false
+        },
+        {
+          "key": "2008",
+          "doc_count": 87,
+          "label": "2008",
+          "is_selected": false
+        },
+        {
+          "key": "2009",
+          "doc_count": 122,
+          "label": "2009",
+          "is_selected": false
+        },
+        {
+          "key": "2010",
+          "doc_count": 95,
+          "label": "2010",
+          "is_selected": false
+        },
+        {
+          "key": "2011",
+          "doc_count": 179,
+          "label": "2011",
+          "is_selected": false
+        },
+        {
+          "key": "2012",
+          "doc_count": 184,
+          "label": "2012",
+          "is_selected": false
+        },
+        {
+          "key": "2013",
+          "doc_count": 249,
+          "label": "2013",
+          "is_selected": false
+        },
+        {
+          "key": "2014",
+          "doc_count": 266,
+          "label": "2014",
+          "is_selected": false
+        },
+        {
+          "key": "2015",
+          "doc_count": 284,
+          "label": "2015",
+          "is_selected": false
+        },
+        {
+          "key": "2016",
+          "doc_count": 485,
+          "label": "2016",
+          "is_selected": false
+        },
+        {
+          "key": "2017",
+          "doc_count": 1168,
+          "label": "2017",
+          "is_selected": false
+        },
+        {
+          "key": "2018",
+          "doc_count": 827,
+          "label": "2018",
+          "is_selected": false
+        },
+        {
+          "key": "2019",
+          "doc_count": 1004,
+          "label": "2019",
+          "is_selected": false
+        },
+        {
+          "key": "2020",
+          "doc_count": 956,
+          "label": "2020",
+          "is_selected": false
+        },
+        {
+          "key": "2021",
+          "doc_count": 1262,
+          "label": "2021",
+          "is_selected": false
+        },
+        {
+          "key": "2022",
+          "doc_count": 1330,
+          "label": "2022",
+          "is_selected": false
+        },
+        {
+          "key": "2023",
+          "doc_count": 1905,
+          "label": "2023",
+          "is_selected": false
+        },
+        {
+          "key": "2024",
+          "doc_count": 2927,
+          "label": "2024",
+          "is_selected": false
+        },
+        {
+          "key": "2025",
+          "doc_count": 11185,
+          "label": "2025",
+          "is_selected": false
+        },
+        {
+          "key": "2026",
+          "doc_count": 18701,
+          "label": "2026",
+          "is_selected": false
+        }
+      ],
+      "label": "Publication date"
+    },
+    "access_status": {
+      "buckets": [
+        {
+          "key": "open",
+          "doc_count": 42185,
+          "label": "Open",
+          "is_selected": false
+        },
+        {
+          "key": "restricted",
+          "doc_count": 1292,
+          "label": "Restricted",
+          "is_selected": false
+        },
+        {
+          "key": "embargoed",
+          "doc_count": 129,
+          "label": "Embargoed",
+          "is_selected": false
+        }
+      ],
+      "label": "Access status"
+    },
+    "resource_type": {
+      "buckets": [
+        {
+          "key": "publication",
+          "doc_count": 39606,
+          "label": "Publication",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "publication-article",
+                "doc_count": 18709,
+                "label": "Journal article",
+                "is_selected": false
+              },
+              {
+                "key": "publication-preprint",
+                "doc_count": 11026,
+                "label": "Preprint",
+                "is_selected": false
+              },
+              {
+                "key": "publication-report",
+                "doc_count": 949,
+                "label": "Report",
+                "is_selected": false
+              },
+              {
+                "key": "publication-conferencepaper",
+                "doc_count": 841,
+                "label": "Conference paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-dissertation",
+                "doc_count": 764,
+                "label": "Thesis",
+                "is_selected": false
+              },
+              {
+                "key": "publication-workingpaper",
+                "doc_count": 562,
+                "label": "Working paper",
+                "is_selected": false
+              },
+              {
+                "key": "publication-journal",
+                "doc_count": 513,
+                "label": "Journal",
+                "is_selected": false
+              },
+              {
+                "key": "publication-book",
+                "doc_count": 484,
+                "label": "Book",
+                "is_selected": false
+              },
+              {
+                "key": "publication-other",
+                "doc_count": 398,
+                "label": "Other",
+                "is_selected": false
+              },
+              {
+                "key": "publication-section",
+                "doc_count": 271,
+                "label": "Book chapter",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "dataset",
+          "doc_count": 1611,
+          "label": "Dataset",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "software",
+          "doc_count": 729,
+          "label": "Software",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "software-computationalnotebook",
+                "doc_count": 48,
+                "label": "Computational notebook",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "other",
+          "doc_count": 341,
+          "label": "Other",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "image",
+          "doc_count": 318,
+          "label": "Image",
+          "is_selected": false,
+          "inner": {
+            "buckets": [
+              {
+                "key": "image-figure",
+                "doc_count": 227,
+                "label": "Figure",
+                "is_selected": false
+              },
+              {
+                "key": "image-diagram",
+                "doc_count": 16,
+                "label": "Diagram",
+                "is_selected": false
+              },
+              {
+                "key": "image-other",
+                "doc_count": 5,
+                "label": "Other",
+                "is_selected": false
+              },
+              {
+                "key": "image-drawing",
+                "doc_count": 3,
+                "label": "Drawing",
+                "is_selected": false
+              },
+              {
+                "key": "image-plot",
+                "doc_count": 3,
+                "label": "Plot",
+                "is_selected": false
+              }
+            ]
+          }
+        },
+        {
+          "key": "model",
+          "doc_count": 269,
+          "label": "Model",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "presentation",
+          "doc_count": 269,
+          "label": "Presentation",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "event",
+          "doc_count": 164,
+          "label": "Event",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "poster",
+          "doc_count": 124,
+          "label": "Poster",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        },
+        {
+          "key": "lesson",
+          "doc_count": 94,
+          "label": "Lesson",
+          "is_selected": false,
+          "inner": {
+            "buckets": []
+          }
+        }
+      ],
+      "label": "Resource types"
+    },
+    "subject": {
+      "buckets": [
+        {
+          "key": "Quantum physics",
+          "doc_count": 567,
+          "label": "Quantum physics",
+          "is_selected": false
+        },
+        {
+          "key": "The Trivedi Effect\u00ae",
+          "doc_count": 561,
+          "label": "The Trivedi Effect\u00ae",
+          "is_selected": false
+        },
+        {
+          "key": "Theoretical physics",
+          "doc_count": 540,
+          "label": "Theoretical physics",
+          "is_selected": false
+        },
+        {
+          "key": "Mathematical physics",
+          "doc_count": 495,
+          "label": "Mathematical physics",
+          "is_selected": false
+        },
+        {
+          "key": "Physics",
+          "doc_count": 460,
+          "label": "Physics",
+          "is_selected": false
+        },
+        {
+          "key": "Biodiversity",
+          "doc_count": 419,
+          "label": "Biodiversity",
+          "is_selected": false
+        },
+        {
+          "key": "Taxonomy",
+          "doc_count": 351,
+          "label": "Taxonomy",
+          "is_selected": false
+        },
+        {
+          "key": "Cosmology",
+          "doc_count": 344,
+          "label": "Cosmology",
+          "is_selected": false
+        },
+        {
+          "key": "Biofield Energy Healers",
+          "doc_count": 342,
+          "label": "Biofield Energy Healers",
+          "is_selected": false
+        },
+        {
+          "key": "Quantum Gravity",
+          "doc_count": 334,
+          "label": "Quantum Gravity",
+          "is_selected": false
+        }
+      ],
+      "label": "Subjects"
+    },
+    "file_type": {
+      "buckets": [
+        {
+          "key": "pdf",
+          "doc_count": 38022,
+          "label": "PDF",
+          "is_selected": false
+        },
+        {
+          "key": "zip",
+          "doc_count": 1951,
+          "label": "ZIP",
+          "is_selected": false
+        },
+        {
+          "key": "docx",
+          "doc_count": 1457,
+          "label": "DOCX",
+          "is_selected": false
+        },
+        {
+          "key": "tex",
+          "doc_count": 828,
+          "label": "TEX",
+          "is_selected": false
+        },
+        {
+          "key": "png",
+          "doc_count": 737,
+          "label": "PNG",
+          "is_selected": false
+        },
+        {
+          "key": "txt",
+          "doc_count": 704,
+          "label": "TXT",
+          "is_selected": false
+        },
+        {
+          "key": "md",
+          "doc_count": 612,
+          "label": "MD",
+          "is_selected": false
+        },
+        {
+          "key": "py",
+          "doc_count": 545,
+          "label": "PY",
+          "is_selected": false
+        },
+        {
+          "key": "jpg",
+          "doc_count": 488,
+          "label": "JPG",
+          "is_selected": false
+        },
+        {
+          "key": "html",
+          "doc_count": 366,
+          "label": "HTML",
+          "is_selected": false
+        }
+      ],
+      "label": "File type"
+    }
+  },
+  "links": {
+    "self": "https://zenodo.org/api/records?page=1&q=%22fundamental+constants%22+dimensionless+formulation&size=10&sort=bestmatch",
+    "next": "https://zenodo.org/api/records?page=2&q=%22fundamental+constants%22+dimensionless+formulation&size=10&sort=bestmatch"
+  }
+}

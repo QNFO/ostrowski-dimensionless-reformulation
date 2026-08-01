@@ -1,0 +1,366 @@
+{
+  "version": "6.9",
+  "hitCount": 533,
+  "nextCursorMark": "AoIIQKar3Sg1NTUxNzI3NA==",
+  "nextPageUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=dimensionless physics equations Planck units&cursorMark=AoIIQKar3Sg1NTUxNzI3NA==&resultType=lite&pageSize=10&format=json",
+  "request": {
+    "queryString": "dimensionless physics equations Planck units",
+    "resultType": "lite",
+    "cursorMark": "*",
+    "pageSize": 10,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "42072592",
+        "source": "MED",
+        "pmid": "42072592",
+        "pmcid": "PMC13115408",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13115408"
+          ]
+        },
+        "doi": "10.3390/e28040467",
+        "title": "The R\u00e9nyi Entropy and Entropic Cosmology.",
+        "authorString": "Kruglov SI.",
+        "journalTitle": "Entropy (Basel)",
+        "issue": "4",
+        "journalVolume": "28",
+        "pubYear": "2026",
+        "journalIssn": "1099-4300",
+        "pageInfo": "467",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "N",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2026-05-13",
+        "firstPublicationDate": "2026-04-20"
+      },
+      {
+        "id": "42187959",
+        "source": "MED",
+        "pmid": "42187959",
+        "pmcid": "PMC13205518",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13205518"
+          ]
+        },
+        "doi": "10.3390/e28050544",
+        "title": "A Complex Tension Origin for Dilaton Gravity: Jordan Stiffness and Logarithmic Einstein Dynamics.",
+        "authorString": "Vaillant M, Scott TC.",
+        "journalTitle": "Entropy (Basel)",
+        "issue": "5",
+        "journalVolume": "28",
+        "pubYear": "2026",
+        "journalIssn": "1099-4300",
+        "pageInfo": "544",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2026-05-27",
+        "firstPublicationDate": "2026-05-11"
+      },
+      {
+        "id": "41398155",
+        "source": "MED",
+        "pmid": "41398155",
+        "pmcid": "PMC12708656",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12708656"
+          ]
+        },
+        "doi": "10.1038/s41467-025-67499-6",
+        "title": "Discontinuous transition to active nematic turbulence.",
+        "authorString": "Hillebrand M, Alert R.",
+        "journalTitle": "Nat Commun",
+        "issue": "1",
+        "journalVolume": "16",
+        "pubYear": "2025",
+        "journalIssn": "2041-1723",
+        "pageInfo": "11169",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "citedByCount": 1,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2025-12-16",
+        "firstPublicationDate": "2025-12-15"
+      },
+      {
+        "id": "42031938",
+        "source": "MED",
+        "pmid": "42031938",
+        "pmcid": "PMC13275890",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13275890"
+          ]
+        },
+        "doi": "10.1038/s41598-026-50242-6",
+        "title": "Deep neural network model for fractional-order cancer chemotherapy dynamics.",
+        "authorString": "Shafqat R, Imran, Al-Quran A, Djaouti AM.",
+        "journalTitle": "Sci Rep",
+        "issue": "1",
+        "journalVolume": "16",
+        "pubYear": "2026",
+        "journalIssn": "2045-2322",
+        "pageInfo": "19003",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstIndexDate": "2026-04-25",
+        "firstPublicationDate": "2026-04-24"
+      },
+      {
+        "id": "41899997",
+        "source": "MED",
+        "pmid": "41899997",
+        "pmcid": "PMC13024912",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13024912"
+          ]
+        },
+        "doi": "10.3390/e28030345",
+        "title": "Planar Black Holes and Entanglement Entropy in Analog Gravity Models.",
+        "authorString": "Bilic N, Zingg T.",
+        "journalTitle": "Entropy (Basel)",
+        "issue": "3",
+        "journalVolume": "28",
+        "pubYear": "2026",
+        "journalIssn": "1099-4300",
+        "pageInfo": "345",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2026-03-29",
+        "firstPublicationDate": "2026-03-19"
+      },
+      {
+        "id": "PMC13298861",
+        "source": "PMC",
+        "pmcid": "PMC13298861",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13298861"
+          ]
+        },
+        "title": "Boltzmann\u2013Loschmidt Dispute Reloaded: Quantum 150 Years Later",
+        "authorString": "Ermann L, Chepelianskii A, Shepelyansky D.",
+        "journalTitle": "Entropy (Basel)",
+        "issue": "6",
+        "journalVolume": "28",
+        "pubYear": "2026",
+        "journalIssn": "1099-4300",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "N",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2026-06-26",
+        "firstPublicationDate": "2026-05-26"
+      },
+      {
+        "id": "PMC13025478",
+        "source": "PMC",
+        "pmcid": "PMC13025478",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13025478"
+          ]
+        },
+        "title": "Spectral Insights into Active Matter: Exceptional Points and the Mathieu Equation",
+        "journalTitle": "Entropy (Basel)",
+        "issue": "3",
+        "journalVolume": "28",
+        "pubYear": "2026",
+        "journalIssn": "1099-4300",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2026-03-28",
+        "firstPublicationDate": "2026-03-01"
+      },
+      {
+        "id": "41454120",
+        "source": "MED",
+        "pmid": "41454120",
+        "pmcid": "PMC12847991",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12847991"
+          ]
+        },
+        "doi": "10.1038/s41598-025-33633-z",
+        "title": "Nonclassical correlations in binary Bose-Einstein condensates: from double-well confinement to twin Schr\u00f6dinger cat states.",
+        "authorString": "Jogania J, Nath A, Bera J.",
+        "journalTitle": "Sci Rep",
+        "issue": "1",
+        "journalVolume": "16",
+        "pubYear": "2025",
+        "journalIssn": "2045-2322",
+        "pageInfo": "3565",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2025-12-27",
+        "firstPublicationDate": "2025-12-26"
+      },
+      {
+        "id": "41196943",
+        "source": "MED",
+        "pmid": "41196943",
+        "pmcid": "PMC12591490",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12591490"
+          ]
+        },
+        "doi": "10.1371/journal.pone.0336043",
+        "title": "A two-group kinetic wealth model with wealth-gap drift and non-Maxwellian kernels.",
+        "authorString": "Sun R.",
+        "journalTitle": "PLoS One",
+        "issue": "11",
+        "journalVolume": "20",
+        "pubYear": "2025",
+        "journalIssn": "1932-6203",
+        "pageInfo": "e0336043",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "N",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2025-11-06",
+        "firstPublicationDate": "2025-11-06"
+      },
+      {
+        "id": "42111826",
+        "source": "MED",
+        "pmid": "42111826",
+        "pmcid": "PMC13154922",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13154922"
+          ]
+        },
+        "doi": "10.1002/smsc.202500599",
+        "title": "Active Particles in Tunable Compressible Environments.",
+        "authorString": "Tanuku VMSG, Malhotra I, Caprini L, L\u00f6wen H, Palberg T, Buttinoni I.",
+        "journalTitle": "Small Sci",
+        "issue": "5",
+        "journalVolume": "6",
+        "pubYear": "2026",
+        "journalIssn": "2688-4046",
+        "pageInfo": "e202500599",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2026-05-13",
+        "firstPublicationDate": "2026-05-07"
+      }
+    ]
+  }
+}

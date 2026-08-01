@@ -1,0 +1,1597 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 3510548,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              6
+            ]
+          ],
+          "date-time": "2022-08-06T00:42:51Z",
+          "timestamp": 1659746571115
+        },
+        "edition-number": "2",
+        "reference-count": 0,
+        "publisher": "Cambridge University Press",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2022,
+                  8,
+                  6
+                ]
+              ],
+              "date-time": "2022-08-06T00:00:00Z",
+              "timestamp": 1659744000000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 58,
+            "URL": "https://www.cambridge.org/core/terms"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1017/9781009127684.028",
+        "type": "book-part",
+        "created": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              6
+            ]
+          ],
+          "date-time": "2022-08-06T00:05:31Z",
+          "timestamp": 1659744331000
+        },
+        "page": "351-352",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The p-adic local monodromy theorem"
+        ],
+        "prefix": "10.1017",
+        "member": "56",
+        "container-title": [
+          "p-adic Differential Equations"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              6
+            ]
+          ],
+          "date-time": "2022-08-06T00:06:07Z",
+          "timestamp": 1659744367000
+        },
+        "score": 26.89476,
+        "resource": {
+          "primary": {
+            "URL": "https://www.cambridge.org/core/product/identifier/9781009127684%23ptl6/type/book_part"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1017/9781009127684.028",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              6
+            ]
+          ],
+          "date-time": "2022-08-06T04:15:25Z",
+          "timestamp": 1659759325290
+        },
+        "edition-number": "2",
+        "reference-count": 0,
+        "publisher": "Cambridge University Press",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2022,
+                  8,
+                  6
+                ]
+              ],
+              "date-time": "2022-08-06T00:00:00Z",
+              "timestamp": 1659744000000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 58,
+            "URL": "https://www.cambridge.org/core/terms"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1017/9781009127684.030",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              6
+            ]
+          ],
+          "date-time": "2022-08-06T00:05:31Z",
+          "timestamp": 1659744331000
+        },
+        "page": "367-373",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The p-adic local monodromy theorem: proof"
+        ],
+        "prefix": "10.1017",
+        "member": "56",
+        "container-title": [
+          "p-adic Differential Equations"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              6
+            ]
+          ],
+          "date-time": "2022-08-06T00:06:09Z",
+          "timestamp": 1659744369000
+        },
+        "score": 26.78213,
+        "resource": {
+          "primary": {
+            "URL": "https://www.cambridge.org/core/product/identifier/9781009127684%23c22/type/book_part"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1017/9781009127684.030",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              6
+            ]
+          ],
+          "date-time": "2022-08-06T00:43:03Z",
+          "timestamp": 1659746583042
+        },
+        "edition-number": "2",
+        "reference-count": 0,
+        "publisher": "Cambridge University Press",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2022,
+                  8,
+                  6
+                ]
+              ],
+              "date-time": "2022-08-06T00:00:00Z",
+              "timestamp": 1659744000000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 58,
+            "URL": "https://www.cambridge.org/core/terms"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1017/9781009127684.029",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              6
+            ]
+          ],
+          "date-time": "2022-08-06T00:05:31Z",
+          "timestamp": 1659744331000
+        },
+        "page": "353-366",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The p-adic local monodromy theorem"
+        ],
+        "prefix": "10.1017",
+        "member": "56",
+        "container-title": [
+          "p-adic Differential Equations"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              6
+            ]
+          ],
+          "date-time": "2022-08-06T00:06:08Z",
+          "timestamp": 1659744368000
+        },
+        "score": 26.758434,
+        "resource": {
+          "primary": {
+            "URL": "https://www.cambridge.org/core/product/identifier/9781009127684%23c21/type/book_part"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1017/9781009127684.029",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              12
+            ]
+          ],
+          "date-time": "2024-09-12T02:55:20Z",
+          "timestamp": 1726109720677
+        },
+        "edition-number": "1",
+        "reference-count": 1,
+        "publisher": "CRC Press",
+        "isbn-type": [
+          {
+            "type": "electronic",
+            "value": "9781003072614"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              17
+            ]
+          ]
+        },
+        "DOI": "10.1201/9781003072614-15",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              12
+            ]
+          ],
+          "date-time": "2020-12-12T06:06:58Z",
+          "timestamp": 1607753218000
+        },
+        "page": "177-189",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The p-Adic Krein-\u0160mulian Theorem"
+        ],
+        "prefix": "10.1201",
+        "author": [
+          {
+            "given": "W.H.",
+            "family": "Schikhof",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "301",
+        "reference": [
+          {
+            "key": "ref15",
+            "doi-asserted-by": "crossref",
+            "unstructured": "N. De Grande-De Kimpe and C. P\u00e9rez-Garc\u00eda. Weakly closed subspaces and the Hahn-Banach extension property in p-adic analysis. Nederl. Akad. Wetensch. Indag. Math. 50 (1988), 253\u2013261.",
+            "DOI": "10.1016/S1385-7258(88)80006-4"
+          }
+        ],
+        "container-title": [
+          "p-adic functional analysis"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              2
+            ]
+          ],
+          "date-time": "2021-04-02T19:10:22Z",
+          "timestamp": 1617390622000
+        },
+        "score": 26.248955,
+        "resource": {
+          "primary": {
+            "URL": "https://www.taylorfrancis.com/books/9781000111071/chapters/10.1201/9781003072614-15"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              17
+            ]
+          ]
+        },
+        "ISBN": [
+          "9781003072614"
+        ],
+        "references-count": 1,
+        "URL": "https://doi.org/10.1201/9781003072614-15",
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              17
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              26
+            ]
+          ],
+          "date-time": "2025-03-26T09:19:31Z",
+          "timestamp": 1742980771045,
+          "version": "3.40.3"
+        },
+        "edition-number": "1",
+        "reference-count": 0,
+        "publisher": "Cambridge University Press",
+        "isbn-type": [
+          {
+            "type": "print",
+            "value": "9780521768795"
+          },
+          {
+            "type": "electronic",
+            "value": "9780511750922"
+          },
+          {
+            "type": "print",
+            "value": "9781107471924"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2012,
+                  8,
+                  5
+                ]
+              ],
+              "date-time": "2012-08-05T00:00:00Z",
+              "timestamp": 1344124800000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 787,
+            "URL": "https://www.cambridge.org/core/terms"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2010,
+              6,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1017/cbo9780511750922.022",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2012,
+              8,
+              6
+            ]
+          ],
+          "date-time": "2012-08-06T20:39:58Z",
+          "timestamp": 1344285598000
+        },
+        "page": "326-337",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The <i>p</i>-adic local monodromy theorem"
+        ],
+        "prefix": "10.1017",
+        "member": "56",
+        "container-title": [
+          "<i>p</i>-adic Differential Equations"
+        ],
+        "link": [
+          {
+            "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D98ECD03E3C9831910CAECA5DE6F7DBF",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2022-10-12T14:23:46Z",
+          "timestamp": 1665584626000
+        },
+        "score": 25.254314,
+        "resource": {
+          "primary": {
+            "URL": "https://www.cambridge.org/core/product/identifier/CBO9780511750922A191/type/book_part"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2010,
+              6,
+              10
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780521768795",
+          "9780511750922",
+          "9781107471924"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1017/cbo9780511750922.022",
+        "published": {
+          "date-parts": [
+            [
+              2010,
+              6,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              25
+            ]
+          ],
+          "date-time": "2025-03-25T22:19:40Z",
+          "timestamp": 1742941180247,
+          "version": "3.40.3"
+        },
+        "edition-number": "1",
+        "reference-count": 0,
+        "publisher": "Cambridge University Press",
+        "isbn-type": [
+          {
+            "type": "print",
+            "value": "9780521768795"
+          },
+          {
+            "type": "electronic",
+            "value": "9780511750922"
+          },
+          {
+            "type": "print",
+            "value": "9781107471924"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2012,
+                  8,
+                  5
+                ]
+              ],
+              "date-time": "2012-08-05T00:00:00Z",
+              "timestamp": 1344124800000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 787,
+            "URL": "https://www.cambridge.org/core/terms"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2010,
+              6,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1017/cbo9780511750922.023",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2012,
+              8,
+              6
+            ]
+          ],
+          "date-time": "2012-08-06T20:39:58Z",
+          "timestamp": 1344285598000
+        },
+        "page": "338-344",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The <i>p</i>-adic local monodromy theorem: proof"
+        ],
+        "prefix": "10.1017",
+        "member": "56",
+        "container-title": [
+          "<i>p</i>-adic Differential Equations"
+        ],
+        "link": [
+          {
+            "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/87618630726FC99DCB9B9E5119C0AC25",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2022-10-12T14:23:48Z",
+          "timestamp": 1665584628000
+        },
+        "score": 25.04156,
+        "resource": {
+          "primary": {
+            "URL": "https://www.cambridge.org/core/product/identifier/CBO9780511750922A199/type/book_part"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2010,
+              6,
+              10
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780521768795",
+          "9780511750922",
+          "9781107471924"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1017/cbo9780511750922.023",
+        "published": {
+          "date-parts": [
+            [
+              2010,
+              6,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              3
+            ]
+          ],
+          "date-time": "2025-12-03T11:19:45Z",
+          "timestamp": 1764760785093,
+          "version": "3.46.0"
+        },
+        "reference-count": 0,
+        "publisher": "Oxford University PressOxford",
+        "isbn-type": [
+          {
+            "type": "print",
+            "value": "9780198535942"
+          },
+          {
+            "type": "electronic",
+            "value": "9781383025866"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1992,
+              2,
+              27
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Given an integer m\u2a7e2 and rational numbers A1,\u2026, Am, u1,\u2026, Um not all zero, we obtain a rational sequence using the linear recurrence relation, [eq] Sequences of this kind have been studied extensively and the theory has a long and colourful history. One of the earliest and best known is the Fibonacci sequence. This begins u1 = u2 = 1, and continues via the recurrence relation A slightly more exotic example occurs with the problem of the man who walks along an infinite ladder.</jats:p>",
+        "DOI": "10.1093/oso/9780198535942.003.0003",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              3
+            ]
+          ],
+          "date-time": "2023-11-03T03:58:32Z",
+          "timestamp": 1698983912000
+        },
+        "page": "33-56",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Applications of the p-Adic Subspace Theorem"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "G R",
+            "family": "Everest",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "286",
+        "container-title": [
+          "p-Adic Methods and Their Applications"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://academic.oup.com/book/chapter-pdf/52349614/isbn-9780198535942-book-part-3.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              3
+            ]
+          ],
+          "date-time": "2025-12-03T11:13:12Z",
+          "timestamp": 1764760392000
+        },
+        "score": 24.838203,
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/book/52913/chapter/421949407"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1992,
+              2,
+              27
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780198535942",
+          "9781383025866"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1093/oso/9780198535942.003.0003",
+        "published": {
+          "date-parts": [
+            [
+              1992,
+              2,
+              27
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "Louisiana State University and Agricultural and Mechanical College"
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              26
+            ]
+          ],
+          "date-time": "2023-09-26T05:29:13Z",
+          "timestamp": 1695706153216
+        },
+        "reference-count": 0,
+        "publisher": "Louisiana State University Libraries",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.31390/gradschool_dissertations.1936",
+        "type": "dissertation",
+        "created": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              10
+            ]
+          ],
+          "date-time": "2022-06-10T15:40:35Z",
+          "timestamp": 1654875635000
+        },
+        "approved": {
+          "date-parts": [
+            [
+              2014,
+              4,
+              11
+            ]
+          ]
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Constructive aspects of Kochen's theorem on p-adic closures"
+        ],
+        "prefix": "10.31390",
+        "author": [
+          {
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Evan",
+            "family": "Eakins",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Louisiana State University and Agricultural and Mechanical College"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "16314",
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              25
+            ]
+          ],
+          "date-time": "2023-09-25T21:17:12Z",
+          "timestamp": 1695676632000
+        },
+        "score": 24.59588,
+        "degree": [
+          "Doctor of Philosophy (PhD)"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://repository.lsu.edu/gradschool_dissertations/1936"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.31390/gradschool_dissertations.1936"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              30
+            ]
+          ],
+          "date-time": "2026-03-30T05:04:12Z",
+          "timestamp": 1774847052917,
+          "version": "3.50.1"
+        },
+        "reference-count": 17,
+        "publisher": "Pleiades Publishing Ltd",
+        "issue": "2",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  4,
+                  1
+                ]
+              ],
+              "date-time": "2021-04-01T00:00:00Z",
+              "timestamp": 1617235200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  4,
+                  1
+                ]
+              ],
+              "date-time": "2021-04-01T00:00:00Z",
+              "timestamp": 1617235200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "P-Adic Num Ultrametr Anal Appl"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1134/s2070046621020035",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              21
+            ]
+          ],
+          "date-time": "2021-05-21T07:02:57Z",
+          "timestamp": 1621580577000
+        },
+        "page": "148-165",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Taylor\u2019s Theorem, the Inverse Function Theorem and the Implicit Function Theorem for Weakly Locally Uniformly Differentiable Functions on Non-Archimedean Spaces$$^*$$"
+        ],
+        "prefix": "10.1134",
+        "volume": "13",
+        "author": [
+          {
+            "given": "Khodr",
+            "family": "Shamseddine",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "137",
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              21
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "3018_CR1",
+            "doi-asserted-by": "publisher",
+            "first-page": "49",
+            "DOI": "10.1090/conm/704/14160",
+            "volume": "704",
+            "author": "G. Bookatz",
+            "year": "2018",
+            "unstructured": "G. Bookatz and K. Shamseddine,  \u201cCalculus on a non-archimedean field extension of the real numbers:   inverse function theorem, intermediate value theorem and mean value theorem,\u201d   Contemp. Math.   704, 49\u201367 (2018).",
+            "journal-title": "Contemp. Math."
+          },
+          {
+            "key": "3018_CR2",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1090/conm/704/14158",
+            "volume": "704",
+            "author": "A. Barr\\\u2019ia Comicheo",
+            "year": "2018",
+            "unstructured": "A. Barr\\\u2019ia Comicheo and K. Shamseddine,  \u201cSummary on non-archimedean valued fields,\u201d   Contemp. Math.   704, 1\u201336 (2018).",
+            "journal-title": "Contemp. Math."
+          },
+          {
+            "key": "3018_CR3",
+            "first-page": "601",
+            "volume": "117",
+            "author": "H. Hahn",
+            "year": "1907",
+            "unstructured": "H. Hahn,  \u201c\u00dcber die nichtarchimedischen Gr\u00f6\u00dfensysteme,\u201d  Sitzungsbericht der Wiener Akademie der Wissenschaften Abt. 2a     117, 601\u2013655 (1907).",
+            "journal-title": "Sitzungsbericht der Wiener Akademie der Wissenschaften Abt. 2a"
+          },
+          {
+            "key": "3018_CR4",
+            "doi-asserted-by": "publisher",
+            "first-page": "160",
+            "DOI": "10.1515/crll.1932.167.160",
+            "volume": "167",
+            "author": "W. Krull",
+            "year": "1932",
+            "unstructured": "W. Krull,  \u201cAllgemeine Bewertungstheorie,\u201d   J. Reine Angew. Math.   167, 160\u2013196 (1932).",
+            "journal-title": "J. Reine Angew. Math."
+          },
+          {
+            "key": "3018_CR5",
+            "volume": "4",
+            "author": "T. Levi-Civita",
+            "year": "1892",
+            "unstructured": "T. Levi-Civita,  \u201cSugli infiniti ed infinitesimi attuali quali elementi analitici,\u201d   Atti Ist. Veneto di Sc., Lett. ed Art. 7a   4, 1765 (1892).",
+            "journal-title": "Atti Ist. Veneto di Sc., Lett. ed Art. 7a"
+          },
+          {
+            "key": "3018_CR6",
+            "volume": "7",
+            "author": "T. Levi-Civita",
+            "year": "1898",
+            "unstructured": "T. Levi-Civita,  \u201cSui numeri transfiniti,\u201d   Rend. Acc. Lincei 5a   7, 91, 113 (1898).",
+            "journal-title": "Rend. Acc. Lincei 5a"
+          },
+          {
+            "key": "3018_CR7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1090/S0002-9904-1939-07110-3",
+            "volume": "45",
+            "author": "S. MacLane",
+            "year": "1939",
+            "unstructured": "S. MacLane,  \u201cThe universality of formal power series fields,\u201d   Bull. Amer. Math. Soc.   45, 888 (1939).",
+            "journal-title": "Bull. Amer. Math. Soc."
+          },
+          {
+            "key": "3018_CR8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-3-642-68628-3",
+            "volume-title": "Angeordnete Strukturen: Gruppen, K\u00f6rper, projektive Ebenen",
+            "author": "S. Priess-Crampe",
+            "year": "1983",
+            "unstructured": "S. Priess-Crampe,    Angeordnete Strukturen: Gruppen, K\u00f6rper, projektive   Ebenen (Springer, Berlin, 1983)."
+          },
+          {
+            "key": "3018_CR9",
+            "doi-asserted-by": "publisher",
+            "first-page": "504",
+            "DOI": "10.1112/jlms/s2-8.3.504",
+            "volume": "8",
+            "author": "F. J. Rayner",
+            "year": "1974",
+            "unstructured": "F. J. Rayner,  \u201cAlgebraically closed fields analogous to fields of Puiseux   series,\u201d   J. London Math. Soc.   8, 504\u2013506 (1974).",
+            "journal-title": "J. London Math. Soc."
+          },
+          {
+            "key": "3018_CR10",
+            "doi-asserted-by": "publisher",
+            "first-page": "115",
+            "DOI": "10.1007/BF02567077",
+            "volume": "75",
+            "author": "P. Ribenboim",
+            "year": "1992",
+            "unstructured": "P. Ribenboim,  \u201cFields: Algebraically closed and others,\u201d  Manuscr. Math.   75, 115\u2013150 (1992).",
+            "journal-title": "Manuscr. Math."
+          },
+          {
+            "key": "3018_CR11",
+            "volume-title": "Non-Standard Analysis",
+            "author": "A. Robinson",
+            "year": "1974",
+            "unstructured": "A. Robinson,    Non-Standard Analysis (North-Holland, 1974)."
+          },
+          {
+            "key": "3018_CR12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/CBO9780511623844",
+            "volume-title": "Ultrametric Calculus: An Introduction to p-Adic Analysis",
+            "author": "W. H. Schikhof",
+            "year": "1985",
+            "unstructured": "W. H. Schikhof,    Ultrametric Calculus: An Introduction to p-Adic   Analysis (Cambridge University Press, 1985)."
+          },
+          {
+            "key": "3018_CR13",
+            "first-page": "44",
+            "volume": "255",
+            "author": "K. Shamseddine",
+            "year": "2015",
+            "unstructured": "K. Shamseddine,  \u201cAnalysis on the Levi-Civita field and computational applications,\u201d  Appl. Math. Comput.   255, 44\u201357 (2015).",
+            "journal-title": "Appl. Math. Comput."
+          },
+          {
+            "key": "3018_CR14",
+            "first-page": "37",
+            "volume": "0",
+            "author": "K. Shamseddine",
+            "year": "1996",
+            "unstructured": "K. Shamseddine and M. Berz,  \u201cException handling in derivative computation with non-Archimedean calculus,\u201d  in   Computational Differentiation: Techniques, Applications, and   Tools, pp. 37\u201351 (SIAM, Philadelphia, 1996).",
+            "journal-title": "Computational Differentiation: Techniques, Applications, and Tools"
+          },
+          {
+            "key": "3018_CR15",
+            "first-page": "449",
+            "volume": "3",
+            "author": "K. Shamseddine",
+            "year": "2000",
+            "unstructured": "K. Shamseddine and M. Berz,  \u201cThe differential algebraic structure of the Levi-Civita field and applications,\u201d  Int. J. Appl. Math.   3, 449\u2013465 (2000).",
+            "journal-title": "Int. J. Appl. Math."
+          },
+          {
+            "key": "3018_CR16",
+            "volume": "0",
+            "author": "K. Shamseddine",
+            "year": "2012",
+            "unstructured": "K. Shamseddine and T. Sierens,  \u201cOn locally uniformly differentiable functions on a complete   non-Archimedean ordered field extension of the real numbers,\u201d   ISRN Math. Anal., Art. ID 387053 (2012).",
+            "journal-title": "ISRN Math. Anal."
+          },
+          {
+            "key": "3018_CR17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/CBO9780511740305",
+            "volume-title": "Real Analysis through Modern Infinitesimals",
+            "author": "N. Vakil",
+            "year": "2011",
+            "unstructured": "N. Vakil,    Real Analysis through Modern Infinitesimals  (Cambridge University Press, 2011)."
+          }
+        ],
+        "container-title": [
+          "p-Adic Numbers, Ultrametric Analysis and Applications"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1134/S2070046621020035.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1134/S2070046621020035",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1134/S2070046621020035.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              30
+            ]
+          ],
+          "date-time": "2026-03-30T03:32:38Z",
+          "timestamp": 1774841558000
+        },
+        "score": 24.158176,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1134/S2070046621020035"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              4
+            ]
+          ]
+        },
+        "references-count": 17,
+        "journal-issue": {
+          "issue": "2",
+          "published-print": {
+            "date-parts": [
+              [
+                2021,
+                4
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "3018"
+        ],
+        "URL": "https://doi.org/10.1134/s2070046621020035",
+        "ISSN": [
+          "2070-0466",
+          "2070-0474"
+        ],
+        "issn-type": [
+          {
+            "value": "2070-0466",
+            "type": "print"
+          },
+          {
+            "value": "2070-0474",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              4
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "10 October 2020",
+            "order": 1,
+            "name": "received",
+            "label": "Received",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "14 December 2020",
+            "order": 2,
+            "name": "revised",
+            "label": "Revised",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "16 December 2020",
+            "order": 3,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "21 May 2021",
+            "order": 4,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              4,
+              29
+            ]
+          ],
+          "date-time": "2024-04-29T11:04:42Z",
+          "timestamp": 1714388682397
+        },
+        "reference-count": 10,
+        "publisher": "CRC Press",
+        "isbn-type": [
+          {
+            "value": "9780824706111",
+            "type": "print"
+          },
+          {
+            "value": "9780203908143",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              7,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1201/9780203908143.ch21",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              2,
+              23
+            ]
+          ],
+          "date-time": "2010-02-23T18:40:45Z",
+          "timestamp": 1266950445000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "An Approximation Theorem for p-adic Linear Forms"
+        ],
+        "prefix": "10.1201",
+        "author": [
+          {
+            "given": "C",
+            "family": "Perez-Garcia",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "W",
+            "family": "Schikhof",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "301",
+        "published-online": {
+          "date-parts": [
+            [
+              2009,
+              12
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "p_1",
+            "series-title": "Lecture Notes in Pure and Applied Mathematics 207",
+            "volume-title": "In: p-Adic Functional Analysis",
+            "author": "Christol G.",
+            "year": "1999"
+          },
+          {
+            "key": "p_2",
+            "first-page": "15",
+            "volume": "90",
+            "author": "Grande-De Kimpe N. De",
+            "year": "1987",
+            "journal-title": "Proc. Kon. Ned. Akad. Wet."
+          },
+          {
+            "key": "p_3",
+            "volume-title": "Teubner",
+            "author": "Jarchov H.",
+            "year": "1981"
+          },
+          {
+            "key": "p_4",
+            "first-page": "97",
+            "volume": "42",
+            "author": "Kakol J.",
+            "year": "1994",
+            "journal-title": "Bull. Pol. Acad. Sc. Math."
+          },
+          {
+            "key": "p_5",
+            "first-page": "351",
+            "volume": "19",
+            "author": "Katsaras A.K.",
+            "year": "1991",
+            "journal-title": "Bull. Inst. Math. Acad. Sinica"
+          },
+          {
+            "key": "p_6",
+            "volume-title": "Topological Vector Spaces",
+            "author": "Schaefer H.H.",
+            "year": "1980"
+          },
+          {
+            "key": "p_7",
+            "first-page": "187",
+            "volume": "38",
+            "author": "Schikhof W.H.",
+            "year": "1986",
+            "journal-title": "Bull. SOC. Math. Bel. Ser"
+          },
+          {
+            "key": "p_8",
+            "volume-title": "Department of Mathematics",
+            "author": "Schikhof W.H.",
+            "year": "1986"
+          },
+          {
+            "key": "p_9",
+            "first-page": "119",
+            "volume": "92",
+            "author": "Schikhof W.H.",
+            "year": "1989",
+            "journal-title": "Proc. Kon. Ned. Akad. Wet."
+          },
+          {
+            "key": "p_10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S1385-7258(65)50030-5"
+          }
+        ],
+        "container-title": [
+          "P-Adic Functional Analysis"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://www.crcnetbase.com/doi/pdf/10.1201/9780203908143.ch21",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2016,
+              9,
+              8
+            ]
+          ],
+          "date-time": "2016-09-08T22:16:25Z",
+          "timestamp": 1473372985000
+        },
+        "score": 24.110146,
+        "resource": {
+          "primary": {
+            "URL": "http://www.crcnetbase.com/doi/10.1201/9780203908143.ch21"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2001,
+              7,
+              3
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780824706111",
+          "9780203908143"
+        ],
+        "references-count": 10,
+        "alternative-id": [
+          "10.1201/9780203908143.ch21",
+          "10.1201/9780203908143"
+        ],
+        "URL": "https://doi.org/10.1201/9780203908143.ch21",
+        "published": {
+          "date-parts": [
+            [
+              2001,
+              7,
+              3
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 10,
+    "query": {
+      "start-index": 0,
+      "search-terms": "Ostrowski theorem physics p-adic dimensionless"
+    }
+  }
+}

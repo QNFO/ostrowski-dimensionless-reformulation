@@ -1,0 +1,376 @@
+{
+  "version": "6.9",
+  "hitCount": 127,
+  "nextCursorMark": "AoIIQBVZrig1MjUwMTkxOQ==",
+  "nextPageUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=natural units reformulation fundamental constants&cursorMark=AoIIQBVZrig1MjUwMTkxOQ==&resultType=lite&pageSize=10&format=json",
+  "request": {
+    "queryString": "natural units reformulation fundamental constants",
+    "resultType": "lite",
+    "cursorMark": "*",
+    "pageSize": 10,
+    "sort": "",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "41974875",
+        "source": "MED",
+        "pmid": "41974875",
+        "pmcid": "PMC13237221",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13237221"
+          ]
+        },
+        "doi": "10.1038/s41598-026-48534-y",
+        "title": "Fixed-point topology meets fractal memory: a Kutumba-stabilized framework for nonlocal fractal-fractional dynamics.",
+        "authorString": "Devi RA, Surendar R, Sweatha S, Saeed ST, Almehizia AA, Saleh MA, Merga FE.",
+        "journalTitle": "Sci Rep",
+        "issue": "1",
+        "journalVolume": "16",
+        "pubYear": "2026",
+        "journalIssn": "2045-2322",
+        "pageInfo": "17384",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2026-04-14",
+        "firstPublicationDate": "2026-04-23"
+      },
+      {
+        "id": "42253571",
+        "source": "MED",
+        "pmid": "42253571",
+        "pmcid": "PMC13235342",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13235342"
+          ]
+        },
+        "doi": "10.3389/fpsyg.2026.1792921",
+        "title": "The theory of psychic quanta: a quantum model for the unity of individual consciousness.",
+        "authorString": "Tallarico A.",
+        "journalTitle": "Front Psychol",
+        "journalVolume": "17",
+        "pubYear": "2026",
+        "journalIssn": "1664-1078",
+        "pageInfo": "1792921",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2026-06-09",
+        "firstPublicationDate": "2026-05-21"
+      },
+      {
+        "id": "42072491",
+        "source": "MED",
+        "pmid": "42072491",
+        "pmcid": "PMC13115411",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13115411"
+          ]
+        },
+        "doi": "10.3390/e28040365",
+        "title": "Thermodynamics \u00e0 la Souriau on K\u00e4hler Non-Compact Symmetric Spaces for Cartan Neural Networks.",
+        "authorString": "Fr\u00e9 PG, Sorin AS, Trigiante M.",
+        "journalTitle": "Entropy (Basel)",
+        "issue": "4",
+        "journalVolume": "28",
+        "pubYear": "2026",
+        "journalIssn": "1099-4300",
+        "pageInfo": "365",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "N",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2026-05-13",
+        "firstPublicationDate": "2026-03-24"
+      },
+      {
+        "id": "42043137",
+        "source": "MED",
+        "pmid": "42043137",
+        "pmcid": "PMC13119907",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13119907"
+          ]
+        },
+        "doi": "10.3390/toxics14040310",
+        "title": "The Energy-Quality Nexus in Atmospheric Water Generation: A Review of Contaminants, Performance Metrics, and the Proposal of the AWEQI.",
+        "authorString": "Cattani L, Cattani P, Magrini A.",
+        "journalTitle": "Toxics",
+        "issue": "4",
+        "journalVolume": "14",
+        "pubYear": "2026",
+        "journalIssn": "2305-6304",
+        "pageInfo": "310",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstIndexDate": "2026-04-27",
+        "firstPublicationDate": "2026-04-03"
+      },
+      {
+        "id": "41862553",
+        "source": "MED",
+        "pmid": "41862553",
+        "pmcid": "PMC13144391",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13144391"
+          ]
+        },
+        "doi": "10.1038/s41598-026-43137-z",
+        "title": "Frequency-constrained robust unit commitment via physics-guided piecewise-linear nadir surrogates and adaptive virtual inertia.",
+        "authorString": "Fard SHB, Shakarami MR, Doostizadeh M.",
+        "journalTitle": "Sci Rep",
+        "issue": "1",
+        "journalVolume": "16",
+        "pubYear": "2026",
+        "journalIssn": "2045-2322",
+        "pageInfo": "14305",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2026-03-23",
+        "firstPublicationDate": "2026-03-20"
+      },
+      {
+        "id": "42205487",
+        "source": "MED",
+        "pmid": "42205487",
+        "pmcid": "PMC13202281",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13202281"
+          ]
+        },
+        "doi": "10.1016/j.crneur.2026.100159",
+        "title": "Spectral dependence as a framework for neural coordination.",
+        "authorString": "Besosa C, Qin Y, Burke SN, Maurer AP.",
+        "journalTitle": "Curr Res Neurobiol",
+        "journalVolume": "10",
+        "pubYear": "2026",
+        "journalIssn": "2665-945x",
+        "pageInfo": "100159",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2026-05-28",
+        "firstPublicationDate": "2026-05-11"
+      },
+      {
+        "id": "41526426",
+        "source": "MED",
+        "pmid": "41526426",
+        "pmcid": "PMC12852908",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12852908"
+          ]
+        },
+        "doi": "10.1038/s41598-025-33726-9",
+        "title": "Optimizing virtual power plant coordination through locational marginal flexibility under network constraints.",
+        "authorString": "Xie L, Li G, Xu M, Dong X, Tan Z.",
+        "journalTitle": "Sci Rep",
+        "issue": "1",
+        "journalVolume": "16",
+        "pubYear": "2026",
+        "journalIssn": "2045-2322",
+        "pageInfo": "3789",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2026-01-13",
+        "firstPublicationDate": "2026-01-12"
+      },
+      {
+        "id": "42041830",
+        "source": "MED",
+        "pmid": "42041830",
+        "pmcid": "PMC13115445",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13115445"
+          ]
+        },
+        "doi": "10.3390/brainsci16040422",
+        "title": "Event-Based Vision at the Edge: A Review.",
+        "authorString": "Middleton M, Ali T, Baikas E, Kayan H, Sen Bhattacharya B, Gheorghiu E, Vousden M, Perera C, Rhodes O, Trefzer MA.",
+        "journalTitle": "Brain Sci",
+        "issue": "4",
+        "journalVolume": "16",
+        "pubYear": "2026",
+        "journalIssn": "2076-3425",
+        "pageInfo": "422",
+        "pubType": "review-article; review; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "firstIndexDate": "2026-04-27",
+        "firstPublicationDate": "2026-04-17"
+      },
+      {
+        "id": "41769032",
+        "source": "MED",
+        "pmid": "41769032",
+        "pmcid": "PMC12936815",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12936815"
+          ]
+        },
+        "doi": "10.1039/d5ra09807f",
+        "title": "Pseudo-two-dimensional multiphysics modeling of mass transport and pseudo-enzymatic kinetics in Ti&lt;sub&gt;3&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt;T &lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; @Pt MXene-based glucose biosensors.",
+        "authorString": "Abu Shuheil M, Hani T, R R, Ray S, Yaseen BM, V K, Sharma R, Sinha A, Arsalanirad A.",
+        "journalTitle": "RSC Adv",
+        "issue": "12",
+        "journalVolume": "16",
+        "pubYear": "2026",
+        "journalIssn": "2046-2069",
+        "pageInfo": "11246-11258",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "Y",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2026-03-02",
+        "firstPublicationDate": "2026-02-26"
+      },
+      {
+        "id": "40016548",
+        "source": "MED",
+        "pmid": "40016548",
+        "pmcid": "PMC11868596",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC11868596"
+          ]
+        },
+        "doi": "10.1038/s41598-025-91459-1",
+        "title": "Theoretical monitoring of aromaticity induction from noble gases to Borole structure.",
+        "authorString": "Atri A, Rouhani M, Mirjafary Z.",
+        "journalTitle": "Sci Rep",
+        "issue": "1",
+        "journalVolume": "15",
+        "pubYear": "2025",
+        "journalIssn": "2045-2322",
+        "pageInfo": "7043",
+        "pubType": "research-article; journal article",
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "citedByCount": 1,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasLabsLinks": "N",
+        "hasTMAccessionNumbers": "N",
+        "firstIndexDate": "2025-02-28",
+        "firstPublicationDate": "2025-02-27"
+      }
+    ]
+  }
+}

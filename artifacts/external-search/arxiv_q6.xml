@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/g6GOoKebK1oKPJQqMeLKxaz5jZg</id>
+  <title>arXiv Query: search_query=abs:Planck AND abs:units AND abs:systematic&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-08-01T21:54:30Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=abs:Planck+AND+(abs:units+AND+abs:systematic)&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>22</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/math-ph/0607026v1</id>
+    <title>Lyapunov exponents at anomalies of SL(2,R)-actions</title>
+    <updated>2006-07-12T16:19:10Z</updated>
+    <link href="https://arxiv.org/abs/math-ph/0607026v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/math-ph/0607026v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  Anomalies are known to appear in the perturbation theory for the one-dimensional Anderson model. A systematic approach to anomalies at critical points of products of random matrices is developed, classifying and analysing their possible types. The associated invariant measure is calculated formally. For an anomaly of so-called second degree, it is given by the groundstate of a certain Fokker-Planck equation on the unit circle. The Lyapunov exponent is calculated to lowest order in perturbation theory with rigorous control of the error terms.</summary>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2006-07-12T16:19:10Z</published>
+    <arxiv:primary_category term="math-ph"/>
+    <arxiv:journal_ref>Operator Theory: Advances and Applications, OTAMP Proceedings 2002, Bedlewo, Birkhaeuser</arxiv:journal_ref>
+    <author>
+      <name>Hermann Schulz-Baldes</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/gr-qc/0212009v1</id>
+    <title>A Cosmologic Model Based on the Equivalence of Expansion and Light Retardation Part 2: Small-Scale Aspects and Quanta</title>
+    <updated>2002-12-02T16:08:39Z</updated>
+    <link href="https://arxiv.org/abs/gr-qc/0212009v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/gr-qc/0212009v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  Interpretation of the cosmological red shift as light retardation with the amount of (d/dt)c = -Hc yields a photon rest mass hH/c^2. A system of natural units is introduced, in which the Planck mass is the geometric average of the photon rest mass and the universal mass. It is shown that the equivalence of expansion and light retardation results in a Cosmologic Uncertainty Principle (CUP), which determines the Heisenberg Principle. Within the Retarded Light Mode (RLM) the Dirac "coincidences" are found to be systematic, and an explanation is provided.</summary>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2002-12-02T16:08:39Z</published>
+    <arxiv:comment>16 pages</arxiv:comment>
+    <arxiv:primary_category term="gr-qc"/>
+    <author>
+      <name>Peter Huber</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/astro-ph/0304137v1</id>
+    <title>PLANCK/LFI: an Advanced Multi-beam High Performance mm-wave Optics for Space Applications</title>
+    <updated>2003-04-08T09:54:08Z</updated>
+    <link href="https://arxiv.org/abs/astro-ph/0304137v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/astro-ph/0304137v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  The Low Frequency Instrument (LFI) is one of the two instruments onboard the ESA PLANCK satellite foreseen to be launched in 2007. The LFI will image the Cosmic Microwave Background (CMB) anisotropies and the polarization in four different bands, with an unprecedented combination of sky coverage, calibration accuracy, control of systematic errors, and sensitivity. LFI is coupled to the PLANCK Telescope by an array of 23 high performance dual profiled corrugated feed horns. The dual reflector off axis-design of the 1.5 meter projected aperture telescope is the most advanced optical design ever conceived for accommodating large multi-beam and multi-frequency focal plane units. The location and the design of the feed horns, for both instruments, have been optimised in order to maintain good beam symmetry, even far from the optical axis, and an excellent straylight rejection. In this paper we describe the LFI instrument with emphasis on its optical performance and coupling with the PLANCK telescope.</summary>
+    <category term="astro-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2003-04-08T09:54:08Z</published>
+    <arxiv:comment>On behalf of LFI Consortium, proceedings of the 25th Antenna Workshop on Satellite Antenna Technology, 18-20 Sept. 2002, ESA-ESTEC, NL</arxiv:comment>
+    <arxiv:primary_category term="astro-ph"/>
+    <arxiv:journal_ref>WPP 202, ESA2002</arxiv:journal_ref>
+    <author>
+      <name>F. Villa</name>
+      <arxiv:affiliation>IASF/CNR-Sezione di Bologna, Italy</arxiv:affiliation>
+    </author>
+    <author>
+      <name>M. Sandri</name>
+      <arxiv:affiliation>IASF/CNR-Sezione di Bologna, Italy</arxiv:affiliation>
+    </author>
+    <author>
+      <name>M. Bersanelli</name>
+      <arxiv:affiliation>Universita' degli Studi di Milano, Italy</arxiv:affiliation>
+    </author>
+    <author>
+      <name>R. C. Butler</name>
+      <arxiv:affiliation>IASF/CNR-Sezione di Bologna, Italy</arxiv:affiliation>
+    </author>
+    <author>
+      <name>N. Mandolesi</name>
+      <arxiv:affiliation>IASF/CNR-Sezione di Bologna, Italy</arxiv:affiliation>
+    </author>
+    <author>
+      <name>A. Mennella</name>
+      <arxiv:affiliation>IASF/CNR-Sezione di Milano, Italy</arxiv:affiliation>
+    </author>
+    <author>
+      <name>J. Marti-Canales</name>
+      <arxiv:affiliation>ESA-ESTEC, Noordwijk, The Netherlands</arxiv:affiliation>
+    </author>
+    <author>
+      <name>J. Tauber</name>
+      <arxiv:affiliation>ESA-ESTEC, Noordwijk, The Netherlands</arxiv:affiliation>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1701.01716v4</id>
+    <title>Perturbative Expansion of Irreversible Work in Fokker-Planck Equation a la Quantum Mechanics</title>
+    <updated>2017-07-14T14:02:41Z</updated>
+    <link href="https://arxiv.org/abs/1701.01716v4" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1701.01716v4" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We discuss the systematic expansion of the solution of the Fokker-Planck equation with the help of the eigenfunctions of the time-dependent Fokker-Planck operator. The expansion parameter is the time derivative of the external parameter which controls the form of an external potential. Our expansion corresponds to the perturbative calculation of the adiabatic motion in quantum mechanics. With this method, we derive a new formula to calculate the irreversible work order by order, which is expressed as the expectation value with a pseudo density matrix. Applying this method to the case of the harmonic potential, we show that the first order term of the expansion gives the exact result. Because we do not need to solve the coupled differential equations of moments, our method simplifies the calculations of various functions such as the fluctuation of the irreversible work per unit time. We further investigate the exact optimized protocol to minimize the irreversible work by calculating its variation with respect to the control parameter itself.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nucl-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2017-01-06T18:25:36Z</published>
+    <arxiv:comment>28 pages, 4 figures, published version in J. Phys. A</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <arxiv:journal_ref>J. Phys. A: Math. Theor. 50, 325001 (2017)</arxiv:journal_ref>
+    <author>
+      <name>T. Koide</name>
+    </author>
+    <arxiv:doi>10.1088/1751-8121/aa7af4</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1088/1751-8121/aa7af4" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1201.1282v2</id>
+    <title>Impact of Systematics on SZ-Optical Scaling Relations</title>
+    <updated>2012-06-28T18:13:33Z</updated>
+    <link href="https://arxiv.org/abs/1201.1282v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1201.1282v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>One of the central goals of multi-wavelength galaxy cluster cosmology is to unite all cluster observables to form a consistent understanding of cluster mass. Here, we study the impact of systematic effects from optical cluster catalogs on stacked SZ signals. We show that the optically predicted Y-decrement can vary by as much as 50% based on the current 2 sigma systematic uncertainties in the observed mass-richness relationship. Mis-centering and impurities will suppress the SZ signal compared to expectations for a clean and perfectly centered optical sample, but to a lesser degree. We show that the level of these variations and suppression is dependent on the amount of systematics in the optical cluster catalogs. We also study X-ray luminosity-dependent sub-sampling of the optical catalog and find that it creates Malmquist bias increasing the observed Y-decrement of the stacked signal. We show that the current Planck measurements of the Y-decrement around SDSS optical clusters and their X-ray counterparts are consistent with expectations after accounting for the 1 sigma optical systematic uncertainties using the Johnston mass richness relation.</summary>
+    <category term="astro-ph.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2012-01-05T20:58:28Z</published>
+    <arxiv:comment>6 pages, 4 figures. Revised to match version accepted in the Astrophysical Journal</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.CO"/>
+    <author>
+      <name>T. Biesiadzinski</name>
+      <arxiv:affiliation>University of Michigan</arxiv:affiliation>
+    </author>
+    <author>
+      <name>J. J. McMahon</name>
+      <arxiv:affiliation>University of Michigan</arxiv:affiliation>
+    </author>
+    <author>
+      <name>C. J. Miller</name>
+      <arxiv:affiliation>University of Michigan</arxiv:affiliation>
+    </author>
+    <author>
+      <name>B. Nord</name>
+      <arxiv:affiliation>University of Michigan</arxiv:affiliation>
+    </author>
+    <author>
+      <name>L. Shaw</name>
+      <arxiv:affiliation>Yale</arxiv:affiliation>
+    </author>
+    <arxiv:doi>10.1088/0004-637X/757/1/1</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1088/0004-637X/757/1/1" title="doi"/>
+  </entry>
+</feed>

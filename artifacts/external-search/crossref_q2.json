@@ -1,0 +1,1088 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 5530131,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              15
+            ]
+          ],
+          "date-time": "2024-05-15T02:59:26Z",
+          "timestamp": 1715741966333
+        },
+        "reference-count": 0,
+        "publisher": "Begell House Inc.",
+        "isbn-type": [
+          {
+            "value": "9781567002034",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2004
+            ]
+          ]
+        },
+        "DOI": "10.1615/978-1-56700-203-4.79",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              7
+            ]
+          ],
+          "date-time": "2023-09-07T19:36:56Z",
+          "timestamp": 1694115416000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "UNITS AND FUNDAMENTAL CONSTANTS"
+        ],
+        "prefix": "10.1615",
+        "member": "613",
+        "container-title": [
+          "Thermal Radiation Fundamentals"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              7
+            ]
+          ],
+          "date-time": "2023-09-07T19:37:04Z",
+          "timestamp": 1694115424000
+        },
+        "score": 28.979818,
+        "resource": {
+          "primary": {
+            "URL": "https://www.begellhouse.com/ebook_platform/monograph/chapter/44510d9f4b399644-79.html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2004
+            ]
+          ]
+        },
+        "ISBN": [
+          "9781567002034"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1615/978-1-56700-203-4.79",
+        "published": {
+          "date-parts": [
+            [
+              2004
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              5
+            ]
+          ],
+          "date-time": "2025-07-05T04:07:49Z",
+          "timestamp": 1751688469247,
+          "version": "3.41.0"
+        },
+        "posted": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "group-title": "SSRN",
+        "reference-count": 0,
+        "publisher": "Elsevier BV",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.2139/ssrn.5283235",
+        "type": "posted-content",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              12
+            ]
+          ],
+          "date-time": "2025-06-12T08:35:40Z",
+          "timestamp": 1749717340000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "GM10-51: The Fundamental Scale of Cosmic Architecture Redefining Physical Constants and Natural Units -Mechanics of Infinity"
+        ],
+        "prefix": "10.2139",
+        "author": [
+          {
+            "given": "Jamil",
+            "family": "Al Thani",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              4
+            ]
+          ],
+          "date-time": "2025-07-04T10:53:02Z",
+          "timestamp": 1751626382000
+        },
+        "score": 28.141014,
+        "resource": {
+          "primary": {
+            "URL": "https://www.ssrn.com/abstract=5283235"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.2139/ssrn.5283235",
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "subtype": "preprint"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              10,
+              14
+            ]
+          ],
+          "date-time": "2022-10-14T04:40:35Z",
+          "timestamp": 1665722435952
+        },
+        "edition-number": "1",
+        "reference-count": 0,
+        "publisher": "Cambridge University Press",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2010,
+                  3,
+                  11
+                ]
+              ],
+              "date-time": "2010-03-11T00:00:00Z",
+              "timestamp": 1268265600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 1144,
+            "URL": "https://www.cambridge.org/core/terms"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2010,
+                  3,
+                  11
+                ]
+              ],
+              "date-time": "2010-03-11T00:00:00Z",
+              "timestamp": 1268265600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 1144,
+            "URL": "https://www.cambridge.org/core/terms"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              22
+            ]
+          ]
+        },
+        "DOI": "10.1017/cbo9780511618475.007",
+        "type": "other",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2010-04-07T00:24:31Z",
+          "timestamp": 1270599871000
+        },
+        "page": "339-340",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Fundamental Constants and Atomic Units"
+        ],
+        "prefix": "10.1017",
+        "member": "56",
+        "container-title": [
+          "Molecular Models for Fluids"
+        ],
+        "link": [
+          {
+            "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/64E406CD9D3F868FF3BEE416FB036410",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              10,
+              13
+            ]
+          ],
+          "date-time": "2022-10-13T21:17:09Z",
+          "timestamp": 1665695829000
+        },
+        "score": 28.018608,
+        "resource": {
+          "primary": {
+            "URL": "https://www.cambridge.org/core/product/identifier/CBO9780511618475A047/type/book_part"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              22
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1017/cbo9780511618475.007",
+        "published": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              22
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              4,
+              28
+            ]
+          ],
+          "date-time": "2024-04-28T08:17:32Z",
+          "timestamp": 1714292252731
+        },
+        "reference-count": 0,
+        "publisher": "Elsevier",
+        "isbn-type": [
+          {
+            "value": "9780122336751",
+            "type": "print"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1995
+            ]
+          ]
+        },
+        "DOI": "10.1016/b978-012233675-1/50037-3",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2007,
+              8,
+              2
+            ]
+          ],
+          "date-time": "2007-08-02T07:25:50Z",
+          "timestamp": 1186039550000
+        },
+        "page": "369-370",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Fundamental constants and units"
+        ],
+        "prefix": "10.1016",
+        "member": "78",
+        "container-title": [
+          "Relativistic Atomic Collisions"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              1,
+              5
+            ]
+          ],
+          "date-time": "2019-01-05T08:52:18Z",
+          "timestamp": 1546678338000
+        },
+        "score": 28.014252,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/B9780122336751500373"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1995
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780122336751"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1016/b978-012233675-1/50037-3",
+        "published": {
+          "date-parts": [
+            [
+              1995
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              10,
+              15
+            ]
+          ],
+          "date-time": "2022-10-15T00:13:01Z",
+          "timestamp": 1665792781744
+        },
+        "edition-number": "1",
+        "reference-count": 0,
+        "publisher": "Cambridge University Press",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2009,
+                  10,
+                  28
+                ]
+              ],
+              "date-time": "2009-10-28T00:00:00Z",
+              "timestamp": 1256688000000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 7152,
+            "URL": "https://www.cambridge.org/core/terms"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2009,
+                  10,
+                  28
+                ]
+              ],
+              "date-time": "2009-10-28T00:00:00Z",
+              "timestamp": 1256688000000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 7152,
+            "URL": "https://www.cambridge.org/core/terms"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              1990,
+              3,
+              30
+            ]
+          ]
+        },
+        "DOI": "10.1017/cbo9780511564369.018",
+        "type": "other",
+        "created": {
+          "date-parts": [
+            [
+              2009,
+              12,
+              24
+            ]
+          ],
+          "date-time": "2009-12-24T13:45:13Z",
+          "timestamp": 1261662313000
+        },
+        "page": "415-416",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "SI units and fundamental constants"
+        ],
+        "prefix": "10.1017",
+        "member": "56",
+        "container-title": [
+          "Thermodynamics of Chemical Systems"
+        ],
+        "link": [
+          {
+            "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CC4C2536548D6822851F5CAB28535530",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              10,
+              14
+            ]
+          ],
+          "date-time": "2022-10-14T23:46:57Z",
+          "timestamp": 1665791217000
+        },
+        "score": 27.986534,
+        "resource": {
+          "primary": {
+            "URL": "https://www.cambridge.org/core/product/identifier/CBO9780511564369A215/type/book_part"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              1990,
+              3,
+              30
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1017/cbo9780511564369.018",
+        "published": {
+          "date-parts": [
+            [
+              1990,
+              3,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              11
+            ]
+          ],
+          "date-time": "2022-06-11T15:45:57Z",
+          "timestamp": 1654962357235
+        },
+        "edition-number": "2",
+        "reference-count": 0,
+        "publisher": "Cambridge University Press",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2020,
+                  12,
+                  10
+                ]
+              ],
+              "date-time": "2020-12-10T00:00:00Z",
+              "timestamp": 1607558400000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://www.cambridge.org/core/terms"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2020,
+                  12,
+                  10
+                ]
+              ],
+              "date-time": "2020-12-10T00:00:00Z",
+              "timestamp": 1607558400000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://www.cambridge.org/core/terms"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              31
+            ]
+          ]
+        },
+        "DOI": "10.1017/9781316471524.012",
+        "type": "other",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              10
+            ]
+          ],
+          "date-time": "2020-12-10T05:41:06Z",
+          "timestamp": 1607578866000
+        },
+        "page": "416-419",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Fundamental Constants, Units and Relations"
+        ],
+        "prefix": "10.1017",
+        "member": "56",
+        "container-title": [
+          "The Cosmic Microwave Background"
+        ],
+        "link": [
+          {
+            "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/DE9FE9C84A359704CCF7878DE9D56882",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              11
+            ]
+          ],
+          "date-time": "2022-06-11T15:18:00Z",
+          "timestamp": 1654960680000
+        },
+        "score": 27.970566,
+        "resource": {
+          "primary": {
+            "URL": "https://www.cambridge.org/core/product/identifier/9781316471524%23apx1/type/book_part"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              31
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1017/9781316471524.012",
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              31
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              11
+            ]
+          ],
+          "date-time": "2022-06-11T19:41:06Z",
+          "timestamp": 1654976466521
+        },
+        "edition-number": "1",
+        "reference-count": 0,
+        "publisher": "Cambridge University Press",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2012,
+                  6,
+                  5
+                ]
+              ],
+              "date-time": "2012-06-05T00:00:00Z",
+              "timestamp": 1338854400000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 1398,
+            "URL": "https://www.cambridge.org/core/terms"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              8,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1017/cbo9780511817205.010",
+        "type": "other",
+        "created": {
+          "date-parts": [
+            [
+              2012,
+              6,
+              18
+            ]
+          ],
+          "date-time": "2012-06-18T18:09:29Z",
+          "timestamp": 1340042969000
+        },
+        "page": "326-329",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Fundamental constants, units and relations"
+        ],
+        "prefix": "10.1017",
+        "member": "56",
+        "container-title": [
+          "The Cosmic Microwave Background"
+        ],
+        "link": [
+          {
+            "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/050A4FE13948F7831EF304ABC1EB9360",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              11
+            ]
+          ],
+          "date-time": "2022-06-11T19:07:03Z",
+          "timestamp": 1654974423000
+        },
+        "score": 27.970566,
+        "resource": {
+          "primary": {
+            "URL": "https://www.cambridge.org/core/product/identifier/CBO9780511817205A058/type/book_part"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              8,
+              7
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1017/cbo9780511817205.010",
+        "published": {
+          "date-parts": [
+            [
+              2008,
+              8,
+              7
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              5
+            ]
+          ],
+          "date-time": "2022-04-05T05:55:02Z",
+          "timestamp": 1649138102309
+        },
+        "edition-number": "1",
+        "reference-count": 0,
+        "publisher": "Cambridge University Press",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.1017/cbo9781139050463.020",
+        "type": "other",
+        "created": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              28
+            ]
+          ],
+          "date-time": "2018-05-28T10:05:46Z",
+          "timestamp": 1527501946000
+        },
+        "page": "509-512",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Units and Constants"
+        ],
+        "prefix": "10.1017",
+        "member": "56",
+        "container-title": [
+          "Fundamental Planetary Science"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              26
+            ]
+          ],
+          "date-time": "2021-08-26T21:11:49Z",
+          "timestamp": 1630012309000
+        },
+        "score": 27.948376,
+        "resource": {
+          "primary": {
+            "URL": "https://www.cambridge.org/highereducation/books/fundamental-planetary-science/7D60400975EFC2A392B55EA8F3BB2233?chapterId=CBO9781139050463A178#contents"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1017/cbo9781139050463.020"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              28
+            ]
+          ],
+          "date-time": "2026-02-28T01:00:21Z",
+          "timestamp": 1772240421878,
+          "version": "3.50.1"
+        },
+        "reference-count": 0,
+        "publisher": "Princeton University Press",
+        "isbn-type": [
+          {
+            "value": "9780691190198",
+            "type": "electronic"
+          },
+          {
+            "value": "0691190194",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.2307/j.ctv301gk5.17",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2018,
+              7,
+              5
+            ]
+          ],
+          "date-time": "2018-07-05T17:20:08Z",
+          "timestamp": 1530811208000
+        },
+        "page": "493-499",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Fundamental and Astronomical Constants and Units"
+        ],
+        "prefix": "10.2307",
+        "member": "1121",
+        "container-title": [
+          "Gravitation and Inertia"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2018,
+              7,
+              5
+            ]
+          ],
+          "date-time": "2018-07-05T17:20:16Z",
+          "timestamp": 1530811216000
+        },
+        "score": 27.659136,
+        "resource": {
+          "primary": {
+            "URL": "http://www.jstor.org/stable/10.2307/j.ctv301gk5.17"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780691190198",
+          "0691190194"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.2307/j.ctv301gk5.17",
+        "relation": {
+          "is-identical-to": [
+            {
+              "id-type": "doi",
+              "id": "10.1515/9780691190198-015",
+              "asserted-by": "object"
+            }
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              5
+            ]
+          ],
+          "date-time": "2022-04-05T02:26:04Z",
+          "timestamp": 1649125564674
+        },
+        "edition-number": "1",
+        "reference-count": 0,
+        "publisher": "Cambridge University Press",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2019,
+                  7,
+                  26
+                ]
+              ],
+              "date-time": "2019-07-26T00:00:00Z",
+              "timestamp": 1564099200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 22,
+            "URL": "https://www.cambridge.org/core/terms"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              7,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1017/9781108304061.020",
+        "type": "other",
+        "created": {
+          "date-parts": [
+            [
+              2019,
+              7,
+              26
+            ]
+          ],
+          "date-time": "2019-07-26T07:13:33Z",
+          "timestamp": 1564125213000
+        },
+        "page": "519-521",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Units and Constants"
+        ],
+        "prefix": "10.1017",
+        "member": "56",
+        "container-title": [
+          "Fundamental Planetary Science"
+        ],
+        "link": [
+          {
+            "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0DD00F18D1C0EFC51847DEBD586516EA",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              26
+            ]
+          ],
+          "date-time": "2021-08-26T20:50:29Z",
+          "timestamp": 1630011029000
+        },
+        "score": 27.64856,
+        "resource": {
+          "primary": {
+            "URL": "https://www.cambridge.org/highereducation/books/fundamental-planetary-science/8FD11659BE64C35A172DF0432D7FCFA4?chapterId=9781108304061%23APX3#contents"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              7,
+              4
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.1017/9781108304061.020",
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              7,
+              4
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 10,
+    "query": {
+      "start-index": 0,
+      "search-terms": "natural units reformulation fundamental constants"
+    }
+  }
+}
