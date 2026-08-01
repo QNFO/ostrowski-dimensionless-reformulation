@@ -384,7 +384,7 @@ G₀ = 2e²/(2π) = e²/π. If charge is in elementary charge units ẽ = e/e = 
 
 ### CM-4: London Penetration Depth (Class F: ℏ, c, e)
 **Dimensional form:** λ_L = √(m/(μ₀ n_s e²)) [established]
-**Dimensionless:** λ̃_L = √(m̃/(ñ_s α))
+**Dimensionless:** λ̃_L = √(m̃/(4πα ñ_s))  [v2.0 correction: 4π restored; λ̃_Lω̃_p = 1]
 *Where:* λ̃_L = λ_L/ℓ_P, using μ₀e²/ℏ = 4πα and ℏ = c = 1
 
 ### CM-5: BCS Gap Equation (Class F: ℏ, k_B)

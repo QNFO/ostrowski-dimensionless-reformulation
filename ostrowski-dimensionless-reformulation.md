@@ -359,6 +359,155 @@ Several of the most important physical constants are already dimensionless and r
 
 The existence of these already-dimensionless fundamental constants supports the thesis that the dimensional ones -- ℏ, c, G, k_B, ε₀ -- are artifacts of unit conventions, not independent properties of nature. The dimensionless reformulation exposes this by showing that every dimensional formula reduces to one involving only dimensionless constants plus the pure-number α.
 
+
+### 3.8 Systems of Dimensionless Equations
+
+The dimensionless reformulation's most consequential property is that it makes relationships BETWEEN formulas visible — relationships that are obscured in dimensional form by the constants' numerical values. This section identifies four systems of dimensionless equations: families of formulas that, expressed in Planck units, form closed algebraic systems whose members constrain each other.
+
+#### 3.8.1 The Quantum Triad (Schrödinger–de Broglie–Heisenberg)
+
+In dimensionless Planck units, three cornerstone quantum formulas become a single closed system:
+
+$$\mathrm{Schr\"odinger: }\; i\frac{\partial\psi}{\partial\tilde{t}} = \left(-\frac{1}{2\tilde{m}}\tilde{\nabla}^2 + \tilde{V}\right)\psi$$
+
+$$\mathrm{de\;Broglie: }\; \tilde{p} = \frac{2\pi}{\tilde{\lambda}}$$
+
+$$\mathrm{Heisenberg: }\; \Delta\tilde{x}\,\Delta\tilde{p} \geq \frac{1}{2}$$
+
+The de Broglie relation supplies the momentum operator content of the Schrödinger equation (via the substitution $\tilde{p} = -i\tilde{\nabla}$ acting on plane waves $e^{i(\tilde{p}\cdot\tilde{x} - \tilde{E}\tilde{t})}$); the Heisenberg principle then bounds the product of position and momentum uncertainties in the same units. The three formulas form a triangle of mutual constraint: de Broglie gives the wave-length-to-momentum mapping, Schrödinger gives the evolution law, and Heisenberg gives the uncertainty floor. In dimensionless form, the only number appearing is 1/2 — a pure geometric constant with no unit content. `[established]`
+
+Substituting the de Broglie relation into the Heisenberg bound yields $\Delta\tilde{x} \geq \tilde{\lambda}/(4\pi)$ — a dimensionless statement that the position uncertainty of a particle is at least its de Broglie wavelength divided by 4π. No dimensional constants appear; the relation is a pure-number constraint valid at every completion.
+
+#### 3.8.2 The Mass-Frequency Web
+
+The Mass-Frequency Identity (DOI: 10.5281/zenodo.21360549) establishes $\tilde{m} = \tilde{\omega}$ in Planck units. Substituting this identity into the relativistic quantum equations yields a closed system of five formulas:
+
+$$\mathrm{Schr\"odinger\;(stationary): }\; \left(-\frac{1}{2\tilde{\omega}}\tilde{\nabla}^2 + \tilde{V}\right)\psi = \tilde{\omega}\psi$$
+
+$$\mathrm{Dirac: }\; (i\gamma^\mu \tilde{\partial}_\mu - \tilde{\omega})\psi = 0$$
+
+$$\mathrm{Klein\text{-}Gordon: }\;(\square + \tilde{\omega}^2)\phi = 0$$
+
+$$\text{Compton: } \tilde{\lambda}_C = \frac{2\pi}{\tilde{\omega}}$$
+
+$$\text{de Broglie: } \tilde{\lambda} = \frac{2\pi}{\tilde{p}}$$
+
+When $\tilde{m} = \tilde{\omega}$, the Compton wavelength of a particle IS its mass-frequency's reciprocal (up to 2π): $\tilde{\lambda}_C = 2\pi/\tilde{\omega} = 2\pi/\tilde{m}$. The system closes: mass, frequency, and Compton wavelength become three expressions of one dimensionless quantity. The fermion (Dirac) and boson (Klein–Gordon) equations both admit the substitution, unifying their mass terms. `[established — Mass-Frequency Identity v3.2.0]`
+
+#### 3.8.3 The Thermo-Gravity Bridge
+
+The most striking system connects thermodynamics to gravity through black hole geometry — four formulas spanning two disciplines that appear unrelated in dimensional form:
+
+$$\mathrm{Schwarzschild: }\; \tilde{r}_s = 2\tilde{M}$$
+
+$$\mathrm{Horizon\;area: }\; \tilde{A} = 4\pi\tilde{r}_s^2 = 16\pi\tilde{M}^2$$
+
+$$\mathrm{Bekenstein\text{-}Hawking: }\; \tilde{S}_{BH} = \frac{\tilde{A}}{4} = 4\pi\tilde{M}^2$$
+
+$$\mathrm{Hawking: }\; \tilde{T}_H = \frac{1}{8\pi\tilde{M}}$$
+
+Substituting the Hawking temperature into the Stefan–Boltzmann law ($\tilde{j}_* = (\pi^2/60)\tilde{T}_H^4$) gives the black hole radiative flux:
+
+$$\tilde{j}_* = \frac{\pi^2}{60}\left(\frac{1}{8\pi\tilde{M}}\right)^4 = \frac{1}{245760\,\pi^2\,\tilde{M}^4}$$
+
+This single dimensionless equation connects black hole mass to radiative output through four intermediate formulas — all expressed as pure-number relations. The system reveals the fundamental scaling: black hole flux decreases as the fourth power of the inverse mass, $\tilde{j}_* \propto \tilde{M}^{-4}$. `[established — derivation verified]`
+
+#### 3.8.4 The Information-Entropy Web
+
+Four information-theoretic bounds form a closed system in dimensionless form:
+
+$$\mathrm{Bekenstein\;bound: }\; \mathcal{I} \leq \frac{2\pi\tilde{R}\tilde{E}}{\ln 2}$$
+
+$$\text{Bekenstein–Hawking entropy: } \tilde{S}_{BH} = \frac{\tilde{A}}{4}$$
+
+$$\mathrm{Landauer: }\; \tilde{E} \geq \tilde{T}\ln 2$$
+
+$$\mathrm{Margolus\text{-}Levitin: }\; \tilde{\tau} \geq \frac{\pi}{2\Delta\tilde{E}}$$
+
+For a Schwarzschild black hole ($\tilde{R} = \tilde{r}_s = 2\tilde{M}$, $\tilde{E} = \tilde{M}$), the Bekenstein bound saturates:
+
+$$\mathcal{I}_{max} = \frac{2\pi \cdot 2\tilde{M} \cdot \tilde{M}}{\ln 2} = \frac{4\pi\tilde{M}^2}{\ln 2} = \frac{\tilde{S}_{BH}}{\ln 2} \approx 1.4427\,\tilde{S}_{BH}$$
+
+The black hole is the system that saturates the information bound — its information content is its horizon entropy divided by ln 2 (bits). The Landauer and Margolus–Levitin bounds constrain the computational physics of the same system: each bit erased costs $\tilde{T}\ln 2$ of energy, and each elementary operation takes at least $\pi/(2\tilde{M})$ of Planck time. The dimensionless web shows all four bounds are facets of one underlying information-theoretic constraint structure. `[established — Bekenstein saturation, OC v1.2 DOI: 10.5281/zenodo.21748773]`
+
+
+
+### 3.9 Cross-Domain, Interdisciplinary Formula Bridges
+
+Beyond the within-discipline systems of §3.8, the dimensionless reformulation enables bridges BETWEEN disciplines — single dimensionless relations that connect formulas from different domains through shared ratios. These bridges are Ostrowski/Tate-compliant by construction: every quantity is a dimensionless ratio, every relation is a rational function of ratios, and every formula is simultaneously well-defined at every completion of ℚ.
+
+#### 3.9.1 Quantum-Classical Bridge (B1)
+
+The de Broglie wavelength, Bohr radius, and Compton wavelength of the same particle form a bridge between classical atomic physics and quantum mechanics:
+
+$$\tilde{a}_0 = \frac{1}{\alpha(\tilde{Q}^2)\,\tilde{m}_e}, \qquad \tilde{\lambda}_C = \frac{2\pi}{\tilde{m}_e}, \qquad \frac{\tilde{a}_0}{\tilde{\lambda}_C} = \frac{1}{2\pi\alpha} \approx 21.8$$
+
+The ratio $\tilde{a}_0/\tilde{\lambda}_C = 1/(2\pi\alpha)$ is a pure number connecting the atomic scale (Bohr radius) to the particle scale (Compton wavelength). With the v1.7 running-coupling correction, α is evaluated at the atomic scale ($\tilde{Q} \sim \alpha\tilde{m}_e$), where the deep-IR value 1/137.036 applies to high precision. The bridge demonstrates that the fine-structure constant α IS the quantum-classical connection ratio. `[established]`
+
+#### 3.9.2 Plasma-Thermodynamic Bridge (B2)
+
+The Debye length and plasma frequency — two central plasma physics formulas — combine to yield a pure thermodynamic statement:
+
+$$\tilde{\omega}_p = \sqrt{\frac{4\pi\alpha\,\tilde{n}}{\tilde{m}}}, \qquad \tilde{\lambda}_D = \sqrt{\frac{\tilde{T}}{4\pi\alpha\,\tilde{n}}}$$
+
+$$\tilde{\omega}_p \tilde{\lambda}_D = \sqrt{\frac{\tilde{T}}{\tilde{m}}} = \tilde{v}_{th}$$
+
+The number density $\tilde{n}$ cancels exactly, leaving the thermal velocity $\tilde{v}_{th} = \sqrt{\tilde{T}/\tilde{m}}$ — a pure ratio of temperature to mass, dimensionless and scale-free. The bridge connects plasma physics to kinetic theory with no remaining plasma parameters. `[established — derivation verified]`
+
+#### 3.9.3 Information-Physics Unity (B3)
+
+The four bounds of §3.8.4 extend to a bridge between information theory and physical limits:
+
+$$\tilde{E}_{Landauer} = \tilde{T}\ln 2, \qquad \tilde{\tau}_{ML} = \frac{\pi}{2\tilde{M}}, \qquad \mathcal{I}_{max} = \frac{2\pi\tilde{R}\tilde{M}}{\ln 2}$$
+
+For a system of mass $\tilde{M}$, radius $\tilde{R}$, and temperature $\tilde{T}$, the dimensionless forms reveal that all three limits are controlled by the same dimensionless quantities — temperature, mass, and radius — with only pure numbers (ln 2, π) as coefficients. The information-physics bridge shows that computational limits are thermodynamic limits in disguise. `[established]`
+
+#### 3.9.4 Fine-Structure Bridge (B4)
+
+The fine-structure constant connects the electromagnetic and gravitational forces at any scale:
+
+$$\frac{\tilde{F}_{elec}}{\tilde{F}_{grav}} = \alpha(\tilde{Q}^2) \cdot \frac{\tilde{q}_1\tilde{q}_2}{\tilde{m}_1\tilde{m}_2}$$
+
+For two identical particles, $\tilde{F}_{elec}/\tilde{F}_{grav} = \alpha\,\tilde{q}^2/\tilde{m}^2$. For an electron-like particle ($\tilde{m}_e \approx 4.185 \times 10^{-23}$), this ratio is approximately $\alpha \times 1^2/(4.185 \times 10^{-23})^2 \approx 4.17 \times 10^{42}$ — the famous hierarchy between electromagnetic and gravitational force strengths, expressed as a pure ratio of dimensionless quantities. The bridge reveals that the "hierarchy problem" is a ratio of ratios: α times the squared inverse mass ratio. `[established]`
+
+#### 3.9.5 Spectral-Thermal Bridge (B5)
+
+The Wien displacement law and Planck's law combine into a dimensionless bridge:
+
+$$\tilde{\omega}_{max}\tilde{T}^{-1} \approx 2.821$$
+
+The dimensionless Wien constant 2.821 (the solution of the transcendental equation $x = 3(1 - e^{-x})$) is a pure number connecting the spectral peak frequency to temperature — scale-free and completion-independent. The Stefan-Boltzmann constant $\pi^2/60$ and the Wien constant $2.821$ are the two pure-number outputs of the Planck spectrum's dimensionless integration. `[established]`
+
+#### 3.9.6 Superconductivity-Thermal Bridge (B6)
+
+The BCS gap equation and the Debye T³ law connect condensed matter physics to thermodynamics:
+
+$$\tilde{T}_c \approx 1.13\,\tilde{\omega}_D \exp\left(-\frac{1}{\tilde{N}(0)\tilde{V}}\right)$$
+
+$$\tilde{C}_V^{Debye} = \frac{12\pi^4}{5}\tilde{N}\left(\frac{\tilde{T}}{\tilde{T}_D}\right)^3$$
+
+Both involve the Debye frequency $\tilde{\omega}_D$ — the BCS transition temperature scales with it exponentially, the Debye heat capacity with its cube. The bridge connects superconductivity to lattice thermodynamics through the single dimensionless ratio $\tilde{T}/\tilde{T}_D$. `[established]`
+
+#### 3.9.7 Condensed Matter Web (B7)
+
+The London penetration depth, plasma frequency, and Compton wavelength form a condensed-matter-web:
+
+$$\tilde{\lambda}_L = \sqrt{\frac{\tilde{m}}{4\pi\alpha\,\tilde{n}_s}}, \qquad \tilde{\omega}_p = \sqrt{\frac{4\pi\alpha\,\tilde{n}_s}{\tilde{m}}}, \qquad \tilde{\lambda}_C = \frac{2\pi}{\tilde{m}}$$
+
+$$\tilde{\lambda}_L\,\tilde{\omega}_p = \sqrt{\frac{\tilde{m}}{4\pi\alpha\,\tilde{n}_s}} \times \sqrt{\frac{4\pi\alpha\,\tilde{n}_s}{\tilde{m}}} = 1$$
+
+The product of London penetration depth and plasma frequency is exactly **unity** in Planck units — the dimensionless form of the SI identity $\lambda_L \omega_p = c$. Two material-dependent quantities (penetration depth depends on superfluid density $\tilde{n}_s$, plasma frequency on both $\tilde{n}_s$ and $\tilde{m}$) multiply to exactly 1, a universal pure number independent of all material parameters. This is the fundamental condensate relation: the London length is the reciprocal of the plasma wavenumber. `[derivation verified — v2.0 refactor red-team correction of the v1.0 inventory's missing 4π]`
+
+#### 3.9.8 Electro-Gravity Bridge (B8)
+
+The dimensionless Coulomb and Newton forces unify into a single force law:
+
+$$\tilde{F} = \frac{\alpha(\tilde{Q}^2)\,\tilde{q}_1\tilde{q}_2}{\tilde{r}^2} - \frac{\tilde{G}\,\tilde{m}_1\tilde{m}_2}{\tilde{r}^2} = \frac{\alpha\,\tilde{q}_1\tilde{q}_2 - \tilde{m}_1\tilde{m}_2}{\tilde{r}^2}$$
+
+With $\tilde{G} = 1$ in Planck units, the gravitational term reduces to $\tilde{m}_1\tilde{m}_2/\tilde{r}^2$. The single dimensionless force law covers both the electromagnetic and gravitational forces, distinguished only by the coupling α and the charge-to-mass content. This is the Ostrowski/Tate-compliant unification statement: one rational function of dimensionless ratios for both forces. `[established — with v1.7 running-coupling annotation]`
+
+
+
 ## 4 Discussion
 
 ### 4.1 What the Reformulation Does Not Change
