@@ -237,6 +237,22 @@ with the solution α(Q̃²) = α(0)/(1 − (α(0)/3π) ln(Q̃²/μ̃₀²)).
 
 
 
+
+#### 2.5.1 The Breadth Trap: Non-Computable Reals Are Physically Unfalsifiable
+
+A further Archimedean trap, surfaced by the qnfo-core §0.7.1 mandate (v1.4, 2026-08-02), concerns the very constitution of the real numbers used in physics. The Archimedean completion ℝ decomposes into two dimensions with starkly different physical status:
+
+- **DEPTH:** the Archimedean completion itself — limits, continuity, dynamics. This is physical: it is required for differential equations, Cauchy convergence, and the continuum of spacetime.
+- **BREADTH:** the power-set overhang of ℝ — the non-computable reals. These have NO physical signature. No finite measurement protocol can discriminate two non-computable reals, so any formula whose content depends on a non-computable value is physically unfalsifiable.
+
+Per the Continuum Trilogy Paper I (DOI: 10.5281/zenodo.21672990), the physical continuum is the **computable** Archimedean continuum crossed with computable p-adic continua:
+
+$$\mathbb{R}_c 	imes \prod_{p \in S} \mathbb{Q}_p^c$$
+
+— breadth is eliminated. Every dimensionless ratio in this paper — every $	ilde{x}_i = x_i/x_i^{(P)}$ — is a computable ratio of computable quantities, hence an element of $\mathbb{R}_c$. The ODR program is thus not merely place-democratic in the p-adic sense; it is also breadth-free in the Archimedean sense: it never depends on a non-computable real. The specific numerical values quoted (1/137.036, 3.14159, etc.) are computable Archimedean projections of computable ratios — never non-computable constants. `[established — Continuum Trilogy Paper I, DOI: 10.5281/zenodo.21672990]`
+
+
+
 ## 3 Systematic Reformulation
 
 We present selected reformulations organized by discipline. The complete inventory of 53 formulas is available in the supplementary artifact `artifacts/formula-inventory.md`.
