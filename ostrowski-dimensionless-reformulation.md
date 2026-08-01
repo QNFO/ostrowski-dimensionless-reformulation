@@ -39,6 +39,10 @@ This paper extends the program to a systematic survey across ten physical discip
 
 **Relationship to the Dimensionless Physics Framework (v1.3.1, DOI: 10.5281/zenodo.21206291, 2026-07-05):** A parallel QNFO project, "Dimensionless Physics: A Unified Framework," addresses the same core problem from a complementary perspective. Where the Dimensionless Physics Framework provides a unified conceptual architecture, ODR provides the systematic formula-level inventory — the detailed algebraic derivations that operationalize the framework's principles for 53 specific equations. The two projects are mutually reinforcing: the Framework supplies the conceptual scaffolding; ODR supplies the formula-specific evidence base. `[established]`
 
+**Cross-domain Ostrowski application:** The paper "When Will Non-Archimedean Geometry Displace the Real Numbers? A Structured Assessment of the Adelic Substrate Thesis" (DOI: 10.5281/zenodo.21747228, 2026-08-01) independently applies the Ostrowski framework to assess the adelic substrate thesis — directly corroborating ODR's central argument that the dimensional/Archimedean formalism is a convention, not a necessity. `[established]`
+
+**Bruhat-Tits mass-frequency correspondence:** "The Adelic Cross-Domain Program: From the Fine-Structure Constant to the Standard Model Mass Spectrum via Bruhat-Tits Trees" (DOI: 10.5281/zenodo.21736300, 2026-08-01) extends the mass-frequency identity to the Standard Model mass spectrum via p-adic infrastructure — demonstrating that the dimensionless reformulation's implications reach beyond unit normalization into predictive physics. `[established]`
+
 ### 1.3 Scope and Classification
 
 We classify 53 fundamental physics equations into seven formula classes based on which dimensional constants they contain:
@@ -191,6 +195,25 @@ The dimensionless reformulation is a rewriting, not a replacement. No physical p
 
 What changes is the **interpretive framework**: the dimensional form embeds physical law in a specific number system (the real numbers, the Archimedean completion), while the dimensionless form makes no such commitment. This is relevant if one takes seriously the possibility that physical quantities at the Planck scale require non-Archimedean completions -- a possibility suggested by the adelic approach to physics `[speculative -- see Non-Anthropocentric Natural Units, DOI 10.5281/zenodo.21480756]`.
 
+### 4.1.1 Comparative Analysis: ODR vs. Competitive Approaches
+
+An independent external paper by Feldt (2026), "A Recursive Entropic Architecture for Cosmological Structure with Dimensional Invariance (REACS-DI): From Bohr Radius to Galaxy Filament—A Dimensionless Reformulation of Classical, Relativistic, and Quantum Laws," addresses the same core problem — the dimensionless reformulation of physics — from a fundamentally different framework. Where Feldt employs a recursive entropic architecture, ODR's approach is grounded in Ostrowski's theorem and number-theoretic place-democracy. This distinction in framework is substantive: entropic recursion treats the dimensionless re-expression as a consequence of informational constraints on structure formation, whereas Ostrowski's theorem treats it as a consequence of the mathematical structure of the rational numbers themselves — the latter being a more parsimonious foundation since it requires no additional physical assumptions beyond the known dimensional homogeneity of physical laws.
+
+Table: Comparison of ODR and Feldt REACS-DI (2026) frameworks.
+
+| Dimension | REACS-DI (Feldt 2026) | ODR (this work) |
+|:----------|:----------------------|:----------------|
+| Guiding principle | Entropic/recursive architecture | Ostrowski's theorem → place-democracy |
+| Mathematical foundation | Entropy-based recursion | Number theory (p-adic completions) |
+| Scope | Classical, relativistic, quantum laws | 53 formulas across 10 disciplines |
+| Classification | Not reported | A-G taxonomy by constant type |
+| Correspondence proof | Not reported | Explicit Buckingham Pi theorem proof |
+| Boundary cases | Not reported | 3 categories documented |
+| Ostrowski grounding | Not present | Core contribution |
+| Complementary to ODR | Yes — different framework, same goal | — |
+
+The frameworks are complementary rather than competing: REACS-DI provides a physical motivation (entropic necessity) for the dimensionless regime; ODR provides the mathematical proof (Ostrowski's theorem) that the reformulation is universally applicable across all of fundamental physics. A future synthesis could unify the two perspectives: entropic dimensional invariance as a *physical consequence* of number-theoretic place-democracy, rather than an alternative to it. `[speculative]`
+
 ### 4.2 Boundary Cases
 
 Three categories of formulas require special handling:
@@ -204,6 +227,8 @@ Three categories of formulas require special handling:
 ### 4.3 Limitations
 
 This survey is not exhaustive. It covers 53 fundamental equations but does not include every formula in every subfield. Omitted categories include: detailed nuclear structure formulas beyond the semi-empirical mass formula, neutrino oscillation probabilities (which are inherently dimensionless), renormalization group equations beyond the one-loop examples, and most quantum information measures (most of which are inherently dimensionless). Future work could extend the inventory to these areas. `[speculative]`
+
+**Pedagogical precedent:** The external literature provides strong support for the pedagogical value of the dimensionless reformulation. Humpherys (2024), "Understanding the natural units and their hidden role in the laws of physics" (*European Journal of Physics*, 12 citations), and its precursor Humpherys (2021), "Natural Planck units and the structure of matter and radiation" (*Quantum Speculations*, 10 citations), demonstrate that restating physical formulas in natural Planck units reveals structural relationships obscured by dimensional constants. While Humpherys's approach is explicitly pedagogical (the "hidden role" is a teaching insight, not an ontological claim), ODR's Ostrowski rationale provides the mathematical justification for why the pedagogical insight has ontological force: the dimensional form literally cannot be evaluated at non-Archimedean places, making the dimensionless form not merely clearer but uniquely well-defined across all completions of ℚ. `[established]`
 
 Additionally, the dimensionless reformulation does not address the question of whether physical laws ARE place-democratic -- it only makes the formulas compatible with such an interpretation if one chooses to adopt it. The reformulation is a necessary condition for place-democratic physics but not a sufficient one. `[my conjecture]`
 
@@ -261,3 +286,7 @@ The dimensionless program does not change the physics -- it changes what we see 
 14. Quni-Gudzinas, R. B. (2026). Fine-Structure Constant as a Cross-Ratio: A Geometric Reframing of alpha. Zenodo. DOI: 10.5281/zenodo.20108536.
 15. Quni-Gudzinas, R. B. (2026). Alpha-Pi-Helix v2.1. Zenodo. DOI: 10.5281/zenodo.21515612.
 16. Quni-Gudzinas, R. B. (2026). Compton Frequency Cross-Ratios on Bruhat-Tits Trees v2.3.1. Zenodo. DOI: 10.5281/zenodo.21491767.
+17. Quni-Gudzinas, R. B. (2026). When Will Non-Archimedean Geometry Displace the Real Numbers? A Structured Assessment of the Adelic Substrate Thesis. Zenodo. DOI: 10.5281/zenodo.21747228.
+18. Quni-Gudzinas, R. B. (2026). The Adelic Cross-Domain Program: From the Fine-Structure Constant to the Standard Model Mass Spectrum via Bruhat-Tits Trees. Zenodo. DOI: 10.5281/zenodo.21736300.
+19. Humpherys, D. (2024). Understanding the natural units and their hidden role in the laws of physics. *European Journal of Physics*. DOI: 10.1088/1361-6404/ad3122.
+20. Feldt, W. (2026). A Recursive Entropic Architecture for Cosmological Structure with Dimensional Invariance (REACS-DI): From Bohr Radius to Galaxy Filament. Cambridge University Press.
