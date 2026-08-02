@@ -1,6 +1,6 @@
 {
   "concept_doi": "10.5281/zenodo.21749884",
-  "latest_deposit_id": 21755274,
+  "latest_deposit_id": 21755322,
   "versions": [
     {
       "doi": "10.5281/zenodo.21749885",
@@ -54,6 +54,12 @@
       "doi": "10.5281/zenodo.21755274",
       "deposit_id": 21755274,
       "tag": "v2.3",
+      "published_at": "2026-08-02"
+    },
+    {
+      "doi": "10.5281/zenodo.21755322",
+      "deposit_id": 21755322,
+      "tag": "v2.3.1",
       "published_at": "2026-08-02"
     }
   ]

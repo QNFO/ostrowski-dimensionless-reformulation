@@ -1,9 +1,9 @@
 ---
-title: "ODR v2.3: Red-Team Response, Refined Thesis, and Research Roadmap"
+title: "ODR v2.3.1: Red-Team Response, Refined Thesis, and Research Roadmap"
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-08-02"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: "10.5281/zenodo.21755274"
+doi: "10.5281/zenodo.21755322"
 status: "published"
 ---
 
@@ -11,7 +11,7 @@ status: "published"
 
 ## Abstract
 
-We present a comprehensive response to a structured red-team critique of the Ostrowski Dimensionless Reformulation (ODR) paper (v2.0.2, DOI: 10.5281/zenodo.21754102). Nine adversarial positions are engaged and addressed point-by-point: the equivocation fallacy, circular definitions, the &pi; problem, ontological overreach, the falsifiability tautology, running couplings, zero predictive yield, the adelic path integral, and the breadth trap. The strongest critiques — Euclidean &pi; portability, ontological overreach, and the adelic path integral — are conceded and corrected. The core claim is refined from "physics IS p-adic" to "dimensional formulations CANNOT be evaluated at non-Archimedean places; dimensionless ratios CAN." Six precise refinements are established, each absorbing a specific critique. The paper concludes with a concrete five-program research roadmap: (I) mapping Standard Model masses to Bruhat-Tits tree coordinates, (II) exact rational simulations via Hensel codes, (III) Hecke algebra fixed points as a mass-generation mechanism, (IV) ultrametric noise signatures in quantum experiments, and (V) mathematical rigor for the adelic path integral. The resulting framework — ODR v2.3 — is a defensible, rigorous, and genuinely useful mathematical hygiene standard for future physics theories.
+We present a comprehensive response to a structured red-team critique of the Ostrowski Dimensionless Reformulation (ODR) paper (v2.0.2, DOI: 10.5281/zenodo.21754102). Nine adversarial positions are engaged and addressed point-by-point: the equivocation fallacy, circular definitions, the &pi; problem, ontological overreach, the falsifiability tautology, running couplings, zero predictive yield, the adelic path integral, and the breadth trap. The strongest critiques — Euclidean &pi; portability, ontological overreach, and the adelic path integral — are conceded and corrected. The core claim is refined from "physics IS p-adic" to "dimensional formulations CANNOT be evaluated at non-Archimedean places; dimensionless ratios CAN." Six precise refinements are established, each absorbing a specific critique. The paper concludes with a concrete five-program research roadmap: (I) mapping Standard Model masses to Bruhat-Tits tree coordinates, (II) exact rational simulations via Hensel codes, (III) Hecke algebra fixed points as a mass-generation mechanism, (IV) ultrametric noise signatures in quantum experiments, and (V) mathematical rigor for the adelic path integral. The resulting framework — ODR v2.3.1 — is a defensible, rigorous, and genuinely useful mathematical hygiene standard for future physics theories.
 
 **Keywords:** Ostrowski theorem, red-team audit, dimensionless reformulation, Bruhat-Tits tree, cross-ratios, Hensel codes, ultrametric noise, Hecke algebra, adelic path integral, place democracy, Standard Model masses, renormalization group
 
@@ -25,7 +25,7 @@ _A defense of the Ostrowski Dimensionless Reformulation_
 
 ## On the "Equivocation Fallacy" (Critique #1)
 
-**The critique:** Ostrowski classifies number systems, not physical measurements. Just because a formula _can_ be evaluated p-adically doesn't mean p-adic evaluation corresponds to physical observables.
+**The critique:** Ostrowski classifies number systems, not physical measurements. Just because a formula _can_ be evaluated p-adically does not mean p-adic evaluation corresponds to physical observables.
 
 **Response:** This critique mistakes the paper's argument. The paper does **not** claim p-adic physics _is_ physical reality—it claims that dimensional formulas _cannot even be evaluated_ in p-adic completions, while dimensionless formulas _can_. The argument is about **mathematical completeness**, not physical ontology.
 
@@ -154,11 +154,11 @@ The paper's formulation is abbreviated; it references the Non-Anthropocentric Na
 
 **Response:** Standard physics uses the **full real continuum** as its mathematical foundation. The real numbers ℝ include uncountably many non-computable elements. The paper's argument is not that physicists _intentionally_ use them—it is that the **mathematical machinery** (ℝ as a complete ordered field) implicitly includes them.
 
-The "Breadth Trap" distinction between depth (the Archimedean completion itself, which is physical) and breadth (the power-set overhang, which is unfalsifiable) is a **hygiene standard**. It says: if your theory depends on an element of ℝ that is non-computable, you cannot even in principle test it. Standard physics doesn't do this _intentionally_, but the paper argues that using ℝ as the foundational number system **opens the door** to breadth contamination.
+The "Breadth Trap" distinction between depth (the Archimedean completion itself, which is physical) and breadth (the power-set overhang, which is unfalsifiable) is a **hygiene standard**. It says: if your theory depends on an element of ℝ that is non-computable, you cannot even in principle test it. Standard physics does not do this _intentionally_, but the paper argues that using ℝ as the foundational number system **opens the door** to breadth contamination.
 
 The critique says "computable reals are still Archimedean." True—but the paper's point is that the Archimedean completion has two dimensions: **depth** (which is required for continuity and differential equations) and **breadth** (which is surplus). The paper advocates using RcRc​ (computable reals) instead of the full RR. This is a **conservative** move, not a radical one—it eliminates mathematically unnecessary baggage.
 
-The critique's claim that "stripping breadth doesn't strip depth" is exactly the paper's point. The paper **retains** the Archimedean continuum for depth; it just discards the non-computable overhang. This is not a strawman; it is a precise mathematical refinement.
+The critique's claim that "stripping breadth does not strip depth" is exactly the paper's point. The paper **retains** the Archimedean continuum for depth; it just discards the non-computable overhang. This is not a strawman; it is a precise mathematical refinement.
 
 ---
 
@@ -525,7 +525,7 @@ The original ODR paper was a **declaration**. ODR v2.0 is a **blueprint**.
     
 3. **The RG flow is a tree walk.** The renormalization group is not a continuous flow in coupling space; it is a discrete walk on the Bruhat-Tits tree. Fixed points correspond to vertices.
     
-4. **Experiments can distinguish.** Ultrametric noise is a testable prediction. If it appears, the game changes. If it doesn't, the framework still serves as a hygiene standard—but the adelic hypothesis is falsified.
+4. **Experiments can distinguish.** Ultrametric noise is a testable prediction. If it appears, the game changes. If it does not, the framework still serves as a hygiene standard—but the adelic hypothesis is falsified.
     
 5. **The mechanism is within reach.** The Hecke algebra on the tree is a finite-dimensional linear algebra problem. Its eigenvalues are the Standard Model masses. Solving this is a well-defined mathematical challenge—not a metaphysical handwave.
     
