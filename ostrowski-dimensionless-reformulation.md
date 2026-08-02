@@ -1,6 +1,6 @@
 ---
 
-title: "The Ostrowski Dimensionless Reformulation v4.0.2: A Place-Democratic Foundation for Fundamental Physics — Definitive Edition"
+title: "The Ostrowski Dimensionless Reformulation v4.0.3: A Place-Democratic Foundation for Fundamental Physics — Definitive Edition"
 
 author: "Rowan Brad Quni-Gudzinas"
 
@@ -8,11 +8,11 @@ date: "2026-08-02"
 
 license: "QNFO Unified License Agreement (QNFO-ULA)"
 
-doi: "10.5281/zenodo.21755771"
+doi: "10.5281/zenodo.21755880"
 
 status: "published"
 
-version: "4.0.2"
+version: "4.0.3"
 
 ---
 
