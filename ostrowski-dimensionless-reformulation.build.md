@@ -8,11 +8,11 @@ date: "2026-08-02"
 
 license: "QNFO Unified License Agreement (QNFO-ULA)"
 
-doi: "10.5281/zenodo.21755771"
+doi: "10.5281/zenodo.XXXXXXXXXX"
 
-status: "published"
+status: "draft"
 
-version: "4.0.2"
+version: "4.0"
 
 ---
 
@@ -22,7 +22,7 @@ version: "4.0.2"
 
 
 
-***
+---
 
 
 
@@ -34,7 +34,7 @@ version: "4.0.2"
 
 
 
-***
+---
 
 
 
@@ -46,7 +46,7 @@ We present the definitive edition of the Ostrowski Dimensionless Reformulation (
 
 
 
-This v4.0 edition integrates the full 53-formula compilation with a refined conceptual framework developed through structured adversarial review (v2.3–v3.0 red-team audit). Six core refinements replace prior overclaims with precise, defensible positions. All formulas are systematically reduced to their dimensionless equivalents in Planck units and organized by discipline. In response to the red-team audit, overclaims regarding p-adic ontology, Euclidean π portability, and the adelic path integral are corrected. 
+This v4.0 edition integrates the full 53-formula compilation with a refined conceptual framework developed through structured adversarial review (v2.3–v3.0 red-team audit). Six core refinements replace prior overclaims with precise, defensible positions. All formulas are systematically reduced to their dimensionless equivalents in Planck units and organized by discipline. In response to the red-team audit, overclaims regarding p-adic ontology, Euclidean $\pi$ portability, and the adelic path integral are corrected. 
 
 
 
@@ -58,7 +58,7 @@ New in v4.0: Detailed step-by-step derivations of the most important reformulati
 
 
 
-***
+---
 
 
 
@@ -70,15 +70,15 @@ New in v4.0: Detailed step-by-step derivations of the most important reformulati
 
 
 
-The Ostrowski Dimensionless Mandate (qnfo-core §0.7, effective 2026-08-01) requires that all physics formulas in QNFO publications be expressed in dimensionless natural numbers using Planck units (ℏ = c = G = k\_B = 1). The mandate is grounded in Ostrowski's theorem (1916), which classifies every non-trivial absolute value on ℚ as equivalent either to the standard real absolute value |·|\_$\infty$ or to a p-adic absolute value |·|\_p for some prime p `[established -- Ostrowski, 1916, Acta Mathematica 41:271-284]`.
+The Ostrowski Dimensionless Mandate (qnfo-core §0.7, effective 2026-08-01) requires that all physics formulas in QNFO publications be expressed in dimensionless natural numbers using Planck units ($\hbar $ = c = G = k_B = 1). The mandate is grounded in Ostrowski's theorem (1916), which classifies every non-trivial absolute value on $\mathbb{Q}$ as equivalent either to the standard real absolute value |$\cdot$|_$\infty$ or to a p-adic absolute value |$\cdot$|_p for some prime p `[established -- Ostrowski, 1916, Acta Mathematica 41:271-284]`.
 
 
 
-A physical quantity expressed as a real number implicitly selects the Archimedean place among all completions of ℚ. If a formula contains dimensional constants such as ℏ, c, G, or k\_B, it assumes the quantities being related have well-defined real-number values. The constants' specific numerical values -- ℏ ≈ 1.054571817 × 10⁻³⁴ J·s, c = 299792458 m/s, G ≈ 6.67430 × 10⁻¹¹ m³/(kg·s²), k\_B ≈ 1.380649 × 10⁻²³ J/K -- are defined only in the Archimedean topology. They have no counterpart in a p-adic completion of ℚ. A formula that embeds these constants is therefore Archimedean-privileging: it can be evaluated at |·|\_$\infty$ but not at |·|\_p.
+A physical quantity expressed as a real number implicitly selects the Archimedean place among all completions of $\mathbb{Q}$. If a formula contains dimensional constants such as $\hbar $, c, G, or k_B, it assumes the quantities being related have well-defined real-number values. The constants' specific numerical values -- $\hbar $ $\approx$ 1.054571817 $\times$ 10$^{-34}$ J$\cdot$s, c = 299792458 m/s, G $\approx$ 6.67430 $\times$ 10$^{-11}$ m$^{3}$/(kg$\cdot$s$^{2}$), k_B $\approx$ 1.380649 $\times$ 10$^{-23}$ J/K -- are defined only in the Archimedean topology. They have no counterpart in a p-adic completion of $\mathbb{Q}$. A formula that embeds these constants is therefore Archimedean-privileging: it can be evaluated at |$\cdot$|_$\infty$ but not at |$\cdot$|_p.
 
 
 
-The dimensionless solution expresses every physical quantity as a pure-number ratio to its Planck-scale counterpart. A pure number -- an element of ℚ or a limit thereof -- is equally well-defined at every place. Thus a dimensionless formula holds for all completions simultaneously.
+The dimensionless solution expresses every physical quantity as a pure-number ratio to its Planck-scale counterpart. A pure number -- an element of $\mathbb{Q}$ or a limit thereof -- is equally well-defined at every place. Thus a dimensionless formula holds for all completions simultaneously.
 
 
 
@@ -90,7 +90,7 @@ Three prior QNFO publications established the dimensionless program, with a four
 
 
 
-- **Mass-Frequency Identity v3.2.0** (DOI: 10.5281/zenodo.21360549, 2026-07-14): the identity m = omega emerges directly from setting hbar = c = 1 (since m = E/c^2 and E = hbar omega, so m\_tilde = omega\_tilde in Planck units). This paper provides the physical interpretation of what ODR achieves for 53 formulas — the mass-frequency identity is the canonical example of the dimensionless program's claim that dimensional constants conceal pure-number relationships. `[established]`
+- **Mass-Frequency Identity v3.2.0** (DOI: 10.5281/zenodo.21360549, 2026-07-14): the identity m = omega emerges directly from setting hbar = c = 1 (since m = E/c^2 and E = hbar omega, so m_tilde = omega_tilde in Planck units). This paper provides the physical interpretation of what ODR achieves for 53 formulas — the mass-frequency identity is the canonical example of the dimensionless program's claim that dimensional constants conceal pure-number relationships. `[established]`
 
 
 
@@ -102,7 +102,7 @@ Two prior QNFO publications established the dimensionless program:
 
 
 
-- **OC Paper v1.2** (DOI: 10.5281/zenodo.21748773) reformulated the Bekenstein bound in dimensionless Planck units: S ≤ 2π k\_B R E/(ℏc) $\rightarrow$ I ≤ 2π R E/ln 2. **OC Paper v1.3** (DOI: 10.5281/zenodo.21749177) reformulated Landauer's principle presenting both conventional dimensional form (E ≥ k\_B T ln 2) and dimensionless Planck-unit form (E ≥ T ln 2) with explicit Ostrowski rationale. `[established]`
+- **OC Paper v1.2** (DOI: 10.5281/zenodo.21748773) reformulated the Bekenstein bound in dimensionless Planck units: S $\leq$ 2$\pi$ k_B R E/($\hbar $c) $\rightarrow$ I $\leq$ 2$\pi$ R E/ln 2. **OC Paper v1.3** (DOI: 10.5281/zenodo.21749177) reformulated Landauer's principle presenting both conventional dimensional form (E $\geq$ k_B T ln 2) and dimensionless Planck-unit form (E $\geq$ T ln 2) with explicit Ostrowski rationale. `[established]`
 
 
 
@@ -134,15 +134,15 @@ We classify 53 fundamental physics equations into seven formula classes based on
 
 |:------|:----------|:------|:--------|
 
-| A | ℏ only | 8 | Schroedinger equation, Heisenberg uncertainty |
+| A | $\hbar $ only | 8 | Schroedinger equation, Heisenberg uncertainty |
 
 | B | c only | 3 | Horizon scale, Alfven speed |
 
 | C | G only | 4 | Schwarzschild radius, Friedmann equations |
 
-| D | k\_B only | 4 | Boltzmann entropy, ideal gas law |
+| D | k_B only | 4 | Boltzmann entropy, ideal gas law |
 
-| E | ε₀/μ₀ only | 1 | Coulomb's law (SI) |
+| E | $\epsilon_{0}$/$\mu_{0}$ only | 1 | Coulomb's law (SI) |
 
 | F | Combinations | 26 | Planck law, Einstein field equations, Hawking temperature |
 
@@ -162,19 +162,19 @@ The ten disciplines surveyed are: Quantum Mechanics, Thermodynamics & Statistica
 
 
 
-**Theorem (Ostrowski, 1916):** Every non-trivial absolute value on ℚ is equivalent either to the standard real absolute value |·|\_$\infty$ or to a p-adic absolute value |·|\_p for some prime p. `[established]`
+**Theorem (Ostrowski, 1916):** Every non-trivial absolute value on $\mathbb{Q}$ is equivalent either to the standard real absolute value |$\cdot$|_$\infty$ or to a p-adic absolute value |$\cdot$|_p for some prime p. `[established]`
 
 
 
-**Proof sketch:** Let |·| be a non-trivial absolute value on ℚ. The classification hinges on whether |n| is bounded for integers n. If |n| is unbounded (Archimedean case), then |·| is equivalent to |·|\_$\infty$. If |n| ≤ 1 for all integers (non-Archimedean case), the set {n : |n| < 1} is a prime ideal pℤ, yielding |·|\_p. The proof is exhaustive: there are exactly these two families, with no intermediate cases. `[established -- standard valuation theory]`
+**Proof sketch:** Let |$\cdot$| be a non-trivial absolute value on $\mathbb{Q}$. The classification hinges on whether |n| is bounded for integers n. If |n| is unbounded (Archimedean case), then |$\cdot$| is equivalent to |$\cdot$|_$\infty$. If |n| $\leq$ 1 for all integers (non-Archimedean case), the set {n : |n| < 1} is a prime ideal p$\mathbb{Z}$, yielding |$\cdot$|_p. The proof is exhaustive: there are exactly these two families, with no intermediate cases. `[established -- standard valuation theory]`
 
 
 
-A physical formula containing dimensional constants can be evaluated only at |·|\_$\infty$. The specific numerical value of ℏ, for instance, is a real number. In a p-adic completion, the real number 1.054571817... × 10⁻³⁴ has no well-defined meaning because p-adic numbers arise from a different metric: |p^n · a/b|\_p = p⁻ⁿ for $p \nmid a, b$. The conversion factor between SI units and Planck units -- the numerical value of ℏ -- is an Archimedean artifact.
+A physical formula containing dimensional constants can be evaluated only at |$\cdot$|_$\infty$. The specific numerical value of $\hbar $, for instance, is a real number. In a p-adic completion, the real number 1.054571817... $\times$ 10$^{-34}$ has no well-defined meaning because p-adic numbers arise from a different metric: |p^n $\cdot$ a/b|_p = p$^{-n}$ for $p \nmid a, b$. The conversion factor between SI units and Planck units -- the numerical value of $\hbar $ -- is an Archimedean artifact.
 
 
 
-In contrast, a dimensionless equation containing only pure numbers can be evaluated at any place. The equation $\tilde{S}$\_BH = A/4 (Bekenstein-Hawking) is a relation among pure numbers: if A is a pure number (area in Planck units), then $\tilde{S}$\_BH is equally A/4 regardless of whether one computes |A|\_$\infty$ or |A|\_p. The formula is place-democratic.
+In contrast, a dimensionless equation containing only pure numbers can be evaluated at any place. The equation $\tilde{S}$_BH = A/4 (Bekenstein-Hawking) is a relation among pure numbers: if A is a pure number (area in Planck units), then $\tilde{S}$_BH is equally A/4 regardless of whether one computes |A|_$\infty$ or |A|_p. The formula is place-democratic.
 
 
 
@@ -186,11 +186,11 @@ In contrast, a dimensionless equation containing only pure numbers can be evalua
 
 
 
-**Theorem:** Let F(x₁, ..., x\_n; ℏ, c, G, k\_B) = 0 be a dimensionally homogeneous physical law. Then there exists an equivalent dimensionless equation $\tilde{F}$($\tilde{x}$₁, ..., $\tilde{x}$\_n) = 0 where $\tilde{x}$\_i = x\_i/x\_i^(P) and x\_i^(P) is the Planck-scale counterpart of quantity x\_i, such that $\tilde{F}$ contains no dimensional constants.
+**Theorem:** Let F(x$_{1}$, ..., x_n; $\hbar $, c, G, k_B) = 0 be a dimensionally homogeneous physical law. Then there exists an equivalent dimensionless equation $\tilde{F}$($\tilde{x}$$_{1}$, ..., $\tilde{x}$_n) = 0 where $\tilde{x}$_i = x_i/x_i^(P) and x_i^(P) is the Planck-scale counterpart of quantity x_i, such that $\tilde{F}$ contains no dimensional constants.
 
 
 
-**Proof:** By the Buckingham Pi theorem, any dimensionally homogeneous equation among n physical quantities involving k independent physical dimensions can be rewritten as a relation among n - k dimensionless Pi groups. The Planck system (ℏ, c, G, k\_B) provides exactly four dimensionally independent quantities, spanning the physical dimensions of mass (M), length (L), time (T), and temperature (Θ). Every physical quantity has a unique combination of ℏ, c, G, k\_B that yields its physical dimension -- this combination is precisely the Planck-scale counterpart x\_i^(P). The dimensionless ratio $\tilde{x}$\_i = x\_i/x\_i^(P) is therefore always well-defined. Substituting x\_i = $\tilde{x}$\_i · x\_i^(P) into the original equation F = 0, all factors of ℏ, c, G, k\_B cancel by dimensional homogeneity, leaving $\tilde{F}$ = 0. `[established -- dimensional analysis]`
+**Proof:** By the Buckingham Pi theorem, any dimensionally homogeneous equation among n physical quantities involving k independent physical dimensions can be rewritten as a relation among n - k dimensionless Pi groups. The Planck system ($\hbar $, c, G, k_B) provides exactly four dimensionally independent quantities, spanning the physical dimensions of mass (M), length (L), time (T), and temperature ($\Theta$). Every physical quantity has a unique combination of $\hbar $, c, G, k_B that yields its physical dimension -- this combination is precisely the Planck-scale counterpart x_i^(P). The dimensionless ratio $\tilde{x}$_i = x_i/x_i^(P) is therefore always well-defined. Substituting x_i = $\tilde{x}$_i $\cdot$ x_i^(P) into the original equation F = 0, all factors of $\hbar $, c, G, k_B cancel by dimensional homogeneity, leaving $\tilde{F}$ = 0. `[established -- dimensional analysis]`
 
 
 
@@ -204,7 +204,7 @@ In contrast, a dimensionless equation containing only pure numbers can be evalua
 
 
 
-ALL physical quantities are fundamentally RATIOS, not real numbers. The real-number values assigned to physical constants -- ℏ ≈ 1.054571817 × 10⁻³⁴ J·s, c ≈ 2.998 × 10⁸ m/s, G ≈ 6.674 × 10⁻¹¹ m³/(kg·s²), k\_B ≈ 1.381 × 10⁻²³ J/K -- are Archimedean projections of ratios that exist independently of any completion.
+ALL physical quantities are fundamentally RATIOS, not real numbers. The real-number values assigned to physical constants -- $\hbar $ $\approx$ 1.054571817 $\times$ 10$^{-34}$ J$\cdot$s, c $\approx$ 2.998 $\times$ 10$^{8}$ m/s, G $\approx$ 6.674 $\times$ 10$^{-11}$ m$^{3}$/(kg$\cdot$s$^{2}$), k_B $\approx$ 1.381 $\times$ 10$^{-23}$ J/K -- are Archimedean projections of ratios that exist independently of any completion.
 
 
 
@@ -212,55 +212,55 @@ ALL physical quantities are fundamentally RATIOS, not real numbers. The real-num
 
 
 
-| Quantity | "Constant" (ℝ-value) | Ratio (Invariant) | Ratio Definition |
+| Quantity | "Constant" ($\mathbb{R}$-value) | Ratio (Invariant) | Ratio Definition |
 
 |:---------|:---------------------|:-------------------|:------------------|
 
-| ℏ | 1.054571817 × 10⁻³⁴ J·s | E/ω | Action per angular frequency |
+| $\hbar $ | 1.054571817 $\times$ 10$^{-34}$ J$\cdot$s | E/$\omega$ | Action per angular frequency |
 
-| c | 2.99792458 × 10⁸ m/s | Δx/Δt | Spacetime interval ratio |
+| c | 2.99792458 $\times$ 10$^{8}$ m/s | $\Delta$x/$\Delta$t | Spacetime interval ratio |
 
-| G | 6.67430 × 10⁻¹¹ m³/(kg·s²) | ℓ\_P²/(m\_P t\_P²) | Planck-area per Planck-inertia |
+| G | 6.67430 $\times$ 10$^{-11}$ m$^{3}$/(kg$\cdot$s$^{2}$) | $\ell$_P$^{2}$/(m_P t_P$^{2}$) | Planck-area per Planck-inertia |
 
-| k\_B | 1.380649 × 10⁻²³ J/K | S/ln Ω | Entropy per information-content |
+| k_B | 1.380649 $\times$ 10$^{-23}$ J/K | S/ln $\Omega$ | Entropy per information-content |
 
-| π | 3.141592653589793... | C/d | Circumference-to-diameter |
+| $\pi$ | 3.141592653589793... | C/d | Circumference-to-diameter |
 
-| α | (137.036)⁻¹ | r\_e/λ̄\_C | Classical-to-Compton radius |
+| $\alpha$ | (137.036)$^{-1}$ | r_e/$\lambda$̄_C | Classical-to-Compton radius |
 
-| m̃\_e | 4.185 × 10⁻²³ (Planck units) | m\_e/m\_P | Electron-to-Planck mass |
-
-
-
-The "constant" column shows the Archimedean projection -- the specific real number assigned to each ratio by the meter-kilogram-second-kelvin convention. The "ratio" column shows the invariant that exists at EVERY place. Note that with the v1.7 correction (§2.5), the α entry must be read as the deep-IR projection α(Q̃→0) of the running ratio α(Q̃²) = r\_e(Q̃)/λ̄\_C(Q̃).
+| $\tilde{m}$_e | 4.185 $\times$ 10$^{-23}$ (Planck units) | m_e/m_P | Electron-to-Planck mass |
 
 
 
-#### 2.3.2 π as the Paradigmatic Ratio
+The "constant" column shows the Archimedean projection -- the specific real number assigned to each ratio by the meter-kilogram-second-kelvin convention. The "ratio" column shows the invariant that exists at EVERY place. Note that with the v1.7 correction (§2.5), the $\alpha$ entry must be read as the deep-IR projection $\alpha$($\tilde{Q}$$\rightarrow0$) of the running ratio $\alpha$($\tilde{Q}$$^{2}$) = r_e($\tilde{Q}$)/$\lambda$̄_C($\tilde{Q}$).
 
 
 
-π = 3.14159... is the Archimedean limit of the ratio C/d -- the circumference divided by the diameter. The ratio C/d is invariant under similarity transformations in Euclidean geometry. The decimal expansion 3.14159... is the value of this ratio in the Archimedean completion ℝ. It is a BASE-10 quantity: per the red-team directive, a decimal representation is only one completion's projection, not the invariant itself.
+#### 2.3.2 $\pi$ as the Paradigmatic Ratio
 
 
 
-Per the Scaffolds and Invariants paper (DOI: 10.5281/zenodo.21255344, published 2026-07-08), π is fundamentally a geometric proportion -- the ratio of circumference to diameter -- not a numerical constant. The decimal expansion π\_∞ = 3.141592653589793... is an Archimedean artifact; the ratio C/d is invariant under completions. The same applies to the p-adic situation: π ∉ ℚ\_p (transcendental), so π\_∞ is not the value of any p-adic π\_p; the ratio C/d is what transfers, evaluated via local field geometry and Haar measure per the Non-Anthropocentric Natural Units precedent (DOI: 10.5281/zenodo.21480756).
+$\pi$ = 3.14159... is the Archimedean limit of the ratio C/d -- the circumference divided by the diameter. The ratio C/d is invariant under similarity transformations in Euclidean geometry. The decimal expansion 3.14159... is the value of this ratio in the Archimedean completion $\mathbb{R}$. It is a BASE-10 quantity: per the red-team directive, a decimal representation is only one completion's projection, not the invariant itself.
 
 
 
-#### 2.3.3 α as the Cross-Ratio
+Per the Scaffolds and Invariants paper (DOI: 10.5281/zenodo.21255344, published 2026-07-08), $\pi$ is fundamentally a geometric proportion -- the ratio of circumference to diameter -- not a numerical constant. The decimal expansion $\pi_{\infty}$ = 3.141592653589793... is an Archimedean artifact; the ratio C/d is invariant under completions. The same applies to the p-adic situation: $\pi$ $\notin$ $\mathbb{Q}$_p (transcendental), so $\pi_{\infty}$ is not the value of any p-adic $\pi$_p; the ratio C/d is what transfers, evaluated via local field geometry and Haar measure per the Non-Anthropocentric Natural Units precedent (DOI: 10.5281/zenodo.21480756).
 
 
 
-The Fine-Structure Constant as a Cross-Ratio paper (DOI: 10.5281/zenodo.20108536) interprets α as r\_e/λ̄\_C where r\_e = e²/(4πε₀ m\_e c²) is the classical electron radius and λ̄\_C = ℏ/(m\_e c) is the reduced Compton wavelength. This is a projective-geometric invariant:
+#### 2.3.3 $\alpha$ as the Cross-Ratio
 
 
 
-α = (r\_e, ∞; λ̄\_C, 0) = (r\_e − λ̄\_C)(∞ − 0) / (r\_e − 0)(∞ − λ̄\_C) = r\_e / λ̄\_C
+The Fine-Structure Constant as a Cross-Ratio paper (DOI: 10.5281/zenodo.20108536) interprets $\alpha$ as r_e/$\lambda$̄_C where r_e = e$^{2}$/(4$\pi\epsilon_{0}$ m_e c$^{2}$) is the classical electron radius and $\lambda$̄_C = $\hbar $/(m_e c) is the reduced Compton wavelength. This is a projective-geometric invariant:
 
 
 
-As a projective cross-ratio of four collinear points, α is invariant under GL(2, ℝ) transformations -- consistent with its status as a dimensionless constant. The same cross-ratio can be evaluated at any completion ℚ\_p using the p-adic metric, making α a genuinely place-democratic constant. With the v1.7 running-coupling correction, the cross-ratio is a function of scale: α(Q̃²) = r\_e(Q̃)/λ̄\_C(Q̃), and the value 1/137.036 is its deep-IR projection.
+$\alpha$ = (r_e, $\infty$; $\lambda$̄_C, 0) = (r_e $-$ $\lambda$̄_C)($\infty$ $-$ 0) / (r_e $-$ 0)($\infty$ $-$ $\lambda$̄_C) = r_e / $\lambda$̄_C
+
+
+
+As a projective cross-ratio of four collinear points, $\alpha$ is invariant under GL(2, $\mathbb{R}$) transformations -- consistent with its status as a dimensionless constant. The same cross-ratio can be evaluated at any completion $\mathbb{Q}$_p using the p-adic metric, making $\alpha$ a genuinely place-democratic constant. With the v1.7 running-coupling correction, the cross-ratio is a function of scale: $\alpha$($\tilde{Q}$$^{2}$) = r_e($\tilde{Q}$)/$\lambda$̄_C($\tilde{Q}$), and the value 1/137.036 is its deep-IR projection.
 
 
 
@@ -270,19 +270,19 @@ As a projective cross-ratio of four collinear points, α is invariant under GL(2
 
 Every one of the 53 dimensionless reformulations in §3 expresses a physical quantity as a RATIO to its Planck-scale counterpart:
 
-- Lengths: ℓ̃ = ℓ / ℓ\_P -- ratio of system size to Planck length
+- Lengths: $\tilde{$\ell$}$ = $\ell$ / $\ell$_P -- ratio of system size to Planck length
 
-- Times: t̃ = t / t\_P -- ratio of evolution time to Planck time
+- Times: $\tilde{t}$ = t / t_P -- ratio of evolution time to Planck time
 
-- Masses: m̃ = m / m\_P -- ratio of system mass to Planck mass
+- Masses: $\tilde{m}$ = m / m_P -- ratio of system mass to Planck mass
 
-- Energies: Ẽ = E / E\_P -- ratio of system energy to Planck energy
+- Energies: $\tilde{E}$ = E / E_P -- ratio of system energy to Planck energy
 
-- Temperatures: T̃ = T / T\_P -- ratio of system temperature to Planck temperature
+- Temperatures: $\tilde{T}$ = T / T_P -- ratio of system temperature to Planck temperature
 
 
 
-The ODR is thus not a reformulation in the sense of "rewriting" physics -- it is a RATIO EXTRACTION: removing the Archimedean projections (ℏ, c, G, k\_B) to expose the underlying pure-number ratios that are the actual physical invariants.
+The ODR is thus not a reformulation in the sense of "rewriting" physics -- it is a RATIO EXTRACTION: removing the Archimedean projections ($\hbar $, c, G, k_B) to expose the underlying pure-number ratios that are the actual physical invariants.
 
 
 
@@ -290,15 +290,15 @@ The ODR is thus not a reformulation in the sense of "rewriting" physics -- it is
 
 
 
-The Compton Frequency Cross-Ratios on Bruhat-Tits Trees paper (DOI: 10.5281/zenodo.21491767) applies projective cross-ratios to particle masses, evaluating them on the p-adic Bruhat-Tits tree. For a quadruple of Compton frequencies (ω̃\_C1, ω̃\_C2, ω̃\_C3, ω̃\_C4), the cross-ratio:
+The Compton Frequency Cross-Ratios on Bruhat-Tits Trees paper (DOI: 10.5281/zenodo.21491767) applies projective cross-ratios to particle masses, evaluating them on the p-adic Bruhat-Tits tree. For a quadruple of Compton frequencies ($\tilde{$\omega$}$_C1, $\tilde{$\omega$}$_C2, $\tilde{$\omega$}$_C3, $\tilde{$\omega$}$_C4), the cross-ratio:
 
 
 
-χ(ω̃\_C1, ω̃\_C2, ω̃\_C3, ω̃\_C4) = (ω̃\_C1 − ω̃\_C3)(ω̃\_C2 − ω̃\_C4) / (ω̃\_C1 − ω̃\_C4)(ω̃\_C2 − ω̃\_C3)
+$\chi$($\tilde{$\omega$}$_C1, $\tilde{$\omega$}$_C2, $\tilde{$\omega$}$_C3, $\tilde{$\omega$}$_C4) = ($\tilde{$\omega$}$_C1 $-$ $\tilde{$\omega$}$_C3)($\tilde{$\omega$}$_C2 $-$ $\tilde{$\omega$}$_C4) / ($\tilde{$\omega$}$_C1 $-$ $\tilde{$\omega$}$_C4)($\tilde{$\omega$}$_C2 $-$ $\tilde{$\omega$}$_C3)
 
 
 
-is invariant under Möbius transformations and well-defined at every place. The p-adic valuation v\_p(χ) encodes the p-adic structure of the Standard Model mass spectrum. With the v1.6 red-team fix, these valuations are computed on RATIOS of rational quantities (e.g. mass ratios m̃\_i/m̃\_j ∈ ℚ), never on transcendental quantities like π.
+is invariant under Möbius transformations and well-defined at every place. The p-adic valuation v_p($\chi$) encodes the p-adic structure of the Standard Model mass spectrum. With the v1.6 red-team fix, these valuations are computed on RATIOS of rational quantities (e.g. mass ratios $\tilde{m}$_i/$\tilde{m}$_j $\in$ $\mathbb{Q}$), never on transcendental quantities like $\pi$.
 
 
 
@@ -306,7 +306,7 @@ is invariant under Möbius transformations and well-defined at every place. The 
 
 
 
-A key insight from the Non-Anthropocentric Natural Units paper (DOI: 10.5281/zenodo.21480756) is that when porting π to non-Archimedean completions, one must define it via the SAME RATIO (circumference/diameter) using local field geometry and boundary Haar measure -- not by analytically extending the real decimal expansion. The same principle applies to ALL physical constants: ℏ is E/ω, c is Δx/Δt, G is the coupling in the Newtonian force law, and k\_B is S/ln Ω. These ratios are well-defined at every place. Their real-number values are Archimedean projections.
+A key insight from the Non-Anthropocentric Natural Units paper (DOI: 10.5281/zenodo.21480756) is that when porting $\pi$ to non-Archimedean completions, one must define it via the SAME RATIO (circumference/diameter) using local field geometry and boundary Haar measure -- not by analytically extending the real decimal expansion. The same principle applies to ALL physical constants: $\hbar $ is E/$\omega$, c is $\Delta$x/$\Delta$t, G is the coupling in the Newtonian force law, and k_B is S/ln $\Omega$. These ratios are well-defined at every place. Their real-number values are Archimedean projections.
 
 
 
@@ -316,7 +316,7 @@ A key insight from the Non-Anthropocentric Natural Units paper (DOI: 10.5281/zen
 
 
 
-Ostrowski's theorem classifies EVERY completion of ℚ — the Archimedean (∞) and all p-adic (ℚ\_p) — but the theorem says nothing about which completions are PHYSICALLY realized. The QNFO Adelic Physics Program hypothesizes that physics operates over ALL completions simultaneously, with the adele ring 𝔸\_ℚ = ℝ × ∏'\_p ℚ\_p as the natural domain `[speculative — see Non-Anthropocentric Natural Units, DOI: 10.5281/zenodo.21480756]`. This section enumerates the completions, maps their physical correspondences, and constructs cross-formula bridges that demonstrate how dimensionless reformulations at one place reveal relationships invisible at another.
+Ostrowski's theorem classifies EVERY completion of $\mathbb{Q}$ — the Archimedean ($\infty$) and all p-adic ($\mathbb{Q}$_p) — but the theorem says nothing about which completions are PHYSICALLY realized. The QNFO Adelic Physics Program hypothesizes that physics operates over ALL completions simultaneously, with the adele ring $\mathbb{A}_{\mathbb{Q}}$ = $\mathbb{R}$ $\times$ $\prod$'_p $\mathbb{Q}$_p as the natural domain `[speculative — see Non-Anthropocentric Natural Units, DOI: 10.5281/zenodo.21480756]`. This section enumerates the completions, maps their physical correspondences, and constructs cross-formula bridges that demonstrate how dimensionless reformulations at one place reveal relationships invisible at another.
 
 
 
@@ -324,7 +324,7 @@ Ostrowski's theorem classifies EVERY completion of ℚ — the Archimedean (∞)
 
 
 
-Every completion of ℚ corresponds to a distinct physical regime:
+Every completion of $\mathbb{Q}$ corresponds to a distinct physical regime:
 
 
 
@@ -332,21 +332,21 @@ Every completion of ℚ corresponds to a distinct physical regime:
 
 |:-----------|:---------------|:-------------|:----------------|:-----------------|
 
-| ℝ (∞) | Archimedean | Continuous | Standard physics: differential equations, spacetime continuum | C\_∞ |
+| $\mathbb{R}$ ($\infty$) | Archimedean | Continuous | Standard physics: differential equations, spacetime continuum | C_$\infty$ |
 
-| ℚ\_2 | p = 2 | 3-valent B-T tree | Quantum binary: spin-1/2, qubits, Majorana zero modes, Zitterbewegung | C\_2 |
+| $\mathbb{Q}$_2 | p = 2 | 3-valent B-T tree | Quantum binary: spin-1/2, qubits, Majorana zero modes, Zitterbewegung | C_2 |
 
-| ℚ\_3 | p = 3 | 4-valent B-T tree | Harmonic triads: Standard Model generations (3 families), RG harmonic isomorphism | C\_3 |
+| $\mathbb{Q}$_3 | p = 3 | 4-valent B-T tree | Harmonic triads: Standard Model generations (3 families), RG harmonic isomorphism | C_3 |
 
-| ℚ\_5 | p = 5 | 6-valent B-T tree | 5-smooth numbers: mass-ratio hierarchy, 5-smooth semigroup {2^a·3^b·5^c} | C\_5 |
+| $\mathbb{Q}$_5 | p = 5 | 6-valent B-T tree | 5-smooth numbers: mass-ratio hierarchy, 5-smooth semigroup {2^a$\cdot3$^b$\cdot5$^c} | C_5 |
 
-| ℚ\_p (all p) | p arbitrary | (p+1)-valent tree | Full adelic: simultaneous definition at all places | C\_p |
+| $\mathbb{Q}$_p (all p) | p arbitrary | (p+1)-valent tree | Full adelic: simultaneous definition at all places | C_p |
 
-| 𝔸\_ℚ (adele ring) | Product over all places | Restricted product | Place-democratic physics: ∏'\_p ℚ\_p × ℝ | C\_𝔸 |
+| $\mathbb{A}_{\mathbb{Q}}$ (adele ring) | Product over all places | Restricted product | Place-democratic physics: $\prod$'_p $\mathbb{Q}$_p $\times$ $\mathbb{R}$ | C_$\mathbb{A}$ |
 
 
 
-The Bruhat-Tits tree for GL(2, ℚ\_p) is a regular (p+1)-valent tree whose vertices represent ℤ\_p-lattices up to scaling `[established — Serre, Trees, 1980]`. In the Adelic Cross-Domain Program (DOI: 10.5281/zenodo.21736300), particle masses correspond to specific vertices on these trees, with the p-adic valuation ord\_p(m̃) determining the vertex depth. The Compton Frequency Cross-Ratios on Bruhat-Tits Trees paper (DOI: 10.5281/zenodo.21491767) pre-registered a systematic search for adelic structure in the Standard Model mass spectrum using the projective invariant χ(z\_1, z\_2, z\_3, z\_4) = (z\_1 − z\_3)(z\_2 − z\_4)/(z\_1 − z\_4)(z\_2 − z\_3) evaluated at each prime p.
+The Bruhat-Tits tree for GL(2, $\mathbb{Q}$_p) is a regular (p+1)-valent tree whose vertices represent $\mathbb{Z}$_p-lattices up to scaling `[established — Serre, Trees, 1980]`. In the Adelic Cross-Domain Program (DOI: 10.5281/zenodo.21736300), particle masses correspond to specific vertices on these trees, with the p-adic valuation ord_p($\tilde{m}$) determining the vertex depth. The Compton Frequency Cross-Ratios on Bruhat-Tits Trees paper (DOI: 10.5281/zenodo.21491767) pre-registered a systematic search for adelic structure in the Standard Model mass spectrum using the projective invariant $\chi$(z_1, z_2, z_3, z_4) = (z_1 $-$ z_3)(z_2 $-$ z_4)/(z_1 $-$ z_4)(z_2 $-$ z_3) evaluated at each prime p.
 
 
 
@@ -354,59 +354,59 @@ The Bruhat-Tits tree for GL(2, ℚ\_p) is a regular (p+1)-valent tree whose vert
 
 
 
-**Bridge C\_∞: The Archimedean Bridge.** All 53 ODR formulas evaluated as real-number ratios. This is the physics we know — Schrödinger's equation, Einstein's field equations, Planck's law — all defined on ℝ. The Archimedean bridge connects thermodynamics to gravity (T̃\_H ↔ j̃*, §3.8), quantum to classical (λ̃ ↔ ã₀, §3.9), and information to entropy (I\_max ↔ S̃\_BH, §3.8). Within C\_∞, the 8 cross-domain bridges of §3.9 operate.
+**Bridge C_$\infty$: The Archimedean Bridge.** All 53 ODR formulas evaluated as real-number ratios. This is the physics we know — Schrödinger's equation, Einstein's field equations, Planck's law — all defined on $\mathbb{R}$. The Archimedean bridge connects thermodynamics to gravity ($\tilde{T}$_H $\leftrightarrow$ $\tilde{j}$*, §3.8), quantum to classical ($\tilde{$\lambda$}$ $\leftrightarrow$ $\tilde{a}$$_{0}$, §3.9), and information to entropy (I_max $\leftrightarrow$ $\tilde{S}$_BH, §3.8). Within C_$\infty$, the 8 cross-domain bridges of §3.9 operate.
 
 
 
-**Bridge C\_2: The Binary-Quantum Bridge.** The 2-adic completion ℚ\_2 maps quantum binary phenomena onto the 3-valent Bruhat-Tits tree. The p-adic valuation ord\_2(m̃) determines the "quantum depth" of a particle: deeper in the tree = smaller mass = more quantum behavior. Key C\_2 cross-formula connections:
+**Bridge C_2: The Binary-Quantum Bridge.** The 2-adic completion $\mathbb{Q}$_2 maps quantum binary phenomena onto the 3-valent Bruhat-Tits tree. The p-adic valuation ord_2($\tilde{m}$) determines the "quantum depth" of a particle: deeper in the tree = smaller mass = more quantum behavior. Key C_2 cross-formula connections:
 
 
 
-1. **Spin → B-T vertex:** The Zitterbewegung as a p-Adic Observable paper (DOI: 10.5281/zenodo.21736327) proposes that Majorana zero modes have ultrametric signatures readable at C\_2 vertices. The dimensionless spin magnitude s̃ is a binary invariant: |s̃|\_2 is well-defined at every tree depth.
+1. **Spin $\rightarrow$ B-T vertex:** The Zitterbewegung as a p-Adic Observable paper (DOI: 10.5281/zenodo.21736327) proposes that Majorana zero modes have ultrametric signatures readable at C_2 vertices. The dimensionless spin magnitude $\tilde{s}$ is a binary invariant: |$\tilde{s}$|_2 is well-defined at every tree depth.
 
 
 
-2. **Planck scale → Tree depth:** In ℚ\_2, the Planck length ℓ\_P = 1 sets the unit scale, and the tree extends from depth 0 (the "canopy" — macroscopic physics) downward through increasing depth (the "root system" — Planck-scale physics). A vertex at depth n encodes p-adic distances of order 2⁻ⁿ. **Valuation caution (v1.6 red-team fix):** the 2-adic valuation v\_2(2π) is NOT well-defined because π is transcendental — π ∉ ℚ\_2. The correct p-adic quantity is the valuation of a RATIO of rational quantities: for two masses m̃\_1, m̃\_2 (each a rational multiple of the Planck mass in ratio form), the ratio m̃\_1/m̃\_2 ∈ ℚ, so v\_2(m̃\_1/m̃\_2) is well-defined and positions the mass-ratio on the tree. This is the Ratio Primacy principle applied rigorously: absolute real numbers (π\_∞, m̃ as Archimedean values) do not carry p-adic meaning; only ratios of rationals do. The Compton wavelength statement is therefore properly expressed via the reduced mass ratio: v\_2(λ̃\_C1/λ̃\_C2) = v\_2(m̃\_2/m̃\_1), a well-defined integer.
+2. **Planck scale $\rightarrow$ Tree depth:** In $\mathbb{Q}$_2, the Planck length $\ell$_P = 1 sets the unit scale, and the tree extends from depth 0 (the "canopy" — macroscopic physics) downward through increasing depth (the "root system" — Planck-scale physics). A vertex at depth n encodes p-adic distances of order 2$^{-n}$. **Valuation caution (v1.6 red-team fix):** the 2-adic valuation v_2(2$\pi$) is NOT well-defined because $\pi$ is transcendental — $\pi$ $\notin$ $\mathbb{Q}$_2. The correct p-adic quantity is the valuation of a RATIO of rational quantities: for two masses $\tilde{m}$_1, $\tilde{m}$_2 (each a rational multiple of the Planck mass in ratio form), the ratio $\tilde{m}$_1/$\tilde{m}$_2 $\in$ $\mathbb{Q}$, so v_2($\tilde{m}$_1/$\tilde{m}$_2) is well-defined and positions the mass-ratio on the tree. This is the Ratio Primacy principle applied rigorously: absolute real numbers ($\pi_{\infty}$, $\tilde{m}$ as Archimedean values) do not carry p-adic meaning; only ratios of rationals do. The Compton wavelength statement is therefore properly expressed via the reduced mass ratio: v_2($\tilde{$\lambda$}$_C1/$\tilde{$\lambda$}$_C2) = v_2($\tilde{m}$_2/$\tilde{m}$_1), a well-defined integer.
 
 
 
-3. **Quantum error correction → Tree metric:** The ultrametric inequality |x − z|\_2 ≤ max(|x − y|\_2, |y − z|\_2) — stronger than the triangle inequality — makes every vertex a natural cluster center. The Primitive Ultrametric Kernels paper (DOI: 10.5281/zenodo.21748009) classifies QEC constructions by their v\_p^max codes, connecting the 2-adic tree structure to fault-tolerant quantum computation.
+3. **Quantum error correction $\rightarrow$ Tree metric:** The ultrametric inequality |x $-$ z|_2 $\leq$ max(|x $-$ y|_2, |y $-$ z|_2) — stronger than the triangle inequality — makes every vertex a natural cluster center. The Primitive Ultrametric Kernels paper (DOI: 10.5281/zenodo.21748009) classifies QEC constructions by their v_p^max codes, connecting the 2-adic tree structure to fault-tolerant quantum computation.
 
 
 
-**Bridge C\_3: The Harmonic-Generation Bridge.** The 3-adic completion maps the three Standard Model generations onto the 4-valent B-T tree. The Harmonic Paradigm Under Ostrowski's Theorem (DOI: 10.5281/zenodo.21535017) re-evaluates the harmonic paradigm specifically through p-adic and adelic lenses. Cross-formula connections:
+**Bridge C_3: The Harmonic-Generation Bridge.** The 3-adic completion maps the three Standard Model generations onto the 4-valent B-T tree. The Harmonic Paradigm Under Ostrowski's Theorem (DOI: 10.5281/zenodo.21535017) re-evaluates the harmonic paradigm specifically through p-adic and adelic lenses. Cross-formula connections:
 
 
 
-1. **Lepton generations → C\_3 automorphisms:** The three charged leptons (e, μ, τ) with Compton frequencies {ω̃\_e, ω̃\_μ, ω̃\_τ} define a 3-adic spread. The cross-ratio χ(ω̃\_e, ω̃\_μ, ω̃\_τ, ω̃\_P) where ω̃\_P = 1 (Planck frequency) is invariant under GL(2, ℚ\_3) and is a dimensionless invariant characterizing the generation structure.
+1. **Lepton generations $\rightarrow$ C_3 automorphisms:** The three charged leptons (e, $\mu$, $\tau$) with Compton frequencies {$\tilde{$\omega$}$_e, $\tilde{$\omega$}_{\mu}$, $\tilde{$\omega$}_{\tau}$} define a 3-adic spread. The cross-ratio $\chi$($\tilde{$\omega$}$_e, $\tilde{$\omega$}_{\mu}$, $\tilde{$\omega$}_{\tau}$, $\tilde{$\omega$}$_P) where $\tilde{$\omega$}$_P = 1 (Planck frequency) is invariant under GL(2, $\mathbb{Q}$_3) and is a dimensionless invariant characterizing the generation structure.
 
 
 
-2. **RG flow → Tree descent:** The RG-Harmonic Isomorphism (DOI: 10.5281/zenodo.21486206) connects renormalization group flow to harmonic quantum mechanics. In the 3-adic tree, RG flow toward the IR corresponds to ascending the tree (approaching the canopy), while flow toward the UV descends into the root system — providing a geometric interpretation of asymptotic freedom.
+2. **RG flow $\rightarrow$ Tree descent:** The RG-Harmonic Isomorphism (DOI: 10.5281/zenodo.21486206) connects renormalization group flow to harmonic quantum mechanics. In the 3-adic tree, RG flow toward the IR corresponds to ascending the tree (approaching the canopy), while flow toward the UV descends into the root system — providing a geometric interpretation of asymptotic freedom.
 
 
 
-**Bridge C\_5: The Smooth-Number Bridge.** The 5-adic completion operationalizes the 5-smooth semigroup {2^a·3^b·5^c} (Hamming numbers) `[established — standard number theory]`. The Statistical Audit of the 5-Smooth Semigroup Mass-Ratio Claim (DOI: 10.5281/zenodo.21748008) subjects mass-ratio approximations to statistical scrutiny. Cross-formula connections:
+**Bridge C_5: The Smooth-Number Bridge.** The 5-adic completion operationalizes the 5-smooth semigroup {2^a$\cdot3$^b$\cdot5$^c} (Hamming numbers) `[established — standard number theory]`. The Statistical Audit of the 5-Smooth Semigroup Mass-Ratio Claim (DOI: 10.5281/zenodo.21748008) subjects mass-ratio approximations to statistical scrutiny. Cross-formula connections:
 
 
 
-1. **Mass ratios → 5-smooth approximations:** In C\_5, the p-adic valuation v\_5(m̃\_a/m̃\_b) quantifies how many factors of 5 the ratio contains. A mass ratio m̃\_μ/m̃\_e ≈ 207 approximates 2³·3²·5¹ = 360 (5-smooth) with a C\_5 residual valuation — the residual being the 5-adic measure of how far the ratio is from a true 5-smooth number.
+1. **Mass ratios $\rightarrow$ 5-smooth approximations:** In C_5, the p-adic valuation v_5($\tilde{m}$_a/$\tilde{m}$_b) quantifies how many factors of 5 the ratio contains. A mass ratio $\tilde{m}_{\mu}$/$\tilde{m}$_e $\approx$ 207 approximates 2$^{3}\cdot3^{2}\cdot5^{1}$ = 360 (5-smooth) with a C_5 residual valuation — the residual being the 5-adic measure of how far the ratio is from a true 5-smooth number.
 
 
 
-2. **Bohr → Compton → 5-smooth:** ã₀/λ̃\_C = 1/(2πα) ≈ 21.8. In the 5-smooth semigroup, the nearest 5-smooth number is 2²·5¹ = 20 or 2³·3¹ = 24. The residual from 21.8 → 20 is ~1.8 (or from 21.8 → 24 is ~2.2). The valuation structure of this residual at C\_2, C\_3, and C\_5 encodes the approximation quality.
+2. **Bohr $\rightarrow$ Compton $\rightarrow$ 5-smooth:** $\tilde{a}$$_{0}$/$\tilde{$\lambda$}$_C = 1/(2$\pi\alpha$) $\approx$ 21.8. In the 5-smooth semigroup, the nearest 5-smooth number is 2$^{2}\cdot5^{1}$ = 20 or 2$^{3}\cdot3^{1}$ = 24. The residual from 21.8 $\rightarrow$ 20 is ~1.8 (or from 21.8 $\rightarrow$ 24 is ~2.2). The valuation structure of this residual at C_2, C_3, and C_5 encodes the approximation quality.
 
 
 
-**Bridge C\_𝔸: The Adelic Formulation.** The full adele ring 𝔸\_ℚ is the restricted product of all completions: an adele is a tuple (x\_∞, x\_2, x\_3, x\_5, ...) where each x\_p ∈ ℚ\_p and x\_p ∈ ℤ\_p for all but finitely many p. The ideles 𝔸\_ℚ^× (invertible adeles) correspond to dimensionless physical quantities. Cross-formula bridge:
+**Bridge C_$\mathbb{A}$: The Adelic Formulation.** The full adele ring $\mathbb{A}_{\mathbb{Q}}$ is the restricted product of all completions: an adele is a tuple (x_$\infty$, x_2, x_3, x_5, ...) where each x_p $\in$ $\mathbb{Q}$_p and x_p $\in$ $\mathbb{Z}$_p for all but finitely many p. The ideles $\mathbb{A}_{\mathbb{Q}}^{\times}$ (invertible adeles) correspond to dimensionless physical quantities. Cross-formula bridge:
 
 
 
-1. **Adelic path integral → Product over places:** In conventional quantum field theory, the path integral ∫ 𝒟φ e^{iS[φ]} is an Archimedean (C\_∞) construction. The adelic formulation replaces this with a product over all completions: Z\_𝔸 = ∏'\_v ∫\_v 𝒟φ\_v ∘ e^{iS\_v[φ\_v]} where ∘ denotes that the same dimensionless formula is evaluated at each valuation v using the local absolute value |·|\_v. The overall physical amplitude is the product of amplitudes at all places `[speculative — see Non-Anthropocentric Natural Units, §3]`.
+1. **Adelic path integral $\rightarrow$ Product over places:** In conventional quantum field theory, the path integral $\int $ $\mathcal{D}\phi$ e^{iS[$\phi$]} is an Archimedean (C_$\infty$) construction. The adelic formulation replaces this with a product over all completions: Z_$\mathbb{A}$ = $\prod$'_v $\int $_v $\mathcal{D}\phi$_v $\circ$ e^{iS_v[$\phi$_v]} where $\circ$ denotes that the same dimensionless formula is evaluated at each valuation v using the local absolute value |$\cdot$|_v. The overall physical amplitude is the product of amplitudes at all places `[speculative — see Non-Anthropocentric Natural Units, §3]`.
 
 
 
-2. **Universality of dimensionless formulas:** The key insight is that a dimensionless formula — being a relation of pure-number ratios — has the SAME algebraic form at EVERY completion. S̃\_BH = A/4 is A/4 at C\_∞ (real area), at C\_2 (2-adic area), and at every C\_p. The dimensionless reformulation thus achieves place-democracy: the formula is guaranteed to be well-defined at every place without modification.
+2. **Universality of dimensionless formulas:** The key insight is that a dimensionless formula — being a relation of pure-number ratios — has the SAME algebraic form at EVERY completion. $\tilde{S}$_BH = A/4 is A/4 at C_$\infty$ (real area), at C_2 (2-adic area), and at every C_p. The dimensionless reformulation thus achieves place-democracy: the formula is guaranteed to be well-defined at every place without modification.
 
 
 
@@ -414,15 +414,15 @@ The Bruhat-Tits tree for GL(2, ℚ\_p) is a regular (p+1)-valent tree whose vert
 
 
 
-The Ostrowski Dimensionless Mandate (qnfo-core §0.7) requires all physics formulas to use dimensionless Planck units. The TATE extension requires that these dimensionless formulas be simultaneously well-defined at EVERY completion of ℚ — both the Archimedean ℝ and all p-adic ℚ\_p. `[speculative — proposed here]`
+The Ostrowski Dimensionless Mandate (qnfo-core §0.7) requires all physics formulas to use dimensionless Planck units. The TATE extension requires that these dimensionless formulas be simultaneously well-defined at EVERY completion of $\mathbb{Q}$ — both the Archimedean $\mathbb{R}$ and all p-adic $\mathbb{Q}$_p. `[speculative — proposed here]`
 
 
 
-**Definition (Tate-Compliant Formula):** A physics formula F(x\_1, ..., x\_n) = 0 is Tate-compliant if it is (a) dimensionally homogeneous in Planck units (Ostrowski-compliant), and (b) the algebraic relation among the dimensionless quantities is expressible as a rational function of ratios — i.e., F ∈ ℚ(x̃\_1, ..., x̃\_n) — so that F can be evaluated at every completion without analytic extension.
+**Definition (Tate-Compliant Formula):** A physics formula F(x_1, ..., x_n) = 0 is Tate-compliant if it is (a) dimensionally homogeneous in Planck units (Ostrowski-compliant), and (b) the algebraic relation among the dimensionless quantities is expressible as a rational function of ratios — i.e., F $\in$ $\mathbb{Q}$($\tilde{x}$_1, ..., $\tilde{x}$_n) — so that F can be evaluated at every completion without analytic extension.
 
 
 
-**Rationale:** The adelic formulation requires that physical laws live on the adele ring, not on ℝ alone. A formula defined only on ℝ (e.g., one involving the Archimedean limit of a transcendental number like π\_∞ = 3.14159...) cannot be transferred to ℚ\_p without additional structure. But a formula defined as a ratio (e.g., C/d) transfers everywhere — the ratio is computed using local geometry and the local absolute value. Per the Scaffolds and Invariants paper (DOI: 10.5281/zenodo.21255344), π AS RATIO is place-democratic; π AS REAL NUMBER is Archimedean.
+**Rationale:** The adelic formulation requires that physical laws live on the adele ring, not on $\mathbb{R}$ alone. A formula defined only on $\mathbb{R}$ (e.g., one involving the Archimedean limit of a transcendental number like $\pi_{\infty}$ = 3.14159...) cannot be transferred to $\mathbb{Q}$_p without additional structure. But a formula defined as a ratio (e.g., C/d) transfers everywhere — the ratio is computed using local geometry and the local absolute value. Per the Scaffolds and Invariants paper (DOI: 10.5281/zenodo.21255344), $\pi$ AS RATIO is place-democratic; $\pi$ AS REAL NUMBER is Archimedean.
 
 
 
@@ -434,7 +434,7 @@ The Ostrowski Dimensionless Mandate (qnfo-core §0.7) requires all physics formu
 
 
 
-**Falsifiability condition:** The adelic extension would be disconfirmed if any dimensionally homogeneous physics formula, when expressed in dimensionless Planck units, takes a functional form that cannot be expressed as a rational function of ratios — i.e., if F(x̃\_1, ..., x̃\_n) = 0 is not a member of ℚ(x̃\_1, ..., x̃\_n). Such a formula would be Archimedean-privileging in a sense stronger than mere dimensional convention: its very functional form would require the analytic structure of ℝ. `[not yet falsifiable — all known physics formulas reduce to rational relations of dimensionless ratios]`
+**Falsifiability condition:** The adelic extension would be disconfirmed if any dimensionally homogeneous physics formula, when expressed in dimensionless Planck units, takes a functional form that cannot be expressed as a rational function of ratios — i.e., if F($\tilde{x}$_1, ..., $\tilde{x}$_n) = 0 is not a member of $\mathbb{Q}$($\tilde{x}$_1, ..., $\tilde{x}$_n). Such a formula would be Archimedean-privileging in a sense stronger than mere dimensional convention: its very functional form would require the analytic structure of $\mathbb{R}$. `[not yet falsifiable — all known physics formulas reduce to rational relations of dimensionless ratios]`
 
 
 
@@ -444,11 +444,11 @@ The Ostrowski Dimensionless Mandate (qnfo-core §0.7) requires all physics formu
 
 
 
-The Ratio Primacy Principle (v1.4, §2.3) established that physical quantities are ratios, not real numbers. The Completion Lattice (v1.5, §2.4) established that these ratios are place-democratic — definable at every completion of ℚ. A third dimension of compliance was surfaced by red-team audit (v1.7): **dimensionless quantities are also SCALE-DEPENDENT functions, not fixed numbers.** The fine-structure constant α, the Weinberg angle sin²θ\_W, and the dimensionless Fermi constant G̃\_F all RUN with the dimensionless energy scale Q̃ = Q/E\_P, where Q is the momentum transfer and E\_P the Planck energy.
+The Ratio Primacy Principle (v1.4, §2.3) established that physical quantities are ratios, not real numbers. The Completion Lattice (v1.5, §2.4) established that these ratios are place-democratic — definable at every completion of $\mathbb{Q}$. A third dimension of compliance was surfaced by red-team audit (v1.7): **dimensionless quantities are also SCALE-DEPENDENT functions, not fixed numbers.** The fine-structure constant $\alpha$, the Weinberg angle sin$^{2}\theta$_W, and the dimensionless Fermi constant $\tilde{G}$_F all RUN with the dimensionless energy scale $\tilde{Q}$ = Q/E_P, where Q is the momentum transfer and E_P the Planck energy.
 
 
 
-**The critical distinction:** the Ostrowski/Tate mandate requires dimensionless ratios, but a dimensionless ratio may still be a FUNCTION of scale. α(Q̃²) is dimensionless at every scale — but its numerical value changes from 1/137.036 at Q̃ → 0 (the IR limit) to 1/127.9 at Q̃ = M\_Z/E\_P (the Z-boson scale), a 7.14% variation `[established — PDG: α⁻¹(0) = 137.036, α⁻¹(M\_Z) = 127.9]`.
+**The critical distinction:** the Ostrowski/Tate mandate requires dimensionless ratios, but a dimensionless ratio may still be a FUNCTION of scale. $\alpha$($\tilde{Q}$$^{2}$) is dimensionless at every scale — but its numerical value changes from 1/137.036 at $\tilde{Q}$ $\rightarrow$ 0 (the IR limit) to 1/127.9 at $\tilde{Q}$ = M_Z/E_P (the Z-boson scale), a 7.14% variation `[established — PDG: $\alpha^{-1}$(0) = 137.036, $\alpha^{-1}$(M_Z) = 127.9]`.
 
 
 
@@ -456,41 +456,41 @@ The Ratio Primacy Principle (v1.4, §2.3) established that physical quantities a
 
 
 
-1. **α is a running ratio:** α(Q̃²) = r\_e(Q̃)/λ̄\_C(Q̃), where each quantity is a ratio to its Planck-scale counterpart. This is the place-democratic form — a ratio of ratios, well-defined at every completion. The one-loop QED running equation is itself dimensionless in Planck units:
+1. **$\alpha$ is a running ratio:** $\alpha$($\tilde{Q}$$^{2}$) = r_e($\tilde{Q}$)/$\lambda$̄_C($\tilde{Q}$), where each quantity is a ratio to its Planck-scale counterpart. This is the place-democratic form — a ratio of ratios, well-defined at every completion. The one-loop QED running equation is itself dimensionless in Planck units:
 
 
 
-$$\beta\_1(\alpha) = \tilde{\mu}\frac{d\alpha}{d\tilde{\mu}} = \frac{2\alpha^2}{3\pi}$$
+$$\beta_1(\alpha) = \tilde{\mu}\frac{d\alpha}{d\tilde{\mu}} = \frac{2\alpha^2}{3\pi}$$
 
 
 
-with the solution α(Q̃²) = α(0)/(1 − (α(0)/3π) ln(Q̃²/μ̃₀²)).
+with the solution $\alpha$($\tilde{Q}$$^{2}$) = $\alpha$(0)/(1 $-$ ($\alpha$(0)/3$\pi$) ln($\tilde{Q}$$^{2}$/$\tilde{$\mu$}$$_{0}^{2}$)).
 
 
 
-2. **The decimal 1/137.036 is one completion at one scale:** it is the Archimedean, base-10 projection of α(Q̃²) evaluated in the deep IR (Q̃ → 0). Per the directive — *if it is a decimal or base-10 quantity, it is only one completion, not Ostrowski/Tate compliant* — the fixed decimal is a degenerate presentation. The compliant object is the function α(Q̃²) with its ratio definition.
+2. **The decimal 1/137.036 is one completion at one scale:** it is the Archimedean, base-10 projection of $\alpha$($\tilde{Q}$$^{2}$) evaluated in the deep IR ($\tilde{Q}$ $\rightarrow$ 0). Per the directive — *if it is a decimal or base-10 quantity, it is only one completion, not Ostrowski/Tate compliant* — the fixed decimal is a degenerate presentation. The compliant object is the function $\alpha$($\tilde{Q}$$^{2}$) with its ratio definition.
 
 
 
-3. **Every formula in §3 that writes "α" implicitly means "α(Q̃²) at the formula's characteristic scale":**
+3. **Every formula in §3 that writes "$\alpha$" implicitly means "$\alpha$($\tilde{Q}$$^{2}$) at the formula's characteristic scale":**
 
-   - Atomic physics (Bohr radius, Rydberg, hydrogen levels, Thomson): Q̃ ~ α m̃\_e → IR value 1/137.036
+   - Atomic physics (Bohr radius, Rydberg, hydrogen levels, Thomson): $\tilde{Q}$ ~ $\alpha$ $\tilde{m}$_e $\rightarrow$ IR value 1/137.036
 
-   - Quantum Hall / Josephson / conductance: Q̃ at the Landau-level scale → IR value (0.01% correction negligible)
+   - Quantum Hall / Josephson / conductance: $\tilde{Q}$ at the Landau-level scale $\rightarrow$ IR value (0.01% correction negligible)
 
-   - Coulomb law: Q̃ ~ 1/r̃ → running with distance
+   - Coulomb law: $\tilde{Q}$ ~ 1/$\tilde{r}$ $\rightarrow$ running with distance
 
-   - Z-pole / electroweak: Q̃ = M\_Z/E\_P → 1/127.9
+   - Z-pole / electroweak: $\tilde{Q}$ = M_Z/E_P $\rightarrow$ 1/127.9
 
-   - Planck-scale: Q̃ ~ 1 → determined by the running equation
-
-
-
-4. **The same applies to sin²θ\_W(Q̃²) and G̃\_F(Q̃²):** the Weinberg angle runs from ~0.23 (low energy) to 0.2312 (M\_Z, MS-bar); the Fermi constant is scale-dependent. Neither is a fixed Archimedean decimal.
+   - Planck-scale: $\tilde{Q}$ ~ 1 $\rightarrow$ determined by the running equation
 
 
 
-**Falsifiability:** This correction would be disconfirmed if any physical observable measured α, sin²θ\_W, or G\_F to be exactly scale-independent outside experimental uncertainty. The measured running of α between IR and M\_Z (7.14%) is direct disconfirming evidence of the "fixed constant" presentation. `[established]`
+4. **The same applies to sin$^{2}\theta$_W($\tilde{Q}$$^{2}$) and $\tilde{G}$_F($\tilde{Q}$$^{2}$):** the Weinberg angle runs from ~0.23 (low energy) to 0.2312 (M_Z, MS-bar); the Fermi constant is scale-dependent. Neither is a fixed Archimedean decimal.
+
+
+
+**Falsifiability:** This correction would be disconfirmed if any physical observable measured $\alpha$, sin$^{2}\theta$_W, or G_F to be exactly scale-independent outside experimental uncertainty. The measured running of $\alpha$ between IR and M_Z (7.14%) is direct disconfirming evidence of the "fixed constant" presentation. `[established]`
 
 
 
@@ -500,13 +500,13 @@ with the solution α(Q̃²) = α(0)/(1 − (α(0)/3π) ln(Q̃²/μ̃₀²)).
 
 
 
-A further Archimedean trap, surfaced by the qnfo-core §0.7.1 mandate (v1.4, 2026-08-02), concerns the very constitution of the real numbers used in physics. The Archimedean completion ℝ decomposes into two dimensions with starkly different physical status:
+A further Archimedean trap, surfaced by the qnfo-core §0.7.1 mandate (v1.4, 2026-08-02), concerns the very constitution of the real numbers used in physics. The Archimedean completion $\mathbb{R}$ decomposes into two dimensions with starkly different physical status:
 
 
 
 - **DEPTH:** the Archimedean completion itself — limits, continuity, dynamics. This is physical: it is required for differential equations, Cauchy convergence, and the continuum of spacetime.
 
-- **BREADTH:** the power-set overhang of ℝ — the non-computable reals. These have NO physical signature. No finite measurement protocol can discriminate two non-computable reals, so any formula whose content depends on a non-computable value is physically unfalsifiable.
+- **BREADTH:** the power-set overhang of $\mathbb{R}$ — the non-computable reals. These have NO physical signature. No finite measurement protocol can discriminate two non-computable reals, so any formula whose content depends on a non-computable value is physically unfalsifiable.
 
 
 
@@ -514,7 +514,7 @@ Per the Continuum Trilogy Paper I (DOI: 10.5281/zenodo.21672990), the physical c
 
 
 
-$$\mathbb{R}\_c 	imes \prod\_{p \in S} \mathbb{Q}\_p^c$$
+$$\mathbb{R}_c 	imes \prod_{p \in S} \mathbb{Q}_p^c$$
 
 
 
@@ -536,7 +536,7 @@ The answer, established by the Mass-Frequency Identity v3.2.0 (DOI: 10.5281/zeno
 
 
 
-$$\tilde{\omega}\_C = \tilde{m}$$
+$$\tilde{\omega}_C = \tilde{m}$$
 
 
 
@@ -556,19 +556,19 @@ Given the Compton count $\tilde{\omega}_C$ as fundamental, all other physical qu
 
 |:---------|:-----------|:----------------------------|:-------------------|
 
-| **Compton count** $\tilde{\omega}_C$ | $[\tilde{T}^{-1}]$ | $\tilde{m}$ itself | ✅ **YES** — the fundamental count |
+| **Compton count** $\tilde{\omega}_C$ | $[\tilde{T}^{-1}]$ | $\tilde{m}$ itself | $\checkmark$ **YES** — the fundamental count |
 
-| Wavelength | $[\tilde{L}]$ | $\tilde{\lambda}_C = 2\pi / \tilde{\omega}_C$ | ❌ Derivative — inverse count |
+| Wavelength | $[\tilde{L}]$ | $\tilde{\lambda}_C = 2\pi / \tilde{\omega}_C$ | $\times$ Derivative — inverse count |
 
-| Period | $[\tilde{T}]$ | $\tilde{\tau}_C = 2\pi / \tilde{\omega}_C$ | ❌ Derivative — inverse count |
+| Period | $[\tilde{T}]$ | $\tilde{\tau}_C = 2\pi / \tilde{\omega}_C$ | $\times$ Derivative — inverse count |
 
-| Energy | $[\tilde{E}]$ | $\tilde{E} = \tilde{\omega}_C$ | ❌ Derivative — equals the count |
+| Energy | $[\tilde{E}]$ | $\tilde{E} = \tilde{\omega}_C$ | $\times$ Derivative — equals the count |
 
-| Mass | $[\tilde{M}]$ | $\tilde{m} = \tilde{\omega}_C$ | ❌ Derivative — IS the count |
+| Mass | $[\tilde{M}]$ | $\tilde{m} = \tilde{\omega}_C$ | $\times$ Derivative — IS the count |
 
-| Action | dimensionless | $1/\tilde{\omega}_C$ | ❌ Derivative — reciprocal count |
+| Action | dimensionless | $1/\tilde{\omega}_C$ | $\times$ Derivative — reciprocal count |
 
-| Distance (Bohr radius) | $[\tilde{L}]$ | $\tilde{a}_0 = 1/(\alpha \tilde{\omega}_C)$ | ❌ Derivative — count × coupling |
+| Distance (Bohr radius) | $[\tilde{L}]$ | $\tilde{a}_0 = 1/(\alpha \tilde{\omega}_C)$ | $\times$ Derivative — count $\times$ coupling |
 
 
 
@@ -584,7 +584,7 @@ A particle's Compton count $\tilde{\omega}_C = \tilde{m}$ is a NATURAL NUMBER (o
 
 
 
-$$\frac{\tilde{\omega}\_{C1}}{\tilde{\omega}\_{C2}} = \frac{\tilde{m}\_1}{\tilde{m}\_2} \in \mathbb{Q}$$
+$$\frac{\tilde{\omega}_{C1}}{\tilde{\omega}_{C2}} = \frac{\tilde{m}_1}{\tilde{m}_2} \in \mathbb{Q}$$
 
 
 
@@ -596,11 +596,11 @@ This is a profound consequence: **all physical quantities, when expressed as rat
 
 
 
-2. **Transcendental coupling constants:** $\alpha$, $\pi$, and similar numbers appear in physical formulas as limits of computable sequences, but the RATIOS they multiply (e.g., $\tilde{a}_0 / \tilde{\lambda}_C$) are rational functions of Compton counts. Per the v1.6 red-team finding (π ∉ ℚ₂), transcendental constants do not carry p-adic meaning — only the ratios they multiply, which are rational, do.
+2. **Transcendental coupling constants:** $\alpha$, $\pi$, and similar numbers appear in physical formulas as limits of computable sequences, but the RATIOS they multiply (e.g., $\tilde{a}_0 / \tilde{\lambda}_C$) are rational functions of Compton counts. Per the v1.6 red-team finding ($\pi$ $\notin$ $\mathbb{Q}_{2}$), transcendental constants do not carry p-adic meaning — only the ratios they multiply, which are rational, do.
 
 
 
-The physical number system, at its most fundamental, is **the rational numbers ℚ extended by computable limits** — not the full Archimedean continuum $\mathbb{R}$. The Compton/Zitterbewegung ontology is thus identical to the completed ratio program: every physical quantity is a rational expression of Compton counts, and the real numbers are a convenient Archimedean projection, not the fundamental substrate.
+The physical number system, at its most fundamental, is **the rational numbers $\mathbb{Q}$ extended by computable limits** — not the full Archimedean continuum $\mathbb{R}$. The Compton/Zitterbewegung ontology is thus identical to the completed ratio program: every physical quantity is a rational expression of Compton counts, and the real numbers are a convenient Archimedean projection, not the fundamental substrate.
 
 
 
@@ -608,7 +608,7 @@ The physical number system, at its most fundamental, is **the rational numbers �
 
 
 
-Since Compton counts are rational numbers, they have prime factorizations. The 2-adic valuation $v_2(\tilde{\omega}_C)$ counts how many factors of 2 the Compton count contains — which corresponds to the depth of the particle's representation on the 2-adic Bruhat-Tits tree (§2.4, Bridge C₂). Similarly, $v_3(\tilde{\omega}_C)$ and $v_5(\tilde{\omega}_C)$ determine the 3-adic and 5-adic structure. The Compton-counting ontology thus UNIFIES the Ratio Primacy Principle (§2.3), the Completion Lattice (§2.4), and the Breadth Trap (§2.5.1) into a single framework:
+Since Compton counts are rational numbers, they have prime factorizations. The 2-adic valuation $v_2(\tilde{\omega}_C)$ counts how many factors of 2 the Compton count contains — which corresponds to the depth of the particle's representation on the 2-adic Bruhat-Tits tree (§2.4, Bridge C$_{2}$). Similarly, $v_3(\tilde{\omega}_C)$ and $v_5(\tilde{\omega}_C)$ determine the 3-adic and 5-adic structure. The Compton-counting ontology thus UNIFIES the Ratio Primacy Principle (§2.3), the Completion Lattice (§2.4), and the Breadth Trap (§2.5.1) into a single framework:
 
 
 
@@ -630,7 +630,7 @@ Since Compton counts are rational numbers, they have prime factorizations. The 2
 
 
 
-Every physics formula that involves trigonometric functions ($\sin$, $\cos$, $\tan$), angular coordinates ($\theta$, $\phi$), or Cartesian axes ($x$, $y$, $z$) makes an implicit assumption: that space is a flat Euclidean manifold described by Archimedean coordinates. In the p-adic completions of ℚ — where the metric is ultrametric ($|x - z|_p \leq \max(|x - y|_p, |y - z|_p)$) and the topology is totally disconnected — trigonometric functions are undefined. They are Archimedean-only constructions, just as base-10 decimals are.
+Every physics formula that involves trigonometric functions ($\sin$, $\cos$, $\tan$), angular coordinates ($\theta$, $\phi$), or Cartesian axes ($x$, $y$, $z$) makes an implicit assumption: that space is a flat Euclidean manifold described by Archimedean coordinates. In the p-adic completions of $\mathbb{Q}$ — where the metric is ultrametric ($|x - z|_p \leq \max(|x - y|_p, |y - z|_p)$) and the topology is totally disconnected — trigonometric functions are undefined. They are Archimedean-only constructions, just as base-10 decimals are.
 
 
 
@@ -642,7 +642,7 @@ The correct generalization is the **cross-ratio** — the projective invariant:
 
 
 
-$$\chi(z\_1, z\_2, z\_3, z\_4) = \frac{(z\_1 - z\_3)(z\_2 - z\_4)}{(z\_1 - z\_4)(z\_2 - z\_3)}$$
+$$\chi(z_1, z_2, z_3, z_4) = \frac{(z_1 - z_3)(z_2 - z_4)}{(z_1 - z_4)(z_2 - z_3)}$$
 
 
 
@@ -652,7 +652,7 @@ Cross-ratios have three critical properties that trigonometric functions lack:
 
 1. **Dimensionless:** A cross-ratio is a ratio of ratios — inherently dimensionless, no coordinates needed.
 
-2. **Place-democratic:** $\chi$ is defined entirely in terms of the field operations (addition, subtraction, multiplication, division), which are well-defined at EVERY completion of ℚ. Unlike $\sin(\theta)$, which requires the Archimedean limit of a power series, $\chi$ is a rational function — defined at all places simultaneously.
+2. **Place-democratic:** $\chi$ is defined entirely in terms of the field operations (addition, subtraction, multiplication, division), which are well-defined at EVERY completion of $\mathbb{Q}$. Unlike $\sin(\theta)$, which requires the Archimedean limit of a power series, $\chi$ is a rational function — defined at all places simultaneously.
 
 3. **Projectively invariant:** $\chi$ is invariant under Möbius transformations $z \mapsto (az + b)/(cz + d)$, making it independent of the choice of coordinate system. This is the mathematical formalization of "stripping out Anthropocentric measurement": the cross-ratio survives any change of coordinates.
 
@@ -690,7 +690,7 @@ The Bruhat-Tits tree has properties that make it LEANER than Cartesian coordinat
 
 
 
-The Bruhat-Tits tree is thus the **non-Anthropocentric coordinate system**: it does not assume a particular origin, orientation, or scale; it is purely relational (vertices connected by containments); and it works at EVERY completion of ℚ (with valence $p+1$ for ℚ\_p, and the continuous tree for ℝ).
+The Bruhat-Tits tree is thus the **non-Anthropocentric coordinate system**: it does not assume a particular origin, orientation, or scale; it is purely relational (vertices connected by containments); and it works at EVERY completion of $\mathbb{Q}$ (with valence $p+1$ for $\mathbb{Q}$_p, and the continuous tree for $\mathbb{R}$).
 
 
 
@@ -738,17 +738,17 @@ $$i\hbar \frac{\partial\psi}{\partial t} = \left(-\frac{\hbar^2}{2m}\nabla^2 + V
 
 
 
-In dimensionless Planck units (ℏ = c = G = k\_B = 1):
+In dimensionless Planck units ($\hbar $ = c = G = k_B = 1):
 
 $$i\frac{\partial\psi}{\partial\tilde{t}} = \left(-\frac{1}{2\tilde{m}}\tilde{\nabla}^2 + \tilde{V}\right)\psi$$
 
 
 
-where $\tilde{t}$ = t/t\_P, $\tilde{m}$ = m/m\_P, $\tilde{∇}$ = ℓ\_P∇, $\tilde{V}$ = V/E\_P. The derivation proceeds by substituting the Planck-scale definitions:
+where $\tilde{t}$ = t/t_P, $\tilde{m}$ = m/m_P, $\tilde{\nabla }$ = $\ell$_P$\nabla $, $\tilde{V}$ = V/E_P. The derivation proceeds by substituting the Planck-scale definitions:
 
 
 
-$$\frac{\hbar}{t\_P} = \frac{\hbar}{\sqrt{\hbar G/c^5}} = \sqrt{\frac{\hbar c^5}{G}} = E\_P$$
+$$\frac{\hbar}{t_P} = \frac{\hbar}{\sqrt{\hbar G/c^5}} = \sqrt{\frac{\hbar c^5}{G}} = E_P$$
 
 
 
@@ -756,11 +756,11 @@ and
 
 
 
-$$\frac{\hbar^2}{2m \ell\_P^2} = \frac{\hbar^2}{2m} \cdot \frac{c^3}{\hbar G} = \frac{\hbar c^3}{2mG} = \frac{E\_P}{2\tilde{m}}$$
+$$\frac{\hbar^2}{2m \ell_P^2} = \frac{\hbar^2}{2m} \cdot \frac{c^3}{\hbar G} = \frac{\hbar c^3}{2mG} = \frac{E_P}{2\tilde{m}}$$
 
 
 
-With both sides divided by E\_P, the dimensionless form follows immediately.
+With both sides divided by E_P, the dimensionless form follows immediately.
 
 
 
@@ -780,7 +780,7 @@ $$\Delta\tilde{x} \Delta\tilde{p} \geq \frac{1}{2}$$
 
 
 
-where Δ$\tilde{x}$ = Δx/ℓ\_P and Δ$\tilde{p}$ = Δp c/E\_P. The factor ℏ/2 becomes the pure number 1/2 -- a statement that the product of normalized uncertainties is at least one-half.
+where $\Delta$$\tilde{x}$ = $\Delta$x/$\ell$_P and $\Delta$$\tilde{p}$ = $\Delta$p c/E_P. The factor $\hbar $/2 becomes the pure number 1/2 -- a statement that the product of normalized uncertainties is at least one-half.
 
 
 
@@ -794,17 +794,17 @@ where Δ$\tilde{x}$ = Δx/ℓ\_P and Δ$\tilde{p}$ = Δp c/E\_P. The factor ℏ/
 
 In conventional dimensional form:
 
-$$B\_\nu(T) = \frac{2h\nu^3}{c^2} \frac{1}{e^{h\nu/(k\_B T)} - 1}$$
+$$B_\nu(T) = \frac{2h\nu^3}{c^2} \frac{1}{e^{h\nu/(k_B T)} - 1}$$
 
 
 
 In dimensionless Planck units:
 
-$$\tilde{B}\_{\tilde{\nu}}(\tilde{T}) = 4\pi\tilde{\nu}^3 \frac{1}{e^{2\pi\tilde{\nu}/\tilde{T}} - 1}$$
+$$\tilde{B}_{\tilde{\nu}}(\tilde{T}) = 4\pi\tilde{\nu}^3 \frac{1}{e^{2\pi\tilde{\nu}/\tilde{T}} - 1}$$
 
 
 
-with $\tilde{ν}$ = ν t\_P and $\tilde{T}$ = T/T\_P. The reduction uses h = 2π (since h = 2πℏ and ℏ = 1) and the cancellation of c² in the pre-factor. The physical content is preserved in the exponent: the ratio hν/(k\_B T) becomes 2π$\tilde{ν}$/$\tilde{T}$ -- a pure dimensionless number that determines the spectral regime.
+with $\tilde{ν}$ = $\nu$ t_P and $\tilde{T}$ = T/T_P. The reduction uses h = 2$\pi$ (since h = 2$\pi\hbar $ and $\hbar $ = 1) and the cancellation of c$^{2}$ in the pre-factor. The physical content is preserved in the exponent: the ratio h$\nu$/(k_B T) becomes 2$\pi$$\tilde{ν}$/$\tilde{T}$ -- a pure dimensionless number that determines the spectral regime.
 
 
 
@@ -812,11 +812,11 @@ with $\tilde{ν}$ = ν t\_P and $\tilde{T}$ = T/T\_P. The reduction uses h = 2π
 
 
 
-$$\sigma = \frac{2\pi^5 k\_B^4}{15 h^3 c^2} \quad\longrightarrow\quad \tilde{\sigma} = \frac{\pi^2}{60}$$
+$$\sigma = \frac{2\pi^5 k_B^4}{15 h^3 c^2} \quad\longrightarrow\quad \tilde{\sigma} = \frac{\pi^2}{60}$$
 
 
 
-The dimensional Stefan-Boltzmann constant σ ≈ 5.670374419 × 10⁻⁸ W/(m²·K⁴) reduces to the pure number π²/60 ≈ 0.1645 in Planck units. This number arises from the integration over the Planck spectrum, specifically from ζ(4) = π⁴/90, together with the geometric factor for isotropic radiation.
+The dimensional Stefan-Boltzmann constant $\sigma$ $\approx$ 5.670374419 $\times$ 10$^{-8}$ W/(m$^{2}\cdot$K$^{4}$) reduces to the pure number $\pi^{2}$/60 $\approx$ 0.1645 in Planck units. This number arises from the integration over the Planck spectrum, specifically from $\zeta$(4) = $\pi^{4}$/90, together with the geometric factor for isotropic radiation.
 
 
 
@@ -830,17 +830,17 @@ The dimensional Stefan-Boltzmann constant σ ≈ 5.670374419 × 10⁻⁸ W/(m²�
 
 In conventional dimensional form:
 
-$$G\_{\mu\nu} + \Lambda g\_{\mu\nu} = \frac{8\pi G}{c^4} T\_{\mu\nu}$$
+$$G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$$
 
 
 
 In dimensionless Planck units:
 
-$$\tilde{G}\_{\mu\nu} + \tilde{\Lambda} g\_{\mu\nu} = 8\pi \tilde{T}\_{\mu\nu}$$
+$$\tilde{G}_{\mu\nu} + \tilde{\Lambda} g_{\mu\nu} = 8\pi \tilde{T}_{\mu\nu}$$
 
 
 
-where $\tilde{G}$\_μν = G\_μν ℓ\_P², $\tilde{T}$\_μν = T\_μν/(E\_P/ℓ\_P³), and $\tilde{Λ}$ = Λ ℓ\_P². The reduction eliminates the factor G/c⁴ ≈ 8.262 × 10⁻⁴⁵ m⁻¹·J⁻¹·m³ entirely. The coefficient 8π is a pure geometric factor arising from the Newtonian limit in four spacetime dimensions.
+where $\tilde{G}_{\mu\nu}$ = G_$\mu\nu$ $\ell$_P$^{2}$, $\tilde{T}_{\mu\nu}$ = T_$\mu\nu$/(E_P/$\ell$_P$^{3}$), and $\tilde{Λ}$ = $\Lambda$ $\ell$_P$^{2}$. The reduction eliminates the factor G/c$^{4}$ $\approx$ 8.262 $\times$ 10$^{-45}$ m$^{-1}\cdot$J$^{-1}\cdot$m$^{3}$ entirely. The coefficient 8$\pi$ is a pure geometric factor arising from the Newtonian limit in four spacetime dimensions.
 
 
 
@@ -848,11 +848,11 @@ where $\tilde{G}$\_μν = G\_μν ℓ\_P², $\tilde{T}$\_μν = T\_μν/(E\_P/�
 
 
 
-$$T\_H = \frac{\hbar c^3}{8\pi G M k\_B} \quad\longrightarrow\quad \tilde{T}\_H = \frac{1}{8\pi \tilde{M}}$$
+$$T_H = \frac{\hbar c^3}{8\pi G M k_B} \quad\longrightarrow\quad \tilde{T}_H = \frac{1}{8\pi \tilde{M}}$$
 
 
 
-A black hole's temperature is simply the inverse of its mass (times 1/(8π)) when both are expressed in Planck units. A solar-mass black hole ($\tilde{M}$ ≈ 10³⁸) has $\tilde{T}$\_H ≈ 4 × 10⁻⁴¹ -- practically absolute zero. A Planck-mass black hole would have $\tilde{T}$\_H ≈ 1/(8π) ≈ 0.04, corresponding to approximately 4% of the Planck temperature.
+A black hole's temperature is simply the inverse of its mass (times 1/(8$\pi$)) when both are expressed in Planck units. A solar-mass black hole ($\tilde{M}$ $\approx$ 10$^{38}$) has $\tilde{T}$_H $\approx$ 4 $\times$ 10$^{-41}$ -- practically absolute zero. A Planck-mass black hole would have $\tilde{T}$_H $\approx$ 1/(8$\pi$) $\approx$ 0.04, corresponding to approximately 4% of the Planck temperature.
 
 
 
@@ -864,11 +864,11 @@ A black hole's temperature is simply the inverse of its mass (times 1/(8π)) whe
 
 
 
-$$\rho\_c = \frac{3H^2}{8\pi G} \quad\longrightarrow\quad \tilde{\rho}\_c = \frac{3\tilde{H}^2}{8\pi}$$
+$$\rho_c = \frac{3H^2}{8\pi G} \quad\longrightarrow\quad \tilde{\rho}_c = \frac{3\tilde{H}^2}{8\pi}$$
 
 
 
-with $\tilde{ρ}$\_c = ρ\_c/(E\_P/ℓ\_P³) and $\tilde{H}$ = H t\_P. The Hubble constant today, H₀ ≈ 70 km/(s·Mpc), corresponds to $\tilde{H}$₀ ≈ 1.2 × 10⁻⁶¹ in Planck units -- reflecting the enormous ratio between the Hubble scale and the Planck scale.
+with $\tilde{ρ}$_c = $\rho$_c/(E_P/$\ell$_P$^{3}$) and $\tilde{H}$ = H t_P. The Hubble constant today, H$_{0}$ $\approx$ 70 km/(s$\cdot$Mpc), corresponds to $\tilde{H}$$_{0}$ $\approx$ 1.2 $\times$ 10$^{-61}$ in Planck units -- reflecting the enormous ratio between the Hubble scale and the Planck scale.
 
 
 
@@ -880,11 +880,11 @@ with $\tilde{ρ}$\_c = ρ\_c/(E\_P/ℓ\_P³) and $\tilde{H}$ = H t\_P. The Hubbl
 
 
 
-$$\frac{G\_F}{(\hbar c)^3} \approx 1.166 \times 10^{-5} \text{ GeV}^{-2} \quad\longrightarrow\quad \tilde{G}\_F \approx 3.05 \times 10^{-32}$$
+$$\frac{G_F}{(\hbar c)^3} \approx 1.166 \times 10^{-5} \text{ GeV}^{-2} \quad\longrightarrow\quad \tilde{G}_F \approx 3.05 \times 10^{-32}$$
 
 
 
-The Fermi constant, which characterizes the strength of the weak interaction, becomes an extremely small dimensionless number when expressed in Planck units. This is the true physical statement: the dimensionless coupling is approximately 10⁻³². The question "why is the weak interaction so weak?" becomes "why is the dimensionless Fermi constant so small compared to unity?" -- a puzzle that dimensional units conceal by distributing the smallness across multiple constants.
+The Fermi constant, which characterizes the strength of the weak interaction, becomes an extremely small dimensionless number when expressed in Planck units. This is the true physical statement: the dimensionless coupling is approximately 10$^{-32}$. The question "why is the weak interaction so weak?" becomes "why is the dimensionless Fermi constant so small compared to unity?" -- a puzzle that dimensional units conceal by distributing the smallness across multiple constants.
 
 
 
@@ -896,11 +896,11 @@ The Fermi constant, which characterizes the strength of the weak interaction, be
 
 
 
-$$R\_K = \frac{h}{e^2} \approx 25812.807\ \Omega \quad\longrightarrow\quad \tilde{R}\_K = \frac{2\pi}{\alpha} \approx 861$$
+$$R_K = \frac{h}{e^2} \approx 25812.807\ \Omega \quad\longrightarrow\quad \tilde{R}_K = \frac{2\pi}{\alpha} \approx 861$$
 
 
 
-The von Klitzing constant, which in SI appears as a specific resistance (≈ 25.8 kΩ), is the dimensionless ratio 2π/α when expressed in natural units. The ohm value reflects the SI unit convention; the pure-number ratio 2π/α is the invariant physical content.
+The von Klitzing constant, which in SI appears as a specific resistance ($\approx$ 25.8 k$\Omega$), is the dimensionless ratio 2$\pi$/$\alpha$ when expressed in natural units. The ohm value reflects the SI unit convention; the pure-number ratio 2$\pi$/$\alpha$ is the invariant physical content.
 
 
 
@@ -912,11 +912,11 @@ Several of the most important physical constants are already dimensionless and r
 
 
 
-- **Fine-structure constant (RUNNING, v1.7):** α(Q̃²) = e²/(4πε₀ℏc) is a running coupling, not a fixed number. The value ≈ 1/137.036 is the deep-IR (Q̃ → 0) Archimedean projection; at the Z-pole it is 1/127.9. The place-democratic form is the running ratio α(Q̃²) = r\_e(Q̃)/λ̄\_C(Q̃) (see §2.5). The primary dimensionless coupling of electromagnetism. Cross-references: the Fine-Structure Constant as a Cross-Ratio paper (DOI: 10.5281/zenodo.20108536) interprets α = r\_e/λ\_C as a projective-geometric invariant; the Alpha-Pi-Helix paper v2.1 (DOI: 10.5281/zenodo.21515612) treats π and α as geometric proportions (C/d and r\_e/λ\_C) with genuine pedagogical value at v1.1. `[established]`
+- **Fine-structure constant (RUNNING, v1.7):** $\alpha$($\tilde{Q}$$^{2}$) = e$^{2}$/(4$\pi\epsilon_{0}\hbar $c) is a running coupling, not a fixed number. The value $\approx$ 1/137.036 is the deep-IR ($\tilde{Q}$ $\rightarrow$ 0) Archimedean projection; at the Z-pole it is 1/127.9. The place-democratic form is the running ratio $\alpha$($\tilde{Q}$$^{2}$) = r_e($\tilde{Q}$)/$\lambda$̄_C($\tilde{Q}$) (see §2.5). The primary dimensionless coupling of electromagnetism. Cross-references: the Fine-Structure Constant as a Cross-Ratio paper (DOI: 10.5281/zenodo.20108536) interprets $\alpha$ = r_e/$\lambda$_C as a projective-geometric invariant; the Alpha-Pi-Helix paper v2.1 (DOI: 10.5281/zenodo.21515612) treats $\pi$ and $\alpha$ as geometric proportions (C/d and r_e/$\lambda$_C) with genuine pedagogical value at v1.1. `[established]`
 
-- **Weinberg angle (RUNNING, v1.7):** sin²θ\_W(Q̃²) ≈ 0.23 at low energy, 0.2312 at M\_Z (MS-bar). Already a dimensionless ratio, but scale-dependent — annotate the scale at which it is evaluated (see §2.5). `[established]`
+- **Weinberg angle (RUNNING, v1.7):** sin$^{2}\theta$_W($\tilde{Q}$$^{2}$) $\approx$ 0.23 at low energy, 0.2312 at M_Z (MS-bar). Already a dimensionless ratio, but scale-dependent — annotate the scale at which it is evaluated (see §2.5). `[established]`
 
-- **Holevo bound:** χ = S(ρ) - Σ p\_i S(ρ\_i). A dimensionless information-theoretic limit. `[established]`
+- **Holevo bound:** $\chi$ = S($\rho$) - $\Sigma$ p_i S($\rho$_i). A dimensionless information-theoretic limit. `[established]`
 
 
 
@@ -924,7 +924,7 @@ Several of the most important physical constants are already dimensionless and r
 
 
 
-The existence of these already-dimensionless fundamental constants supports the thesis that the dimensional ones -- ℏ, c, G, k\_B, ε₀ -- are artifacts of unit conventions, not independent properties of nature. The dimensionless reformulation exposes this by showing that every dimensional formula reduces to one involving only dimensionless constants plus the pure-number α.
+The existence of these already-dimensionless fundamental constants supports the thesis that the dimensional ones -- $\hbar $, c, G, k_B, $\epsilon_{0}$ -- are artifacts of unit conventions, not independent properties of nature. The dimensionless reformulation exposes this by showing that every dimensional formula reduces to one involving only dimensionless constants plus the pure-number $\alpha$.
 
 
 
@@ -962,7 +962,7 @@ The de Broglie relation supplies the momentum operator content of the Schröding
 
 
 
-Substituting the de Broglie relation into the Heisenberg bound yields $\Delta\tilde{x} \geq \tilde{\lambda}/(4\pi)$ — a dimensionless statement that the position uncertainty of a particle is at least its de Broglie wavelength divided by 4π. No dimensional constants appear; the relation is a pure-number constraint valid at every completion.
+Substituting the de Broglie relation into the Heisenberg bound yields $\Delta\tilde{x} \geq \tilde{\lambda}/(4\pi)$ — a dimensionless statement that the position uncertainty of a particle is at least its de Broglie wavelength divided by 4$\pi$. No dimensional constants appear; the relation is a pure-number constraint valid at every completion.
 
 
 
@@ -978,7 +978,7 @@ $$\mathrm{Schr\"odinger\;(stationary): }\; \left(-\frac{1}{2\tilde{\omega}}\tild
 
 
 
-$$\mathrm{Dirac: }\; (i\gamma^\mu \tilde{\partial}\_\mu - \tilde{\omega})\psi = 0$$
+$$\mathrm{Dirac: }\; (i\gamma^\mu \tilde{\partial}_\mu - \tilde{\omega})\psi = 0$$
 
 
 
@@ -986,7 +986,7 @@ $$\mathrm{Klein\text{-}Gordon: }\;(\square + \tilde{\omega}^2)\phi = 0$$
 
 
 
-$$\text{Compton: } \tilde{\lambda}\_C = \frac{2\pi}{\tilde{\omega}}$$
+$$\text{Compton: } \tilde{\lambda}_C = \frac{2\pi}{\tilde{\omega}}$$
 
 
 
@@ -994,7 +994,7 @@ $$\text{de Broglie: } \tilde{\lambda} = \frac{2\pi}{\tilde{p}}$$
 
 
 
-When $\tilde{m} = \tilde{\omega}$, the Compton wavelength of a particle IS its mass-frequency's reciprocal (up to 2π): $\tilde{\lambda}_C = 2\pi/\tilde{\omega} = 2\pi/\tilde{m}$. The system closes: mass, frequency, and Compton wavelength become three expressions of one dimensionless quantity. The fermion (Dirac) and boson (Klein–Gordon) equations both admit the substitution, unifying their mass terms. `[established — Mass-Frequency Identity v3.2.0]`
+When $\tilde{m} = \tilde{\omega}$, the Compton wavelength of a particle IS its mass-frequency's reciprocal (up to 2$\pi$): $\tilde{\lambda}_C = 2\pi/\tilde{\omega} = 2\pi/\tilde{m}$. The system closes: mass, frequency, and Compton wavelength become three expressions of one dimensionless quantity. The fermion (Dirac) and boson (Klein–Gordon) equations both admit the substitution, unifying their mass terms. `[established — Mass-Frequency Identity v3.2.0]`
 
 
 
@@ -1006,19 +1006,19 @@ The most striking system connects thermodynamics to gravity through black hole g
 
 
 
-$$\mathrm{Schwarzschild: }\; \tilde{r}\_s = 2\tilde{M}$$
+$$\mathrm{Schwarzschild: }\; \tilde{r}_s = 2\tilde{M}$$
 
 
 
-$$\mathrm{Horizon\;area: }\; \tilde{A} = 4\pi\tilde{r}\_s^2 = 16\pi\tilde{M}^2$$
+$$\mathrm{Horizon\;area: }\; \tilde{A} = 4\pi\tilde{r}_s^2 = 16\pi\tilde{M}^2$$
 
 
 
-$$\mathrm{Bekenstein\text{-}Hawking: }\; \tilde{S}\_{BH} = \frac{\tilde{A}}{4} = 4\pi\tilde{M}^2$$
+$$\mathrm{Bekenstein\text{-}Hawking: }\; \tilde{S}_{BH} = \frac{\tilde{A}}{4} = 4\pi\tilde{M}^2$$
 
 
 
-$$\mathrm{Hawking: }\; \tilde{T}\_H = \frac{1}{8\pi\tilde{M}}$$
+$$\mathrm{Hawking: }\; \tilde{T}_H = \frac{1}{8\pi\tilde{M}}$$
 
 
 
@@ -1026,7 +1026,7 @@ Substituting the Hawking temperature into the Stefan–Boltzmann law ($\tilde{j}
 
 
 
-$$\tilde{j}\_* = \frac{\pi^2}{60}\left(\frac{1}{8\pi\tilde{M}}\right)^4 = \frac{1}{245760\,\pi^2\,\tilde{M}^4}$$
+$$\tilde{j}_* = \frac{\pi^2}{60}\left(\frac{1}{8\pi\tilde{M}}\right)^4 = \frac{1}{245760\,\pi^2\,\tilde{M}^4}$$
 
 
 
@@ -1046,7 +1046,7 @@ $$\mathrm{Bekenstein\;bound: }\; \mathcal{I} \leq \frac{2\pi\tilde{R}\tilde{E}}{
 
 
 
-$$\text{Bekenstein–Hawking entropy: } \tilde{S}\_{BH} = \frac{\tilde{A}}{4}$$
+$$\text{Bekenstein–Hawking entropy: } \tilde{S}_{BH} = \frac{\tilde{A}}{4}$$
 
 
 
@@ -1062,7 +1062,7 @@ For a Schwarzschild black hole ($\tilde{R} = \tilde{r}_s = 2\tilde{M}$, $\tilde{
 
 
 
-$$\mathcal{I}\_{max} = \frac{2\pi \cdot 2\tilde{M} \cdot \tilde{M}}{\ln 2} = \frac{4\pi\tilde{M}^2}{\ln 2} = \frac{\tilde{S}\_{BH}}{\ln 2} \approx 1.4427\,\tilde{S}\_{BH}$$
+$$\mathcal{I}_{max} = \frac{2\pi \cdot 2\tilde{M} \cdot \tilde{M}}{\ln 2} = \frac{4\pi\tilde{M}^2}{\ln 2} = \frac{\tilde{S}_{BH}}{\ln 2} \approx 1.4427\,\tilde{S}_{BH}$$
 
 
 
@@ -1076,7 +1076,7 @@ The black hole is the system that saturates the information bound — its inform
 
 
 
-Beyond the within-discipline systems of §3.8, the dimensionless reformulation enables bridges BETWEEN disciplines — single dimensionless relations that connect formulas from different domains through shared ratios. These bridges are Ostrowski/Tate-compliant by construction: every quantity is a dimensionless ratio, every relation is a rational function of ratios, and every formula is simultaneously well-defined at every completion of ℚ.
+Beyond the within-discipline systems of §3.8, the dimensionless reformulation enables bridges BETWEEN disciplines — single dimensionless relations that connect formulas from different domains through shared ratios. These bridges are Ostrowski/Tate-compliant by construction: every quantity is a dimensionless ratio, every relation is a rational function of ratios, and every formula is simultaneously well-defined at every completion of $\mathbb{Q}$.
 
 
 
@@ -1088,11 +1088,11 @@ The de Broglie wavelength, Bohr radius, and Compton wavelength of the same parti
 
 
 
-$$\tilde{a}\_0 = \frac{1}{\alpha(\tilde{Q}^2)\,\tilde{m}\_e}, \qquad \tilde{\lambda}\_C = \frac{2\pi}{\tilde{m}\_e}, \qquad \frac{\tilde{a}\_0}{\tilde{\lambda}\_C} = \frac{1}{2\pi\alpha} \approx 21.8$$
+$$\tilde{a}_0 = \frac{1}{\alpha(\tilde{Q}^2)\,\tilde{m}_e}, \qquad \tilde{\lambda}_C = \frac{2\pi}{\tilde{m}_e}, \qquad \frac{\tilde{a}_0}{\tilde{\lambda}_C} = \frac{1}{2\pi\alpha} \approx 21.8$$
 
 
 
-The ratio $\tilde{a}_0/\tilde{\lambda}_C = 1/(2\pi\alpha)$ is a pure number connecting the atomic scale (Bohr radius) to the particle scale (Compton wavelength). With the v1.7 running-coupling correction, α is evaluated at the atomic scale ($\tilde{Q} \sim \alpha\tilde{m}_e$), where the deep-IR value 1/137.036 applies to high precision. The bridge demonstrates that the fine-structure constant α IS the quantum-classical connection ratio. `[established]`
+The ratio $\tilde{a}_0/\tilde{\lambda}_C = 1/(2\pi\alpha)$ is a pure number connecting the atomic scale (Bohr radius) to the particle scale (Compton wavelength). With the v1.7 running-coupling correction, $\alpha$ is evaluated at the atomic scale ($\tilde{Q} \sim \alpha\tilde{m}_e$), where the deep-IR value 1/137.036 applies to high precision. The bridge demonstrates that the fine-structure constant $\alpha$ IS the quantum-classical connection ratio. `[established]`
 
 
 
@@ -1104,11 +1104,11 @@ The Debye length and plasma frequency — two central plasma physics formulas �
 
 
 
-$$\tilde{\omega}\_p = \sqrt{\frac{4\pi\alpha\,\tilde{n}}{\tilde{m}}}, \qquad \tilde{\lambda}\_D = \sqrt{\frac{\tilde{T}}{4\pi\alpha\,\tilde{n}}}$$
+$$\tilde{\omega}_p = \sqrt{\frac{4\pi\alpha\,\tilde{n}}{\tilde{m}}}, \qquad \tilde{\lambda}_D = \sqrt{\frac{\tilde{T}}{4\pi\alpha\,\tilde{n}}}$$
 
 
 
-$$\tilde{\omega}\_p \tilde{\lambda}\_D = \sqrt{\frac{\tilde{T}}{\tilde{m}}} = \tilde{v}\_{th}$$
+$$\tilde{\omega}_p \tilde{\lambda}_D = \sqrt{\frac{\tilde{T}}{\tilde{m}}} = \tilde{v}_{th}$$
 
 
 
@@ -1124,11 +1124,11 @@ The four bounds of §3.8.4 extend to a bridge between information theory and phy
 
 
 
-$$\tilde{E}\_{Landauer} = \tilde{T}\ln 2, \qquad \tilde{\tau}\_{ML} = \frac{\pi}{2\tilde{M}}, \qquad \mathcal{I}\_{max} = \frac{2\pi\tilde{R}\tilde{M}}{\ln 2}$$
+$$\tilde{E}_{Landauer} = \tilde{T}\ln 2, \qquad \tilde{\tau}_{ML} = \frac{\pi}{2\tilde{M}}, \qquad \mathcal{I}_{max} = \frac{2\pi\tilde{R}\tilde{M}}{\ln 2}$$
 
 
 
-For a system of mass $\tilde{M}$, radius $\tilde{R}$, and temperature $\tilde{T}$, the dimensionless forms reveal that all three limits are controlled by the same dimensionless quantities — temperature, mass, and radius — with only pure numbers (ln 2, π) as coefficients. The information-physics bridge shows that computational limits are thermodynamic limits in disguise. `[established]`
+For a system of mass $\tilde{M}$, radius $\tilde{R}$, and temperature $\tilde{T}$, the dimensionless forms reveal that all three limits are controlled by the same dimensionless quantities — temperature, mass, and radius — with only pure numbers (ln 2, $\pi$) as coefficients. The information-physics bridge shows that computational limits are thermodynamic limits in disguise. `[established]`
 
 
 
@@ -1140,11 +1140,11 @@ The fine-structure constant connects the electromagnetic and gravitational force
 
 
 
-$$\frac{\tilde{F}\_{elec}}{\tilde{F}\_{grav}} = \alpha(\tilde{Q}^2) \cdot \frac{\tilde{q}\_1\tilde{q}\_2}{\tilde{m}\_1\tilde{m}\_2}$$
+$$\frac{\tilde{F}_{elec}}{\tilde{F}_{grav}} = \alpha(\tilde{Q}^2) \cdot \frac{\tilde{q}_1\tilde{q}_2}{\tilde{m}_1\tilde{m}_2}$$
 
 
 
-For two identical particles, $\tilde{F}_{elec}/\tilde{F}_{grav} = \alpha\,\tilde{q}^2/\tilde{m}^2$. For an electron-like particle ($\tilde{m}_e \approx 4.185 \times 10^{-23}$), this ratio is approximately $\alpha \times 1^2/(4.185 \times 10^{-23})^2 \approx 4.17 \times 10^{42}$ — the famous hierarchy between electromagnetic and gravitational force strengths, expressed as a pure ratio of dimensionless quantities. The bridge reveals that the "hierarchy problem" is a ratio of ratios: α times the squared inverse mass ratio. `[established]`
+For two identical particles, $\tilde{F}_{elec}/\tilde{F}_{grav} = \alpha\,\tilde{q}^2/\tilde{m}^2$. For an electron-like particle ($\tilde{m}_e \approx 4.185 \times 10^{-23}$), this ratio is approximately $\alpha \times 1^2/(4.185 \times 10^{-23})^2 \approx 4.17 \times 10^{42}$ — the famous hierarchy between electromagnetic and gravitational force strengths, expressed as a pure ratio of dimensionless quantities. The bridge reveals that the "hierarchy problem" is a ratio of ratios: $\alpha$ times the squared inverse mass ratio. `[established]`
 
 
 
@@ -1156,7 +1156,7 @@ The Wien displacement law and Planck's law combine into a dimensionless bridge:
 
 
 
-$$\tilde{\omega}\_{max}\tilde{T}^{-1} \approx 2.821$$
+$$\tilde{\omega}_{max}\tilde{T}^{-1} \approx 2.821$$
 
 
 
@@ -1168,15 +1168,15 @@ The dimensionless Wien constant 2.821 (the solution of the transcendental equati
 
 
 
-The BCS gap equation and the Debye T³ law connect condensed matter physics to thermodynamics:
+The BCS gap equation and the Debye T$^{3}$ law connect condensed matter physics to thermodynamics:
 
 
 
-$$\tilde{T}\_c \approx 1.13\,\tilde{\omega}\_D \exp\left(-\frac{1}{\tilde{N}(0)\tilde{V}}\right)$$
+$$\tilde{T}_c \approx 1.13\,\tilde{\omega}_D \exp\left(-\frac{1}{\tilde{N}(0)\tilde{V}}\right)$$
 
 
 
-$$\tilde{C}\_V^{Debye} = \frac{12\pi^4}{5}\tilde{N}\left(\frac{\tilde{T}}{\tilde{T}\_D}\right)^3$$
+$$\tilde{C}_V^{Debye} = \frac{12\pi^4}{5}\tilde{N}\left(\frac{\tilde{T}}{\tilde{T}_D}\right)^3$$
 
 
 
@@ -1192,15 +1192,15 @@ The London penetration depth, plasma frequency, and Compton wavelength form a co
 
 
 
-$$\tilde{\lambda}\_L = \sqrt{\frac{\tilde{m}}{4\pi\alpha\,\tilde{n}\_s}}, \qquad \tilde{\omega}\_p = \sqrt{\frac{4\pi\alpha\,\tilde{n}\_s}{\tilde{m}}}, \qquad \tilde{\lambda}\_C = \frac{2\pi}{\tilde{m}}$$
+$$\tilde{\lambda}_L = \sqrt{\frac{\tilde{m}}{4\pi\alpha\,\tilde{n}_s}}, \qquad \tilde{\omega}_p = \sqrt{\frac{4\pi\alpha\,\tilde{n}_s}{\tilde{m}}}, \qquad \tilde{\lambda}_C = \frac{2\pi}{\tilde{m}}$$
 
 
 
-$$\tilde{\lambda}\_L\,\tilde{\omega}\_p = \sqrt{\frac{\tilde{m}}{4\pi\alpha\,\tilde{n}\_s}} \times \sqrt{\frac{4\pi\alpha\,\tilde{n}\_s}{\tilde{m}}} = 1$$
+$$\tilde{\lambda}_L\,\tilde{\omega}_p = \sqrt{\frac{\tilde{m}}{4\pi\alpha\,\tilde{n}_s}} \times \sqrt{\frac{4\pi\alpha\,\tilde{n}_s}{\tilde{m}}} = 1$$
 
 
 
-The product of London penetration depth and plasma frequency is exactly **unity** in Planck units — the dimensionless form of the SI identity $\lambda_L \omega_p = c$. Two material-dependent quantities (penetration depth depends on superfluid density $\tilde{n}_s$, plasma frequency on both $\tilde{n}_s$ and $\tilde{m}$) multiply to exactly 1, a universal pure number independent of all material parameters. This is the fundamental condensate relation: the London length is the reciprocal of the plasma wavenumber. `[derivation verified — v2.0 refactor red-team correction of the v1.0 inventory's missing 4π]`
+The product of London penetration depth and plasma frequency is exactly **unity** in Planck units — the dimensionless form of the SI identity $\lambda_L \omega_p = c$. Two material-dependent quantities (penetration depth depends on superfluid density $\tilde{n}_s$, plasma frequency on both $\tilde{n}_s$ and $\tilde{m}$) multiply to exactly 1, a universal pure number independent of all material parameters. This is the fundamental condensate relation: the London length is the reciprocal of the plasma wavenumber. `[derivation verified — v2.0 refactor red-team correction of the v1.0 inventory's missing 4$\pi$]`
 
 
 
@@ -1212,11 +1212,11 @@ The dimensionless Coulomb and Newton forces unify into a single force law:
 
 
 
-$$\tilde{F} = \frac{\alpha(\tilde{Q}^2)\,\tilde{q}\_1\tilde{q}\_2}{\tilde{r}^2} - \frac{\tilde{G}\,\tilde{m}\_1\tilde{m}\_2}{\tilde{r}^2} = \frac{\alpha\,\tilde{q}\_1\tilde{q}\_2 - \tilde{m}\_1\tilde{m}\_2}{\tilde{r}^2}$$
+$$\tilde{F} = \frac{\alpha(\tilde{Q}^2)\,\tilde{q}_1\tilde{q}_2}{\tilde{r}^2} - \frac{\tilde{G}\,\tilde{m}_1\tilde{m}_2}{\tilde{r}^2} = \frac{\alpha\,\tilde{q}_1\tilde{q}_2 - \tilde{m}_1\tilde{m}_2}{\tilde{r}^2}$$
 
 
 
-With $\tilde{G} = 1$ in Planck units, the gravitational term reduces to $\tilde{m}_1\tilde{m}_2/\tilde{r}^2$. The single dimensionless force law covers both the electromagnetic and gravitational forces, distinguished only by the coupling α and the charge-to-mass content. This is the Ostrowski/Tate-compliant unification statement: one rational function of dimensionless ratios for both forces. `[established — with v1.7 running-coupling annotation]`
+With $\tilde{G} = 1$ in Planck units, the gravitational term reduces to $\tilde{m}_1\tilde{m}_2/\tilde{r}^2$. The single dimensionless force law covers both the electromagnetic and gravitational forces, distinguished only by the coupling $\alpha$ and the charge-to-mass content. This is the Ostrowski/Tate-compliant unification statement: one rational function of dimensionless ratios for both forces. `[established — with v1.7 running-coupling annotation]`
 
 
 
@@ -1254,7 +1254,7 @@ Table: Comparison of ODR and Feldt REACS-DI (2026) frameworks.
 
 |:----------|:----------------------|:----------------|
 
-| Guiding principle | Entropic/recursive architecture | Ostrowski's theorem → place-democracy |
+| Guiding principle | Entropic/recursive architecture | Ostrowski's theorem $\rightarrow$ place-democracy |
 
 | Mathematical foundation | Entropy-based recursion | Number theory (p-adic completions) |
 
@@ -1284,11 +1284,11 @@ Three categories of formulas require special handling:
 
 
 
-1. **Definitional identities (Planck scale definitions):** The equations ℓ\_P = √(ℏG/c³), t\_P = √(ℏG/c⁵), m\_P = √(ℏc/G), and T\_P = √(ℏc⁵/(G k\_B²)) are not physical laws but unit definitions. Reformulating them to "1 = 1" is tautological. They should be presented as definitions that set the scale, not as physical formulas to be reformulated.
+1. **Definitional identities (Planck scale definitions):** The equations $\ell$_P = $\sqrt{}$($\hbar $G/c$^{3}$), t_P = $\sqrt{}$($\hbar $G/c$^{5}$), m_P = $\sqrt{}$($\hbar $c/G), and T_P = $\sqrt{}$($\hbar $c$^{5}$/(G k_B$^{2}$)) are not physical laws but unit definitions. Reformulating them to "1 = 1" is tautological. They should be presented as definitions that set the scale, not as physical formulas to be reformulated.
 
 
 
-2. **SI electromagnetic formulas:** Maxwell's equations in SI form contain ε₀ and μ₀ explicitly. Reformulation requires first converting to Heaviside-Lorentz or Gaussian units (where ε₀ = μ₀ = 1), then applying Planck normalization. The resulting dimensionless equations are equivalent to the Gaussian form with c = 1.
+2. **SI electromagnetic formulas:** Maxwell's equations in SI form contain $\epsilon_{0}$ and $\mu_{0}$ explicitly. Reformulation requires first converting to Heaviside-Lorentz or Gaussian units (where $\epsilon_{0}$ = $\mu_{0}$ = 1), then applying Planck normalization. The resulting dimensionless equations are equivalent to the Gaussian form with c = 1.
 
 
 
@@ -1304,7 +1304,7 @@ This survey is not exhaustive. It covers 53 fundamental equations but does not i
 
 
 
-**Pedagogical precedent:** The external literature provides strong support for the pedagogical value of the dimensionless reformulation. Humpherys (2024), "Understanding the natural units and their hidden role in the laws of physics" (*European Journal of Physics*, 12 citations), and its precursor Humpherys (2021), "Natural Planck units and the structure of matter and radiation" (*Quantum Speculations*, 10 citations), demonstrate that restating physical formulas in natural Planck units reveals structural relationships obscured by dimensional constants. While Humpherys's approach is explicitly pedagogical (the "hidden role" is a teaching insight, not an ontological claim), ODR's Ostrowski rationale provides the mathematical justification for why the pedagogical insight has ontological force: the dimensional form literally cannot be evaluated at non-Archimedean places, making the dimensionless form not only clearer but uniquely well-defined across all completions of ℚ. `[established]`
+**Pedagogical precedent:** The external literature provides strong support for the pedagogical value of the dimensionless reformulation. Humpherys (2024), "Understanding the natural units and their hidden role in the laws of physics" (*European Journal of Physics*, 12 citations), and its precursor Humpherys (2021), "Natural Planck units and the structure of matter and radiation" (*Quantum Speculations*, 10 citations), demonstrate that restating physical formulas in natural Planck units reveals structural relationships obscured by dimensional constants. While Humpherys's approach is explicitly pedagogical (the "hidden role" is a teaching insight, not an ontological claim), ODR's Ostrowski rationale provides the mathematical justification for why the pedagogical insight has ontological force: the dimensional form literally cannot be evaluated at non-Archimedean places, making the dimensionless form not only clearer but uniquely well-defined across all completions of $\mathbb{Q}$. `[established]`
 
 
 
@@ -1316,7 +1316,7 @@ Additionally, the dimensionless reformulation does not address the question of w
 
 
 
-We have compiled and reformulated 53 fundamental physics equations across ten disciplines, converting each from its conventional dimensional form (containing ℏ, c, G, k\_B, ε₀) to a dimensionless equivalent in Planck units (ℏ = c = G = k\_B = 1). Each reformulation is supported by a mathematical derivation and an Ostrowski rationale explaining how the dimensional form privileges the Archimedean completion.
+We have compiled and reformulated 53 fundamental physics equations across ten disciplines, converting each from its conventional dimensional form (containing $\hbar $, c, G, k_B, $\epsilon_{0}$) to a dimensionless equivalent in Planck units ($\hbar $ = c = G = k_B = 1). Each reformulation is supported by a mathematical derivation and an Ostrowski rationale explaining how the dimensional form privileges the Archimedean completion.
 
 
 
@@ -1328,19 +1328,19 @@ The key findings are:
 
 
 
-2. **The dimensional constants are unit-scale carriers.** Their specific numerical values (ℏ ≈ 1.05 × 10⁻³⁴, c = 3.00 × 10⁸, G ≈ 6.67 × 10⁻¹¹, k\_B ≈ 1.38 × 10⁻²³) reflect the meter-kilogram-second-kelvin convention. In Planck units, all four become exactly 1.
+2. **The dimensional constants are unit-scale carriers.** Their specific numerical values ($\hbar $ $\approx$ 1.05 $\times$ 10$^{-34}$, c = 3.00 $\times$ 10$^{8}$, G $\approx$ 6.67 $\times$ 10$^{-11}$, k_B $\approx$ 1.38 $\times$ 10$^{-23}$) reflect the meter-kilogram-second-kelvin convention. In Planck units, all four become exactly 1.
 
 
 
-3. **The dimensionless forms reveal hidden structure.** The Bohr radius becomes 1/(α $\tilde{m}$\_e), exposing the 137-fold ratio between atomic and Compton scales. The Stefan-Boltzmann constant becomes π²/60, a pure geometric number. The Hawking temperature becomes 1/(8πM), a simple reciprocal relation.
+3. **The dimensionless forms reveal hidden structure.** The Bohr radius becomes 1/($\alpha$ $\tilde{m}$_e), exposing the 137-fold ratio between atomic and Compton scales. The Stefan-Boltzmann constant becomes $\pi^{2}$/60, a pure geometric number. The Hawking temperature becomes 1/(8$\pi$M), a simple reciprocal relation.
 
 
 
-4. **Nature's deepest constants are already dimensionless** (α ≈ 1/137, sin²θ\_W ≈ 0.23, n\_s ≈ 0.965) — with the v1.7 caveat that these are running functions of the dimensionless energy scale Q̃, and the decimals shown are their deep-IR Archimedean projections, not fixed numbers (see §2.5). The dimensionless reformulation extends this transparency to all of fundamental physics.
+4. **Nature's deepest constants are already dimensionless** ($\alpha$ $\approx$ 1/137, sin$^{2}\theta$_W $\approx$ 0.23, n_s $\approx$ 0.965) — with the v1.7 caveat that these are running functions of the dimensionless energy scale $\tilde{Q}$, and the decimals shown are their deep-IR Archimedean projections, not fixed numbers (see §2.5). The dimensionless reformulation extends this transparency to all of fundamental physics.
 
 
 
-The dimensionless program does not change the physics -- it changes what we see in the physics. The formulas become place-democratic: expressible as relations among pure numbers that are equally meaningful at every completion of ℚ.
+The dimensionless program does not change the physics -- it changes what we see in the physics. The formulas become place-democratic: expressible as relations among pure numbers that are equally meaningful at every completion of $\mathbb{Q}$.
 
 
 
@@ -1360,7 +1360,7 @@ Here is the **operational roadmap**—the five concrete programs that turn ODR 
 
 
 
-***
+---
 
 
 
@@ -1372,11 +1372,11 @@ Here is the **operational roadmap**—the five concrete programs that turn ODR 
 
 
 
-m~i=mimP=∏ppvp(m~i)×(unit factor at ∞)m~i​=mP​mi​​=p∏​pvp​(m~i​)×(unit factor at ∞)
+m~i=mimP=$\prod$ppvp(m~i)$\times$(unit factor at $\infty$)m~i​=mP​mi​​=p$\prod$​pvp​(m~i​)$\times$(unit factor at $\infty$)
 
 
 
-The vector of p-adic valuations v(m~i)=(v2,v3,v5,v7,… )v(m~i​)=(v2​,v3​,v5​,v7​,…) is a **coordinate** on the product of Bruhat-Tits trees (the adelic space).
+The vector of p-adic valuations v(m~i)=(v2,v3,v5,v7,$\ldots$ )v(m~i​)=(v2​,v3​,v5​,v7​,$\ldots$) is a **coordinate** on the product of Bruhat-Tits trees (the adelic space).
 
 
 
@@ -1384,31 +1384,31 @@ The vector of p-adic valuations v(m~i)=(v2,v3,v5,v7,… )v(m~i​)=(v2​,v3�
 
 
 
-|Particle|Mass Ratio (≈)|v₂ (approx)|v₃ (approx)|v₅ (approx)|Notes|
+|Particle|Mass Ratio ($\approx$)|v$_{2}$ (approx)|v$_{3}$ (approx)|v$_{5}$ (approx)|Notes|
 
 |---|---|---|---|---|---|
 
-|e|4.185×10⁻²³|~-74|~-47|~-33|Large negative valuations|
+|e|4.185$\times10^{-23}$|~-74|~-47|~-33|Large negative valuations|
 
-|μ|8.654×10⁻²¹|~-66|~-42|~-30|Offset by ~log₂(206.7) ≈ 7.7|
+|$\mu$|8.654$\times10^{-21}$|~-66|~-42|~-30|Offset by ~log$_{2}$(206.7) $\approx$ 7.7|
 
-|τ|1.475×10⁻¹⁷|~-55|~-35|~-25|Offset by ~log₂(1700) ≈ 10.7|
-
-
-
-**The research action:** Instead of asking "why is m\_μ/m\_e ≈ 206.7?", ask:
+|$\tau$|1.475$\times10^{-17}$|~-55|~-35|~-25|Offset by ~log$_{2}$(1700) $\approx$ 10.7|
 
 
 
-> "What is the relation between the valuation vectors of the three generations? Is there a linear transformation (a matrix in GL(3, ℤ)) that maps the e-vector to the μ-vector and the τ-vector?"
+**The research action:** Instead of asking "why is m_$\mu$/m_e $\approx$ 206.7?", ask:
 
 
 
-**Hypothesis:** The generation structure corresponds to **automorphisms of the 3-adic tree** (Bridge C₃ in the paper). The three generations are orbits of the action of a finite subgroup of GL(2, ℚ₃) on the tree's boundary. This is testable: if the mass ratios satisfy a cross-ratio relation:
+> "What is the relation between the valuation vectors of the three generations? Is there a linear transformation (a matrix in GL(3, $\mathbb{Z}$)) that maps the e-vector to the $\mu$-vector and the $\tau$-vector?"
 
 
 
-χ(ω~e,ω~μ,ω~τ,ω~P)=(ω~e−ω~τ)(ω~μ−1)(ω~e−1)(ω~μ−ω~τ)∈Q3χ(ω~e​,ω~μ​,ω~τ​,ω~P​)=(ω~e​−1)(ω~μ​−ω~τ​)(ω~e​−ω~τ​)(ω~μ​−1)​∈Q3​
+**Hypothesis:** The generation structure corresponds to **automorphisms of the 3-adic tree** (Bridge C$_{3}$ in the paper). The three generations are orbits of the action of a finite subgroup of GL(2, $\mathbb{Q}_{3}$) on the tree's boundary. This is testable: if the mass ratios satisfy a cross-ratio relation:
+
+
+
+$\chi$($\omega$~e,$\omega$~$\mu$,$\omega$~$\tau$,$\omega$~P)=($\omega$~e$-\omega$~$\tau$)($\omega$~$\mu-1$)($\omega$~e$-1$)($\omega$~$\mu-\omega$~$\tau$)$\in$Q3$\chi$($\omega$~e​,$\omega$~$\mu$​,$\omega$~$\tau$​,$\omega$~P​)=($\omega$~e​$-1$)($\omega$~$\mu$​$-\omega$~$\tau$​)($\omega$~e​$-\omega$~$\tau$​)($\omega$~$\mu$​$-1$)​$\in$Q3​
 
 
 
@@ -1420,7 +1420,7 @@ Then the 3-adic valuation of this cross-ratio encodes the "distance" between the
 
 
 
-***
+---
 
 
 
@@ -1436,11 +1436,11 @@ Then the 3-adic valuation of this cross-ratio encodes the "distance" between the
 
 
 
-x∈Q↦(x mod p1k1,  x mod p2k2,  …,  x mod pnkn)x∈Q↦(xmodp1k1​​,xmodp2k2​​,…,xmodpnkn​​)
+x$\in$Q$\mapsto$(x mod p1k1,  x mod p2k2,  $\ldots$,  x mod pnkn)x$\in$Q$\mapsto$(xmodp1k1​​,xmodp2k2​​,$\ldots$,xmodpnkn​​)
 
 
 
-Choose primes pipi​ such that the product P=∏pikiP=∏piki​​ exceeds the maximum denominator and numerator you expect. Arithmetic (+, −, ×, ÷) is performed **exactly** in the Hensel code ring. The result is a rational number (or a finite precision approximation thereof) with **zero rounding error**.
+Choose primes pipi​ such that the product P=$\prod$pikiP=$\prod$piki​​ exceeds the maximum denominator and numerator you expect. Arithmetic (+, $-$, $\times$, $\div$) is performed **exactly** in the Hensel code ring. The result is a rational number (or a finite precision approximation thereof) with **zero rounding error**.
 
 
 
@@ -1460,7 +1460,7 @@ Choose primes pipi​ such that the product P=∏pikiP=∏piki​​ exceeds
 
 
 
-***
+---
 
 
 
@@ -1480,7 +1480,7 @@ In standard QFT, the RG flow has fixed points (e.g., the Gaussian fixed point, t
 
 
 
-**The hypothesis:** The Standard Model masses are the **eigenvalues of the transfer matrix** on the Bruhat-Tits tree. The tree's automorphism group (the p-adic Möbius group PGL(2, ℚ\_p)) acts on the mass ratios. The observed mass spectrum is a **representation of this group**—specifically, a finite-dimensional representation whose matrix elements are the mass ratios.
+**The hypothesis:** The Standard Model masses are the **eigenvalues of the transfer matrix** on the Bruhat-Tits tree. The tree's automorphism group (the p-adic Möbius group PGL(2, $\mathbb{Q}$_p)) acts on the mass ratios. The observed mass spectrum is a **representation of this group**—specifically, a finite-dimensional representation whose matrix elements are the mass ratios.
 
 
 
@@ -1488,7 +1488,7 @@ In standard QFT, the RG flow has fixed points (e.g., the Gaussian fixed point, t
 
 
 
-**Concrete step:** For the lepton sector, construct a 3×3 matrix MijMij​ whose entries are the cross-ratios of the Compton frequencies. Diagonalize this matrix over Q3Q3​. If the eigenvalues are simple algebraic integers (e.g., 2, 3, 5), then the lepton masses are determined by the tree's geometry.
+**Concrete step:** For the lepton sector, construct a 3$\times3$ matrix MijMij​ whose entries are the cross-ratios of the Compton frequencies. Diagonalize this matrix over Q3Q3​. If the eigenvalues are simple algebraic integers (e.g., 2, 3, 5), then the lepton masses are determined by the tree's geometry.
 
 
 
@@ -1496,7 +1496,7 @@ This is a **derivation mechanism**—not from a Lagrangian, but from the tree's
 
 
 
-***
+---
 
 
 
@@ -1534,7 +1534,7 @@ This is a **derivation mechanism**—not from a Lagrangian, but from the tree's
 
 
 
-***
+---
 
 
 
@@ -1554,15 +1554,15 @@ This is a **derivation mechanism**—not from a Lagrangian, but from the tree's
 
 
 
-ZV(J)=∫Qpnχ(SV(ϕ)+Jϕ) dμV(ϕ)ZV​(J)=∫Qpn​​χ(SV​(ϕ)+Jϕ)dμV​(ϕ)
+ZV(J)=$\int $Qpn$\chi$(SV($\varphi$)+J$\varphi$) d$\mu$V($\varphi$)ZV​(J)=$\int $Qpn​​$\chi$(SV​($\varphi$)+J$\varphi$)d$\mu$V​($\varphi$)
 
 
 
-where χχ is an additive character and μVμV​ is the Haar measure normalized to give volume 1 to the unit ball.
+where $\chi\chi$ is an additive character and $\mu$V$\mu$V​ is the Haar measure normalized to give volume 1 to the unit ball.
 
 
 
-**Step 2:** Show that the product over all primes converges. This requires the **restricted product** property: for all but finitely many primes, the local integral is 1 (or a simple factor like 1/(1−p−s)1/(1−p−s)).
+**Step 2:** Show that the product over all primes converges. This requires the **restricted product** property: for all but finitely many primes, the local integral is 1 (or a simple factor like 1/(1$-$p$-$s)1/(1$-$p$-$s)).
 
 
 
@@ -1578,7 +1578,7 @@ where χχ is an additive character and μVμV​ is the Haar measure normal
 
 
 
-***
+---
 
 
 
@@ -1594,7 +1594,7 @@ where χχ is an additive character and μVμV​ is the Haar measure normal
 
 |II. Exact Rational Simulations|Proof-of-concept needed|Hensel code simulator for harmonic oscillator|6 months|
 
-|III. Hecke Algebra Fixed Points|Theoretical|Diagonalization of lepton mass matrix over ℚ₃|12 months|
+|III. Hecke Algebra Fixed Points|Theoretical|Diagonalization of lepton mass matrix over $\mathbb{Q}_{3}$|12 months|
 
 |IV. Ultrametric noise signatures|Data re-analysis needed|Statistical test on LIGO/atom interferometry data|12 months|
 
@@ -1602,7 +1602,7 @@ where χχ is an additive character and μVμV​ is the Haar measure normal
 
 
 
-***
+---
 
 
 
@@ -1636,7 +1636,7 @@ The original ODR paper was a **declaration**. ODR v2.0 is a **blueprint**.
 
 
 
-***
+---
 
 
 
@@ -1656,7 +1656,7 @@ This appendix provides step-by-step derivations of the most important dimensionl
 
 
 
-***
+---
 
 
 
@@ -1678,7 +1678,7 @@ Define dimensionless quantities:
 
 
 
-$$\tilde{t} = \frac{t}{t\_P}, \quad \tilde{x} = \frac{x}{\ell\_P}, \quad \tilde{m} = \frac{m}{m\_P}, \quad \tilde{V} = \frac{V}{E\_P}, \quad \tilde{\nabla} = \ell\_P\nabla$$
+$$\tilde{t} = \frac{t}{t_P}, \quad \tilde{x} = \frac{x}{\ell_P}, \quad \tilde{m} = \frac{m}{m_P}, \quad \tilde{V} = \frac{V}{E_P}, \quad \tilde{\nabla} = \ell_P\nabla$$
 
 
 
@@ -1692,7 +1692,7 @@ The dimensional constants $\hbar$, $c$, $G$, $k_B$ are set to 1, which is equiva
 
 
 
-$$\hbar \to 1, \quad c \to 1, \quad G \to 1, \quad k\_B \to 1$$
+$$\hbar \to 1, \quad c \to 1, \quad G \to 1, \quad k_B \to 1$$
 
 
 
@@ -1746,7 +1746,7 @@ This is the place-democratic Schr\u00f6dinger equation — valid at every comple
 
 
 
-***
+---
 
 
 
@@ -1758,7 +1758,7 @@ The spectral radiance of a black body at temperature $T$ in dimensional form is:
 
 
 
-$$B\_\nu(T) = \frac{2h\nu^3}{c^2}\frac{1}{e^{h\nu/(k\_B T)} - 1}$$
+$$B_\nu(T) = \frac{2h\nu^3}{c^2}\frac{1}{e^{h\nu/(k_B T)} - 1}$$
 
 
 
@@ -1784,7 +1784,7 @@ With all Planck units set to unity:
 
 **Step 3: Derive the dimensionless form.**
 
-$$B\_\nu(T) = \frac{2(2\pi)\tilde{\nu}^3}{1^2}\frac{1}{e^{2\pi\tilde{\nu}/\tilde{T}} - 1}$$
+$$B_\nu(T) = \frac{2(2\pi)\tilde{\nu}^3}{1^2}\frac{1}{e^{2\pi\tilde{\nu}/\tilde{T}} - 1}$$
 
 
 
@@ -1792,7 +1792,7 @@ Wait — $B_\nu$ itself is NOT dimensionless; it has units of energy per area pe
 
 
 
-$$B\_{\nu,P} = \frac{2h\nu\_P^3}{c^2}$$
+$$B_{\nu,P} = \frac{2h\nu_P^3}{c^2}$$
 
 
 
@@ -1804,13 +1804,13 @@ The dimensionless spectral radiance is:
 
 
 
-$$\tilde{B}\_\nu = \frac{B\_\nu}{B\_{\nu,P}} = \frac{\tilde{\nu}^3}{e^{2\pi\tilde{\nu}/\tilde{T}} - 1}$$
+$$\tilde{B}_\nu = \frac{B_\nu}{B_{\nu,P}} = \frac{\tilde{\nu}^3}{e^{2\pi\tilde{\nu}/\tilde{T}} - 1}$$
 
 
 
 **Step 4: Stefan-Boltzmann law.** Integrate over all frequencies:
 
-$$\tilde{B} = \int\_0^\infty \tilde{B}\_\nu d\tilde{\nu} = \frac{\pi^4}{15}\tilde{T}^4$$
+$$\tilde{B} = \int_0^\infty \tilde{B}_\nu d\tilde{\nu} = \frac{\pi^4}{15}\tilde{T}^4$$
 
 
 
@@ -1822,7 +1822,7 @@ This is the dimensionless Stefan-Boltzmann law: total radiated power per area $\
 
 
 
-$$\boxed{\tilde{B}\_\nu = \frac{\tilde{\nu}^3}{e^{2\pi\tilde{\nu}/\tilde{T}} - 1}, \quad \tilde{B} = \frac{\pi^4}{15}\tilde{T}^4}$$
+$$\boxed{\tilde{B}_\nu = \frac{\tilde{\nu}^3}{e^{2\pi\tilde{\nu}/\tilde{T}} - 1}, \quad \tilde{B} = \frac{\pi^4}{15}\tilde{T}^4}$$
 
 
 
@@ -1832,7 +1832,7 @@ $$\boxed{\tilde{B}\_\nu = \frac{\tilde{\nu}^3}{e^{2\pi\tilde{\nu}/\tilde{T}} - 1
 
 
 
-***
+---
 
 
 
@@ -1844,7 +1844,7 @@ The Einstein field equations in dimensional form are:
 
 
 
-$$R\_{\mu\nu} - \frac{1}{2}R g\_{\mu\nu} + \Lambda g\_{\mu\nu} = \frac{8\pi G}{c^4}T\_{\mu\nu}$$
+$$R_{\mu\nu} - \frac{1}{2}R g_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}T_{\mu\nu}$$
 
 
 
@@ -1862,7 +1862,7 @@ $$R\_{\mu\nu} - \frac{1}{2}R g\_{\mu\nu} + \Lambda g\_{\mu\nu} = \frac{8\pi G}{c
 
 Define dimensionless quantities:
 
-$$\tilde{R}\_{\mu\nu} = \ell\_P^2 R\_{\mu\nu}, \quad \tilde{T}\_{\mu\nu} = \frac{\ell\_P^3}{E\_P}T\_{\mu\nu} = \frac{G}{c^4}T\_{\mu\nu}, \quad \tilde{\Lambda} = \ell\_P^2\Lambda$$
+$$\tilde{R}_{\mu\nu} = \ell_P^2 R_{\mu\nu}, \quad \tilde{T}_{\mu\nu} = \frac{\ell_P^3}{E_P}T_{\mu\nu} = \frac{G}{c^4}T_{\mu\nu}, \quad \tilde{\Lambda} = \ell_P^2\Lambda$$
 
 
 
@@ -1884,7 +1884,7 @@ With $G = 1$ and $c = 1$, the dimensional constants disappear:
 
 **Step 3: Derive the dimensionless form.**
 
-$$R\_{\mu\nu} - \frac{1}{2}R g\_{\mu\nu} + \Lambda g\_{\mu\nu} = 8\pi T\_{\mu\nu}$$
+$$R_{\mu\nu} - \frac{1}{2}R g_{\mu\nu} + \Lambda g_{\mu\nu} = 8\pi T_{\mu\nu}$$
 
 
 
@@ -1906,7 +1906,7 @@ where $M = \tilde{M} = m/m_P$ (mass in Planck units) and $r = \tilde{r} = r/\ell
 
 
 
-$$\boxed{R\_{\mu\nu} - \frac{1}{2}R g\_{\mu\nu} + \Lambda g\_{\mu\nu} = 8\pi T\_{\mu\nu}, \quad ds^2 = -\left(1 - \frac{2M}{r}\right)dt^2 + \left(1 - \frac{2M}{r}\right)^{-1}dr^2 + r^2 d\Omega^2}$$
+$$\boxed{R_{\mu\nu} - \frac{1}{2}R g_{\mu\nu} + \Lambda g_{\mu\nu} = 8\pi T_{\mu\nu}, \quad ds^2 = -\left(1 - \frac{2M}{r}\right)dt^2 + \left(1 - \frac{2M}{r}\right)^{-1}dr^2 + r^2 d\Omega^2}$$
 
 
 
@@ -1916,7 +1916,7 @@ $$\boxed{R\_{\mu\nu} - \frac{1}{2}R g\_{\mu\nu} + \Lambda g\_{\mu\nu} = 8\pi T\_
 
 
 
-***
+---
 
 
 
@@ -1928,7 +1928,7 @@ The Bekenstein-Hawking black hole entropy in dimensional form is:
 
 
 
-$$S\_{BH} = \frac{k\_B c^3 A}{4G\hbar}$$
+$$S_{BH} = \frac{k_B c^3 A}{4G\hbar}$$
 
 
 
@@ -1942,7 +1942,7 @@ The Planck area is $A_P = \ell_P^2 = \hbar G / c^3$. The dimensionless horizon a
 
 
 
-$$\tilde{A} = \frac{A}{A\_P} = \frac{16\pi(GM/c^2)^2}{\hbar G/c^3} = 16\pi\frac{GM^2}{\hbar c}$$
+$$\tilde{A} = \frac{A}{A_P} = \frac{16\pi(GM/c^2)^2}{\hbar G/c^3} = 16\pi\frac{GM^2}{\hbar c}$$
 
 
 
@@ -1960,19 +1960,19 @@ where $\tilde{M} = M/m_P$.
 
 With $k_B = 1$, $\hbar = 1$, $G = 1$, $c = 1$:
 
-$$S\_{BH} = \frac{A}{4} = 4\pi\tilde{M}^2$$
+$$S_{BH} = \frac{A}{4} = 4\pi\tilde{M}^2$$
 
 
 
 **Step 3: Hawking temperature.** Similarly, the Hawking temperature:
 
-$$T\_H = \frac{\hbar c^3}{8\pi G k\_B M} \to \tilde{T}\_H = \frac{1}{8\pi\tilde{M}}$$
+$$T_H = \frac{\hbar c^3}{8\pi G k_B M} \to \tilde{T}_H = \frac{1}{8\pi\tilde{M}}$$
 
 
 
 **Step 4: Generalized Second Law.** In dimensionless form:
 
-$$\Delta\left(\frac{A}{4} + S\_{\text{matter}}\right) \geq 0$$
+$$\Delta\left(\frac{A}{4} + S_{\text{matter}}\right) \geq 0$$
 
 
 
@@ -1984,7 +1984,7 @@ The entropy bound $S \leq A/4$ becomes a universal statement about the relations
 
 
 
-$$\boxed{S\_{BH} = 4\pi\tilde{M}^2, \quad \tilde{T}\_H = \frac{1}{8\pi\tilde{M}}, \quad \Delta(S\_{BH} + S\_{\text{matter}}) \geq 0}$$
+$$\boxed{S_{BH} = 4\pi\tilde{M}^2, \quad \tilde{T}_H = \frac{1}{8\pi\tilde{M}}, \quad \Delta(S_{BH} + S_{\text{matter}}) \geq 0}$$
 
 
 
@@ -1994,7 +1994,7 @@ $$\boxed{S\_{BH} = 4\pi\tilde{M}^2, \quad \tilde{T}\_H = \frac{1}{8\pi\tilde{M}}
 
 
 
-***
+---
 
 
 
@@ -2008,7 +2008,7 @@ The fine-structure constant $\alpha \approx 1/137.036$ is the archetypal dimensi
 
 **Step 1: Classical definition.**
 
-$$\alpha = \frac{e^2}{4\pi\epsilon\_0\hbar c}$$
+$$\alpha = \frac{e^2}{4\pi\epsilon_0\hbar c}$$
 
 
 
@@ -2026,7 +2026,7 @@ where $e$ is the dimensionless elementary charge.
 
 The fine-structure constant can be expressed as the ratio of two fundamental length scales:
 
-$$\alpha = \frac{r\_e}{\lambda\_C}$$
+$$\alpha = \frac{r_e}{\lambda_C}$$
 
 
 
@@ -2038,7 +2038,7 @@ Wait — let's derive properly. The classical electron radius is $r_e = e^2/(4\p
 
 
 
-$$\frac{r\_e}{\lambda\_C} = \frac{e^2/(4\pi\epsilon\_0 m\_e c^2)}{\hbar/(m\_e c)} = \frac{e^2}{4\pi\epsilon\_0\hbar c} = \alpha$$
+$$\frac{r_e}{\lambda_C} = \frac{e^2/(4\pi\epsilon_0 m_e c^2)}{\hbar/(m_e c)} = \frac{e^2}{4\pi\epsilon_0\hbar c} = \alpha$$
 
 
 
@@ -2056,7 +2056,7 @@ If we take the four points as particular scales — the classical electron radiu
 
 
 
-$$\alpha = \frac{(r\_e - \infty)(\lambda\_C - 0)}{(r\_e - 0)(\infty - \lambda\_C)} = \frac{r\_e}{\lambda\_C}$$
+$$\alpha = \frac{(r_e - \infty)(\lambda_C - 0)}{(r_e - 0)(\infty - \lambda_C)} = \frac{r_e}{\lambda_C}$$
 
 
 
@@ -2070,7 +2070,7 @@ The fine-structure constant can be expressed as an adelic product:
 
 
 
-$$\alpha^{-1} = \prod\_{p \leq \infty} |\cdots|\_p$$
+$$\alpha^{-1} = \prod_{p \leq \infty} |\cdots|_p$$
 
 
 
@@ -2082,7 +2082,7 @@ where the product runs over all places of $\mathbb{Q}$ and the factors encode th
 
 
 
-$$\boxed{\alpha = \frac{r\_e}{\lambda\_C} = \frac{e^2}{4\pi\epsilon\_0\hbar c}}$$
+$$\boxed{\alpha = \frac{r_e}{\lambda_C} = \frac{e^2}{4\pi\epsilon_0\hbar c}}$$
 
 
 
@@ -2092,7 +2092,7 @@ $$\boxed{\alpha = \frac{r\_e}{\lambda\_C} = \frac{e^2}{4\pi\epsilon\_0\hbar c}}$
 
 
 
-***
+---
 
 
 
@@ -2156,7 +2156,7 @@ $$\boxed{\Delta\tilde{x} \cdot \Delta\tilde{p} \geq \frac{1}{2}, \quad \Delta\ti
 
 
 
-***
+---
 
 
 
@@ -2168,7 +2168,7 @@ Coulomb's law in SI dimensional form is:
 
 
 
-$$F = \frac{1}{4\pi\epsilon\_0}\frac{q\_1 q\_2}{r^2}$$
+$$F = \frac{1}{4\pi\epsilon_0}\frac{q_1 q_2}{r^2}$$
 
 
 
@@ -2176,7 +2176,7 @@ $$F = \frac{1}{4\pi\epsilon\_0}\frac{q\_1 q\_2}{r^2}$$
 
 The Planck charge is $q_P = \sqrt{4\pi\epsilon_0\hbar c}$. In Planck units, the elementary charge becomes:
 
-$$\tilde{e} = \frac{e}{q\_P} = \frac{e}{\sqrt{4\pi\epsilon\_0\hbar c}} = \sqrt{\alpha}$$
+$$\tilde{e} = \frac{e}{q_P} = \frac{e}{\sqrt{4\pi\epsilon_0\hbar c}} = \sqrt{\alpha}$$
 
 
 
@@ -2188,13 +2188,13 @@ where $\alpha$ is the fine-structure constant.
 
 With $\epsilon_0 = 1/(4\pi)$ (Heaviside-Lorentz), $\hbar = c = 1$:
 
-$$\frac{1}{4\pi\epsilon\_0} = 1$$
+$$\frac{1}{4\pi\epsilon_0} = 1$$
 
 
 
 Therefore:
 
-$$F = \frac{\tilde{q}\_1\tilde{q}\_2}{r^2}$$
+$$F = \frac{\tilde{q}_1\tilde{q}_2}{r^2}$$
 
 
 
@@ -2202,7 +2202,7 @@ But $F$ has dimensions — we need to express it as a dimensionless ratio to the
 
 
 
-$$\tilde{F} = \frac{F}{F\_P} = \frac{\tilde{q}\_1\tilde{q}\_2}{\tilde{r}^2}$$
+$$\tilde{F} = \frac{F}{F_P} = \frac{\tilde{q}_1\tilde{q}_2}{\tilde{r}^2}$$
 
 
 
@@ -2210,7 +2210,7 @@ $$\tilde{F} = \frac{F}{F\_P} = \frac{\tilde{q}\_1\tilde{q}\_2}{\tilde{r}^2}$$
 
 $\tilde{q}_1 = \tilde{q}_2 = \sqrt{\alpha}$. Therefore:
 
-$$\tilde{F}\_{ee} = \frac{\alpha}{\tilde{r}^2}$$
+$$\tilde{F}_{ee} = \frac{\alpha}{\tilde{r}^2}$$
 
 
 
@@ -2222,7 +2222,7 @@ This is the dimensionless Coulomb force between two electrons — the physics is
 
 
 
-$$\boxed{\tilde{F} = \frac{\tilde{q}\_1\tilde{q}\_2}{\tilde{r}^2}, \quad \tilde{F}\_{ee} = \frac{\alpha}{\tilde{r}^2}}$$
+$$\boxed{\tilde{F} = \frac{\tilde{q}_1\tilde{q}_2}{\tilde{r}^2}, \quad \tilde{F}_{ee} = \frac{\alpha}{\tilde{r}^2}}$$
 
 
 
@@ -2232,7 +2232,7 @@ $$\boxed{\tilde{F} = \frac{\tilde{q}\_1\tilde{q}\_2}{\tilde{r}^2}, \quad \tilde{
 
 
 
-***
+---
 
 
 

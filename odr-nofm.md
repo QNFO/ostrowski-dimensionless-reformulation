@@ -1,20 +1,3 @@
----
-
-title: "The Ostrowski Dimensionless Reformulation v4.0: A Place-Democratic Foundation for Fundamental Physics — Definitive Edition"
-
-author: "Rowan Brad Quni-Gudzinas"
-
-date: "2026-08-02"
-
-license: "QNFO Unified License Agreement (QNFO-ULA)"
-
-doi: "10.5281/zenodo.21755771"
-
-status: "published"
-
-version: "4.0.2"
-
----
 
 
 
@@ -2352,11 +2335,11 @@ See DOI: 10.5281/zenodo.21754102 (v2.0.2) for the historical calibration registe
 
 
 
-[1] Ostrowski, A. (1916). "\"{U}ber einige L\"{o}sungen der Funktionalgleichung $\varphi(x)\cdot\varphi(y)=\varphi(xy)$." *Acta Mathematica*, 41, 271-284.
+[1] Ostrowski, A. (1916). "Über einige Lösungen der Funktionalgleichung $\varphi(x)\cdot\varphi(y)=\varphi(xy)$." *Acta Mathematica*, 41, 271-284.
 
 
 
-[2] Planck, M. (1899). "\"{U}ber irreversible Strahlungsvorgange." *Sitzungsberichte der K\"{o}niglich Preu\ss{}ischen Akademie der Wissenschaften zu Berlin*, 5, 440-480.
+[2] Planck, M. (1899). "Über irreversible Strahlungsvorgange." *Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften zu Berlin*, 5, 440-480.
 
 
 
@@ -2380,7 +2363,7 @@ See DOI: 10.5281/zenodo.21754102 (v2.0.2) for the historical calibration registe
 
 
 
-[8] Tate, J. (1950). "Fourier Analysis in Number Fields and Hecke's Zeta-Functions." PhD Thesis, Princeton University. Published in *Algebraic Number Theory* (Cassels & Fr\"{o}hlich, eds.), Academic Press, 1967.
+[8] Tate, J. (1950). "Fourier Analysis in Number Fields and Hecke's Zeta-Functions." PhD Thesis, Princeton University. Published in *Algebraic Number Theory* (Cassels & Fröhlich, eds.), Academic Press, 1967.
 
 
 
