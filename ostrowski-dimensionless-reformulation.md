@@ -1,6 +1,6 @@
 ---
 
-title: "The Ostrowski Dimensionless Reformulation v4.0: A Place-Democratic Foundation for Fundamental Physics — Definitive Edition"
+title: "The Ostrowski Dimensionless Reformulation v4.0.2: A Place-Democratic Foundation for Fundamental Physics — Definitive Edition"
 
 author: "Rowan Brad Quni-Gudzinas"
 
@@ -514,11 +514,11 @@ Per the Continuum Trilogy Paper I (DOI: 10.5281/zenodo.21672990), the physical c
 
 
 
-$$\mathbb{R}\_c 	imes \prod\_{p \in S} \mathbb{Q}\_p^c$$
+$$\mathbb{R}\_c \times \prod\_{p \in S} \mathbb{Q}\_p^c$$
 
 
 
-— breadth is eliminated. Every dimensionless ratio in this paper — every $	ilde{x}_i = x_i/x_i^{(P)}$ — is a computable ratio of computable quantities, hence an element of $\mathbb{R}_c$. The ODR program is thus not only place-democratic in the p-adic sense; it is also breadth-free in the Archimedean sense: it never depends on a non-computable real. The specific numerical values quoted (1/137.036, 3.14159, etc.) are computable Archimedean projections of computable ratios — never non-computable constants. `[established — Continuum Trilogy Paper I, DOI: 10.5281/zenodo.21672990]`
+— breadth is eliminated. Every dimensionless ratio in this paper — every $\tilde{x}_i = x_i/x_i^{(P)}$ — is a computable ratio of computable quantities, hence an element of $\mathbb{R}_c$. The ODR program is thus not only place-democratic in the p-adic sense; it is also breadth-free in the Archimedean sense: it never depends on a non-computable real. The specific numerical values quoted (1/137.036, 3.14159, etc.) are computable Archimedean projections of computable ratios — never non-computable constants. `[established — Continuum Trilogy Paper I, DOI: 10.5281/zenodo.21672990]`
 
 
 
@@ -556,19 +556,19 @@ Given the Compton count $\tilde{\omega}_C$ as fundamental, all other physical qu
 
 |:---------|:-----------|:----------------------------|:-------------------|
 
-| **Compton count** $\tilde{\omega}_C$ | $[\tilde{T}^{-1}]$ | $\tilde{m}$ itself | ✅ **YES** — the fundamental count |
+| **Compton count** $\tilde{\omega}_C$ | $[\tilde{T}^{-1}]$ | $\tilde{m}$ itself | ✓ **YES** — the fundamental count |
 
-| Wavelength | $[\tilde{L}]$ | $\tilde{\lambda}_C = 2\pi / \tilde{\omega}_C$ | ❌ Derivative — inverse count |
+| Wavelength | $[\tilde{L}]$ | $\tilde{\lambda}_C = 2\pi / \tilde{\omega}_C$ | ✗ Derivative — inverse count |
 
-| Period | $[\tilde{T}]$ | $\tilde{\tau}_C = 2\pi / \tilde{\omega}_C$ | ❌ Derivative — inverse count |
+| Period | $[\tilde{T}]$ | $\tilde{\tau}_C = 2\pi / \tilde{\omega}_C$ | ✗ Derivative — inverse count |
 
-| Energy | $[\tilde{E}]$ | $\tilde{E} = \tilde{\omega}_C$ | ❌ Derivative — equals the count |
+| Energy | $[\tilde{E}]$ | $\tilde{E} = \tilde{\omega}_C$ | ✗ Derivative — equals the count |
 
-| Mass | $[\tilde{M}]$ | $\tilde{m} = \tilde{\omega}_C$ | ❌ Derivative — IS the count |
+| Mass | $[\tilde{M}]$ | $\tilde{m} = \tilde{\omega}_C$ | ✗ Derivative — IS the count |
 
-| Action | dimensionless | $1/\tilde{\omega}_C$ | ❌ Derivative — reciprocal count |
+| Action | dimensionless | $1/\tilde{\omega}_C$ | ✗ Derivative — reciprocal count |
 
-| Distance (Bohr radius) | $[\tilde{L}]$ | $\tilde{a}_0 = 1/(\alpha \tilde{\omega}_C)$ | ❌ Derivative — count × coupling |
+| Distance (Bohr radius) | $[\tilde{L}]$ | $\tilde{a}_0 = 1/(\alpha \tilde{\omega}_C)$ | ✗ Derivative — count × coupling |
 
 
 
@@ -2250,7 +2250,7 @@ The remaining 46 formulas in the compilation follow the identical procedure. The
 
 1. Identify all dimensional constants in the formula: $\hbar$, $c$, $G$, $k_B$, $\epsilon_0$ and their powers.
 
-2. Express every quantity as a ratio to its Planck-scale counterpart: $	ilde{q} = q/q_P$ where $q_P$ is the appropriate Planck quantity.
+2. Express every quantity as a ratio to its Planck-scale counterpart: $\tilde{q} = q/q_P$ where $q_P$ is the appropriate Planck quantity.
 
 3. Apply the Planck unit substitution: $\hbar = c = G = k_B = 1$, $\epsilon_0 = 1/(4\pi)$.
 

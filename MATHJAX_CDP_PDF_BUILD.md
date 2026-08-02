@@ -1,60 +1,57 @@
-# MathJax PDF Build Pipeline — Permanent Fix for Unicode Math Rendering
+# MathJax PDF Build Pipeline — VERIFIED PERMANENT FIX (2026-08-02)
 
-**Status:** VERIFIED WORKING (ODR v4.0.2, DOI 10.5281/zenodo.21755771, 2026-08-02)
+**Status:** VERIFIED WORKING — ODR v4.0.2 (DOI 10.5281/zenodo.21755771), 45 pages,
+4,373 vector paths, 0 U+FFFD, 0 PUA chars, 0 SegoeFluentIcons, 0 header/footer artifacts.
 
-## Root Cause
+## Why Every Other Approach Failed (all tested live)
 
-pandoc + XeLaTeX uses system fonts. The default Latin Modern font **lacks glyphs**
-for Unicode math characters (μ, χ, ϕ, ℚ, ₃, ∫, ℏ, π when outside `$...$`), producing
-hundreds of `Missing character` warnings and unreadable mathematical expressions.
-`unicode-math` + `-V header-includes` does NOT work with pandoc's template loading
-order (verified live — 391 warnings). `build-paper.py` (unicode→latex conversion)
-breaks on papers that already contain `$...$` math mode (verified live — "Missing }
-inserted" error).
+| Approach | Failure |
+|:---------|:--------|
+| pandoc + XeLaTeX | Latin Modern font lacks Unicode math glyphs (μ χ ϕ ℚ ₃ ∫) → hundreds of `Missing character` warnings, unreadable math |
+| `unicode-math` + `-V header-includes=` | Pandoc template loading order ignores `-V` → 391 warnings |
+| `build-paper.py` unicode→LaTeX conversion | Breaks on papers already containing `$...$` → `Missing } inserted` |
+| `-f markdown-tex_math_dollars-...` | **DESTROYS math**: pandoc parses `\tilde{R}` as markdown emphasis → `$_{} = <em>P^2 R</em>{}$` |
+| `--print-to-pdf-no-header` (old flag) | Leaves headers/footers in new headless Chrome |
 
-## The Fix: Do What Obsidian Does
+## The Working Pipeline (Obsidian-style: MathJax in browser → print)
 
-Obsidian renders math via **MathJax** in the browser. Replicate exactly that:
-
-### Steps (VERIFIED)
-
-```powershell
-# 1. STRIP YAML frontmatter (blank-line-separated YAML breaks pandoc parsing and bleeds into PDF)
-#    python: re.sub(r'^---\n.*?\n---\n', '', content, count=1, flags=re.DOTALL)
-
-# 2. Convert markdown to HTML with MathJax (CDN-injected, full Unicode math support)
-pandoc odr-nofm.md --mathjax --standalone --metadata title="..." -o paper.html
-
-# 3. Render PDF with headless Chrome (file:// URL works; HTTP server timed out)
-chrome.exe --headless=new --disable-gpu --no-sandbox --allow-file-access-from-files `
-  --virtual-time-budget=30000 --run-all-compositor-stages-before-draw `
-  --print-to-pdf=paper.pdf --print-to-pdf-no-header "file:///path/to/paper.html"
-
-# 4. VERIFY with PyMuPDF (MANDATORY — Anti-Phantom Gate)
-python: fitz.open(pdf) → page_count, U+FFFD count == 0, key math glyphs present
+```
+1. pandoc --mathjax --standalone
+     # CRITICAL: --mathjax parses $...$ as REAL math, emits \(...\) / \[...\],
+     # preserving all backslashes. Do NOT disable tex_math_dollars.
+2. Swap CHTML script -> SVG (tex-svg-full.js + SVG config)
+     # CHTML injects PUA glyphs (\uedd9-\ueddc via SegoeFluentIcons) that
+     # print-to-PDF exposes as icon glyphs. SVG embeds PURE VECTOR paths —
+     # zero font dependence, crisper at all zooms.
+3. Inline print.css
+     # @page A4 + margins, Georgia serif, page-break rules. Without it the
+     # output looks like a webpage screenshot, not a paper.
+4. headless Chrome --no-pdf-header-footer --print-to-pdf
+     # --no-pdf-header-footer is the NEW headless flag (old: --print-to-pdf-no-header)
+     # Fresh --user-data-dir + ?cb= cache-bust query to avoid stale file:// cache.
+5. Verify with PyMuPDF:
+     # 0 U+FFFD, 0 PUA chars, no SegoeFluentIcons font, vector_paths > 0
 ```
 
-### Verification Results (ODR v4.0.2)
+## Source Sanitization (MANDATORY before build)
 
-| Check | Result |
-|:------|:-------|
-| Pages | 41 |
-| U+FFFD (tofu) | 0 |
-| ℏ (U+210F) glyphs | 85 rendered |
-| μ (U+03BC) glyphs | 62 rendered |
-| ℚ (U+211A) glyphs | 47 rendered |
-| YAML bleed | None |
-| LaTeX escape artifacts | None (fix `\"{U}` → `Ü` before build) |
+1. **Strip YAML frontmatter** (blank-line-separated YAML bleeds into PDF):
+   `re.sub(r'^---\n.*?\n---\n', '', md, count=1, flags=re.DOTALL)`
+2. **Remove control chars** (chr<32 except \n\r\t) — tab/FF/VT chars from Python
+   escape bugs corrupt math (`\t`→TAB breaks `\tilde`; `\f` breaks `\varphi`).
+3. **Replace emoji** (❌→✗ U+2717, ✅→✓ U+2713) — emoji render via
+   SegoeFluentIcons/SegoeUISymbol on Windows, unprofessional in a paper.
+4. **Never use `---` for horizontal rules** in paper markdown (YAML bleed);
+   use `***`.
 
-### Kaizen Anti-Patterns (permanent)
+## Usage
 
-1. **NEVER use `---` for horizontal rules** in paper markdown — pandoc misparses
-   it as a second YAML block → frontmatter bleeds into PDF. Use `***`.
-2. **NEVER use `-V header-includes=`** for LaTeX preamble injection — use
-   `--include-in-header=file.tex` (correct layer). MathJax pipeline supersedes both.
-3. **`unicode-math` + `Latin Modern Math` via pandoc does NOT activate the math font**
-   — tested live, 391 warnings. Do not retry this path.
-4. **Do NOT wrap Unicode math in `$...$` inside an already-`$...$`-rich paper**
-   (build-paper.py failure mode) — the MathJax pipeline needs no wrapping at all.
-5. **Fix LaTeX escape artifacts in references** (`\"{U}` → `Ü`, `\ss{}` → `ß`)
-   BEFORE the HTML build — pandoc passes LaTeX syntax through to HTML literally.
+```powershell
+python build-mathjax-pdf.py paper.md paper.pdf --title "Paper Title"
+```
+
+## Key Files
+
+- `build-mathjax-pdf.py` — the complete reusable pipeline (this repo)
+- Dependencies: pandoc, Chrome/Edge, PyMuPDF (`pip install PyMuPDF`), internet
+  (MathJax loads from jsdelivr CDN)
