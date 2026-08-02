@@ -1,6 +1,6 @@
 # Ostrowski Dimensionless Reformulation (ODR)
 
-**Status:** v2.0 -- Draft (pending Zenodo publication)
+**Status:** v2.0 — Published (DOI: 10.5281/zenodo.21752136)
 **Date:** 2026-08-02
 **Author:** Rowan Brad Quni-Gudzinas
 
