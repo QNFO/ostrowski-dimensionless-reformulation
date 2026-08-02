@@ -38,3 +38,11 @@ keys.json
 *.tmp
 *.bak
 ~$*
+_pro.md
+_pro.html
+_pro_raw.html
+recover_artifacts.py
+deprecate_skill.py
+patch_bootstrap.py
+fonts/*.ttf
+npm/
