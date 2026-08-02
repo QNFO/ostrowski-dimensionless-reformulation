@@ -1,7 +1,7 @@
 # Ostrowski Dimensionless Reformulation (ODR)
 
-**Status:** v2.0.2 — Published (DOI: 10.5281/zenodo.21754102)
-**Date:** 2026-08-02
+**Status:** v2.3 — Published (DOI: 10.5281/zenodo.21755274)
+**Date:** 2026-08-02 (updated)
 **Author:** Rowan Brad Quni-Gudzinas
 
 ## Overview
@@ -30,6 +30,12 @@ cd ostrowski-dimensionless-reformulation
 ```
 
 ## Key Documents
+
+- `ostrowski-dimensionless-reformulation.md` — ODR v2.3: Red-Team Response, Refined Thesis, and Research Roadmap
+- `PROJECT-PLAN.md` — Full charter, WBS, milestones, risk register
+- `artifacts/formula-inventory.md` — Systematic formula inventory (Phase 2)
+- `artifacts/reformulation-table.md` — Dimensionless equivalents (Phase 3)
+- `artifacts/ostrowski-rationales.md` — Ostrowski rationales per formula
 
 - `PROJECT-PLAN.md` — Full charter, WBS, milestones, risk register
 - `artifacts/formula-inventory.md` — Systematic formula inventory (Phase 2)
