@@ -1,9 +1,9 @@
 ---
 title: "The Ostrowski Dimensionless Reformulation: A Systematic Compilation of Fundamental Physics Equations in Planck Units"
 author: "Rowan Brad Quni-Gudzinas"
-date: "2026-08-01"
+date: "2026-08-02"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: "10.5281/zenodo.21754008"
+doi: "10.5281/zenodo.21754102"
 status: "published"
 ---
 
