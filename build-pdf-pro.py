@@ -29,7 +29,7 @@ EXIT CODES:
   1 = FAIL (build or verification failed)
   2 = bad invocation
 """
-import subprocess, re, os, sys, io, json, time
+import subprocess, re, os, sys, io, json, time, shutil
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
@@ -140,8 +140,15 @@ def ensure_puppeteer():
     npm_dir = os.path.join(HERE, 'npm')
     os.makedirs(npm_dir, exist_ok=True)
     print('Installing puppeteer-core (first run)...')
-    r = subprocess.run(['npm', 'install', 'puppeteer-core', '--prefix', npm_dir],
-                       capture_output=True, text=True, timeout=300, cwd=HERE)
+    # Windows: npm is npm.CMD — subprocess without shell=True cannot resolve it.
+    # Try npm.cmd first, fall back to shell=True (cmd.exe resolution).
+    npm_cmd = shutil.which('npm') or 'npm'
+    try:
+        r = subprocess.run([npm_cmd, 'install', 'puppeteer-core', '--prefix', npm_dir],
+                           capture_output=True, text=True, timeout=300, cwd=HERE)
+    except OSError:
+        r = subprocess.run(f'"{npm_cmd}" install puppeteer-core --prefix "{npm_dir}"',
+                           capture_output=True, text=True, timeout=300, cwd=HERE, shell=True)
     if r.returncode != 0:
         print('npm install FAILED:', r.stdout[-400:], r.stderr[-400:])
         return False
