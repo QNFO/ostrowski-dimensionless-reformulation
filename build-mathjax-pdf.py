@@ -120,6 +120,44 @@ def find_pandoc():
     return which('pandoc')
 
 
+
+def normalize_tables(md_text):
+    """Collapse blank lines inside pipe-table blocks.
+
+    Root cause (2026-08-02): papers with blank lines between table rows
+    (header -> blank -> separator -> blank -> row -> blank -> row ...) are
+    NOT parsed as tables by pandoc. Pandoc requires contiguous rows; blank
+    lines make it fall back to 'line-block' rendering (literal '| a | b |'
+    text instead of <table>). This also breaks papers.qnfo.org rendering.
+    """
+    lines = md_text.split('\n')
+    out = []
+    i = 0
+    fixed = 0
+    while i < len(lines):
+        line = lines[i]
+        stripped = line.strip()
+        if stripped.startswith('|') and '|' in stripped[1:-1]:
+            block = []
+            j = i
+            while j < len(lines):
+                s = lines[j].strip()
+                if s.startswith('|'):
+                    block.append(lines[j])
+                    j += 1
+                elif s == '' and j + 1 < len(lines) and lines[j + 1].strip().startswith('|'):
+                    j += 1
+                else:
+                    break
+            if len(block) >= 2:
+                out.extend(block)
+                fixed += 1
+                i = j
+                continue
+        out.append(line)
+        i += 1
+    return '\n'.join(out), fixed
+
 def sanitize_source(md_text):
     """Remove control chars and emoji that break math/print rendering."""
     out = []
@@ -132,6 +170,7 @@ def sanitize_source(md_text):
         out.append(ch)
     text = ''.join(out)
     text = text.replace('\u274c', '\u2717')  # ❌ -> ✗
+    text, _ = normalize_tables(text)
     text = text.replace('\u2705', '\u2713')  # ✅ -> ✓
     return text
 

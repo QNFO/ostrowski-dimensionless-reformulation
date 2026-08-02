@@ -115,12 +115,19 @@ We classify 53 fundamental physics equations into seven formula classes based on
 
 | Class | Constants | Count | Example |
 |:------|:----------|:------|:--------|
+
 | A | ℏ only | 8 | Schroedinger equation, Heisenberg uncertainty |
+
 | B | c only | 3 | Horizon scale, Alfven speed |
+
 | C | G only | 4 | Schwarzschild radius, Friedmann equations |
+
 | D | k\_B only | 4 | Boltzmann entropy, ideal gas law |
+
 | E | ε₀/μ₀ only | 1 | Coulomb's law (SI) |
+
 | F | Combinations | 26 | Planck law, Einstein field equations, Hawking temperature |
+
 | G | Already dimensionless | 7 | Fine-structure constant, Reynolds number, Holevo bound |
 
 
@@ -189,12 +196,19 @@ ALL physical quantities are fundamentally RATIOS, not real numbers. The real-num
 
 | Quantity | "Constant" (ℝ-value) | Ratio (Invariant) | Ratio Definition |
 |:---------|:---------------------|:-------------------|:------------------|
+
 | ℏ | 1.054571817 × 10⁻³⁴ J·s | E/ω | Action per angular frequency |
+
 | c | 2.99792458 × 10⁸ m/s | Δx/Δt | Spacetime interval ratio |
+
 | G | 6.67430 × 10⁻¹¹ m³/(kg·s²) | ℓ\_P²/(m\_P t\_P²) | Planck-area per Planck-inertia |
+
 | k\_B | 1.380649 × 10⁻²³ J/K | S/ln Ω | Entropy per information-content |
+
 | π | 3.141592653589793... | C/d | Circumference-to-diameter |
+
 | α | (137.036)⁻¹ | r\_e/λ̄\_C | Classical-to-Compton radius |
+
 | m̃\_e | 4.185 × 10⁻²³ (Planck units) | m\_e/m\_P | Electron-to-Planck mass |
 
 
@@ -297,11 +311,17 @@ Every completion of ℚ corresponds to a distinct physical regime:
 
 | Completion | Characteristic | Tree Valence | Physical Domain | ODR Abbreviation |
 |:-----------|:---------------|:-------------|:----------------|:-----------------|
+
 | ℝ (∞) | Archimedean | Continuous | Standard physics: differential equations, spacetime continuum | C\_∞ |
+
 | ℚ\_2 | p = 2 | 3-valent B-T tree | Quantum binary: spin-1/2, qubits, Majorana zero modes, Zitterbewegung | C\_2 |
+
 | ℚ\_3 | p = 3 | 4-valent B-T tree | Harmonic triads: Standard Model generations (3 families), RG harmonic isomorphism | C\_3 |
+
 | ℚ\_5 | p = 5 | 6-valent B-T tree | 5-smooth numbers: mass-ratio hierarchy, 5-smooth semigroup {2^a·3^b·5^c} | C\_5 |
+
 | ℚ\_p (all p) | p arbitrary | (p+1)-valent tree | Full adelic: simultaneous definition at all places | C\_p |
+
 | 𝔸\_ℚ (adele ring) | Product over all places | Restricted product | Place-democratic physics: ∏'\_p ℚ\_p × ℝ | C\_𝔸 |
 
 
@@ -514,12 +534,19 @@ Given the Compton count $\tilde{\omega}_C$ as fundamental, all other physical qu
 
 | Quantity | Dimensions | Expression in Compton Counts | Is it Fundamental? |
 |:---------|:-----------|:----------------------------|:-------------------|
+
 | **Compton count** $\tilde{\omega}_C$ | $[\tilde{T}^{-1}]$ | $\tilde{m}$ itself | ✓ **YES** — the fundamental count |
+
 | Wavelength | $[\tilde{L}]$ | $\tilde{\lambda}_C = 2\pi / \tilde{\omega}_C$ | ✗ Derivative — inverse count |
+
 | Period | $[\tilde{T}]$ | $\tilde{\tau}_C = 2\pi / \tilde{\omega}_C$ | ✗ Derivative — inverse count |
+
 | Energy | $[\tilde{E}]$ | $\tilde{E} = \tilde{\omega}_C$ | ✗ Derivative — equals the count |
+
 | Mass | $[\tilde{M}]$ | $\tilde{m} = \tilde{\omega}_C$ | ✗ Derivative — IS the count |
+
 | Action | dimensionless | $1/\tilde{\omega}_C$ | ✗ Derivative — reciprocal count |
+
 | Distance (Bohr radius) | $[\tilde{L}]$ | $\tilde{a}_0 = 1/(\alpha \tilde{\omega}_C)$ | ✗ Derivative — count × coupling |
 
 
@@ -1204,13 +1231,21 @@ Table: Comparison of ODR and Feldt REACS-DI (2026) frameworks.
 
 | Dimension | REACS-DI (Feldt 2026) | ODR (this work) |
 |:----------|:----------------------|:----------------|
+
 | Guiding principle | Entropic/recursive architecture | Ostrowski's theorem → place-democracy |
+
 | Mathematical foundation | Entropy-based recursion | Number theory (p-adic completions) |
+
 | Scope | Classical, relativistic, quantum laws | 53 formulas across 10 disciplines |
+
 | Classification | Not reported | A-G taxonomy by constant type |
+
 | Correspondence proof | Not reported | Explicit Buckingham Pi theorem proof |
+
 | Boundary cases | Not reported | 3 categories documented |
+
 | Ostrowski grounding | Not present | Core contribution |
+
 | Complementary to ODR | Yes — different framework, same goal | — |
 
 
@@ -1329,8 +1364,11 @@ The vector of p-adic valuations v(m~i)=(v2,v3,v5,v7,… )v(m~i​)=(v2​,v3�
 
 |Particle|Mass Ratio (≈)|v₂ (approx)|v₃ (approx)|v₅ (approx)|Notes|
 |---|---|---|---|---|---|
+
 |e|4.185×10⁻²³|~-74|~-47|~-33|Large negative valuations|
+
 |μ|8.654×10⁻²¹|~-66|~-42|~-30|Offset by ~log₂(206.7) ≈ 7.7|
+
 |τ|1.475×10⁻¹⁷|~-55|~-35|~-25|Offset by ~log₂(1700) ≈ 10.7|
 
 
@@ -1527,10 +1565,15 @@ where χχ is an additive character and μVμV​ is the Haar measure normal
 
 |Program|Status|Deliverable|Timeline|
 |---|---|---|---|
+
 |I. Mapping Standard Model masses to trees|Ongoing (5-Smooth Audit done)|Valuation vector table + statistical test|6 months|
+
 |II. Exact Rational Simulations|Proof-of-concept needed|Hensel code simulator for harmonic oscillator|6 months|
+
 |III. Hecke Algebra Fixed Points|Theoretical|Diagonalization of lepton mass matrix over ℚ₃|12 months|
+
 |IV. Ultrametric noise signatures|Data re-analysis needed|Statistical test on LIGO/atom interferometry data|12 months|
+
 |V. Adelic path integral rigor|Formalization needed|Full mathematical construction + convergence proof|24 months|
 
 
@@ -2215,10 +2258,15 @@ The complete calibration register — with dated, strength-weighted predictions 
 
 | Program | Prediction | Timeline | Strength |
 |:--------|:-----------|:---------|:---------|
+
 | I. SM Masses | Valuation vectors for all 17 SM particles verified as non-random | 2027 | STRONG |
+
 | II. Hensel Codes | Exact rational harmonic oscillator demonstrates zero energy drift vs. floating-point | 2027 | STRONG |
+
 | III. Hecke Algebra | Lepton mass matrix eigenvalues computed from tree automorphisms | 2028 | WEAK |
+
 | IV. Ultrametric Noise | LIGO/Virgo noise re-analysis detects non-Gaussian ultrametric component | 2028 | WEAK |
+
 | V. Adelic Path Integral | Rigorous measure-theoretic construction with convergence proof | 2030 | WEAK |
 
 
