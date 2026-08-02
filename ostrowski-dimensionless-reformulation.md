@@ -3,8 +3,8 @@ title: "The Ostrowski Dimensionless Reformulation: A Systematic Compilation of F
 author: "Rowan Brad Quni-Gudzinas"
 date: "2026-08-01"
 license: "QNFO Unified License Agreement (QNFO-ULA)"
-doi: "10.5281/zenodo.21751722"
-status: "published"
+doi: "10.5281/zenodo.21752136"
+status: "draft"
 ---
 
 **Author:** Rowan Brad Quni-Gudzinas | **Date:** 2026-08-01 | **License:** QNFO-ULA: https://legal.qnfo.org/
@@ -82,8 +82,6 @@ In contrast, a dimensionless equation containing only pure numbers can be evalua
 **Corollary:** No physical content is lost in the reformulation. The dimensional constants are carriers of unit-scale information, not of physical law. Their specific numerical values reflect the meter-kilogram-second-kelvin convention, not properties of nature.
 
 
-
-
 ### 2.3 The Ratio Primacy Principle
 
 ALL physical quantities are fundamentally RATIOS, not real numbers. The real-number values assigned to physical constants -- ℏ ≈ 1.054571817 × 10⁻³⁴ J·s, c ≈ 2.998 × 10⁸ m/s, G ≈ 6.674 × 10⁻¹¹ m³/(kg·s²), k_B ≈ 1.381 × 10⁻²³ J/K -- are Archimedean projections of ratios that exist independently of any completion.
@@ -140,7 +138,6 @@ is invariant under Möbius transformations and well-defined at every place. The 
 A key insight from the Non-Anthropocentric Natural Units paper (DOI: 10.5281/zenodo.21480756) is that when porting π to non-Archimedean completions, one must define it via the SAME RATIO (circumference/diameter) using local field geometry and boundary Haar measure -- not by analytically extending the real decimal expansion. The same principle applies to ALL physical constants: ℏ is E/ω, c is Δx/Δt, G is the coupling in the Newtonian force law, and k_B is S/ln Ω. These ratios are well-defined at every place. Their real-number values are Archimedean projections.
 
 
-
 ### 2.4 The Completion Lattice and Cross-Formula Bridges
 
 Ostrowski's theorem classifies EVERY completion of ℚ — the Archimedean (∞) and all p-adic (ℚ_p) — but the theorem says nothing about which completions are PHYSICALLY realized. The QNFO Adelic Physics Program hypothesizes that physics operates over ALL completions simultaneously, with the adele ring 𝔸_ℚ = ℝ × ∏'_p ℚ_p as the natural domain `[speculative — see Non-Anthropocentric Natural Units, DOI: 10.5281/zenodo.21480756]`. This section enumerates the completions, maps their physical correspondences, and constructs cross-formula bridges that demonstrate how dimensionless reformulations at one place reveal relationships invisible at another.
@@ -154,7 +151,7 @@ Every completion of ℚ corresponds to a distinct physical regime:
 | ℝ (∞) | Archimedean | Continuous | Standard physics: differential equations, spacetime continuum | C_∞ |
 | ℚ_2 | p = 2 | 3-valent B-T tree | Quantum binary: spin-1/2, qubits, Majorana zero modes, Zitterbewegung | C_2 |
 | ℚ_3 | p = 3 | 4-valent B-T tree | Harmonic triads: Standard Model generations (3 families), RG harmonic isomorphism | C_3 |
-| ℚ_5 | p = 5 | 6-valent B-T tree | 5-smooth numbers: mass-ratio hierarchy, Pythagorean semigroup {2^a·3^b·5^c} | C_5 |
+| ℚ_5 | p = 5 | 6-valent B-T tree | 5-smooth numbers: mass-ratio hierarchy, 5-smooth semigroup {2^a·3^b·5^c} | C_5 |
 | ℚ_p (all p) | p arbitrary | (p+1)-valent tree | Full adelic: simultaneous definition at all places | C_p |
 | 𝔸_ℚ (adele ring) | Product over all places | Restricted product | Place-democratic physics: ∏'_p ℚ_p × ℝ | C_𝔸 |
 
@@ -178,11 +175,11 @@ The Bruhat-Tits tree for GL(2, ℚ_p) is a regular (p+1)-valent tree whose verti
 
 2. **RG flow → Tree descent:** The RG-Harmonic Isomorphism (DOI: 10.5281/zenodo.21486206) connects renormalization group flow to harmonic quantum mechanics. In the 3-adic tree, RG flow toward the IR corresponds to ascending the tree (approaching the canopy), while flow toward the UV descends into the root system — providing a geometric interpretation of asymptotic freedom.
 
-**Bridge C_5: The Smooth-Number Bridge.** The 5-adic completion operationalizes the Pythagorean semigroup {2^a·3^b·5^c} of 5-smooth (Hamming) numbers `[established — standard number theory]`. The Statistical Audit of the 5-Smooth Semigroup Mass-Ratio Claim (DOI: 10.5281/zenodo.21748008) subjects mass-ratio approximations to statistical scrutiny. Cross-formula connections:
+**Bridge C_5: The Smooth-Number Bridge.** The 5-adic completion operationalizes the 5-smooth semigroup {2^a·3^b·5^c} (Hamming numbers) `[established — standard number theory]`. The Statistical Audit of the 5-Smooth Semigroup Mass-Ratio Claim (DOI: 10.5281/zenodo.21748008) subjects mass-ratio approximations to statistical scrutiny. Cross-formula connections:
 
 1. **Mass ratios → 5-smooth approximations:** In C_5, the p-adic valuation v_5(m̃_a/m̃_b) quantifies how many factors of 5 the ratio contains. A mass ratio m̃_μ/m̃_e ≈ 207 approximates 2³·3²·5¹ = 360 (5-smooth) with a C_5 residual valuation — the residual being the 5-adic measure of how far the ratio is from a true 5-smooth number.
 
-2. **Bohr → Compton → 5-smooth:** ã₀/λ̃_C = 1/(2πα) ≈ 21.8. In the Pythagorean semigroup, the nearest 5-smooth number is 2²·5¹ = 20 or 2³·3¹ = 24. The residual from 21.8 → 20 is ~1.8 (or from 21.8 → 24 is ~2.2). The valuation structure of this residual at C_2, C_3, and C_5 encodes the approximation quality.
+2. **Bohr → Compton → 5-smooth:** ã₀/λ̃_C = 1/(2πα) ≈ 21.8. In the 5-smooth semigroup, the nearest 5-smooth number is 2²·5¹ = 20 or 2³·3¹ = 24. The residual from 21.8 → 20 is ~1.8 (or from 21.8 → 24 is ~2.2). The valuation structure of this residual at C_2, C_3, and C_5 encodes the approximation quality.
 
 **Bridge C_𝔸: The Adelic Formulation.** The full adele ring 𝔸_ℚ is the restricted product of all completions: an adele is a tuple (x_∞, x_2, x_3, x_5, ...) where each x_p ∈ ℚ_p and x_p ∈ ℤ_p for all but finitely many p. The ideles 𝔸_ℚ^× (invertible adeles) correspond to dimensionless physical quantities. Cross-formula bridge:
 
@@ -203,8 +200,6 @@ The Ostrowski Dimensionless Mandate (qnfo-core §0.7) requires all physics formu
 **Status of the adelic hypothesis:** The QNFO paper "When Will Non-Archimedean Geometry Displace the Real Numbers? A Structured Assessment of the Adelic Substrate Thesis" (DOI: 10.5281/zenodo.21747228) provides an independent assessment of the adelic substrate thesis — the claim that physics operates on the adeles rather than the reals. Per the Harmonic Paradigm Under Ostrowski's Theorem (DOI: 10.5281/zenodo.21535017), the theorem's applicability to specific physics frameworks (harmonic paradigm, Standard Model) is actively being evaluated. The Adelic Cross-Domain Program (DOI: 10.5281/zenodo.21736300) extends this to the full Standard Model mass spectrum.
 
 **Falsifiability condition:** The adelic extension would be disconfirmed if any dimensionally homogeneous physics formula, when expressed in dimensionless Planck units, takes a functional form that cannot be expressed as a rational function of ratios — i.e., if F(x̃_1, ..., x̃_n) = 0 is not a member of ℚ(x̃_1, ..., x̃_n). Such a formula would be Archimedean-privileging in a sense stronger than mere dimensional convention: its very functional form would require the analytic structure of ℝ. `[not yet falsifiable — all known physics formulas reduce to rational relations of dimensionless ratios]`
-
-
 
 
 ### 2.5 Running Couplings and the Scale-Dependence of Dimensionless Quantities
@@ -235,9 +230,6 @@ with the solution α(Q̃²) = α(0)/(1 − (α(0)/3π) ln(Q̃²/μ̃₀²)).
 **Falsifiability:** This correction would be disconfirmed if any physical observable measured α, sin²θ_W, or G_F to be exactly scale-independent outside experimental uncertainty. The measured running of α between IR and M_Z (7.14%) is direct disconfirming evidence of the "fixed constant" presentation. `[established]`
 
 
-
-
-
 #### 2.5.1 The Breadth Trap: Non-Computable Reals Are Physically Unfalsifiable
 
 A further Archimedean trap, surfaced by the qnfo-core §0.7.1 mandate (v1.4, 2026-08-02), concerns the very constitution of the real numbers used in physics. The Archimedean completion ℝ decomposes into two dimensions with starkly different physical status:
@@ -250,8 +242,6 @@ Per the Continuum Trilogy Paper I (DOI: 10.5281/zenodo.21672990), the physical c
 $$\mathbb{R}_c 	imes \prod_{p \in S} \mathbb{Q}_p^c$$
 
 — breadth is eliminated. Every dimensionless ratio in this paper — every $	ilde{x}_i = x_i/x_i^{(P)}$ — is a computable ratio of computable quantities, hence an element of $\mathbb{R}_c$. The ODR program is thus not merely place-democratic in the p-adic sense; it is also breadth-free in the Archimedean sense: it never depends on a non-computable real. The specific numerical values quoted (1/137.036, 3.14159, etc.) are computable Archimedean projections of computable ratios — never non-computable constants. `[established — Continuum Trilogy Paper I, DOI: 10.5281/zenodo.21672990]`
-
-
 
 
 ### 2.6 The Compton/Zitterbewegung Ontology — Counts as Foundation
@@ -305,7 +295,6 @@ Since Compton counts are rational numbers, they have prime factorizations. The 2
 `[speculative — the Compton-counting ontology is proposed here as a synthesis of prior QNFO work; future experiments discriminating Compton-count-based predictions from continuum-based ones would confirm or disconfirm]`
 
 
-
 ### 2.7 Beyond Trigonometric Coordinates — Cross-Ratios and Bruhat-Tits Trees
 
 Every physics formula that involves trigonometric functions ($\sin$, $\cos$, $\tan$), angular coordinates ($\theta$, $\phi$), or Cartesian axes ($x$, $y$, $z$) makes an implicit assumption: that space is a flat Euclidean manifold described by Archimedean coordinates. In the p-adic completions of ℚ — where the metric is ultrametric ($|x - z|_p \leq \max(|x - y|_p, |y - z|_p)$) and the topology is totally disconnected — trigonometric functions are undefined. They are Archimedean-only constructions, just as base-10 decimals are.
@@ -349,7 +338,6 @@ Trigonometric functions $\sin(\theta)$, $\cos(\theta)$, $\tan(\theta)$ are defin
 - $\pi = 3.14159...$ is a transcendental number — it has no p-adic counterpart (v1.6 red-team finding).
 
 The ODR program thus goes beyond replacing dimensional constants with dimensionless ratios — it replaces **trigonometric coordinates with cross-ratios** and **Cartesian axes with Bruhat-Tits trees**. This is the mathematical formalization of "stripping out all Anthropocentric measurement": the cross-ratio is a measurement of position — at ALL completions simultaneously — without any coordinate system at all.
-
 
 
 ## 3 Systematic Reformulation
@@ -530,7 +518,6 @@ $$\mathcal{I}_{max} = \frac{2\pi \cdot 2\tilde{M} \cdot \tilde{M}}{\ln 2} = \fra
 The black hole is the system that saturates the information bound — its information content is its horizon entropy divided by ln 2 (bits). The Landauer and Margolus–Levitin bounds constrain the computational physics of the same system: each bit erased costs $\tilde{T}\ln 2$ of energy, and each elementary operation takes at least $\pi/(2\tilde{M})$ of Planck time. The dimensionless web shows all four bounds are facets of one underlying information-theoretic constraint structure. `[established — Bekenstein saturation, OC v1.2 DOI: 10.5281/zenodo.21748773]`
 
 
-
 ### 3.9 Cross-Domain, Interdisciplinary Formula Bridges
 
 Beyond the within-discipline systems of §3.8, the dimensionless reformulation enables bridges BETWEEN disciplines — single dimensionless relations that connect formulas from different domains through shared ratios. These bridges are Ostrowski/Tate-compliant by construction: every quantity is a dimensionless ratio, every relation is a rational function of ratios, and every formula is simultaneously well-defined at every completion of ℚ.
@@ -606,7 +593,6 @@ $$\tilde{F} = \frac{\alpha(\tilde{Q}^2)\,\tilde{q}_1\tilde{q}_2}{\tilde{r}^2} - 
 With $\tilde{G} = 1$ in Planck units, the gravitational term reduces to $\tilde{m}_1\tilde{m}_2/\tilde{r}^2$. The single dimensionless force law covers both the electromagnetic and gravitational forces, distinguished only by the coupling α and the charge-to-mass content. This is the Ostrowski/Tate-compliant unification statement: one rational function of dimensionless ratios for both forces. `[established — with v1.7 running-coupling annotation]`
 
 
-
 ## 4 Discussion
 
 ### 4.1 What the Reformulation Does Not Change
@@ -650,7 +636,7 @@ This survey is not exhaustive. It covers 53 fundamental equations but does not i
 
 **Pedagogical precedent:** The external literature provides strong support for the pedagogical value of the dimensionless reformulation. Humpherys (2024), "Understanding the natural units and their hidden role in the laws of physics" (*European Journal of Physics*, 12 citations), and its precursor Humpherys (2021), "Natural Planck units and the structure of matter and radiation" (*Quantum Speculations*, 10 citations), demonstrate that restating physical formulas in natural Planck units reveals structural relationships obscured by dimensional constants. While Humpherys's approach is explicitly pedagogical (the "hidden role" is a teaching insight, not an ontological claim), ODR's Ostrowski rationale provides the mathematical justification for why the pedagogical insight has ontological force: the dimensional form literally cannot be evaluated at non-Archimedean places, making the dimensionless form not merely clearer but uniquely well-defined across all completions of ℚ. `[established]`
 
-Additionally, the dimensionless reformulation does not address the question of whether physical laws ARE place-democratic -- it only makes the formulas compatible with such an interpretation if one chooses to adopt it. The reformulation is a necessary condition for place-democratic physics but not a sufficient one. `[my conjecture]`
+Additionally, the dimensionless reformulation does not address the question of whether physical laws ARE place-democratic -- it only makes the formulas compatible with such an interpretation if one chooses to adopt it. The reformulation is a necessary condition for place-democratic physics but not a sufficient one. `[speculative]`
 
 ## 5 Conclusion
 
