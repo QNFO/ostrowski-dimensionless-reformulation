@@ -1,0 +1,20 @@
+L1136: 
+L1137: 
+L1138: # Appendix B: Calibration Register
+L1139: 
+L1140: The complete calibration register — with dated, strength-weighted predictions and likelihood-anchor provenance — is maintained in the project's artifact repository and updated with each publication cycle. Key entries span the five research programs identified in Section 8:
+L1141: 
+L1142: | Program | Prediction | Timeline | Strength |
+L1143: |:--------|:-----------|:---------|:---------|
+L1144: | I. SM Masses | Valuation vectors for all 17 SM particles verified as non-random | 2027 | STRONG |
+L1145: | II. Hensel Codes | Exact rational harmonic oscillator demonstrates zero energy drift vs. floating-point | 2027 | STRONG |
+L1146: | III. Hecke Algebra | Lepton mass matrix eigenvalues computed from tree automorphisms | 2028 | WEAK |
+L1147: | IV. Ultrametric Noise | LIGO/Virgo noise re-analysis detects non-Gaussian ultrametric component | 2028 | WEAK |
+L1148: | V. Adelic Path Integral | Rigorous measure-theoretic construction with convergence proof | 2030 | WEAK |
+L1149: 
+L1150: See DOI: 10.5281/zenodo.21754102 (v2.0.2) for the historical calibration register entries.
+L1151: 
+L1152: 
+L1153: 
+L1154: ## Declarations
+L1155: 

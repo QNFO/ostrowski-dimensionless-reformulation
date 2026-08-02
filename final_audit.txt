@@ -1,0 +1,99 @@
+=== PREDICTION CLAIMS ===
+L312: `[speculative — the Compton-counting ontology is proposed here as a synthesis of prior QNFO work; future experiments discriminating Compton-count-based predictions from continuum-based ones would confirm or disconfirm]`
+L815: 4. **Experiments can distinguish.** Ultrametric noise is a testable prediction. If it appears, the game changes. If it does not, the framework still serves as a hygiene standard—but the adelic hypothesis is falsified.
+
+=== 'IS' CLAIMS (potential overclaims) ===
+L290: #### 2.6.2 Compton Counts Are Natural Numbers — Physics Is Rational
+L1109: This is the dimensionless Coulomb force between two electrons — the physics is determined entirely by the fine-structure constant $\alpha$ and the dimensionless separation $\tilde{r}$.
+
+=== FINAL SO WHAT (L803-825) ===
+L803: ---
+L804: 
+L805: ## The Final "So What?" (Definitive Version)
+L806: 
+L807: The original ODR paper was a **declaration**. ODR v2.0 is a **blueprint**.
+L808: 
+L809: 1. **Number theory is not optional.** The Standard Model mass ratios are rational. Rationals have prime factorizations. Ignoring this is like ignoring the periodic table in chemistry.
+L810:     
+L811: 2. **Exact computation is superior.** Rounding errors are not "necessary noise"; they are artifacts of a computationally lazy substrate. Hensel codes offer a path to exact physics simulation.
+L812:     
+L813: 3. **The RG flow is a tree walk.** The renormalization group is not a continuous flow in coupling space; it is a discrete walk on the Bruhat-Tits tree. Fixed points correspond to vertices.
+L814:     
+L815: 4. **Experiments can distinguish.** Ultrametric noise is a testable prediction. If it appears, the game changes. If it does not, the framework still serves as a hygiene standard—but the adelic hypothesis is falsified.
+L816:     
+L817: 5. **The mechanism is within reach.** The Hecke algebra on the tree is a finite-dimensional linear algebra problem. Its eigenvalues are the Standard Model masses. Solving this is a well-defined mathematical challenge—not a metaphysical handwave.
+L818:     
+L819: 
+L820: ---
+L821: 
+L822: **Conclusion:** The red-team forced the ODR program to grow up. The refined version is no longer an overreaching manifesto—it is a **research program with five concrete, executable, and falsifiable branches**. The "so what" is that we now know exactly what to do next. The foundation is laid. The work begins.
+L823: 
+L824: 
+L825: 
+
+=== v2.0.2 REFERENCES ===
+L1150: See DOI: 10.5281/zenodo.21754102 (v2.0.2) for the historical calibration register entries.
+
+=== PLACEHOLDER / INCOMPLETE DOIs ===
+L6: doi: "10.5281/zenodo.XXXXXXXXXX"
+
+=== AI DISCLOSURE CONTEXT ===
+L1169: 
+L1170: **Code Availability:** Exact rational arithmetic implementations (Hensel codes) are available at https://github.com/QNFO/ostrowski-dimensionless-reformulation/artifacts.
+L1171: 
+L1172: **Use of Artificial Intelligence:** AI-assisted tools (DeepChat) were used for formula verification, LaTeX formatting, and structured adversarial review (red-team audit). All substantive scientific content was authored by a human researcher.
+L1173: 
+L1174: 
+L1175: 
+L1176: ## References
+---
+
+=== ACKNOWLEDGMENT OF V2.0.2 CORRECTIONS ===
+
+--- L25 ---
+L23: We present the definitive edition of the Ostrowski Dimensionless Reformulation (ODR) — a systematic compilation, dimensionless reformulation, and detailed derivation of 53 fundamental physics equations across ten disciplines. The central claim is refined from the original v2.0 compilation: dimensional formulations of physical laws implicitly privilege the Archimedean completion of the rational numbers, while dimensionless ratios preserve place-democracy under Ostrowski's theorem (1916). 
+L24: 
+L25: This v4.0 edition integrates the full 53-formula compilation with a refined conceptual framework developed through structured adversarial review (v2.3–v3.0 red-team audit). Six core refinements replace prior overclaims with precise, defensible positions. All formulas are systematically reduced to their dimensionless equivalents in Planck units and organized by discipline. In response to the red-team audit, overclaims regarding p-adic ontology, Euclidean π portability, and the adelic path integral are corrected. 
+L26: 
+L27: New in v4.0: Detailed step-by-step derivations of the most important reformulations (Appendix A), expanded cross-domain bridges (B1–B8), a five-program research roadmap, and an updated calibration register. The paper serves as both a reference compendium and a methodological manifesto: it demonstrates that modern physics can be expressed entirely in terms of pure-number ratios, and that this reframing opens concrete computational and theoretical pathways — including exact rational arithmetic via Hensel codes, Bruhat–Tits tree mass spectra, and ultrametric noise signatures in quantum experiments.
+
+--- L602 ---
+L600: $$\tilde{\lambda}_L\,\tilde{\omega}_p = \sqrt{\frac{\tilde{m}}{4\pi\alpha\,\tilde{n}_s}} \times \sqrt{\frac{4\pi\alpha\,\tilde{n}_s}{\tilde{m}}} = 1$$
+L601: 
+L602: The product of London penetration depth and plasma frequency is exactly **unity** in Planck units — the dimensionless form of the SI identity $\lambda_L \omega_p = c$. Two material-dependent quantities (penetration depth depends on superfluid density $\tilde{n}_s$, plasma frequency on both $\tilde{n}_s$ and $\tilde{m}$) multiply to exactly 1, a universal pure number independent of all material parameters. This is the fundamental condensate relation: the London length is the reciprocal of the plasma wavenumber. `[derivation verified — v2.0 refactor red-team correction of the v1.0 inventory's missing 4π]`
+L603: 
+L604: #### 3.9.8 Electro-Gravity Bridge (B8)
+
+=== 'DERIVATION' LANGUAGE ===
+
+=== NUMEROLOGY CHECKS ===
+
+=== PHYSICS IS RATIONAL (L288-315) ===
+L288: The Compton count $\tilde{\omega}_C$ is the ONLY physical quantity that is not a ratio of anything more basic. Every other quantity in the ODR inventory — wavelength, period, energy, mass, action, distance — is a rational function of Compton counts and dimensionless coupling constants (like $\alpha$). This is the **Compton-counting ontology**: physics reduces to counting cycles.
+L289: 
+L290: #### 2.6.2 Compton Counts Are Natural Numbers — Physics Is Rational
+L291: 
+L292: A particle's Compton count $\tilde{\omega}_C = \tilde{m}$ is a NATURAL NUMBER (or more precisely, a rational number — the ratio of the particle's Compton frequency to the Planck frequency). The ratio of two Compton counts is therefore a rational number:
+L293: 
+L294: $$\frac{\tilde{\omega}_{C1}}{\tilde{\omega}_{C2}} = \frac{\tilde{m}_1}{\tilde{m}_2} \in \mathbb{Q}$$
+L295: 
+L296: This is a profound consequence: **all physical quantities, when expressed as ratios of Compton counts, are rational numbers.** The real numbers $\mathbb{R}$ enter physics only through two Archimedean completions:
+L297: 
+L298: 1. **The Planck-scale denominator:** $\tilde{\omega}_C = \omega_C / \omega_P$, where $\omega_P = E_P/\hbar$ is the human-chosen unit. The value $\tilde{\omega}_C$ is computable but its decimal expansion in $\mathbb{R}$ is an Archimedean artifact — it is NOT the ontological object. The ontological object is the RATIO $\omega_C/\omega_P$, which is a rational number (or at worst, a computable real with a rational definition).
+L299: 
+L300: 2. **Transcendental coupling constants:** $\alpha$, $\pi$, and similar numbers appear in physical formulas as limits of computable sequences, but the RATIOS they multiply (e.g., $\tilde{a}_0 / \tilde{\lambda}_C$) are rational functions of Compton counts. Per the v1.6 red-team finding (π ∉ ℚ₂), transcendental constants do not carry p-adic meaning — only the ratios they multiply, which are rational, do.
+L301: 
+L302: The physical number system, at its most fundamental, is **the rational numbers ℚ extended by computable limits** — not the full Archimedean continuum $\mathbb{R}$. The Compton/Zitterbewegung ontology is thus identical to the completed ratio program: every physical quantity is a rational expression of Compton counts, and the real numbers are a convenient Archimedean projection, not the fundamental substrate.
+L303: 
+L304: #### 2.6.3 Prime Factorization and the p-adic Structure of Masses
+L305: 
+L306: Since Compton counts are rational numbers, they have prime factorizations. The 2-adic valuation $v_2(\tilde{\omega}_C)$ counts how many factors of 2 the Compton count contains — which corresponds to the depth of the particle's representation on the 2-adic Bruhat-Tits tree (§2.4, Bridge C₂). Similarly, $v_3(\tilde{\omega}_C)$ and $v_5(\tilde{\omega}_C)$ determine the 3-adic and 5-adic structure. The Compton-counting ontology thus UNIFIES the Ratio Primacy Principle (§2.3), the Completion Lattice (§2.4), and the Breadth Trap (§2.5.1) into a single framework:
+L307: 
+L308: - **Ratio Primacy:** Compton counts are the fundamental numerators; Planck-scale counterparts are the denominators.
+L309: - **Completion Lattice:** The prime factorization of each Compton count determines its representation on each p-adic Bruhat-Tits tree.
+L310: - **Breadth Trap:** The real-number values of Compton counts are Archimedean projections; the ontological object is the rational count itself (or its computable approximation).
+L311: 
+L312: `[speculative — the Compton-counting ontology is proposed here as a synthesis of prior QNFO work; future experiments discriminating Compton-count-based predictions from continuum-based ones would confirm or disconfirm]`
+L313: 
+L314: 
+L315: ### 2.7 Beyond Trigonometric Coordinates — Cross-Ratios and Bruhat-Tits Trees

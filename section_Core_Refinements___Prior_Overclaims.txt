@@ -1,0 +1,40 @@
+L1: ---
+L2: title: "The Ostrowski Dimensionless Reformulation v4.0: A Place-Democratic Foundation for Fundamental Physics — Definitive Edition"
+L3: author: "Rowan Brad Quni-Gudzinas"
+L4: date: "2026-08-02"
+L5: license: "QNFO Unified License Agreement (QNFO-ULA)"
+L6: doi: "10.5281/zenodo.XXXXXXXXXX"
+L7: status: "draft"
+L8: version: "4.0"
+L9: ---
+L10: 
+L11: **Author:** Rowan Brad Quni-Gudzinas | **Date:** 2026-08-02 | **License:** QNFO-ULA: https://legal.qnfo.org/
+L12: 
+L13: ---
+L14: 
+L15: # The Ostrowski Dimensionless Reformulation v4.0
+L16: 
+L17: ## A Place-Democratic Foundation for Fundamental Physics — Definitive Edition
+L18: 
+L19: ---
+L20: 
+L21: ## Abstract
+L22: 
+L23: We present the definitive edition of the Ostrowski Dimensionless Reformulation (ODR) — a systematic compilation, dimensionless reformulation, and detailed derivation of 53 fundamental physics equations across ten disciplines. The central claim is refined from the original v2.0 compilation: dimensional formulations of physical laws implicitly privilege the Archimedean completion of the rational numbers, while dimensionless ratios preserve place-democracy under Ostrowski's theorem (1916). 
+L24: 
+L25: This v4.0 edition integrates the full 53-formula compilation with a refined conceptual framework developed through structured adversarial review (v2.3–v3.0 red-team audit). Six core refinements replace prior overclaims with precise, defensible positions. All formulas are systematically reduced to their dimensionless equivalents in Planck units and organized by discipline. In response to the red-team audit, overclaims regarding p-adic ontology, Euclidean π portability, and the adelic path integral are corrected. 
+L26: 
+L27: New in v4.0: Detailed step-by-step derivations of the most important reformulations (Appendix A), expanded cross-domain bridges (B1–B8), a five-program research roadmap, and an updated calibration register. The paper serves as both a reference compendium and a methodological manifesto: it demonstrates that modern physics can be expressed entirely in terms of pure-number ratios, and that this reframing opens concrete computational and theoretical pathways — including exact rational arithmetic via Hensel codes, Bruhat–Tits tree mass spectra, and ultrametric noise signatures in quantum experiments.
+L28: 
+L29: **Keywords:** Ostrowski theorem, Planck units, dimensional analysis, Buckingham Pi theorem, dimensionless reformulation, place democracy, p-adic completions, 5-smooth semigroup, adele ring, Bruhat–Tits tree, cross-ratio, ratio primacy, running coupling, Tate thesis, Hensel codes, Hecke algebra, ultrametric noise, renormalization group, Standard Model
+L30: 
+L31: ---
+L32: 
+L33: ## 1 Introduction
+L34: 
+L35: ### 1.1 The Ostrowski Dimensionless Mandate
+L36: 
+L37: The Ostrowski Dimensionless Mandate (qnfo-core §0.7, effective 2026-08-01) requires that all physics formulas in QNFO publications be expressed in dimensionless natural numbers using Planck units (ℏ = c = G = k_B = 1). The mandate is grounded in Ostrowski's theorem (1916), which classifies every non-trivial absolute value on ℚ as equivalent either to the standard real absolute value |·|_$\infty$ or to a p-adic absolute value |·|_p for some prime p `[established -- Ostrowski, 1916, Acta Mathematica 41:271-284]`.
+L38: 
+L39: A physical quantity expressed as a real number implicitly selects the Archimedean place among all completions of ℚ. If a formula contains dimensional constants such as ℏ, c, G, or k_B, it assumes the quantities being related have well-defined real-number values. The constants' specific numerical values -- ℏ ≈ 1.054571817 × 10⁻³⁴ J·s, c = 299792458 m/s, G ≈ 6.67430 × 10⁻¹¹ m³/(kg·s²), k_B ≈ 1.380649 × 10⁻²³ J/K -- are defined only in the Archimedean topology. They have no counterpart in a p-adic completion of ℚ. A formula that embeds these constants is therefore Archimedean-privileging: it can be evaluated at |·|_$\infty$ but not at |·|_p.
+L40: 

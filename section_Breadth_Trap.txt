@@ -1,0 +1,23 @@
+L248: 
+L249: 
+L250: #### 2.5.1 The Breadth Trap: Non-Computable Reals Are Physically Unfalsifiable
+L251: 
+L252: A further Archimedean trap, surfaced by the qnfo-core §0.7.1 mandate (v1.4, 2026-08-02), concerns the very constitution of the real numbers used in physics. The Archimedean completion ℝ decomposes into two dimensions with starkly different physical status:
+L253: 
+L254: - **DEPTH:** the Archimedean completion itself — limits, continuity, dynamics. This is physical: it is required for differential equations, Cauchy convergence, and the continuum of spacetime.
+L255: - **BREADTH:** the power-set overhang of ℝ — the non-computable reals. These have NO physical signature. No finite measurement protocol can discriminate two non-computable reals, so any formula whose content depends on a non-computable value is physically unfalsifiable.
+L256: 
+L257: Per the Continuum Trilogy Paper I (DOI: 10.5281/zenodo.21672990), the physical continuum is the **computable** Archimedean continuum crossed with computable p-adic continua:
+L258: 
+L259: $$\mathbb{R}_c 	imes \prod_{p \in S} \mathbb{Q}_p^c$$
+L260: 
+L261: — breadth is eliminated. Every dimensionless ratio in this paper — every $	ilde{x}_i = x_i/x_i^{(P)}$ — is a computable ratio of computable quantities, hence an element of $\mathbb{R}_c$. The ODR program is thus not only place-democratic in the p-adic sense; it is also breadth-free in the Archimedean sense: it never depends on a non-computable real. The specific numerical values quoted (1/137.036, 3.14159, etc.) are computable Archimedean projections of computable ratios — never non-computable constants. `[established — Continuum Trilogy Paper I, DOI: 10.5281/zenodo.21672990]`
+L262: 
+L263: 
+L264: ### 2.6 The Compton/Zitterbewegung Ontology — Counts as Foundation
+L265: 
+L266: If every physical quantity is fundamentally a ratio (§2.3), then relative to WHAT are these ratios taken? The Ratio Primacy Principle identifies the Planck-scale counterparts ($\ell_P$, $t_P$, $m_P$, $E_P$, $T_P$) as the denominators, but these denominators are themselves human-chosen reference scales. A deeper question remains: what is the FUNDAMENTAL quantity — the quantity that is not itself a ratio of anything more basic — upon which all other physical quantities can be constructed as ratios?
+L267: 
+L268: The answer, established by the Mass-Frequency Identity v3.2.0 (DOI: 10.5281/zenodo.21360549) and explored in the Compton Frequency Cross-Ratios on Bruhat-Tits Trees paper (DOI: 10.5281/zenodo.21491767), is the **Compton frequency** — the intrinsic cycle count of a particle's Zitterbewegung oscillation:
+L269: 
+L270: $$\tilde{\omega}_C = \tilde{m}$$

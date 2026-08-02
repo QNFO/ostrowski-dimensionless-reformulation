@@ -1,0 +1,173 @@
+=== REPUTATION AUDIT: KEYWORD ANALYSIS ===
+
+
+--- overclaim (2 matches) ---
+  L25: This v4.0 edition integrates the full 53-formula compilation with a refined conceptual framework developed through structured adversarial review (v2.3–v3.0 red-team audit). Six core refinements replac
+  L678: The refined framework is stable. The overclaims are stripped. The "so what" is now: **If this is just a mathematical hygiene standard, what do we actually do next?**
+
+--- p-adic ontology (45 matches) ---
+  L25: This v4.0 edition integrates the full 53-formula compilation with a refined conceptual framework developed through structured adversarial review (v2.3–v3.0 red-team audit). Six core refinements replac
+  L29: **Keywords:** Ostrowski theorem, Planck units, dimensional analysis, Buckingham Pi theorem, dimensionless reformulation, place democracy, p-adic completions, 5-smooth semigroup, adele ring, Bruhat–Tit
+  L37: The Ostrowski Dimensionless Mandate (qnfo-core §0.7, effective 2026-08-01) requires that all physics formulas in QNFO publications be expressed in dimensionless natural numbers using Planck units (ℏ =
+  L39: A physical quantity expressed as a real number implicitly selects the Archimedean place among all completions of ℚ. If a formula contains dimensional constants such as ℏ, c, G, or k_B, it assumes the 
+  L61: **Bruhat-Tits mass-frequency correspondence:** "The Adelic Cross-Domain Program: From the Fine-Structure Constant to the Standard Model Mass Spectrum via Bruhat-Tits Trees" (DOI: 10.5281/zenodo.217363
+  L83: **Theorem (Ostrowski, 1916):** Every non-trivial absolute value on ℚ is equivalent either to the standard real absolute value |·|_$\infty$ or to a p-adic absolute value |·|_p for some prime p. `[estab
+  L87: A physical formula containing dimensional constants can be evaluated only at |·|_$\infty$. The specific numerical value of ℏ, for instance, is a real number. In a p-adic completion, the real number 1.
+  L91: **The special case of pi:** The paradigmatic dimensionless number -- the circumference-to-diameter ratio -- illustrates the same principle. pi as the real number 3.14159... exists only at the Archimed
+  L124: Per the Scaffolds and Invariants paper (DOI: 10.5281/zenodo.21255344, published 2026-07-08), π is fundamentally a geometric proportion -- the ratio of circumference to diameter -- not a numerical cons
+  L132: As a projective cross-ratio of four collinear points, α is invariant under GL(2, ℝ) transformations -- consistent with its status as a dimensionless constant. The same cross-ratio can be evaluated at 
+  L145: #### 2.3.5 Cross-Ratios in p-adic Physics
+  L147: The Compton Frequency Cross-Ratios on Bruhat-Tits Trees paper (DOI: 10.5281/zenodo.21491767) applies projective cross-ratios to particle masses, evaluating them on the p-adic Bruhat-Tits tree. For a q
+  L151: is invariant under Möbius transformations and well-defined at every place. The p-adic valuation v_p(χ) encodes the p-adic structure of the Standard Model mass spectrum. With the v1.6 red-team fix, the
+  L160: Ostrowski's theorem classifies EVERY completion of ℚ — the Archimedean (∞) and all p-adic (ℚ_p) — but the theorem says nothing about which completions are PHYSICALLY realized. The QNFO Adelic Physics 
+  L175: The Bruhat-Tits tree for GL(2, ℚ_p) is a regular (p+1)-valent tree whose vertices represent ℤ_p-lattices up to scaling `[established — Serre, Trees, 1980]`. In the Adelic Cross-Domain Program (DOI: 10
+
+--- definitive (4 matches) ---
+  L2: title: "The Ostrowski Dimensionless Reformulation v4.0: A Place-Democratic Foundation for Fundamental Physics — Definitive Edition"
+  L17: ## A Place-Democratic Foundation for Fundamental Physics — Definitive Edition
+  L23: We present the definitive edition of the Ostrowski Dimensionless Reformulation (ODR) — a systematic compilation, dimensionless reformulation, and detailed derivation of 53 fundamental physics equation
+  L805: ## The Final "So What?" (Definitive Version)
+
+--- manifesto (2 matches) ---
+  L27: New in v4.0: Detailed step-by-step derivations of the most important reformulations (Appendix A), expanded cross-domain bridges (B1–B8), a five-program research roadmap, and an updated calibration reg
+  L822: **Conclusion:** The red-team forced the ODR program to grow up. The refined version is no longer an overreaching manifesto—it is a **research program with five concrete, executable, and falsifiable br
+
+--- numerolog (1 matches) ---
+  L708: Then the 3-adic valuation of this cross-ratio encodes the "distance" between the generations on the tree. If the valuations match known patterns (e.g., small integers corresponding to tree depth), we 
+
+--- v2.0.2 (1 matches) ---
+  L1150: See DOI: 10.5281/zenodo.21754102 (v2.0.2) for the historical calibration register entries.
+
+--- v2.0 (6 matches) ---
+  L23: We present the definitive edition of the Ostrowski Dimensionless Reformulation (ODR) — a systematic compilation, dimensionless reformulation, and detailed derivation of 53 fundamental physics equation
+  L602: The product of London penetration depth and plasma frequency is exactly **unity** in Planck units — the dimensionless form of the SI identity $\lambda_L \omega_p = c$. Two material-dependent quantitie
+  L680: Here is the **operational roadmap**—the five concrete programs that turn ODR v2.0 from a footnote into a productive research engine.
+  L793: ## Summary: The ODR v2.0 Roadmap
+  L807: The original ODR paper was a **declaration**. ODR v2.0 is a **blueprint**.
+  L1150: See DOI: 10.5281/zenodo.21754102 (v2.0.2) for the historical calibration register entries.
+
+--- red-team (12 matches) ---
+  L25: This v4.0 edition integrates the full 53-formula compilation with a refined conceptual framework developed through structured adversarial review (v2.3–v3.0 red-team audit). Six core refinements replac
+  L122: π = 3.14159... is the Archimedean limit of the ratio C/d -- the circumference divided by the diameter. The ratio C/d is invariant under similarity transformations in Euclidean geometry. The decimal ex
+  L151: is invariant under Möbius transformations and well-defined at every place. The p-adic valuation v_p(χ) encodes the p-adic structure of the Standard Model mass spectrum. With the v1.6 red-team fix, the
+  L185: 2. **Planck scale → Tree depth:** In ℚ_2, the Planck length ℓ_P = 1 sets the unit scale, and the tree extends from depth 0 (the "canopy" — macroscopic physics) downward through increasing depth (the "
+  L224: The Ratio Primacy Principle (v1.4, §2.3) established that physical quantities are ratios, not real numbers. The Completion Lattice (v1.5, §2.4) established that these ratios are place-democratic — def
+  L300: 2. **Transcendental coupling constants:** $\alpha$, $\pi$, and similar numbers appear in physical formulas as limits of computable sequences, but the RATIOS they multiply (e.g., $\tilde{a}_0 / \tilde{
+  L355: - $\pi = 3.14159...$ is a transcendental number — it has no p-adic counterpart (v1.6 red-team finding).
+  L602: The product of London penetration depth and plasma frequency is exactly **unity** in Planck units — the dimensionless form of the SI identity $\lambda_L \omega_p = c$. Two material-dependent quantitie
+  L736: **The red-team's sharpest critique:** "The paper lacks a dynamical mechanism that fixes the valuations."
+  L773: **The red-team's valid critique:** The adelic path integral is ill-defined in the paper.
+  L822: **Conclusion:** The red-team forced the ODR program to grow up. The refined version is no longer an overreaching manifesto—it is a **research program with five concrete, executable, and falsifiable br
+  L1172: **Use of Artificial Intelligence:** AI-assisted tools (DeepChat) were used for formula verification, LaTeX formatting, and structured adversarial review (red-team audit). All substantive scientific co
+
+--- CALIBRATION-CAP (4 matches) ---
+  L27: New in v4.0: Detailed step-by-step derivations of the most important reformulations (Appendix A), expanded cross-domain bridges (B1–B8), a five-program research roadmap, and an updated calibration reg
+  L1138: # Appendix B: Calibration Register
+  L1140: The complete calibration register — with dated, strength-weighted predictions and likelihood-anchor provenance — is maintained in the project's artifact repository and updated with each publication cy
+  L1150: See DOI: 10.5281/zenodo.21754102 (v2.0.2) for the historical calibration register entries.
+
+--- speculative (3 matches) ---
+  L638: The frameworks are complementary rather than competing: REACS-DI provides a physical motivation (entropic necessity) for the dimensionless regime; ODR provides the mathematical proof (Ostrowski's theo
+  L652: This survey is not exhaustive. It covers 53 fundamental equations but does not include every formula in every subfield. Omitted categories include: detailed nuclear structure formulas beyond the semi-
+  L656: Additionally, the dimensionless reformulation does not address the question of whether physical laws ARE place-democratic -- it only makes the formulas compatible with such an interpretation if one ch
+
+--- established (20 matches) ---
+  L47: - **Mass-Frequency Identity v3.2.0** (DOI: 10.5281/zenodo.21360549, 2026-07-14): the identity m = omega emerges directly from setting hbar = c = 1 (since m = E/c^2 and E = hbar omega, so m_tilde = ome
+  L51: - **Non-Anthropocentric Natural Units** (DOI: 10.5281/zenodo.21480756) reformulated the Bekenstein-Hawking entropy bound without anthropocentric units, introducing the dimensionless horizon area and O
+  L53: - **OC Paper v1.2** (DOI: 10.5281/zenodo.21748773) reformulated the Bekenstein bound in dimensionless Planck units: S ≤ 2π k_B R E/(ℏc) $\rightarrow$ I ≤ 2π R E/ln 2. **OC Paper v1.3** (DOI: 10.5281/z
+  L57: **Relationship to the Dimensionless Physics Framework (v1.3.1, DOI: 10.5281/zenodo.21206291, 2026-07-05):** A parallel QNFO project, "Dimensionless Physics: A Unified Framework," addresses the same co
+  L59: **Cross-domain Ostrowski application:** The paper "When Will Non-Archimedean Geometry Displace the Real Numbers? A Structured Assessment of the Adelic Substrate Thesis" (DOI: 10.5281/zenodo.21747228, 
+  L61: **Bruhat-Tits mass-frequency correspondence:** "The Adelic Cross-Domain Program: From the Fine-Structure Constant to the Standard Model Mass Spectrum via Bruhat-Tits Trees" (DOI: 10.5281/zenodo.217363
+  L83: **Theorem (Ostrowski, 1916):** Every non-trivial absolute value on ℚ is equivalent either to the standard real absolute value |·|_$\infty$ or to a p-adic absolute value |·|_p for some prime p. `[estab
+  L247: **Falsifiability:** This correction would be disconfirmed if any physical observable measured α, sin²θ_W, or G_F to be exactly scale-independent outside experimental uncertainty. The measured running 
+  L458: - **Fine-structure constant (RUNNING, v1.7):** α(Q̃²) = e²/(4πε₀ℏc) is a running coupling, not a fixed number. The value ≈ 1/137.036 is the deep-IR (Q̃ → 0) Archimedean projection; at the Z-pole it is
+  L459: - **Weinberg angle (RUNNING, v1.7):** sin²θ_W(Q̃²) ≈ 0.23 at low energy, 0.2312 at M_Z (MS-bar). Already a dimensionless ratio, but scale-dependent — annotate the scale at which it is evaluated (see §
+  L460: - **Holevo bound:** χ = S(ρ) - Σ p_i S(ρ_i). A dimensionless information-theoretic limit. `[established]`
+  L462: **Ostrowski-evaluated harmonic paradigm:** The Harmonic Paradigm Under Ostrowski's Theorem paper (DOI: 10.5281/zenodo.21535017, 2026-07-24) applies Ostrowski's theorem to the Harmonic Paradigm specifi
+  L481: The de Broglie relation supplies the momentum operator content of the Schrödinger equation (via the substitution $\tilde{p} = -i\tilde{\nabla}$ acting on plane waves $e^{i(\tilde{p}\cdot\tilde{x} - \t
+  L548: The ratio $\tilde{a}_0/\tilde{\lambda}_C = 1/(2\pi\alpha)$ is a pure number connecting the atomic scale (Bohr radius) to the particle scale (Compton wavelength). With the v1.7 running-coupling correct
+  L566: For a system of mass $\tilde{M}$, radius $\tilde{R}$, and temperature $\tilde{T}$, the dimensionless forms reveal that all three limits are controlled by the same dimensionless quantities — temperatur
+
+--- claim (7 matches) ---
+  L23: We present the definitive edition of the Ostrowski Dimensionless Reformulation (ODR) — a systematic compilation, dimensionless reformulation, and detailed derivation of 53 fundamental physics equation
+  L47: - **Mass-Frequency Identity v3.2.0** (DOI: 10.5281/zenodo.21360549, 2026-07-14): the identity m = omega emerges directly from setting hbar = c = 1 (since m = E/c^2 and E = hbar omega, so m_tilde = ome
+  L195: **Bridge C_5: The Smooth-Number Bridge.** The 5-adic completion operationalizes the 5-smooth semigroup {2^a·3^b·5^c} (Hamming numbers) `[established — standard number theory]`. The Statistical Audit o
+  L217: **Status of the adelic hypothesis:** The QNFO paper "When Will Non-Archimedean Geometry Displace the Real Numbers? A Structured Assessment of the Adelic Substrate Thesis" (DOI: 10.5281/zenodo.21747228
+  L654: **Pedagogical precedent:** The external literature provides strong support for the pedagogical value of the dimensionless reformulation. Humpherys (2024), "Understanding the natural units and their hi
+  L1134: The systematic application of this procedure to all 53 formulas confirms the central claim: every fundamental physics equation can be expressed as a relation among pure dimensionless numbers, without 
+  L1186: [5] Quni-Gudzinas, R.B. (2026). "Statistical Audit of the 5-Smooth Semigroup Mass-Ratio Claim (ACRP-04)." Zenodo. DOI: 10.5281/zenodo.21754151.
+
+--- ontology (7 matches) ---
+  L25: This v4.0 edition integrates the full 53-formula compilation with a refined conceptual framework developed through structured adversarial review (v2.3–v3.0 red-team audit). Six core refinements replac
+  L264: ### 2.6 The Compton/Zitterbewegung Ontology — Counts as Foundation
+  L288: The Compton count $\tilde{\omega}_C$ is the ONLY physical quantity that is not a ratio of anything more basic. Every other quantity in the ODR inventory — wavelength, period, energy, mass, action, dis
+  L302: The physical number system, at its most fundamental, is **the rational numbers ℚ extended by computable limits** — not the full Archimedean continuum $\mathbb{R}$. The Compton/Zitterbewegung ontology 
+  L306: Since Compton counts are rational numbers, they have prime factorizations. The 2-adic valuation $v_2(\tilde{\omega}_C)$ counts how many factors of 2 the Compton count contains — which corresponds to t
+  L312: `[speculative — the Compton-counting ontology is proposed here as a synthesis of prior QNFO work; future experiments discriminating Compton-count-based predictions from continuum-based ones would conf
+  L726: **Expected result:** For long-term integration (millions of time steps), the Hensel-code simulation maintains exact energy conservation (to machine-precision rational arithmetic), while the floating-p
+
+--- physics IS (15 matches) ---
+  L23: We present the definitive edition of the Ostrowski Dimensionless Reformulation (ODR) — a systematic compilation, dimensionless reformulation, and detailed derivation of 53 fundamental physics equation
+  L37: The Ostrowski Dimensionless Mandate (qnfo-core §0.7, effective 2026-08-01) requires that all physics formulas in QNFO publications be expressed in dimensionless natural numbers using Planck units (ℏ =
+  L143: The ODR is thus not a reformulation in the sense of "rewriting" physics -- it is a RATIO EXTRACTION: removing the Archimedean projections (ℏ, c, G, k_B) to expose the underlying pure-number ratios tha
+  L185: 2. **Planck scale → Tree depth:** In ℚ_2, the Planck length ℓ_P = 1 sets the unit scale, and the tree extends from depth 0 (the "canopy" — macroscopic physics) downward through increasing depth (the "
+  L211: **Definition (Tate-Compliant Formula):** A physics formula F(x_1, ..., x_n) = 0 is Tate-compliant if it is (a) dimensionally homogeneous in Planck units (Ostrowski-compliant), and (b) the algebraic re
+  L217: **Status of the adelic hypothesis:** The QNFO paper "When Will Non-Archimedean Geometry Displace the Real Numbers? A Structured Assessment of the Adelic Substrate Thesis" (DOI: 10.5281/zenodo.21747228
+  L219: **Falsifiability condition:** The adelic extension would be disconfirmed if any dimensionally homogeneous physics formula, when expressed in dimensionless Planck units, takes a functional form that ca
+  L290: #### 2.6.2 Compton Counts Are Natural Numbers — Physics Is Rational
+  L317: Every physics formula that involves trigonometric functions ($\sin$, $\cos$, $\tan$), angular coordinates ($\theta$, $\phi$), or Cartesian axes ($x$, $y$, $z$) makes an implicit assumption: that space
+  L623: An independent external paper by Feldt (2026), "A Recursive Entropic Architecture for Cosmological Structure with Dimensional Invariance (REACS-DI): From Bohr Radius to Galaxy Filament—A Dimensionless
+  L654: **Pedagogical precedent:** The external literature provides strong support for the pedagogical value of the dimensionless reformulation. Humpherys (2024), "Understanding the natural units and their hi
+  L660: We have compiled and reformulated 53 fundamental physics equations across ten disciplines, converting each from its conventional dimensional form (containing ℏ, c, G, k_B, ε₀) to a dimensionless equiv
+  L728: **The bridge to physics:** If we can simulate a lattice QCD gauge field exactly (no floating-point noise), we can compute the hadron spectrum with **controlled error**—the error is purely from the lat
+  L915: **Ostrowski rationale:** In the dimensional form, $h$, $\nu$, $c$, $k_B$, and $T$ all carry specific real-number values tied to the Archimedean place. The dimensionless form expresses the physics enti
+  L1109: This is the dimensionless Coulomb force between two electrons — the physics is determined entirely by the fine-structure constant $\alpha$ and the dimensionless separation $\tilde{r}$.
+
+--- CAN BE (12 matches) ---
+  L27: New in v4.0: Detailed step-by-step derivations of the most important reformulations (Appendix A), expanded cross-domain bridges (B1–B8), a five-program research roadmap, and an updated calibration reg
+  L39: A physical quantity expressed as a real number implicitly selects the Archimedean place among all completions of ℚ. If a formula contains dimensional constants such as ℏ, c, G, or k_B, it assumes the 
+  L87: A physical formula containing dimensional constants can be evaluated only at |·|_$\infty$. The specific numerical value of ℏ, for instance, is a real number. In a p-adic completion, the real number 1.
+  L89: In contrast, a dimensionless equation containing only pure numbers can be evaluated at any place. The equation $\tilde{S}$_BH = A/4 (Bekenstein-Hawking) is a relation among pure numbers: if A is a pur
+  L97: **Proof:** By the Buckingham Pi theorem, any dimensionally homogeneous equation among n physical quantities involving k independent physical dimensions can be rewritten as a relation among n - k dimen
+  L132: As a projective cross-ratio of four collinear points, α is invariant under GL(2, ℝ) transformations -- consistent with its status as a dimensionless constant. The same cross-ratio can be evaluated at 
+  L211: **Definition (Tate-Compliant Formula):** A physics formula F(x_1, ..., x_n) = 0 is Tate-compliant if it is (a) dimensionally homogeneous in Planck units (Ostrowski-compliant), and (b) the algebraic re
+  L266: If every physical quantity is fundamentally a ratio (§2.3), then relative to WHAT are these ratios taken? The Ratio Primacy Principle identifies the Planck-scale counterparts ($\ell_P$, $t_P$, $m_P$, 
+  L345: 4. **Cross-ratios on the tree:** The cross-ratio $\chi$ can be evaluated on any four vertices of the Bruhat-Tits tree, yielding a p-adic valuation. This is the natural "coordinate" for the tree — no n
+  L1014: The fine-structure constant can be expressed as the ratio of two fundamental length scales:
+  L1035: The fine-structure constant can be expressed as an adelic product:
+  L1134: The systematic application of this procedure to all 53 formulas confirms the central claim: every fundamental physics equation can be expressed as a relation among pure dimensionless numbers, without 
+
+--- sigma (1 matches) ---
+  L408: $$\sigma = \frac{2\pi^5 k_B^4}{15 h^3 c^2} \quad\longrightarrow\quad \tilde{\sigma} = \frac{\pi^2}{60}$$
+
+
+=== AI FILLER PATTERN CHECK ===
+
+
+=== CERTAINTY LABEL ANALYSIS ===
+  [speculative] count: 3
+  [established] count: 32
+  [uncertain] count: 0
+  calibration-related: 4
+
+
+=== NUMERICAL PRECISION CHECK ===
+  L39: High-precision numbers: ['1.054571817']
+  L87: High-precision numbers: ['1.054571817']
+  L91: High-precision numbers: ['1.054571817']
+  L104: High-precision numbers: ['1.054571817']
+  L110: High-precision numbers: ['1.054571817']
+  L111: High-precision numbers: ['2.99792458']
+  L114: High-precision numbers: ['3.141592653589793']
+  L124: High-precision numbers: ['3.141592653589793']
+  L410: High-precision numbers: ['5.670374419']
+
+
+=== SIGMA/PERCENTAGE CLAIMS ===
+  L226: Percentage: **The critical distinction:** the Ostrowski/Tate mandate requires dimensionless ratios, but a dimensionless ratio may still be a FUNCTION of scale. α(Q̃²) is dimensionless at every scale — but its num
+  L240: Percentage: - Quantum Hall / Josephson / conductance: Q̃ at the Landau-level scale → IR value (0.01% correction negligible)
+  L247: Percentage: **Falsifiability:** This correction would be disconfirmed if any physical observable measured α, sin²θ_W, or G_F to be exactly scale-independent outside experimental uncertainty. The measured running 
+  L428: Percentage: A black hole's temperature is simply the inverse of its mass (times 1/(8π)) when both are expressed in Planck units. A solar-mass black hole ($\tilde{M}$ ≈ 10³⁸) has $\tilde{T}$_H ≈ 4 × 10⁻⁴¹ -- pract
+
+
+=== AUDIT COMPLETE ===
